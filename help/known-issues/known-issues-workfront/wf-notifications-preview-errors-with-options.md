@@ -2,10 +2,10 @@
 title: "Notificações: Erros ao acessar configurações de notificação por email"
 description: "Quando um usuário tenta alterar as configurações de notificação por email, ele pode ver um erro."
 hidefromtoc: true
-source-git-commit: 7b08d32dbdc06d224a30cde787a05276efc782dd
+source-git-commit: 78d0a040027e22dc14e0a2326f635c5f4c6e1a41
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 8%
+source-wordcount: '101'
+ht-degree: 7%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 8%
 
 >[!NOTE]
 >
->Esse problema existe apenas no ambiente de Visualização.
+>Esse problema existe nos ambientes Produção e Visualização .
 
 Quando um usuário tenta alterar as configurações de notificação por email, ele pode ver um dos seguintes erros:
 

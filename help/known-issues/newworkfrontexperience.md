@@ -3,9 +3,9 @@ title: Problemas conhecidos em novos [!DNL Adobe Workfront] Experiência
 description: Problemas conhecidos relatados para novos [!DNL Adobe Workfront] Experiência
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: e8d9550435882464904beed2acc25f9884fc2bd7
+source-git-commit: 78d0a040027e22dc14e0a2326f635c5f4c6e1a41
 workflow-type: tm+mt
-source-wordcount: '451'
+source-wordcount: '477'
 ht-degree: 1%
 
 ---
@@ -22,6 +22,8 @@ Esta página contém problemas identificados atualmente em [!DNL Adobe Workfront
 
 | **Problema** | **Última modificação** |
 |---|---|
+| [Tarefas: As horas não são salvas ao inserir horas na Tarefa [!UICONTROL Painel Resumo]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 19 de setembro de 2022 |
+| [Provas: O usuário não retorna à página anterior ao fechar a prova](known-issues-workfront/wf-proofs-user-redirected-to-random-page-when-closing-proof.md) | 19 de setembro de 2022 |
 | [Notificações: Erros ao acessar configurações de notificação por email](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | 15 de setembro de 2022 |
 | [Tarefas e problemas: Saída inadvertida ao criar tarefas ou problemas](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md) | 9 de setembro de 2022 |
 | [Relatórios: Problemas ao criar e editar relatórios no [!UICONTROL Construtor de relatórios]](known-issues-workfront/wf-reports-builder-degraded-performance.md) | 6 de setembro de 2022 |
