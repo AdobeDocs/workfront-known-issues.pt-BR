@@ -3,9 +3,9 @@ title: Problemas conhecidos em novos [!DNL Adobe Workfront] Experiência
 description: Problemas conhecidos relatados para novos [!DNL Adobe Workfront] Experiência
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 658f0ace9e6f00c5d621eec62159865983c815a9
+source-git-commit: 797eab330860d68262fda07b8f3dca4183b10272
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '492'
 ht-degree: 1%
 
 ---
@@ -37,6 +37,7 @@ Esta página contém problemas identificados atualmente em [!DNL Adobe Workfront
 
 | **Problema** | **Última modificação** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
+| [Provas: Não é possível abrir a prova em [!DNL Workfront]](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md) | 20 de setembro de 2022 |
 | [Atualizações: Não é possível fechar o cartão de usuário no fluxo de atualização](known-issues-workfront/wf-updates-cant-close-user-card.md) | 20 de setembro de 2022 |
 | [Formulários personalizados: Sobreposição de elementos no painel esquerdo](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | 16 de setembro de 2022 |
 | [Folhas de horas: As horas não são salvas ao usar [!UICONTROL Tabulação] key](known-issues-workfront/wf-timesheets-hours-do-not-save-when-using-tab.md) | 16 de setembro de 2022 |
