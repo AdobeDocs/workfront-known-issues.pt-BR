@@ -2,15 +2,19 @@
 title: "Listas: Novo status não exibido ao editar status em linha"
 description: "Quando um usuário em linha edita o status de um objeto em uma lista, o novo status é exibido por um momento e, em seguida, reverte para o status antigo. Se a lista tiver um filtro e o filtro não se aplicar ao novo status, o objeto continuará a ser exibido na lista, mesmo que não deva. "
 hidefromtoc: true
-source-git-commit: 7f3a23b4097489b62d06fde075db9f9a548b44ac
+source-git-commit: 505e512651cb14559e63b8f6c9509ff3cfc4474f
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
 
 
 # Listas: Novo status não exibido ao editar status em linha
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em 16 de setembro de 2022.
 
 Quando um usuário em linha edita o status de um objeto em uma lista, o novo status é exibido por um momento e, em seguida, reverte para o status antigo. Se a lista tiver um filtro e o filtro não se aplicar ao novo status, o objeto continuará a ser exibido na lista, mesmo que não deva.
 
