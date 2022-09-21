@@ -3,14 +3,14 @@ title: 'Tarefas: Não é possível selecionar Tempo decorrido ao editar em linha
 description: Quando um usuário está visualizando uma lista de tarefas e tenta editar a Duração da tarefa, as unidades de duração decorrido não estão disponíveis.
 exl-id: ce481ab5-2391-4d62-af30-90fb91319206
 hidefromtoc: true
-source-git-commit: 453eef770b0f31990946c746e677fb453d0be94b
+source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 12%
 
 ---
 
-# Tarefas: Não é possível selecionar Tempo decorrido ao editar a duração da tarefa em linha
+# Tarefas: Não é possível selecionar [!UICONTROL Tempo decorrido] ao editar em linha Duração da Tarefa
 
 >[!NOTE]
 >
