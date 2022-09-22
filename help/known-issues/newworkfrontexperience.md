@@ -3,9 +3,9 @@ title: Problemas conhecidos em novos [!DNL Adobe Workfront] Experiência
 description: Problemas conhecidos relatados para novos [!DNL Adobe Workfront] Experiência
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 505e512651cb14559e63b8f6c9509ff3cfc4474f
+source-git-commit: b53c6ea6e0c24581780855d37f4f20cbce41468c
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '473'
 ht-degree: 1%
 
 ---
@@ -38,7 +38,6 @@ Esta página contém problemas identificados atualmente em [!DNL Adobe Workfront
 | **Problema** | **Última modificação** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
 | [Provas: Não é possível abrir a prova em [!DNL Workfront]](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md) | 20 de setembro de 2022 |
-| [Atualizações: Não é possível fechar o cartão de usuário no fluxo de atualização](known-issues-workfront/wf-updates-cant-close-user-card.md) | 20 de setembro de 2022 |
 | [Formulários personalizados: Sobreposição de elementos no painel esquerdo](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | 16 de setembro de 2022 |
 | [Folhas de horas: As horas não são salvas ao usar [!UICONTROL Tabulação] key](known-issues-workfront/wf-timesheets-hours-do-not-save-when-using-tab.md) | 16 de setembro de 2022 |
 | [Provas: [!UICONTROL Estágios de prova ativos] campo está em branco](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 de setembro de 2022 |
