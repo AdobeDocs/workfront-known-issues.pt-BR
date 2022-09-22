@@ -1,9 +1,9 @@
 ---
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos para [!DNL Adobe Workfront]
-source-git-commit: 797eab330860d68262fda07b8f3dca4183b10272
+source-git-commit: d3fb396603c5f2283c74ff6a9dbd6cb5466d7334
 workflow-type: tm+mt
-source-wordcount: '1206'
+source-wordcount: '1200'
 ht-degree: 0%
 
 ---
@@ -112,6 +112,7 @@ ht-degree: 0%
 + [!DNL Workfront Proof] {#proof}
    + [Problemas conhecidos no [!DNL Workfront Proof]](workfrontproof.md)
    + Problemas atuais em [!DNL Workfront Proof] {#proof-current}
+      + [[!DNL Workfront Proof]: Páginas em branco ao visualizar uma prova com várias páginas](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
       + [Provas: Erro ao adicionar prova a [!DNL Workfront] from [!DNL Workfront] Prova](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
       + [[!DNL Workfront Proof]: Erro ao fazer upload de um arquivo para um comentário](known-issues-workfront-proof/proof-error-when-uploading-file-to-comment.md)
       + [[!DNL Workfront Proof]: Visualizações de pasta não exibindo provas](known-issues-workfront-proof/proof-folder-views-not-displaying-proofs.md)
@@ -130,7 +131,6 @@ ht-degree: 0%
       + [Novo estágio criado porque o prazo não pode corresponder ao prazo final do estágio existente](known-issues-workfront-proof/new-stage-created.md)
       + [Prazo de aprovação de prova impreciso exibido na Lista de Trabalho Doméstico](known-issues-workfront-proof/inaccurate-proof-approval-deadline-displayed.md)
       + [Não é possível adicionar usuário à prova marcando o usuário em um comentário](known-issues-workfront-proof/cannot-add-user-to-proof.md)
-      + [Não é possível criar uma nova versão de uma prova](known-issues-workfront-proof/cannot-create-a-new-version-of-a-proof.md)
       + [[!UICONTROL Responder na prova] o comportamento do botão é inconsistente](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md)
       + [O acesso automático às provas é atrasado](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md)
       + [[!UICONTROL Aprovação de prova] o relatório não pode determinar com precisão os prazos](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
@@ -152,7 +152,6 @@ ht-degree: 0%
       + [[!DNL Workfront Fusion] os links de ajuda no aplicativo não levam a páginas de ajuda específicas](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
    + Problemas resolvidos em [!DNL Workfront Fusion] {#fusion-resolved}
       + [Erro 401 em [!DNL Workfront] módulos](known-issues-workfront-fusion/resolved-issues-fusion/401-error-on-workfront-modules.md)
-      + [Não é possível rolar para exibir todas as execuções de cenário](known-issues-workfront-fusion/resolved-issues-fusion/cannot-scroll-to-view-all-scenario-executions.md)
       + [Dados de formulários personalizados não estão disponíveis em [!DNL Workfront Fusion] [!DNL Workfront] módulos](known-issues-workfront-fusion/resolved-issues-fusion/data-from-custom-forms-not-available.md)
 
 + [!UICONTROL Metas da Adobe Workfront] {#goals}
