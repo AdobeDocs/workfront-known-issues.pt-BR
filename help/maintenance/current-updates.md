@@ -2,9 +2,9 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 658f0ace9e6f00c5d621eec62159865983c815a9
+source-git-commit: 4db776a758d437a6f08bb088a5ad8fa11f4d8211
 workflow-type: tm+mt
-source-wordcount: '13341'
+source-wordcount: '13519'
 ht-degree: 3%
 
 ---
@@ -30,6 +30,36 @@ As seguintes atualizações de manutenção foram efetuadas em 2022.
 Para obter atualizações de manutenção anteriores a 2022, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em setembro de 2022
+
++++**Atualização de manutenção em 29 de setembro de 2022**
+
+**O usuário não retorna à página anterior ao fechar a prova**
+
+*Provas*
+
+Quando um usuário que esteja exibindo uma prova em [!DNL Workfront] fecha a prova, não retorna a página em que estava antes de abrir a prova. Em vez disso, elas são redirecionadas para outra página no [!DNL Workfront].
+
+**Não é possível abrir a prova em[!DNL Workfront]**
+
+*Provas*
+
+Quando um usuário exibe um documento em [!DNL Workfront] e tenta abrir a prova, a prova não abre e o usuário é retornado para a [!UICONTROL Detalhes do documento] página.
+
+**As horas não são salvas ao usar [!UICONTROL Tabulação] key**
+
+*Planilhas de horas*
+
+Quando um usuário preenche uma folha de tempo e navega entre células com a variável [!UICONTROL Tabulação] , as horas não são salvas. O [!UICONTROL Salvar automaticamente] A notificação não é exibida na parte inferior da tela e, se o usuário atualizar a página, poderá ver que as horas não foram salvas.
+
+**Páginas em branco ao visualizar uma prova com várias páginas**
+
+*[!DNL Workfront Proof]*
+
+Quando um usuário exibe uma prova com várias páginas, o usuário pode ver miniaturas das páginas, mas as páginas não abrem no visualizador principal.
+
+
+
++++
 
 +++**Atualização de manutenção em 22 de setembro de 2022**
 
@@ -72,6 +102,8 @@ Para refletir a nova funcionalidade de poder atribuir tarefas e problemas em mas
 *[!DNL Workfront Scenario Planner]*
 
 Agora, ao compartilhar um filtro de projeto com um grupo que tem subgrupos adicionais, o filtro fica visível para todos os membros do grupo e do subgrupo que visualizam projetos na [!UICONTROL Importar projetos] caixa de um plano na [!DNL Scenario Planner].
+
++++
 
 +++**Atualização de manutenção em 8 de setembro de 2022**
 
