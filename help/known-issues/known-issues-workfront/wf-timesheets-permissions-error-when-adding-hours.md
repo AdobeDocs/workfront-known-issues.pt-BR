@@ -2,15 +2,19 @@
 title: "Folhas de horas: Erros ao adicionar comentários a uma folha de ponto"
 description: "Quando um usuário tenta adicionar um comentário a uma folha de ponto ao adicionar horas, as horas são salvas, mas o comentário não é. O usuário também vê mensagens de erro."
 hidefromtoc: true
-source-git-commit: 98fa6676b103bd9870d5811fc710d54d0cd54599
+source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 14%
+source-wordcount: '112'
+ht-degree: 13%
 
 ---
 
 
 # Folhas de horas: Erros ao adicionar comentários a uma folha de ponto
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em 29 de setembro de 2022.
 
 Quando um usuário tenta adicionar um comentário a uma folha de ponto ao adicionar horas, as horas são salvas, mas o comentário não é. O usuário também vê as seguintes mensagens de erro:
 

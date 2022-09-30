@@ -2,15 +2,20 @@
 title: "Relatórios: Problemas ao criar e editar relatórios no Construtor de relatórios"
 description: "Vários problemas foram relatados ao criar e editar relatórios no Construtor de relatórios."
 hidefromtoc: true
-source-git-commit: fb377977f4f166a1631eb33be94a88b23d8676a7
+source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
 
 # Relatórios: Problemas ao criar e editar relatórios no Construtor de relatórios
+
+>[!NOTE]
+>
+>Esse problema foi resolvido.
+
 
 Os seguintes problemas foram relatados ao criar e editar relatórios no Construtor de relatórios:
 
