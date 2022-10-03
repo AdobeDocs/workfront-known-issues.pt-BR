@@ -2,9 +2,9 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 4db776a758d437a6f08bb088a5ad8fa11f4d8211
+source-git-commit: a767d13343d0554325ba05c4b817b72c7e2b5727
 workflow-type: tm+mt
-source-wordcount: '13519'
+source-wordcount: '13581'
 ht-degree: 3%
 
 ---
@@ -28,6 +28,18 @@ As seguintes atualizações de manutenção foram efetuadas em 2022.
 -->
 
 Para obter atualizações de manutenção anteriores a 2022, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
+
+## Atualizações em outubro de 2022
+
++++**Atualização de manutenção em 3 de outubro de 2022**
+
+**Salve manualmente a folha de ponto quando as funções de trabalho anteriores forem alteradas**
+
+*Planilhas de horas*
+
+Se uma função de trabalho para a qual você fez o logon tiver sido alterada e a variável [!UICONTROL Atribuir funções de tarefa a entradas de hora manualmente] tiver sido desativada, você deve salvar manualmente as entradas de tempo até que as horas não sejam mais registradas para a função de trabalho que foi alterada.
+
++++
 
 ## Atualizações em setembro de 2022
 
