@@ -3,9 +3,9 @@ title: Problemas conhecidos em novos [!DNL Adobe Workfront] Experiência
 description: Problemas conhecidos relatados para novos [!DNL Adobe Workfront] Experiência
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 9a63be9f1083046f615e620740e2f2e3fc93c1f1
+source-git-commit: 7ce112ec71647b3d7388bc44edd4189b6cd19f10
 workflow-type: tm+mt
-source-wordcount: '457'
+source-wordcount: '468'
 ht-degree: 1%
 
 ---
@@ -36,6 +36,7 @@ Esta página contém problemas identificados atualmente em [!DNL Adobe Workfront
 
 | **Problema** | **Última modificação** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
+| [Equipes: Atribuir várias equipes resulta em somente uma equipe atribuída](known-issues-workfront/wf-teams-multiple-team-assignments.md) | 4 de outubro de 2022 |
 | [Tarefas: As horas não são salvas ao inserir horas na Tarefa [!UICONTROL Painel Resumo]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 30 de setembro de 2022 |
 | [Formulários personalizados: Sobreposição de elementos no painel esquerdo](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | 16 de setembro de 2022 |
 | [Provas: [!UICONTROL Estágios de prova ativos] campo está em branco](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 de setembro de 2022 |

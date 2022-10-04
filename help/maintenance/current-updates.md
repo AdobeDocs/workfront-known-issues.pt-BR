@@ -2,9 +2,9 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: a767d13343d0554325ba05c4b817b72c7e2b5727
+source-git-commit: ee588d19aa1f14e4db2dd4248de151193227d599
 workflow-type: tm+mt
-source-wordcount: '13581'
+source-wordcount: '13746'
 ht-degree: 3%
 
 ---
@@ -30,6 +30,41 @@ As seguintes atualizações de manutenção foram efetuadas em 2022.
 Para obter atualizações de manutenção anteriores a 2022, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em outubro de 2022
+
++++**(Planejado) Atualização de manutenção em 6 de outubro de 2022**
+
+**Sobreposição de elementos no painel esquerdo**
+
+*Formulários personalizados no meu grupo*
+
+Quando um usuário está trabalhando no construtor de formulários e o formulário tem mais de 100 campos, a mensagem notificando o usuário sobre o limite de campo faz com que os elementos no painel esquerdo se sobreponham.
+
+**O seletor de datas abre automaticamente no foco**
+
+*Navegação*
+
+Agora, ao navegar pelo teclado, os seletores de data não são mais abertos e ativados automaticamente ao receber foco do teclado.
+
+&quot;[!UICONTROL Suas alterações recentes não foram salvas]&quot;erro ao salvar automaticamente alterações em uma folha de ponto
+
+*Planilhas de horas*
+
+Quando um usuário tenta editar uma folha de ponto de uma maneira que acionaria um salvamento automático, as alterações não são salvas e o usuário vê a seguinte mensagem:
+
+&quot;[!UICONTROL Suas alterações recentes não foram salvas. Atualize a página para visualização.]&quot;
+
+Isso foi relatado ao editar o seguinte:
+
+* Horas
+* Tarefas
+
+As notificações por email são atrasadas
+
+*Prova do Workfront*
+
+Quando um evento ocorre em [!DNL Workfront Proof] que aciona uma notificação por email, o usuário não recebe a notificação imediatamente. A notificação pode ser adiada por várias horas.
+
++++
 
 +++**Atualização de manutenção em 3 de outubro de 2022**
 
