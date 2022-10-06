@@ -2,9 +2,9 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: ee588d19aa1f14e4db2dd4248de151193227d599
+source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
 workflow-type: tm+mt
-source-wordcount: '13746'
+source-wordcount: '13805'
 ht-degree: 3%
 
 ---
@@ -31,7 +31,7 @@ Para obter atualizações de manutenção anteriores a 2022, consulte [Atualiza�
 
 ## Atualizações em outubro de 2022
 
-+++**(Planejado) Atualização de manutenção em 6 de outubro de 2022**
++++**Atualização de manutenção em 6 de outubro de 2022**
 
 **Sobreposição de elementos no painel esquerdo**
 
@@ -45,7 +45,17 @@ Quando um usuário está trabalhando no construtor de formulários e o formulár
 
 Agora, ao navegar pelo teclado, os seletores de data não são mais abertos e ativados automaticamente ao receber foco do teclado.
 
-&quot;[!UICONTROL Suas alterações recentes não foram salvas]&quot;erro ao salvar automaticamente alterações em uma folha de ponto
+**Atribuir várias equipes resulta em somente uma equipe atribuída**
+
+*Equipes*
+
+>[!NOTE]
+>
+>Esse problema existe apenas no ambiente de Visualização.
+
+Quando um usuário atribui várias equipes a uma tarefa ou problema, somente uma equipe é exibida na lista de atribuições. Esse problema também afeta os relatórios. Os relatórios que mostram atribuições de equipe são imprecisos porque apenas uma equipe aparece como atribuída à tarefa ou ocorrência.
+
+**&quot;[!UICONTROL Suas alterações recentes não foram salvas]&quot;erro ao salvar automaticamente alterações em uma folha de ponto**
 
 *Planilhas de horas*
 
@@ -58,7 +68,7 @@ Isso foi relatado ao editar o seguinte:
 * Horas
 * Tarefas
 
-As notificações por email são atrasadas
+**As notificações por email são atrasadas**
 
 *Prova do Workfront*
 

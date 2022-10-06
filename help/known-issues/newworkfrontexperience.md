@@ -3,9 +3,9 @@ title: Problemas conhecidos em novos [!DNL Adobe Workfront] Experiência
 description: Problemas conhecidos relatados para novos [!DNL Adobe Workfront] Experiência
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 2c801b5adb0b1e2455cf741eb40596550fd33172
+source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
 workflow-type: tm+mt
-source-wordcount: '475'
+source-wordcount: '446'
 ht-degree: 1%
 
 ---
@@ -37,14 +37,12 @@ Esta página contém problemas identificados atualmente em [!DNL Adobe Workfront
 
 | **Problema** | **Última modificação** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
-| [Equipes: Atribuir várias equipes resulta em somente uma equipe atribuída](known-issues-workfront/wf-teams-multiple-team-assignments.md) | 4 de outubro de 2022 |
+| [Provas: Não é possível comparar provas automaticamente](known-issues-workfront/wf-proofs-cannot-auto-compare.md) | 6 de outubro de 2022 |
 | [Tarefas: As horas não são salvas ao inserir horas na Tarefa [!UICONTROL Painel Resumo]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 30 de setembro de 2022 |
-| [Formulários personalizados: Sobreposição de elementos no painel esquerdo](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | 16 de setembro de 2022 |
 | [Provas: [!UICONTROL Estágios de prova ativos] campo está em branco](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 de setembro de 2022 |
 | [Integrações: Erro ao enviar solicitação de [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30 de agosto de 2022 |
 | [[!DNL Workfront Proof]: Os emails do Resumo diário não incluem um &quot;[!UICONTROL Exibir detalhes]Botão &quot;](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md) | 5 de agosto de 2022 |
 | [Painéis: Os gráficos de relatório exibidos em um painel usam cores diferentes das exibidas no relatório](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | 5 de agosto de 2022 |
-| [Folhas de horas: &quot;[!UICONTROL Suas alterações recentes não foram salvas]&quot;erro ao salvar automaticamente alterações em uma folha de ponto](known-issues-workfront/wf-timesheets-recent-changes-not-saved-error.md) | 28 de julho de 2022 |
 | [[!UICONTROL Início]: A terminologia personalizada não é aplicada à área de origem](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md) | 3 de junho de 2022 |
 | [Ágil: Não é possível editar campos a partir de formulários personalizados em cartões](known-issues-workfront/wf-agile-cannot-edit-fields-custom-cards.md) | 11 de maio de 2022 |
 | [Modelos de layout: Não é possível selecionar um grupo ao criar um Modelo de Layout](known-issues-workfront/wf-layout-templ-cannot-select-group.md) | 4 de maio de 2022 |
