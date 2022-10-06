@@ -3,9 +3,9 @@ title: Problemas conhecidos em novos [!DNL Adobe Workfront] Experiência
 description: Problemas conhecidos relatados para novos [!DNL Adobe Workfront] Experiência
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 60ebb7b0b5e9436da8d9f6b1b9c0057c4d5f3e1b
+source-git-commit: 69ecc78407585dff0f7d786265fd7177963edc42
 workflow-type: tm+mt
-source-wordcount: '433'
+source-wordcount: '454'
 ht-degree: 2%
 
 ---
@@ -24,6 +24,8 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Modelos de layout: Erro ao personalizar listas em um modelo de layout](known-issues-workfront/wf-layout-templates-error-lists-users.md) | 6 de outubro de 2022 |
+| [Provas: A caixa de texto &quot;Novos destinatários de prova&quot; é muito pequena](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 6 de outubro de 2022 |
 | [Documentos: &quot;[!UICONTROL Falha ao carregar arquivo]&quot; erro](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 4 de outubro de 2022 |
 | [Notificações: Usuários não notificados quando mencionados ou incluídos em um comentário](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 29 de setembro de 2022 |
 | [Notificações: Erros ao acessar configurações de notificação por email](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | 15 de setembro de 2022 |
