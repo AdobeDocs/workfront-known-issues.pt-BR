@@ -2,7 +2,7 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: fae6d2991f44c333f9db1bd4c437ae3567387a86
+source-git-commit: 6ce6194f9f911b02457240645ce6407ec3eb7e26
 workflow-type: tm+mt
 source-wordcount: '13915'
 ht-degree: 3%
@@ -49,7 +49,7 @@ Quando um usuário está trabalhando no construtor de formulários e o formulár
 
 *Navegação*
 
-Quando um usuário navega pelo teclado, os seletores de data não são mais abertos automaticamente na data de entrada recebendo foco do teclado. Em vez disso, os usuários do teclado devem ir até o ícone do seletor de datas e pressionar Enter para abrir o seletor de datas. Quando um usuário navega pelo mouse, os seletores de data não são mais abertos automaticamente na data de clique na entrada. Em vez disso, os usuários do teclado devem clicar no ícone do seletor de datas para abrir o seletor de datas.
+Quando um usuário navega pelo teclado, os seletores de data não são mais abertos automaticamente na data de entrada recebendo foco do teclado. Em vez disso, os usuários do teclado devem ir até o ícone do seletor de datas e pressionar Enter para abrir o seletor de datas. Quando um usuário navega pelo mouse, os seletores de data não são mais abertos automaticamente na data de clique na entrada. Em vez disso, os usuários do mouse devem clicar no ícone do seletor de datas para abrir o seletor de datas.
 
 Essa alteração foi feita para melhor estar em conformidade com os padrões UX padrão do seletor de datas e para criar uma experiência mais acessível para usuários de teclado e leitor de tela.
 
