@@ -2,9 +2,9 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 38e86575a1c495bc2340899562d68e59cbce7b06
+source-git-commit: fae6d2991f44c333f9db1bd4c437ae3567387a86
 workflow-type: tm+mt
-source-wordcount: '13831'
+source-wordcount: '13915'
 ht-degree: 3%
 
 ---
@@ -45,11 +45,13 @@ O tipo de blueprint &quot;Dashboard&quot; foi adicionado ao catálogo de bluepri
 
 Quando um usuário está trabalhando no construtor de formulários e o formulário tem mais de 100 campos, a mensagem notificando o usuário sobre o limite de campo faz com que os elementos no painel esquerdo se sobreponham.
 
-**O seletor de datas abre automaticamente no foco**
+**O seletor de datas não abre mais automaticamente no foco de entrada ou clique**
 
 *Navegação*
 
-Agora, ao navegar pelo teclado, os seletores de data não são mais abertos e ativados automaticamente ao receber foco do teclado.
+Quando um usuário navega pelo teclado, os seletores de data não são mais abertos automaticamente na data de entrada recebendo foco do teclado. Em vez disso, os usuários do teclado devem ir até o ícone do seletor de datas e pressionar Enter para abrir o seletor de datas. Quando um usuário navega pelo mouse, os seletores de data não são mais abertos automaticamente na data de clique na entrada. Em vez disso, os usuários do teclado devem clicar no ícone do seletor de datas para abrir o seletor de datas.
+
+Essa alteração foi feita para melhor estar em conformidade com os padrões UX padrão do seletor de datas e para criar uma experiência mais acessível para usuários de teclado e leitor de tela.
 
 **Atribuir várias equipes resulta em somente uma equipe atribuída**
 
