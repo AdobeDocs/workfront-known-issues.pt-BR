@@ -3,9 +3,9 @@ title: Problemas conhecidos em novos [!DNL Adobe Workfront] Experiência
 description: Problemas conhecidos relatados para novos [!DNL Adobe Workfront] Experiência
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 69ecc78407585dff0f7d786265fd7177963edc42
+source-git-commit: edbc35c24a135af7f3d32042ccbf2d25ae56033a
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '493'
 ht-degree: 2%
 
 ---
@@ -24,6 +24,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Provas: Adicionar um grupo a uma prova não adiciona todos os membros do grupo](known-issues-workfront/wf-proofs-group-members-not-added.md) | 10 de outubro de 2022 |
 | [Modelos de layout: Erro ao personalizar listas em um modelo de layout](known-issues-workfront/wf-layout-templates-error-lists-users.md) | 6 de outubro de 2022 |
 | [Provas: A caixa de texto &quot;Novos destinatários de prova&quot; é muito pequena](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 6 de outubro de 2022 |
 | [Documentos: &quot;[!UICONTROL Falha ao carregar arquivo]&quot; erro](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 4 de outubro de 2022 |
@@ -39,6 +40,8 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Tarefas: [!UICONTROL Predecessor] ícone ausente do cabeçalho da tarefa](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md) | 10 de outubro de 2022 |
+| [Tarefas e problemas: Não é possível editar o nome ou porcentagem concluída de uma tarefa ou problema](known-issues-workfront/wf-tasks-issues-cannot-edit-name-percent.md) | 10 de outubro de 2022 |
 | [Provas: Não é possível comparar provas automaticamente](known-issues-workfront/wf-proofs-cannot-auto-compare.md) | 6 de outubro de 2022 |
 | [Tarefas: As horas não são salvas ao inserir horas na Tarefa [!UICONTROL Painel Resumo]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 30 de setembro de 2022 |
 | [Integrações: Erro ao enviar solicitação de [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30 de agosto de 2022 |
