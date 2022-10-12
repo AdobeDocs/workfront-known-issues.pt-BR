@@ -2,9 +2,9 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 6ce6194f9f911b02457240645ce6407ec3eb7e26
+source-git-commit: 166754914f4d532ffdb63555270548a676cf63d0
 workflow-type: tm+mt
-source-wordcount: '13915'
+source-wordcount: '14291'
 ht-degree: 3%
 
 ---
@@ -30,6 +30,56 @@ As seguintes atualizações de manutenção foram efetuadas em 2022.
 Para obter atualizações de manutenção anteriores a 2022, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em outubro de 2022
+
++++**(Planejado) Atualização de manutenção em 13 de outubro de 2022**
+
+**Não é possível prender novamente uma página depois que o pino é removido**
+
+*Navegação*
+
+>[!NOTE]
+>
+>Esse problema será corrigido na Visualização em 13 de outubro de 2022. Ele será corrigido em Produção em 27 de outubro de 2022.
+
+Quando um usuário seleciona a opção &quot;[!UICONTROL Remover pino]&quot; em um pino, recebe uma mensagem sobre a remoção e tenta substituir o pino clicando em &quot;[!UICONTROL Desfazer]&quot; na mensagem, o pino não é substituído na navegação superior, nem é adicionado à lista de pinos sob o [!UICONTROL Mais pinos] (o menu de três pontos no [!UICONTROL Pinos] área).
+
+Se um usuário tentar prender novamente a página indo até a página e fixando o pino, o pino não será criado e o usuário não poderá fixar a página.
+
+**Não é possível nomear ou salvar os filtros recém-criados**
+
+*[!UICONTROL Planejamento de recursos]*
+
+Quando um usuário tenta nomear um novo filtro na variável [!UICONTROL Planejador de recursos], a caixa de nome permanece em branco. Além disso, se o usuário pressionou a barra de espaço, a variável [!UICONTROL Salvar] desativa o botão.
+
+**Não é possível editar o nome ou porcentagem concluída de uma tarefa ou problema**
+
+*Tarefas e problemas*
+
+Usuários com [!UICONTROL Contribute] o acesso a uma tarefa ou problema não pode editar o nome da tarefa ou problema no cabeçalho. Além disso, os usuários com [!UICONTROL Contribute] o access não pode editar a porcentagem concluída de uma tarefa ou problema.
+
+**Solicitantes e Revisores contam para a contagem de licenças de uma organização**
+
+*[!DNL Workfront Proof]*
+
+Quando um usuário é adicionado a uma prova como Revisor ou Solicitante, ele obtém um &quot;[!UICONTROL Visitante]&quot; perfil de permissões, que não deve usar um [!DNL Workfront Proof] licença. No entanto, quando o usuário é adicionado, a contagem de [!DNL Workfront Proof] as licenças aumentam.
+
++++
+
+++**Atualização de manutenção em 11 de outubro de 2022
+
+**Não é possível prender novamente uma página depois que o pino é removido**
+
+*Navegação*
+
+>[!NOTE]
+>
+>Esse problema foi corrigido na Visualização em 13 de outubro de 2022. Ele será corrigido em Produção em 27 de outubro de 2022.
+
+Quando um usuário seleciona a opção &quot;[!UICONTROL Remover pino]&quot; em um pino, recebe uma mensagem sobre a remoção e tenta substituir o pino clicando em &quot;[!UICONTROL Desfazer]&quot; na mensagem, o pino não é substituído na navegação superior, nem é adicionado à lista de pinos sob o [!UICONTROL Mais pinos] (o menu de três pontos no [!UICONTROL Pinos] área).
+
+Se um usuário tentar prender novamente a página indo até a página e fixando o pino, o pino não será criado e o usuário não poderá fixar a página.
+
++++
 
 +++**Atualização de manutenção em 6 de outubro de 2022**
 
