@@ -1,9 +1,9 @@
 ---
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos para [!DNL Adobe Workfront]
-source-git-commit: edbc35c24a135af7f3d32042ccbf2d25ae56033a
+source-git-commit: 6a7bd8e83e01199d8b5523caaaa6db76bd9675e1
 workflow-type: tm+mt
-source-wordcount: '1320'
+source-wordcount: '1337'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais em [!DNL Adobe Workfront] {#wf-current}
+      + [Navegação: Não é possível prender novamente uma página depois que o pino é removido](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md)
+      + [Atribuições: Erro ao atribuir uma equipe em massa](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md)
       + [Tarefas: [!UICONTROL Predecessor] ícone ausente do cabeçalho da tarefa](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md)
       + [Provas: Adicionar um grupo a uma prova não adiciona todos os membros do grupo](known-issues-workfront/wf-proofs-group-members-not-added.md)
       + [Tarefas e problemas: Não é possível editar o nome ou porcentagem concluída de uma tarefa ou problema](known-issues-workfront/wf-tasks-issues-cannot-edit-name-percent.md)

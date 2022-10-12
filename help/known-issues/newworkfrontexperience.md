@@ -3,9 +3,9 @@ title: Problemas conhecidos em novos [!DNL Adobe Workfront] Experiência
 description: Problemas conhecidos relatados para novos [!DNL Adobe Workfront] Experiência
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: edbc35c24a135af7f3d32042ccbf2d25ae56033a
+source-git-commit: 6a7bd8e83e01199d8b5523caaaa6db76bd9675e1
 workflow-type: tm+mt
-source-wordcount: '493'
+source-wordcount: '512'
 ht-degree: 2%
 
 ---
@@ -24,6 +24,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Atribuições: Erro ao atribuir uma equipe em massa](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md) | 11 de outubro de 2022 |
 | [Provas: Adicionar um grupo a uma prova não adiciona todos os membros do grupo](known-issues-workfront/wf-proofs-group-members-not-added.md) | 10 de outubro de 2022 |
 | [Modelos de layout: Erro ao personalizar listas em um modelo de layout](known-issues-workfront/wf-layout-templates-error-lists-users.md) | 6 de outubro de 2022 |
 | [Provas: A caixa de texto &quot;Novos destinatários de prova&quot; é muito pequena](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 6 de outubro de 2022 |
@@ -40,6 +41,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Navegação: Não é possível prender novamente uma página depois que o pino é removido](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md) | 11 de outubro de 2022 |
 | [Tarefas: [!UICONTROL Predecessor] ícone ausente do cabeçalho da tarefa](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md) | 10 de outubro de 2022 |
 | [Tarefas e problemas: Não é possível editar o nome ou porcentagem concluída de uma tarefa ou problema](known-issues-workfront/wf-tasks-issues-cannot-edit-name-percent.md) | 10 de outubro de 2022 |
 | [Provas: Não é possível comparar provas automaticamente](known-issues-workfront/wf-proofs-cannot-auto-compare.md) | 6 de outubro de 2022 |
