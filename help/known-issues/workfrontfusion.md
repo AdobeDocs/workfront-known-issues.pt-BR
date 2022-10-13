@@ -3,10 +3,10 @@ title: Problemas conhecidos no [!DNL Adobe Workfront Fusion]
 description: Problemas conhecidos relatados para [!DNL Adobe Workfront Fusion]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 60ebb7b0b5e9436da8d9f6b1b9c0057c4d5f3e1b
+source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 8%
+source-wordcount: '140'
+ht-degree: 9%
 
 ---
 
@@ -35,7 +35,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: &quot;[!UICONTROL Falha ao carregar dados]&quot; erro](known-issues-workfront-fusion/fusion-failed-to-load-data-error.md) | 3 de outubro de 2022 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion] os links de ajuda no aplicativo não levam a páginas de ajuda específicas](known-issues-workfront-fusion/help-links-in-modules-not-working.md) | 2 de agosto de 2022 |
 
 {style=&quot;table-layout:auto&quot;}

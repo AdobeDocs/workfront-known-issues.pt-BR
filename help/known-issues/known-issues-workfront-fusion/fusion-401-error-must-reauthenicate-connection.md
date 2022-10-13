@@ -2,9 +2,9 @@
 title: "[!DNL Workfront Fusion]: Falha ao verificar o erro de conexão"
 description: "As conexões do Workfront Fusion com uma conta Workfront podem falhar na autenticação, fazendo com que os cenários apresentem o seguinte erro: Falha ao verificar a conexão."
 hidefromtoc: true
-source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
+source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ O cenário não pode ser executado até que a conexão seja restaurada.
 
 **Solução alternativa**
 
-A reautorização da conexão pode resolver esse problema temporariamente.
+Crie uma nova conexão e substitua as conexões atuais em seus módulos Workfront pela nova conexão.
 
 _Primeiro reportado em 8 de setembro de 2022._
 

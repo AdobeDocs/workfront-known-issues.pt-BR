@@ -2,15 +2,19 @@
 title: "Folhas de horas: Não é possível inserir horas em Tempo Geral"
 description: "Quando um usuário tenta registrar horas na seção Tempo Geral de sua folha de ponto, não há caixas para ele inserir horas. Se o usuário passar o cursor do mouse sobre a área em que inseriria horas, verá a mensagem Select a job to log hours ."
 hidefromtoc: true
-source-git-commit: 2ae28fe20f42dc04f717c543505486404794fb4e
+source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
 
 
 # Folhas de horas: Não é possível inserir horas em [!UICONTROL Hora Geral]
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em 13 de outubro de 2022.
 
 Quando um usuário tenta fazer o logon por horas no [!UICONTROL Hora Geral] na seção da folha de ponto, não há caixas para elas inserirem horas. Se o usuário passar o cursor do mouse sobre a área em que inseriria horas, verá a mensagem &quot;[!UICONTROL Selecione um cargo para registrar horas.]&quot;
 
