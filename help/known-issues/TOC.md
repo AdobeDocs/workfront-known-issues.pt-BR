@@ -1,9 +1,9 @@
 ---
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos para [!DNL Adobe Workfront]
-source-git-commit: 83c933bad05a9d68ffd33f758ec10486044fdd5c
+source-git-commit: 58b95fb905fc12cc459fbdd021fee3c92536d203
 workflow-type: tm+mt
-source-wordcount: '1354'
+source-wordcount: '1372'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais em [!DNL Adobe Workfront] {#wf-current}
+      + [Ágil: Problemas com tarefas adicionadas a uma iteração](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md)
+      + [Formulários personalizados: Erro &quot;Boops&quot; ao configurar um campo calculado](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
       + [Folhas de horas: Não é possível inserir horas em [!UICONTROL Hora Geral]](known-issues-workfront/wf-timesheets-general-time-disabled.md)
       + [Listas: [!UICONTROL Filtro rápido] não retorna resultados ao pesquisar por equipes](known-issues-workfront/wf-lists-no-results-for-teams-in-quick-filter.md)
       + [Navegação: Não é possível prender novamente uma página depois que o pino é removido](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md)
