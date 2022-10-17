@@ -3,9 +3,9 @@ title: Problemas conhecidos em novos [!DNL Adobe Workfront] Experiência
 description: Problemas conhecidos relatados para novos [!DNL Adobe Workfront] Experiência
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: cdc8a8a6c4dbf6b53a7c8aa0aeae37058f60f5c5
+source-git-commit: f7685aec7811e8741440479d083ef13922b73327
 workflow-type: tm+mt
-source-wordcount: '517'
+source-wordcount: '525'
 ht-degree: 2%
 
 ---
@@ -39,6 +39,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Programas: Problemas ao atribuir um [!UICONTROL Proprietário do Programa]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md) | 17 de outubro de 2022 |
 | [Relatórios: Opção &quot;Mover para&quot; não disponível em relatórios de problemas](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md) | 13 de outubro de 2022 |
 | [Ágil: Problemas com tarefas adicionadas a uma iteração](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md) | 13 de outubro de 2022 |
 | [Formulários personalizados: Erro &quot;Boops&quot; ao configurar um campo calculado](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 13 de outubro de 2022 |
