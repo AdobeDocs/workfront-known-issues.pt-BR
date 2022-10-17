@@ -2,7 +2,7 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
+source-git-commit: b5cb8f1b158fcdacf158a7bee854c82f143ce96f
 workflow-type: tm+mt
 source-wordcount: '14290'
 ht-degree: 3%
@@ -65,7 +65,7 @@ Quando um usuário é adicionado a uma prova como Revisor ou Solicitante, ele ob
 
 +++
 
-++**Atualização de manutenção em 11 de outubro de 2022
++++**Atualização de manutenção em 11 de outubro de 2022**
 
 **Não é possível prender novamente uma página depois que o pino é removido**
 
