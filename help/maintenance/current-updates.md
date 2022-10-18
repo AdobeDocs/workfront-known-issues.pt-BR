@@ -2,9 +2,9 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção para [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: b5cb8f1b158fcdacf158a7bee854c82f143ce96f
+source-git-commit: efb3af8506cf73ac7a5fe7e9f756356fdb298158
 workflow-type: tm+mt
-source-wordcount: '14290'
+source-wordcount: '14458'
 ht-degree: 3%
 
 ---
@@ -30,6 +30,39 @@ As seguintes atualizações de manutenção foram efetuadas em 2022.
 Para obter atualizações de manutenção anteriores a 2022, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em outubro de 2022
+
++++**Atualização de manutenção em 20 de outubro de 2022**
+
+**Erro ao atribuir uma equipe em massa**
+
+*Atribuições*
+
+Quando um usuário edita tarefas ou problemas em massa e atribui uma equipe após atribuir um indivíduo, as atribuições não são salvas e o usuário vê o seguinte erro:
+
+&quot;[!UICONTROL Vamos tentar isso novamente - Ocorreu o seguinte erro: TeamAssignments deve ser uma lista de objetos ou uma lista de IDs]&quot;
+
+**[!UICONTROL Falha ao carregar arquivo]&quot; erro**
+
+*Documentos*
+
+Quando um usuário tenta fazer upload de um arquivo para a variável [!UICONTROL Documentos] , o arquivo não é carregado e o usuário vê o erro &quot;[!UICONTROL Falha ao carregar arquivo].&quot;
+
+Isso foi relatado ao tentar fazer upload de arquivos MP4.
+
+**Contagem de problemas na navegação à esquerda da tarefa está incorreta**
+
+*Problemas*
+
+Quando um usuário está visualizando uma tarefa, o número exibido na [!UICONTROL Problemas] A seção da navegação à esquerda não representa com precisão o número real de problemas anexados à tarefa.
+
+
+**[!UICONTROL Predecessor] ícone ausente do cabeçalho da tarefa**
+
+*Tarefas*
+
+Quando um usuário está visualizando uma tarefa, o ícone do antecessor da tarefa está ausente no cabeçalho.
+
++++
 
 +++**Atualização de manutenção em 13 de outubro de 2022**
 
