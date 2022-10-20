@@ -1,21 +1,21 @@
 ---
-title: '"Atualizações: Minha página de Atualizações está em branco'''
-description: Quando um usuário tenta exibir sua página Minhas atualizações , ela não é carregada. O usuário pode visualizar somente a variável [!DNL Workfront] cabeçalho de navegação.
+title: '“Atualizações: minha página de atualizações está em branco”'
+description: Quando um usuário tenta abrir a página Minhas atualizações, a página não carrega. O usuário pode visualizar somente o [!DNL Workfront] cabeçalho de navegação.
 exl-id: f7f22814-60cd-4e1c-9a97-043110fa4c2d
 hidefromtoc: true
 source-git-commit: 453eef770b0f31990946c746e677fb453d0be94b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '68'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Atualizações: [!UICONTROL Minhas atualizações] página está em branco
+# Atualizações: a página [!UICONTROL Minhas atualizações] está em branco
 
 >[!NOTE]
 >
 >Esse problema foi corrigido em 21 de julho de 2022.
 
-Quando um usuário tenta exibir seus [!UICONTROL Minhas atualizações] a página não é carregada. O usuário pode visualizar somente a variável [!DNL Workfront] cabeçalho de navegação.
+Quando um usuário tenta abrir a página [!UICONTROL Minhas atualizações], a página não carrega. O usuário pode visualizar somente o cabeçalho de navegação [!DNL Workfront].
 
-_Primeiro reportado em 2 de junho de 2022._
+_Reportado pela primeira vez em 2 de junho de 2022._
