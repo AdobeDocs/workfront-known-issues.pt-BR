@@ -1,25 +1,25 @@
 ---
-title: 'Ágil: Não é possível editar campos a partir de formulários personalizados nos cartões'
-description: Quando um campo em um cartão no Quadro Kanban extrai de um formulário personalizado, os usuários não podem editar esse campo diretamente do cartão.
+title: '“Agile: não é possível editar campos a partir de formulários personalizados em cartões”'
+description: Quando um campo em um cartão no Quadro Kanban é extraído de um formulário personalizado, os usuários não podem editar esse campo diretamente do cartão.
 exl-id: 3edad5bb-7deb-45ea-a89c-6587c34bea12
 hidefromtoc: true
 source-git-commit: c452fe0fe206a741dab40d6a121ebf6bace675fe
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '117'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Ágil: Não é possível editar campos a partir de formulários personalizados em cartões
+# Agile: não é possível editar campos a partir de formulários personalizados em cartões
 
 >[!NOTE]
 >
->A equipe de produtos está avaliando essa resolução de problemas no momento, o que pode exigir aprimoramentos de produtos. As melhorias no produto são comunicadas nos Anúncios do produto e não nas Atualizações de manutenção.
+>A equipe do produto está avaliando a resolução do problema, que pode exigir melhorias do produto. As melhorias do produto são comunicadas nos Anúncios do produto e não nas Atualizações de manutenção.
 
-Quando um campo em um cartão no Quadro Kanban extrai de um formulário personalizado, os usuários não podem editar esse campo diretamente do cartão.
+Quando um campo em um cartão no Quadro Kanban é extraído de um formulário personalizado, os usuários não podem editar esse campo diretamente do cartão.
 
 **Solução alternativa**
 
-Abra a tarefa e edite o campo da [!UICONTROL Editar tarefa] janela.
+Abra a tarefa e edite o campo a janela [!UICONTROL Editar tarefa].
 
-_Primeiro reportado em 12 de abril de 2022._
+_Reportado pela primeira vez em 12 de abril de 2022._
