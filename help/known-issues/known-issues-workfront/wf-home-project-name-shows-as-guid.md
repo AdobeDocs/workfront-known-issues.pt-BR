@@ -1,21 +1,21 @@
 ---
-title: "Casa: Nome do projeto é exibido como um GUID na Lista de trabalho"
-description: Quando um usuário é solicitado a aprovar uma prova para a qual ele não tem acesso e sua Lista de trabalho em [!UICONTROL Início] for classificado pelo Nome do projeto, o usuário não poderá ver o nome do projeto e o GUID será exibido.
+title: '“Página inicial: o nome do projeto é exibido como uma GUID na Lista de trabalho”'
+description: Quando um usuário precisa aprovar uma prova para a qual não tem acesso e sua Lista de trabalho na [!UICONTROL Página inicial] está classificada pelo Nome do projeto, o usuário não poderá ver o nome do projeto e a GUID será exibida.
 exl-id: ca75430f-42ea-4239-9756-fd8d4f4aba89
 hidefromtoc: true
 source-git-commit: d122c128b926167a00c7149cb88392b618486876
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '136'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL Início]: [!UICONTROL Nome do projeto] é exibido como um GUID no [!UICONTROL Lista de Trabalho]
+# [!UICONTROL Página inicial]: o [!UICONTROL Nome do projeto] é exibido como uma GUID na [!UICONTROL Lista de trabalho]
 
 >[!NOTE]
 >
->A equipe de produtos está avaliando essa resolução de problemas no momento. Quando esse problema for resolvido, ele será comunicado nos Anúncios do produto e não nas Atualizações de manutenção.
+>A equipe de produtos está avaliando a solução desse problema. Quando esse problema for resolvido, ele será comunicado nos Anúncios do produto e não nas Atualizações de manutenção.
 
-Quando um usuário é solicitado a aprovar uma prova, ele não tem acesso e a sua [!UICONTROL Lista de Trabalho] em [!UICONTROL Início] é classificado por [!UICONTROL Nome do projeto], o usuário não consegue ver o nome do projeto e o GUID é exibido.
+Quando um usuário precisa aprovar uma prova para a qual não tem acesso e sua [!UICONTROL Lista de trabalho] na [!UICONTROL Página inicial] está classificada pelo [!UICONTROL Nome do projeto], o usuário não poderá ver o nome do projeto e a GUID será exibida.
 
-_Primeiro reportado em 5 de janeiro de 2021._
+_Reportado pela primeira vez em 5 de janeiro de 2021._
