@@ -2,15 +2,19 @@
 title: "Atribuições: Erro ao atribuir uma equipe em massa"
 description: "Quando um usuário edita tarefas ou problemas em massa e atribui uma equipe após atribuir um indivíduo, as atribuições não são salvas e o usuário vê um erro."
 hidefromtoc: true
-source-git-commit: f16da861a5138c57722eea15a130e0b50cc167d0
+source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 0%
+source-wordcount: '111'
+ht-degree: 4%
 
 ---
 
 
 # Atribuições: Erro ao atribuir uma equipe em massa
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em 20 de outubro de 2022.
 
 Quando um usuário edita tarefas ou problemas em massa e atribui uma equipe após atribuir um indivíduo, as atribuições não são salvas e o usuário vê o seguinte erro:
 
@@ -20,5 +24,5 @@ Quando um usuário edita tarefas ou problemas em massa e atribui uma equipe apó
 
 Atribua a equipe primeiro, seguida pelos indivíduos.
 
-_Primeiro reportado em 7 de outubro de 2022._
+_Reportado pela primeira vez em 7 de outubro de 2022._
 

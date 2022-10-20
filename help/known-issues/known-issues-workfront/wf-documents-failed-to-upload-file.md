@@ -2,10 +2,10 @@
 title: "Documentos: Falha ao carregar o erro do arquivo"
 description: "Quando um usuário tenta fazer upload de um arquivo para a área Documentos, o arquivo não é carregado e o usuário vê o erro Falha ao fazer upload do arquivo."
 hidefromtoc: true
-source-git-commit: 2c801b5adb0b1e2455cf741eb40596550fd33172
+source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 0%
+source-wordcount: '86'
+ht-degree: 4%
 
 ---
 
@@ -14,9 +14,13 @@ ht-degree: 0%
 
 <!--This issue is on the Workfront TOC and the Workfront Proof TOC-->
 
+>[!NOTE]
+>
+>Esse problema foi corrigido em 20 de outubro de 2022.
+
 Quando um usuário tenta fazer upload de um arquivo para a variável [!UICONTROL Documentos] , o arquivo não é carregado e o usuário vê o erro &quot;[!UICONTROL Falha ao carregar arquivo].&quot;
 
 Isso foi relatado ao tentar fazer upload de arquivos MP4.
 
-_Primeiro reportado em 19 de setembro de 2022._
+_Reportado pela primeira vez em 19 de setembro de 2022._
 
