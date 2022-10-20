@@ -1,24 +1,24 @@
 ---
-title: "Casa: A terminologia personalizada não é aplicada à área de origem"
-description: A área Início exibe nomes padrão para objetos, em vez da terminologia definida pela organização. Isso foi relatado em várias áreas.
+title: '“Página inicial: a terminologia personalizada não é aplicada à área da página inicial”'
+description: A área da página inicial exibe nomes padrão para objetos em vez da terminologia definida pela organização. Esse problema foi relatado em várias áreas.
 exl-id: d15afc61-25f7-4fd8-9f9a-db94ed392082
 hidefromtoc: true
 source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '109'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL Início]: A terminologia personalizada não é aplicada à área de origem
+# [!UICONTROL Página inicial]: a terminologia personalizada não é aplicada à área da página inicial
 
 >[!NOTE]
 >
->A equipe de produtos está avaliando essa resolução de problemas no momento, o que pode exigir aprimoramentos de produtos. As melhorias no produto são comunicadas nos Anúncios do produto e não nas Atualizações de manutenção.
+>A equipe do produto está avaliando a resolução do problema, que pode exigir melhorias do produto. As melhorias do produto são comunicadas nos Anúncios do produto e não nas Atualizações de manutenção.
 
-O [!UICONTROL Início] exibe nomes padrão para objetos, em vez da terminologia definida pela organização. Isso foi relatado nas seguintes áreas:
+A área da [!UICONTROL página inicial] exibe nomes padrão para objetos em vez da terminologia definida pela organização. Esse problema foi relatado nas seguintes áreas:
 
-* O [!UICONTROL Lista de Trabalho] filter
-* O &quot;[!UICONTROL Iniciar] botão (objeto)&quot; na [!UICONTROL Lista de Trabalho]
+* O filtro [!UICONTROL Lista de trabalho]
+* O botão “[!UICONTROL Iniciar] (objeto)” na [!UICONTROL Lista de trabalho]
 
-_Primeiro reportado em 8 de abril de 2022._
+_Reportado pela primeira vez em 8 de abril de 2022._
