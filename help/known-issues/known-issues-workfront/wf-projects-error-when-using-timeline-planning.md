@@ -1,23 +1,23 @@
 ---
-title: Erro de modo de Planejamento de Linha do Tempo ao alterar uma data em um projeto
-description: Quando um usuário tenta alterar uma data em um projeto que tenha o Modo de Plano definido como Salvar Manual &gt; Planejamento de linha do tempo, a data não muda e o usuário vê um erro.
+title: Erro de Modo de planejamento de linha do tempo ao alterar uma data em um projeto
+description: Quando um usuário tenta alterar uma data em um projeto com o Modo de plano definido como Salvar manualmente > Planejamento de linha do tempo, a data não muda e o usuário vê um erro.
 hidefromtoc: true
 exl-id: 26042d27-6ce6-4693-ad34-b42f25cdfbe3
 source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '126'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Projetos: &quot;[!UICONTROL Modo de planejamento de linha do tempo]&quot; ao alterar uma data em um projeto
+# Projetos: erro “[!UICONTROL Modo de planejamento de linha do tempo]” ao alterar uma data em um projeto
 
 >[!NOTE]
 >
 >Esse problema foi corrigido em 25 de agosto de 2022.
 
-Quando um usuário tenta alterar uma data em um projeto que tem a variável [!UICONTROL Modo de Plano] defina como [!UICONTROL Salvar manualmente] > [!UICONTROL Planejamento de linha do tempo], a data não muda e o usuário vê um erro.
+Quando um usuário tenta alterar uma data em um projeto com o [!UICONTROL Modo de plano] definido como [!UICONTROL Salvar manualmente] > [!UICONTROL Planejamento de linha do tempo], a data não muda e o usuário vê um erro.
 
-&quot;[!UICONTROL O modo de Planejamento de Linha do Tempo está disponível somente quando a data da linha do tempo é carregada. Entre em contato [!DNL Workfront] então podemos descobrir o que deu errado e consertá-lo.]&quot;
+“[!UICONTROL O modo de Planejamento de linha do tempo está disponível somente quando a data da linha do tempo é carregada. Entre em contato com o [!DNL Workfront] para que possamos descobrir o que aconteceu e resolver o problema.]”
 
-_Primeiro reportado em 3 de agosto de 2022._
+_Reportado pela primeira vez em 3 de agosto de 2022._
