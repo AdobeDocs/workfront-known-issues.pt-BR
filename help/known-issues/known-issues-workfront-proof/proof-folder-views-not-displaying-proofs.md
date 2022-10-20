@@ -1,16 +1,16 @@
 ---
-title: "Workfront Proof: Visualizações de pasta não exibindo provas"
-description: "Quando um usuário move uma prova para uma pasta, há um atraso indeterminado em que a prova não aparecerá na árvore de pastas."
+title: '“Workfront Proof: as visualizações de pasta não exibem provas”'
+description: “Quando um usuário move uma prova para uma pasta, há um atraso indeterminado em que a prova não aparecerá na árvore de pastas.”
 hidefromtoc: true
 source-git-commit: d122c128b926167a00c7149cb88392b618486876
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '70'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# [!DNL Workfront Proof]: Visualizações de pasta não exibindo provas
+# [!DNL Workfront Proof]: as visualizações de pasta não exibem provas
 
 >[!NOTE]
 >
@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Quando um usuário move uma prova para uma pasta, há um atraso indeterminado em que a prova não aparecerá na árvore de pastas.
 
-_Primeiro reportado em 7 de junho de 2022._
+_Reportado pela primeira vez em 7 de junho de 2022._
