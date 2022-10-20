@@ -1,9 +1,9 @@
 ---
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do [!DNL Adobe Workfront]
-source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
+source-git-commit: 43639b335e2cc9b7c5e9ab96a4ec0642947270f2
 workflow-type: tm+mt
-source-wordcount: '1467'
+source-wordcount: '1454'
 ht-degree: 79%
 
 ---
@@ -165,7 +165,6 @@ ht-degree: 79%
    + Problemas resolvidos no [!DNL Workfront] Proof {#proof-resolved}
       + [[!DNL Workfront Proof]: áreas do  [!DNL Workfront Proof]  não são atualizadas quando uma prova é criada, movida ou arquivada](known-issues-workfront-proof/resolved-issues-proof/proof-areas-not-update-when-proof-moved.md)
       + [Provas: as provas são exibidas como “[!UICONTROL Gerando prova]” por períodos excessivos](known-issues-workfront-proof/resolved-issues-proof/generating-proof-for-excessive-amounts-of-time.md)
-      + [O usuário não consegue se mover para outro estágio de uma prova](known-issues-workfront-proof/resolved-issues-proof/user-cannot-move-self-to-another-stage-of-a-proof.md)
 
 
 + [!DNL Adobe Workfront Fusion] {#fusion}
@@ -183,7 +182,6 @@ ht-degree: 79%
       + [[!DNL Workfront Fusion]: erro 502 quando o cenário inclui um módulo que verifica decisões de prova no Workfront](known-issues-workfront-fusion/fusion-502-error-when-checking-proof-decision.md)
       + [Os links de ajuda no aplicativo do [!DNL Workfront Fusion] não abrem páginas de ajuda específicas](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
    + Problemas resolvidos no [!DNL Workfront Fusion] {#fusion-resolved}
-      + [Erro 401 em módulos do [!DNL Workfront] ](known-issues-workfront-fusion/resolved-issues-fusion/401-error-on-workfront-modules.md)
       + [Dados de formulários personalizados não estão disponíveis em módulos do  [!DNL Workfront Fusion] [!DNL Workfront] ](known-issues-workfront-fusion/resolved-issues-fusion/data-from-custom-forms-not-available.md)
 
 + [!UICONTROL Metas do Adobe Workfront] {#goals}
