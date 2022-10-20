@@ -1,17 +1,17 @@
 ---
-title: '"Atualizações: Nome da equipe que não aparece em @mention'''
-description: Quando um usuário no novo [!DNL Adobe Workfront] A experiência tenta marcar uma equipe em uma atualização e o nome da equipe é de várias palavras (por exemplo, "Nome da equipe"), elas não são notificadas e não aparecem no campo Para. Se o nome da equipe for inserido na variável [!UICONTROL Notificar] , eles são notificados conforme esperado, mas apenas parte do nome é hipervinculada na atualização.
+title: '“Atualizações: o nome da equipe não aparece em @mention”'
+description: Quando um usuário na nova experiência do [!DNL Adobe Workfront] tenta marcar uma equipe em uma atualização e o nome da equipe tem várias palavras (por exemplo, “Nome da equipe”), ela não é notificada e não aparece no campo Para. Se o nome da equipe for inserido no campo [!UICONTROL Notificar], ela não é notificada conforme esperado, apenas parte do nome aparece no hiperlink da atualização.
 exl-id: 3e06e1aa-f98d-45dd-b467-ac30dbfa4ede
 hidefromtoc: true
 source-git-commit: b02ad4aa856642d9b9849a6a8e0d9c94e4748970
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '146'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Atualizações: Nome da equipe que não aparece em @mention
+# Atualizações: o nome da equipe não aparece em @mention
 
-Quando um usuário no novo [!DNL Adobe Workfront] A experiência tenta marcar uma equipe em uma atualização e o nome da equipe é de várias palavras (por exemplo, &quot;Nome da equipe&quot;), elas não são notificadas e não aparecem no campo Para. Se o nome da equipe for inserido na variável [!UICONTROL Notificar] , eles são notificados conforme esperado, mas apenas parte do nome é hipervinculada na atualização.
+Quando um usuário na nova experiência do [!DNL Adobe Workfront] tenta marcar uma equipe em uma atualização e o nome da equipe tem várias palavras (por exemplo, “Nome da equipe”), ela não é identificada e não aparece no campo Para. Se o nome da equipe for inserido no campo [!UICONTROL Notificar], ela não é notificada conforme esperado, apenas parte do nome aparece no hiperlink da atualização.
 
-_Primeiro reportado em 3 de junho de 2021._
+_Reportado pela primeira vez em 3 de junho de 2021._
