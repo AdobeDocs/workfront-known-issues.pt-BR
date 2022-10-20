@@ -1,23 +1,23 @@
 ---
-title: '"Casa: Responder no comportamento do botão Proof é inconsistente'''
-description: Quando um usuário no novo [!DNL Adobe Workfront] a experiência está visualizando uma prova no painel direito em [!UICONTROL Início]e, em seguida, clique em [!UICONTROL Responder na prova] em um comentário, uma caixa de texto é exibida onde pode deixar uma atualização no [!UICONTROL atualizações de documento] em vez de ser direcionado para o Visualizador de prova conforme desejado.
+title: '“Página inicial: o comportamento do botão Responder na prova é inconsistente”'
+description: Quando um usuário na nova experiência do [!DNL Adobe Workfront] visualiza uma prova no painel direito na [!UICONTROL Página inicial], e clica em [!UICONTROL Responder na prova] em um comentário, é exibida uma caixa de texto onde ele pode fazer uma atualização na área [!UICONTROL Atualizações do documento] em vez de ser direcionado ao Visualizador de provas como pretendido.
 exl-id: f9e08d81-135c-4b04-a239-2fb0fcc87ae5
 hidefromtoc: true
 source-git-commit: d122c128b926167a00c7149cb88392b618486876
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '173'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL Início]: [!UICONTROL Responder na prova] o comportamento do botão é inconsistente
+# [!UICONTROL Página inicial]: o comportamento do botão [!UICONTROL Responder na prova] é inconsistente
 
 >[!NOTE]
 >
->A equipe de produtos está avaliando essa resolução de problemas no momento, o que pode exigir aprimoramentos de produtos. As melhorias no produto são comunicadas nos Anúncios do produto e não nas Atualizações de manutenção.
+>A equipe do produto está avaliando a resolução do problema, que pode exigir melhorias do produto. As melhorias do produto são comunicadas nos Anúncios do produto e não nas Atualizações de manutenção.
 
-Quando um usuário no novo [!DNL Adobe Workfront] a experiência está visualizando uma prova no painel direito em [!UICONTROL Início]e, em seguida, clique em [!UICONTROL Responder na prova] em um comentário, uma caixa de texto é exibida onde pode deixar uma atualização no documento [!UICONTROL Atualizações] em vez de ser direcionado para o [!UICONTROL Visualizador de Provas] conforme desejado.
+Quando um usuário na nova experiência do [!DNL Adobe Workfront] visualiza uma prova no painel direito na [!UICONTROL Página inicial], e clica em [!UICONTROL Responder na prova] em um comentário, é exibida uma caixa de texto onde ele pode fazer uma atualização na área [!UICONTROL Atualizações] do documento em vez de ser direcionado ao [!UICONTROL Visualizador de provas] como pretendido.
 
-**Solução alternativa**: Abra a prova em uma nova guia e clique em [!UICONTROL Responder na prova] para abrir o [!UICONTROL Visualizador de prova] do documento [!UICONTROL Atualizações] área.
+**Solução alternativa**: abra a prova em uma nova guia e clique em [!UICONTROL Responder na prova] para abrir o [!UICONTROL Visualizador de provas] na área [!UICONTROL Atualizações] do documento.
 
-Primeiro relatório em 10 de junho de 2021
+Reportado pela primeira vez em 10 de junho de 2021
