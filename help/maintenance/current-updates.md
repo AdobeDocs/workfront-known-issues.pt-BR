@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
+source-git-commit: d95e66921c74e55ea5a8c6e926ed61e2c85174ed
 workflow-type: tm+mt
-source-wordcount: '14458'
-ht-degree: 94%
+source-wordcount: '14607'
+ht-degree: 93%
 
 ---
 
@@ -30,6 +30,28 @@ As seguintes atualizações de manutenção foram efetuadas em 2022.
 Para obter atualizações de manutenção anteriores a 2022, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em outubro de 2022
+
++++**(Planejado) Atualização de manutenção em 27 de outubro de 2022**
+
+**[!UICONTROL HORA] em campos calculados usa UTC**
+
+*Formulários personalizados*
+
+Quando um campo calculado inclui a variável [!UICONTROL HORA] , a função retorna valores com base em UTC em vez do fuso horário esperado. Portanto, qualquer cálculo baseado no valor HOUR está incorreto.
+
+**[!UICONTROL Filtro rápido] não retorna resultados ao pesquisar por equipes**
+
+*Listas*
+
+Quando um usuário tenta usar a variável [!UICONTROL Filtro rápido] em uma lista para procurar uma equipe, inserir o nome da equipe não retornará nenhum resultado, mesmo quando a equipe estiver visível na lista (como em [!UICONTROL Atribuído a] campo ). Procurando a palavra &quot;[!UICONTROL equipe]&quot; também não retorna nenhum resultado.
+
+**Todos os usuários listados em [!UICONTROL Balanceador de Carga de Trabalho] ao usar um link compartilhável em [!DNL Safari] navegador**
+
+*[!UICONTROL Balanceador de carga de trabalho]*
+
+Quando um usuário segue um link compartilhável para a [!UICONTROL Balanceador de Carga de Trabalho] ao usar um [!DNL Safari] No navegador, eles veem todos os usuários em vez de apenas os membros da equipe listados.
+
++++
 
 +++**Atualização de manutenção em 20 de outubro de 2022**
 
