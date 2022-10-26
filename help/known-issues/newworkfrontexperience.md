@@ -3,9 +3,9 @@ title: Problemas conhecidos na nova experiência do  [!DNL Adobe Workfront]
 description: Problemas conhecidos reportados da nova experiência do  [!DNL Adobe Workfront]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: b2994f5f4dfd018d18d3a7f45dae01bb8e9023f6
+source-git-commit: 3a5a53719785b587e8098a4376847cecdf46eee6
 workflow-type: tm+mt
-source-wordcount: '574'
+source-wordcount: '581'
 ht-degree: 60%
 
 ---
@@ -24,6 +24,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Quadros]: [!UICONTROL Tomada] a pesquisa de coluna é ineficaz](known-issues-workfront/wf-boards-search-returns-no-results.md) | 26 de outubro de 2022 |
 | [[!UICONTROL Configuração]: Lista carregar lentamente em [!UICONTROL Configuração]](known-issues-workfront/wf-setup-lists-load-slowly.md) | 24 de outubro de 2022 |
 | [Ágil: As tarefas atribuídas por meio da edição em massa não aparecem no backlog da equipe](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md) | 20 de outubro de 2022 |
 | [Provas: O resumo de impressão não exibe todas as páginas de prova](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 de outubro de 2022 |
