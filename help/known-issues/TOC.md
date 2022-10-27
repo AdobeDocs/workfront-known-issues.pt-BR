@@ -1,9 +1,9 @@
 ---
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do [!DNL Adobe Workfront]
-source-git-commit: 8f04dc85caf0019001913bb4762c924109516a96
+source-git-commit: 9d484f963278ae1e7b5df10379ed2d0c7b9caade
 workflow-type: tm+mt
-source-wordcount: '1513'
+source-wordcount: '1519'
 ht-degree: 75%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 75%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Provas: Geração de prova é extremamente lenta](known-issues-workfront/wf-proofs-slow-proof-generation.md)
       + [Projetos: Problemas de desempenho e mensagem de erro ao criar um projeto a partir de um modelo](known-issues-workfront/wf-issues-when-creating-project-from-template.md)
       + [Solicitações: Não é possível visualizar mais de 100 Tópicos da Fila em uma página](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md)
       + [Problemas: A navegação à esquerda exibe &quot;(0)&quot; problemas quando os problemas estão presentes](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
