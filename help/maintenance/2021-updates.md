@@ -2,8 +2,8 @@
 title: Atualizações de manutenção do Workfront de 2021
 description: Histórico das atualizações de manutenção de 2021 do [!DNL Adobe Workfront]
 exl-id: 57a3636e-fd01-4ee6-bc96-df535b62d4f7
-source-git-commit: 7fa90198186a7b0f392683d432a7da0424943da2
-workflow-type: ht
+source-git-commit: 65b26c28f83d32aa44e23ca5820bb9a8d8267935
+workflow-type: tm+mt
 source-wordcount: '10019'
 ht-degree: 100%
 
@@ -271,13 +271,13 @@ Quando um usuário cria uma nova tarefa usando o botão “[!UICONTROL Nova tare
 
 **Os campos não são exibidos nos cartões de história do Agile**
 
-_Agile_
+_Ágil_
 
 Quando um usuário visualiza um storyboard do Agile, os cartões são exibidos somente nos campos [!UICONTROL Descrição] e [!UICONTROL Status]. Nenhum outro campo, inclusive qualquer campo personalizado, será exibido.
 
 **Os cartões retornam à coluna original antes de passar para a nova coluna**
 
-_Agile_
+_Ágil_
 
 Quando um usuário arrasta um cartão para uma nova coluna no storyboard, ele pode ver o cartão que está sendo arrastado. No entanto, quando o usuário solta o cartão na nova coluna, o cartão aparece brevemente na coluna original antes de ser exibido na nova coluna.
 
@@ -374,13 +374,13 @@ Quando um usuário no [!UICONTROL Balanceador de carga de trabalho] tenta adicio
 
 **O quadro Agile Scrum não exibe histórias**
 
-_Agile_
+_Ágil_
 
 Quando um usuário tenta visualizar o quadro Scrum na iteração de uma equipe, o quadro Scrum é exibido em branco.
 
 **O storyboard Scrum fica em branco ao usar filtros**
 
-_Agile_
+_Ágil_
 
 Quando um usuário tenta exibir um storyboard Scrum usando qualquer filtro, exceto o filtro “[!UICONTROL Todos os grupos]”, uma tela em branco é exibida. O usuário não pode voltar para o filtro “[!UICONTROL Todas as equipes]”.
 
@@ -428,7 +428,7 @@ Quando um usuário na nova experiência do [!DNL Workfront] cria uma solicitaç�
 
 **O storyboard Scrum fica em branco ao usar filtros**
 
-_Agile_
+_Ágil_
 
 Quando um usuário tenta exibir um storyboard Scrum usando qualquer filtro, exceto o filtro “[!UICONTROL Todos os grupos]”, uma tela em branco é exibida. O usuário não pode voltar para o filtro “[!UICONTROL Todas as equipes]”.
 
@@ -715,7 +715,7 @@ Quando um usuário no [!DNL Adobe Workfront Classic] seleciona um problema da [!
 
 **Não é possível personalizar a exibição ágil no projeto**
 
-_Agile_
+_Ágil_
 
 Quando um usuário tenta personalizar uma visualização ágil existente em um projeto, a janela é fechada e o usuário não consegue editá-la.
 
@@ -779,7 +779,7 @@ Quando um usuário cria uma nova prova e tenta alterar as configurações, a con
 
 O **[!UICONTROL Storyboard] não carrega corretamente**
 
-_Agile_
+_Ágil_
 
 Quando um usuário na nova experiência do [!DNL Adobe Workfront] navega para um [!UICONTROL Storyboard], pode levar até 10 segundos para carregar o quadro. O atraso no carregamento é devido ao sistema carregar todas as placas quando ele deve carregar apenas 50 placas de cada vez.
 
@@ -958,7 +958,7 @@ No futuro, essa marca será mostrada em outros tipos de emails do Workfront.
 
 **Não é possível editar uma equipe**
 
-_Agile_
+_Ágil_
 
 Quando um usuário na nova experiência do [!DNL Adobe Workfront] clica em [!UICONTROL Editar] para abrir a Página de equipe do [!DNL Edit] de uma Equipe Ágil, a página é carregada inicialmente, em seguida, as configurações desaparecem e ela fica em branco.
 
@@ -1393,7 +1393,7 @@ Quando um usuário usa um termo da API do [!DNL Workfront] para selecionar uma c
 
 **As configurações do modelo de projeto agora se aplicam aos projetos criados por meio do [!DNL Workfront Fusion] 2.0**
 
-_[!DNL Workfront Fusion]2.0_
+_[!DNL Workfront Fusion]2,0_
 
 Ao criar um projeto a partir de um modelo usando o [!DNL Workfront Fusion] 2.0, as configurações do modelo são aplicadas ao novo projeto. Esse comportamento é o mesmo ao criar um projeto a partir de um modelo no aplicativo [!DNL Workfront].
 
