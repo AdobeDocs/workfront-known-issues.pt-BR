@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: c2fd207043d8d813dbea4695198b49a4cda5fbc2
 workflow-type: tm+mt
 source-wordcount: '14718'
-ht-degree: 92%
+ht-degree: 99%
 
 ---
 
@@ -43,19 +43,19 @@ Quando um campo calculado inclui a variável [!UICONTROL HORA] , a função reto
 
 *Listas*
 
-Quando um usuário tenta usar a variável [!UICONTROL Filtro rápido] em uma lista para procurar uma equipe, inserir o nome da equipe não retornará nenhum resultado, mesmo quando a equipe estiver visível na lista (como em [!UICONTROL Atribuído a] campo ). Procurando a palavra &quot;[!UICONTROL equipe]&quot; também não retorna nenhum resultado.
+Quando um usuário tenta usar o [!UICONTROL Filtro rápido] em uma lista para procurar uma equipe, inserir o nome da equipe não retorna resultados, mesmo quando a equipe está visível na lista (como no campo [!UICONTROL Atribuído a]). Pesquisar a palavra “[!UICONTROL equipe]” também não retorna nenhum resultado.
 
-**Não é possível prender novamente uma página depois que o pino é removido**
+**Não é possível fixar novamente uma página após a remoção do pino**
 
 *Navegação*
 
 >[!NOTE]
 >
->Esse problema foi corrigido na Visualização em 13 de outubro de 2022. Foi corrigido em Produção em 27 de outubro de 2022.
+>Esse problema foi corrigido na Pré-visualização em 13 de outubro de 2022. Foi corrigido em Produção em 27 de outubro de 2022.
 
-Quando um usuário seleciona a opção &quot;[!UICONTROL Remover pino]&quot; em um pino, recebe uma mensagem sobre a remoção e tenta substituir o pino clicando em &quot;[!UICONTROL Desfazer]&quot; na mensagem, o pino não é substituído na navegação superior, nem é adicionado à lista de pinos sob o [!UICONTROL Mais pinos] (o menu de três pontos no [!UICONTROL Pinos] área).
+Ao selecionar a opção “[!UICONTROL Remover pino]” em um pino, o usuário recebe uma mensagem sobre a remoção e tenta substituir o pino clicando em “[!UICONTROL Desfazer]” na mensagem. O pino não é substituído na navegação superior, nem é adicionado à lista de pinos na lista [!UICONTROL Mais pinos] (o menu de três pontos na área [!UICONTROL Pinos]).
 
-Se um usuário tentar prender novamente a página indo até a página e fixando o pino, o pino não será criado e o usuário não poderá fixar a página.
+Se um usuário tentar fixar novamente a página indo até a página e fixando o pino, o pino não será criado e o usuário não poderá fixar a página.
 
 **Todos os usuários listados em [!UICONTROL Balanceador de Carga de Trabalho] ao usar um link compartilhável em [!DNL Safari] navegador**
 
@@ -73,56 +73,56 @@ Quando um usuário segue um link compartilhável para a [!UICONTROL Balanceador 
 
 Quando um usuário edita tarefas ou problemas em massa e atribui uma equipe após atribuir um indivíduo, as atribuições não são salvas e o usuário vê o seguinte erro:
 
-&quot;[!UICONTROL Vamos tentar isso novamente - Ocorreu o seguinte erro: TeamAssignments deve ser uma lista de objetos ou uma lista de IDs]&quot;
+“[!UICONTROL Vamos tentar novamente. Ocorreu o seguinte erro: teamAssignments deve ser uma lista de objetos ou uma lista de IDs]”
 
 **&quot;[!UICONTROL Falha ao carregar arquivo]&quot; erro**
 
 *Documentos*
 
-Quando um usuário tenta fazer upload de um arquivo para a variável [!UICONTROL Documentos] , o arquivo não é carregado e o usuário vê o erro &quot;[!UICONTROL Falha ao carregar arquivo].&quot;
+Quando um usuário tenta fazer upload de um arquivo para a área [!UICONTROL Documentos], o arquivo não é carregado e o usuário vê o erro “[!UICONTROL Falha ao fazer upload do arquivo].”
 
-Isso foi relatado ao tentar fazer upload de arquivos MP4.
+Esse problema foi relatado ao tentar fazer upload de arquivos MP4.
 
-**Contagem de problemas na navegação à esquerda da tarefa está incorreta**
+**A contagem de problemas na navegação à esquerda da tarefa está incorreta**
 
 *Problemas*
 
-Quando um usuário está visualizando uma tarefa, o número exibido na [!UICONTROL Problemas] A seção da navegação à esquerda não representa com precisão o número real de problemas anexados à tarefa.
+Quando um usuário está visualizando uma tarefa, o número exibido na seção [!UICONTROL Problemas] da navegação à esquerda não representa precisamente o número real de problemas anexados à tarefa.
 
 
-**[!UICONTROL Predecessor] ícone ausente do cabeçalho da tarefa**
+O ícone **[!UICONTROL Predecessor] não aparece no cabeçalho da tarefa**
 
 *Tarefas*
 
-Quando um usuário está visualizando uma tarefa, o ícone do antecessor da tarefa está ausente no cabeçalho.
+Quando um usuário está visualizando uma tarefa, o ícone predecessor da tarefa não aparece no cabeçalho.
 
 +++
 
 +++**Atualização de manutenção em 13 de outubro de 2022**
 
-**Não é possível prender novamente uma página depois que o pino é removido**
+**Não é possível fixar novamente uma página após a remoção do pino**
 
 *Navegação*
 
 >[!NOTE]
 >
->Esse problema será corrigido na Visualização em 13 de outubro de 2022. Ele será corrigido em Produção em 27 de outubro de 2022.
+>Esse problema será corrigido na Pré-visualização em 13 de outubro de 2022. Ele será corrigido na Produção em 27 de outubro de 2022.
 
-Quando um usuário seleciona a opção &quot;[!UICONTROL Remover pino]&quot; em um pino, recebe uma mensagem sobre a remoção e tenta substituir o pino clicando em &quot;[!UICONTROL Desfazer]&quot; na mensagem, o pino não é substituído na navegação superior, nem é adicionado à lista de pinos sob o [!UICONTROL Mais pinos] (o menu de três pontos no [!UICONTROL Pinos] área).
+Ao selecionar a opção “[!UICONTROL Remover pino]” em um pino, o usuário recebe uma mensagem sobre a remoção e tenta substituir o pino clicando em “[!UICONTROL Desfazer]” na mensagem. O pino não é substituído na navegação superior, nem é adicionado à lista de pinos na lista [!UICONTROL Mais pinos] (o menu de três pontos na área [!UICONTROL Pinos]).
 
-Se um usuário tentar prender novamente a página indo até a página e fixando o pino, o pino não será criado e o usuário não poderá fixar a página.
+Se um usuário tentar fixar novamente a página indo até a página e fixando o pino, o pino não será criado e o usuário não poderá fixar a página.
 
 **Não é possível nomear ou salvar os filtros recém-criados**
 
 *[!UICONTROL Planejamento de recursos]*
 
-Quando um usuário tenta nomear um novo filtro na variável [!UICONTROL Planejador de recursos], a caixa de nome permanece em branco. Além disso, se o usuário pressionou a barra de espaço, a variável [!UICONTROL Salvar] desativa o botão.
+Quandos um usuário tenta nomear um novo filtro no [!UICONTROL Planejador de recursos], a caixa de nome permanece em branco. Além disso, se o usuário pressionar a barra de espaço, o botão [!UICONTROL Salvar] ficará desativado.
 
 **Não é possível editar o nome ou porcentagem concluída de uma tarefa ou problema**
 
 *Tarefas e problemas*
 
-Usuários com [!UICONTROL Contribute] o acesso a uma tarefa ou problema não pode editar o nome da tarefa ou problema no cabeçalho. Além disso, os usuários com [!UICONTROL Contribute] o access não pode editar a porcentagem concluída de uma tarefa ou problema.
+Usuários com acesso ao [!UICONTROL Contribute] a uma tarefa ou problema não pode editar o nome da tarefa ou problema no cabeçalho. Além disso, os usuários com acesso ao [!UICONTROL Contribute] não pode editar o percentual concluído de uma tarefa ou problema.
 
 **Solicitantes e Revisores entram na contagem de licenças de uma organização**
 
@@ -134,17 +134,17 @@ Quando adicionado a uma prova como Revisor ou Solicitante, o usuário obtém um 
 
 +++**Atualização de manutenção em 11 de outubro de 2022**
 
-**Não é possível prender novamente uma página depois que o pino é removido**
+**Não é possível fixar novamente uma página após a remoção do pino**
 
 *Navegação*
 
 >[!NOTE]
 >
->Esse problema foi corrigido na Visualização em 13 de outubro de 2022. Ele será corrigido em Produção em 27 de outubro de 2022.
+>Esse problema foi corrigido na Pré-visualização em 13 de outubro de 2022. Ele será corrigido na Produção em 27 de outubro de 2022.
 
-Quando um usuário seleciona a opção &quot;[!UICONTROL Remover pino]&quot; em um pino, recebe uma mensagem sobre a remoção e tenta substituir o pino clicando em &quot;[!UICONTROL Desfazer]&quot; na mensagem, o pino não é substituído na navegação superior, nem é adicionado à lista de pinos sob o [!UICONTROL Mais pinos] (o menu de três pontos no [!UICONTROL Pinos] área).
+Ao selecionar a opção “[!UICONTROL Remover pino]” em um pino, o usuário recebe uma mensagem sobre a remoção e tenta substituir o pino clicando em “[!UICONTROL Desfazer]” na mensagem. O pino não é substituído na navegação superior, nem é adicionado à lista de pinos na lista [!UICONTROL Mais pinos] (o menu de três pontos na área [!UICONTROL Pinos]).
 
-Se um usuário tentar prender novamente a página indo até a página e fixando o pino, o pino não será criado e o usuário não poderá fixar a página.
+Se um usuário tentar fixar novamente a página indo até a página e fixando o pino, o pino não será criado e o usuário não poderá fixar a página.
 
 +++
 
@@ -154,7 +154,7 @@ Se um usuário tentar prender novamente a página indo até a página e fixando 
 
 *Blueprints*
 
-O tipo de blueprint &quot;Dashboard&quot; foi adicionado ao catálogo de blueprints. Anteriormente, somente Modelos de projeto e blueprints de estrutura organizacional estavam disponíveis.
+O tipo de blueprint “Painel” foi adicionado ao catálogo de blueprints. Anteriormente, somente Modelos de projeto e blueprints de estrutura organizacional estavam disponíveis.
 
 **Sobreposição de elementos no painel esquerdo**
 
@@ -168,7 +168,7 @@ Quando um usuário está trabalhando no construtor de formulários e o formulár
 
 Quando um usuário navega pelo teclado, os seletores de data não são mais abertos automaticamente na data de entrada recebendo foco do teclado. Em vez disso, os usuários do teclado devem ir até o ícone do seletor de datas e pressionar Enter para abrir o seletor de datas. Quando um usuário navega pelo mouse, os seletores de data não são mais abertos automaticamente na data de clique na entrada. Em vez disso, os usuários do mouse devem clicar no ícone do seletor de datas para abrir o seletor de datas.
 
-Essa alteração foi feita para melhor estar em conformidade com os padrões UX padrão do seletor de datas e para criar uma experiência mais acessível para usuários de teclado e leitor de tela.
+Essa alteração foi feita para se adequar melhor aos padrões de UX do seletor de data padrão e para criar uma experiência mais acessível para usuários de teclado e leitor de tela.
 
 **Atribuir várias equipes resulta em somente uma equipe atribuída**
 
@@ -178,15 +178,15 @@ Essa alteração foi feita para melhor estar em conformidade com os padrões UX 
 >
 >Esse problema existe apenas no ambiente de Visualização.
 
-Quando um usuário atribui várias equipes a uma tarefa ou problema, somente uma equipe é exibida na lista de atribuições. Esse problema também afeta os relatórios. Os relatórios que mostram atribuições de equipe são imprecisos porque apenas uma equipe aparece como atribuída à tarefa ou ocorrência.
+Quando um usuário atribui várias equipes a uma tarefa ou problema, somente uma equipe é exibida na lista de atribuições. Esse problema também afeta os relatórios. Os relatórios que mostram atribuições de equipe são imprecisos porque somente uma equipe aparece como atribuída à tarefa ou problema.”
 
-**&quot;[!UICONTROL Suas alterações recentes não foram salvas]&quot;erro ao salvar automaticamente alterações em uma folha de ponto**
+Erro **“[!UICONTROL As alterações recentes não foram salvas]” ao salvar automaticamente alterações em uma folha de horas**
 
 *Folhas de horas*
 
 Quando um usuário tenta editar uma folha de horas de uma maneira que acionaria um salvamento automático, as alterações não são salvas e o usuário vê a seguinte mensagem:
 
-&quot;[!UICONTROL Suas alterações recentes não foram salvas. Atualize a página para visualização.]&quot;
+“[!UICONTROL Suas alterações recentes não foram salvas. Atualize a página para visualizar as últimas alterações salvas].”
 
 Esse problema foi relatado ao editar o seguinte:
 
@@ -203,11 +203,11 @@ Quando ocorre um evento no [!DNL Workfront Proof] que aciona uma notificação p
 
 +++**Atualização de manutenção em 3 de outubro de 2022**
 
-**Salve manualmente a folha de ponto quando as funções de trabalho anteriores forem alteradas**
+**Salve manualmente a folha de horas quando as funções de trabalho anteriores forem alteradas**
 
 *Folhas de horas*
 
-Se uma função de trabalho para a qual você fez o logon tiver sido alterada e a variável [!UICONTROL Atribuir funções de tarefa a entradas de hora manualmente] tiver sido desativada, você deve salvar manualmente as entradas de tempo até que as horas não sejam mais registradas para a função de trabalho que foi alterada.
+Se uma função de trabalho para a qual você fez o logon tiver sido alterada e a configuração [!UICONTROL Atribuir funções de tarefa a entradas de hora manualmente] tiver sido desativada, você deve salvar manualmente as entradas de tempo até que as horas não sejam mais registradas para a função de trabalho que foi alterada.
 
 +++
 
@@ -219,15 +219,15 @@ Se uma função de trabalho para a qual você fez o logon tiver sido alterada e 
 
 *Provas*
 
-Quando um usuário que esteja exibindo uma prova em [!DNL Workfront] fecha a prova, não retorna a página em que estava antes de abrir a prova. Em vez disso, elas são redirecionadas para outra página no [!DNL Workfront].
+Quando um usuário que está visualizando uma prova no [!DNL Workfront] fecha a prova, ele não retorna à página em que estava antes de abrir a prova. Em vez disso, ele é redirecionado para outra página no [!DNL Workfront].
 
-**Não é possível abrir a prova em[!DNL Workfront]**
+**Não é possível abrir a prova no[!DNL Workfront]**
 
 *Provas*
 
-Quando um usuário exibe um documento em [!DNL Workfront] e tenta abrir a prova, a prova não abre e o usuário é retornado para a [!UICONTROL Detalhes do documento] página.
+Quando um usuário visualiza um documento no [!DNL Workfront] e tenta abrir a prova, a prova não abre e o usuário retorna para a página [!UICONTROL Detalhes do documento].
 
-**As horas não são salvas ao usar [!UICONTROL Tabulação] key**
+**As horas não são salvas ao usar[!UICONTROL  a tecla ]Tab**
 
 *Folhas de horas*
 
@@ -237,7 +237,7 @@ Quando um usuário preenche uma folha de horas e navega entre células com a tec
 
 *[!DNL Workfront Proof]*
 
-Quando um usuário exibe uma prova com várias páginas, o usuário pode ver miniaturas das páginas, mas as páginas não abrem no visualizador principal.
+Quando um usuário visualiza uma prova com várias páginas, o usuário pode ver miniaturas das páginas, mas as páginas não abrem no visualizador principal.
 
 
 
@@ -748,7 +748,7 @@ Quando um usuário tenta fazer upload de um anexo usando o [!DNL Workfront for O
 
 *[!DNL Workfront]Prova*
 
-No início deste mês, como parte de uma correção para o ambiente de produção do [!DNL Workfront], corrigimos alguns erros no sistema de notificação por email de prova. Essa alteração não foi comunicada na atualização de manutenção quando foi lançada. Adicionamos as seguintes informações à Atualização de manutenção do [ em 2 de junho de 2022](#maintenance-update-on-june-2-2022):
+No início deste mês, como parte de uma correção para o ambiente de produção do [!DNL Workfront], corrigimos alguns erros no sistema de notificação por email de prova. Essa alteração não foi comunicada na atualização de manutenção quando foi lançada. Adicionamos as seguintes informações à [Atualização de manutenção em 2 de junho de 2022](#maintenance-update-on-june-2-2022):
 
 Como resultado dessas correções de erros, o endereço de email usado para enviar notificações de prova foi alterado.
 
@@ -1489,7 +1489,7 @@ Quando um usuário tenta adicionar um formulário personalizado entre objetos à
 
 Quando um usuário tenta atribuir outro usuário a uma tarefa no [!UICONTROL Balanceador de carga de trabalho] e a tarefa é atribuída a uma função de trabalho diferente da função de trabalho principal do usuário atribuído, o usuário será atribuído à tarefa pela função de trabalho principal e a seguinte mensagem será exibida:
 
-&quot;\&lt;Name\> não corresponde à função de \&lt;Task role assignment\>. 1 item de trabalho atribuído à função de &lt;\Task role assignment\> será atribuído a \&lt;Name\> na função de \&lt;Primary job role\>.&quot;
+“\&lt;Name\> não corresponde à função de \&lt;Task role assignment\>. 1 item de trabalho atribuído à função de &lt;\Task role assignment\> será atribuído a \&lt;Name\> na função de \&lt;Primary job role\>.”
 
 Isso ocorre mesmo se o usuário tiver a função de tarefa da atribuição de função de tarefa como uma função de trabalho secundária.
 
@@ -1920,7 +1920,7 @@ Foi corrigido um problema que permitia aos usuários colocar o tipo de dados inc
 
 Quando um usuário tenta excluir um predecessor da guia [!UICONTROL Predecessores] em uma tarefa, a tarefa não é excluída e o usuário vê o seguinte erro:
 
-[!UICONTROL  Tarefa com valores de chave primária &quot;&quot; não encontrada]
+[!UICONTROL Tarefa com valores de chave primária &quot;&quot; não encontrada]
 
 **Erro ao abrir a página de usuários**
 
@@ -1942,7 +1942,7 @@ Quando um usuário visualiza um relatório em um painel, ele vê que o ícone de
 
 Ao selecionar um documento ou uma prova em uma lista de documentos do [!DNL Workfront Classic] e clicar em “[!UICONTROL Mais]”, o usuário pode observar um dos seguintes problemas:
 O botão não responde. 
-Todas as opções no botão são rotuladas como “[!UICONTROL Objeto]” e não podem ser usadas.
+Todas as opções no botão são rotuladas como “[!UICONTROL objeto Objeto]” e não podem ser usadas.
 
 Erro **“Você deve ser um administrador do sistema” para criar um projeto**
 
@@ -1990,7 +1990,7 @@ Erro **“Não é possível carregar conteúdo da página” ao exibir as prefer
 
 Quando um usuário administrador tenta exibir projetos, tarefas ou problemas nas [!UICONTROL Preferências do projeto] na área [!UICONTROL Configuração], a página não é carregada e o usuário vê o seguinte erro:
 
-&quot;[!UICONTROL Não é possível carregar o conteúdo da página. Experimente atualizar a página.]&quot;
+“[!UICONTROL Não é possível carregar o conteúdo da página. Experimente atualizar a página.]”
 
 +++
 

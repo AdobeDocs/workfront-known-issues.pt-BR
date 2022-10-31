@@ -1,23 +1,23 @@
 ---
-title: "Relatórios: As informações de uso do relatório não estão sendo atualizadas"
-description: "Quando um usuário exibe um relatório, as informações da Última visualização, como a Data da última visualização e a Última visualização por, não são atualizadas. Isso significa que qualquer informação de uso pode estar incorreta."
+title: '“Relatórios: as informações de uso do relatório não são atualizadas”'
+description: “Quando um usuário visualiza um relatório, as informações da Última visualização, como a Última data de visualização e a Última visualização por, não são atualizadas. Isso significa que qualquer informação de uso pode estar incorreta.”
 hidefromtoc: true
 source-git-commit: 61c497b0e94a3844113240757d359c0ba26c5ebd
 workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
 
-# Relatórios: As informações de uso do relatório não estão sendo atualizadas
+# Relatórios: as informações de uso do relatório não são atualizadas
 
-Quando um usuário exibe um relatório, as informações da Última visualização, como a Data da última visualização e a Última visualização por, não são atualizadas. Isso significa que qualquer informação de uso pode estar incorreta.
+Quando um usuário visualiza um relatório, as informações da Última visualização, como a Última data de visualização e a Última visualização por, não são atualizadas. Isso significa que qualquer informação de uso pode estar incorreta.
 
 Esse comportamento foi relatado quando o usuário acessa o relatório das seguintes maneiras:
 
 * Pesquisar
-* Pinos
+* Pins
 * Favoritos
 * Recentes
 
