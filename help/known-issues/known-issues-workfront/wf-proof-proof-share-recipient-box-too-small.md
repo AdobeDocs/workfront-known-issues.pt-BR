@@ -1,20 +1,20 @@
 ---
-title: "Provas: A nova caixa de texto de destinatários de prova é muito pequena"
-description: "Quando um usuário exibe uma prova e tenta compartilhar a prova na guia Compartilhamento , a caixa de texto Novos destinatários de prova é muito pequena. O usuário pode digitar um nome, mas como a caixa é tão pequena, o texto envolve de uma maneira difícil de ler."
+title: '“Provas: a caixa de texto Novos recipients de prova é muito pequena”'
+description: “Quando um usuário visualiza uma prova e tenta compartilhar a prova na guia Compartilhamento, a caixa de texto Novos recipients da prova é muito pequena. O usuário pode digitar um nome, mas como a caixa é muito pequena, o texto fica ilegível.”
 hidefromtoc: true
 source-git-commit: 69ecc78407585dff0f7d786265fd7177963edc42
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '124'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Provas: &quot;[!UICONTROL Novos destinatários de prova]&quot; caixa de texto é muito pequena
+# Provas: a caixa de texto “[!UICONTROL Novos recipients de prova]” é muito pequena
 
 <!--This article is on the WF and WFP TOCs-->
 
-Quando um usuário estiver exibindo uma prova e tentar compartilhar a prova da [!UICONTROL Compartilhamento] , o &quot;[!UICONTROL Novos recipients de prova]&quot; caixa de texto é muito pequena. O usuário pode digitar um nome, mas como a caixa é tão pequena, o texto envolve de uma maneira difícil de ler.
+Quando um usuário visualiza uma prova e tenta compartilhar a prova na guia [!UICONTROL Compartilhamento], a caixa de texto “[!UICONTROL Novos recipients da prova]” é muito pequena. O usuário pode digitar um nome, mas como a caixa é muito pequena, o texto fica ilegível.
 
-_Primeiro reportado em 6 de outubro de 2022._
+_Reportado pela primeira vez em 6 de outubro de 2022._
 
