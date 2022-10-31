@@ -1,31 +1,31 @@
 ---
-title: "Relatórios: Problemas ao criar e editar relatórios no Construtor de relatórios"
-description: "Vários problemas foram relatados ao criar e editar relatórios no Construtor de relatórios."
+title: '“Relatórios: problemas ao criar e editar relatórios no Report Builder”'
+description: “Vários problemas foram relatados ao criar e editar relatórios no Report Builder”
 hidefromtoc: true
 source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Relatórios: Problemas ao criar e editar relatórios no Construtor de relatórios
+# Relatórios: problemas ao criar e editar relatórios no Report Builder
 
 >[!NOTE]
 >
 >Esse problema foi resolvido.
 
 
-Os seguintes problemas foram relatados ao criar e editar relatórios no Construtor de relatórios:
+Os seguintes problemas foram relatados ao criar e editar relatórios no Report Builder:
 
-* O construtor de relatórios não carrega.
+* O Report Builder não carrega.
 * Os agrupamentos de gráfico (eixos) desaparecem.
-* O [!UICONTROL Salvar + Fechar] não responde.
+* O botão [!UICONTROL Salvar + Fechar] não responde.
 
 **Solução alternativa**
 
-Recarregar a página pode permitir que você crie ou edite o relatório.
+Recarregar a página permite que você crie ou edite o relatório.
 
-_Primeiro reportado em 2 de setembro de 2022._
+_Reportado pela primeira vez em 2 de setembro de 2022._
 
