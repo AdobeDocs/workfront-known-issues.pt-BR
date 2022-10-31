@@ -1,18 +1,18 @@
 ---
-title: "Notificações: Usuários que não recebem notificações por email ou no aplicativo quando mencionados ou incluídos em um comentário"
-description: "Quando um usuário é mencionado ou incluído em um comentário ou atualização no fluxo de atualização de um objeto, ele pode não receber o email esperado ou a notificação no aplicativo sobre o comentário."
+title: '“Notificações: os usuários não recebem notificações por email ou no aplicativo quando mencionados ou incluídos em um comentário”'
+description: “Quando um usuário é mencionado ou incluído em um comentário ou atualização no fluxo de atualização de um objeto, ele pode não receber o email esperado ou a notificação no aplicativo sobre o comentário.”
 hidefromtoc: true
 source-git-commit: 98fa6676b103bd9870d5811fc710d54d0cd54599
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Notificações: Usuários não notificados quando mencionados ou incluídos em um comentário
+# Notificações: os usuários não são notificados quando mencionados ou incluídos em um comentário
 
-Quando um usuário é mencionado ou incluído em um comentário ou atualização no fluxo de atualização de um objeto, ele pode não receber o email ou a notificação no aplicativo esperado sobre o comentário.
+Quando um usuário é mencionado ou incluído em um comentário ou atualização no fluxo de atualização de um objeto, ele pode não receber o email esperado ou a notificação no aplicativo sobre o comentário.
 
-_Primeiro reportado em 20 de setembro de 2022._
+_Reportado pela primeira vez em 20 de setembro de 2022._
 
