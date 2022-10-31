@@ -1,11 +1,11 @@
 ---
 title: '“Formulários personalizados: sobreposição de elementos no painel esquerdo.”'
-description: “Quando um usuário está trabalhando no construtor de formulários e o formulário tem mais de 100 campos, a mensagem notificando o usuário sobre o limite de campo faz com que os elementos no painel esquerdo se sobreponham.”
+description: Quando um usuário está trabalhando no construtor de formulários e o formulário tem mais de 100 campos, a mensagem notificando o usuário sobre o limite de campo faz com que os elementos no painel esquerdo se sobreponham.
 hidefromtoc: true
 source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
