@@ -3,10 +3,10 @@ title: Problemas conhecidos no  [!DNL Adobe Workfront Fusion]
 description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Fusion]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 323f4e42b6b0093858542ada3812f9a630bd3a5f
+source-git-commit: fb9067cb4d4941c06ae5e6730c15ab906124dc02
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 100%
+source-wordcount: '153'
+ht-degree: 99%
 
 ---
 
@@ -24,6 +24,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Fusion]: 404 errors on [!DNL Workfront] módulos](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md) | 31 de outubro de 2022 |
 | [[!DNL Workfront Fusion]: 409 error in [!DNL Fusion] cenário](known-issues-workfront-fusion/fusion-409-error.md) | 6 de outubro de 2022 |
 
 {style=&quot;table-layout:auto&quot;}

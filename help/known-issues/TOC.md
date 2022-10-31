@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do [!DNL Adobe Workfront]
-source-git-commit: 0f9815d500d0da022a217f023b14379cfbda645b
+source-git-commit: fb9067cb4d4941c06ae5e6730c15ab906124dc02
 workflow-type: tm+mt
-source-wordcount: '1525'
-ht-degree: 75%
+source-wordcount: '1528'
+ht-degree: 94%
 
 ---
 
@@ -14,8 +14,9 @@ ht-degree: 75%
 + [Visão geral](overview.md)
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
-   + [Problemas conhecidos no [!DNL Adobe Workfront]](newworkfrontexperience.md)
+   + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [[!DNL Workfront Fusion]: Erros 404 em [!DNL Workfront] módulos](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md)
       + [API: Não é possível classificar por campos dinâmicos](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md)
       + [Provas: Geração de prova é extremamente lenta](known-issues-workfront/wf-proofs-slow-proof-generation.md)
       + [Projetos: Problemas de desempenho e mensagem de erro ao criar um projeto a partir de um modelo](known-issues-workfront/wf-issues-when-creating-project-from-template.md)
@@ -26,32 +27,32 @@ ht-degree: 75%
       + [[!UICONTROL Configuração]: Lista carregar lentamente em [!UICONTROL Configuração]](known-issues-workfront/wf-setup-lists-load-slowly.md)
       + [Formulários personalizados: [!UICONTROL HORA] em campos calculados usa UTC](known-issues-workfront/wf-custom-form-hours-use-utc.md)
       + [Ágil: As tarefas atribuídas por meio da edição em massa não aparecem no backlog da equipe](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md)
-      + [Relatórios: As informações de uso do relatório não estão sendo atualizadas](known-issues-workfront/wf-reports-usage-not-updating.md)
-      + [Navegação: Não é possível prender objetos](known-issues-workfront/wf-navigation-cannot-pin-objects.md)
-      + [[!UICONTROL Quadros]: [!UICONTROL Quadros] página não carrega](known-issues-workfront/wf-boards-boards-do-not-load.md)
-      + [Documentos: O link de solicitação de documento externo leva à página de logon](known-issues-workfront/wf-documents-external-request-leads-to-login.md)
-      + [Programas: Problemas ao atribuir um [!UICONTROL Proprietário do Programa]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md)
-      + [Relatórios: Opção &quot;Mover para&quot; não disponível em relatórios de problemas](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md)
-      + [Problemas: Contagem de problemas na navegação à esquerda da tarefa está incorreta](known-issues-workfront/wf-issues-incorrect-issue-count-on-left.md)
-      + [Ágil: Problemas com tarefas adicionadas a uma iteração](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md)
-      + [Formulários personalizados: Erro &quot;Boops&quot; ao configurar um campo calculado](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
-      + [Folhas de horas: Não é possível inserir horas em [!UICONTROL Hora Geral]](known-issues-workfront/wf-timesheets-general-time-disabled.md)
-      + [Listas: [!UICONTROL Filtro rápido] não retorna resultados ao pesquisar por equipes](known-issues-workfront/wf-lists-no-results-for-teams-in-quick-filter.md)
-      + [Navegação: Não é possível prender novamente uma página depois que o pino é removido](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md)
-      + [Atribuições: Erro ao atribuir uma equipe em massa](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md)
-      + [Tarefas: [!UICONTROL Predecessor] ícone ausente do cabeçalho da tarefa](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md)
-      + [Provas: Adicionar um grupo a uma prova não adiciona todos os membros do grupo](known-issues-workfront/wf-proofs-group-members-not-added.md)
-      + [Tarefas e problemas: Não é possível editar o nome ou porcentagem concluída de uma tarefa ou problema](known-issues-workfront/wf-tasks-issues-cannot-edit-name-percent.md)
-      + [Modelos de layout: Erro ao personalizar listas em um modelo de layout](known-issues-workfront/wf-layout-templates-error-lists-users.md)
-      + [Provas: A caixa de texto &quot;Novos destinatários de prova&quot; é muito pequena](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md)
+      + [Relatórios: as informações de uso do relatório não são atualizadas](known-issues-workfront/wf-reports-usage-not-updating.md)
+      + [Navegação: não é possível fixar objetos](known-issues-workfront/wf-navigation-cannot-pin-objects.md)
+      + [[!UICONTROL Quadros]: a página [!UICONTROL Quadros] não carrega](known-issues-workfront/wf-boards-boards-do-not-load.md)
+      + [Documentos: o link de solicitação de documento externo abre a página de logon](known-issues-workfront/wf-documents-external-request-leads-to-login.md)
+      + [Programas: problemas ao atribuir um [!UICONTROL Proprietário de programa]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md)
+      + [Relatórios: a opção “Mover para” não fica disponível em relatórios de problemas](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md)
+      + [Problemas: a contagem de problemas na navegação à esquerda da tarefa está incorreta](known-issues-workfront/wf-issues-incorrect-issue-count-on-left.md)
+      + [Agile: problemas com tarefas adicionadas a uma iteração](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md)
+      + [Formulários personalizados: “erro” ao configurar um campo calculado](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
+      + [Folhas de horas: não é possível inserir horas em [!UICONTROL Tempo geral]](known-issues-workfront/wf-timesheets-general-time-disabled.md)
+      + [Listas: o [!UICONTROL Filtro rápido] não retorna resultados ao pesquisar por equipes](known-issues-workfront/wf-lists-no-results-for-teams-in-quick-filter.md)
+      + [Navegação: não é possível fixar novamente uma página após a remoção do pino](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md)
+      + [Atribuições: erro ao atribuir uma equipe em massa](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md)
+      + [Tarefas: o ícone [!UICONTROL Predecessor] não aparece no cabeçalho da tarefa](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md)
+      + [Provas: adicionar um grupo a uma prova não adiciona todos os membros do grupo](known-issues-workfront/wf-proofs-group-members-not-added.md)
+      + [Tarefas e problemas: não é possível editar o nome ou percentual concluído de uma tarefa ou problema](known-issues-workfront/wf-tasks-issues-cannot-edit-name-percent.md)
+      + [Modelos de layout: erro ao personalizar listas em um modelo de layout](known-issues-workfront/wf-layout-templates-error-lists-users.md)
+      + [Provas: a caixa de texto “Novos recipients de prova” é muito pequena](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md)
       + [Provas: Não é possível comparar provas automaticamente](known-issues-workfront/wf-proofs-cannot-auto-compare.md)
-      + [Documentos: &quot;[!UICONTROL Falha ao carregar arquivo]&quot; erro](known-issues-workfront/wf-documents-failed-to-upload-file.md)
-      + [Equipes: Atribuir várias equipes resulta em somente uma equipe atribuída](known-issues-workfront/wf-teams-multiple-team-assignments.md)
-      + [Notificações: Usuários não notificados quando mencionados ou incluídos em um comentário](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md)
-      + [Folhas de horas: Erros ao adicionar comentários a uma folha de ponto](known-issues-workfront/wf-timesheets-permissions-error-when-adding-hours.md)
-      + [Provas: Não é possível abrir a prova em [!DNL Workfront]](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md)
-      + [Tarefas: As horas não são salvas ao inserir horas na Tarefa [!UICONTROL Painel Resumo]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
-      + [Provas: O usuário não retorna à página anterior ao fechar a prova](known-issues-workfront/wf-proofs-user-redirected-to-random-page-when-closing-proof.md)
+      + [Documentos: erro “[!UICONTROL Falha ao carregar arquivo]”](known-issues-workfront/wf-documents-failed-to-upload-file.md)
+      + [Equipes: atribuir várias equipes resulta em somente uma equipe atribuída](known-issues-workfront/wf-teams-multiple-team-assignments.md)
+      + [Notificações: os usuários não são notificados quando mencionados ou incluídos em um comentário](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md)
+      + [Folhas de horas: erros ao adicionar comentários a uma folha de horas](known-issues-workfront/wf-timesheets-permissions-error-when-adding-hours.md)
+      + [Provas: não é possível abrir a prova no [!DNL Workfront]](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md)
+      + [Tarefas: as horas não são salvas ao inserir horas no painel [!UICONTROL Resumo da tarefa]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
+      + [Provas: o usuário não retorna à página anterior ao fechar a prova](known-issues-workfront/wf-proofs-user-redirected-to-random-page-when-closing-proof.md)
       + [Notificações: erros ao acessar configurações de notificação por email](known-issues-workfront/wf-notifications-preview-errors-with-options.md)
       + [Provas: o campo [!UICONTROL Estágios de prova ativos] está em branco](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md)
       + [Folhas de horas: as horas não são salvas ao usar a tecla [!UICONTROL Tab]](known-issues-workfront/wf-timesheets-hours-do-not-save-when-using-tab.md)
@@ -62,11 +63,11 @@ ht-degree: 75%
       + [Relatórios: problemas relacionados aos relatórios de problemas no [!DNL Workfront]](known-issues-workfront/wf-reports-issues-with-issue-reports.md)
       + [Campos de atribuições: nomes atualizados temporariamente para os campos de atribuição de usuário e função](known-issues-workfront/wf-assignments-temp-updated-names.md)
       + [Formulários personalizados: dica de ferramenta de exibição de campos de texto descritivos](known-issues-workfront/wf-custom-forms-descriptive-text-tooltip.md)
-      + [Integrações: erro 404 ao adicionar um documento da [!DNL SharePoint] [!UICONTROL (API gráfica)]](known-issues-workfront/wf-integrations-sharepoint-graph-api-returns-404.md)
+      + [Integrações: erro 404 ao adicionar um documento da  [!DNL SharePoint] [!UICONTROL (API gráfica)]](known-issues-workfront/wf-integrations-sharepoint-graph-api-returns-404.md)
       + [Integrações: [!DNL SharePoint] a pasta não aparece para o proprietário da pasta](known-issues-workfront/wf-integrations-sharepoint-folder-not-appearing-for-owner.md)
       + [Integrações: erro ao enviar solicitação do [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md)
       + [Folhas de horas: [!UICONTROL Ops!] erro ao abrir uma folha de horas](known-issues-workfront/wf-timesheet-whoops-error-when-opening-timesheet.md)
-      + [Integrações: erro ao abrir [!DNL Workfront for Jira] no [!DNL Jira]](known-issues-workfront/wf-error-when-opening-wf-for-jira-within-jira.md)
+      + [Integrações: erro ao abrir  [!DNL Workfront for Jira]  no  [!DNL Jira]](known-issues-workfront/wf-error-when-opening-wf-for-jira-within-jira.md)
       + [Folhas de horas: erro “[!UICONTROL Alguém tentou salvar este projeto]” ao inserir horas](known-issues-workfront/wf-timesheets-not-autosaving-due-to-error.md)
       + [Painéis: não é possível acessar o painel na navegação à esquerda em um objeto](known-issues-workfront/wf-dashboards-cannot-open-from-left-nav.md)
       + [Projetos, tarefas e problemas: a caixa [!UICONTROL Descrição] redimensionada volta ao tamanho original](known-issues-workfront/wf-projects-description-field-size-snaps-back.md)
@@ -135,7 +136,7 @@ ht-degree: 75%
       + [Folhas de horas: as horas mostradas na folha de horas são diferentes da lista Folhas de horas](known-issues-workfront/resolved-issues-wf/wf-timesheets-hours-different-in-list.md)
       + [Solicitações: solicitação convertida em projeto com modelo mostra o grupo da fila de solicitações, não o grupo do modelo](known-issues-workfront/resolved-issues-wf/wf-requests-converted-shows-group-from-queue.md)
       + [Folha de horas: as horas na folha de horas não são salvas corretamente](known-issues-workfront/resolved-issues-wf/wf-timesheets-hours-not-autosaving-correctly.md)
-      + [Tarefas: não é possível selecionar o [!UICONTROL Tempo decorrido] ao editar em linha a duração da tarefa](known-issues-workfront/resolved-issues-wf/wf-tasks-cannot-select-elapsed-time.md)
+      + [Tarefas: não é possível selecionar o Tempo [!UICONTROL decorrido] ao editar em linha a duração da tarefa](known-issues-workfront/resolved-issues-wf/wf-tasks-cannot-select-elapsed-time.md)
       + [Atualizações: a página [!UICONTROL Minhas atualizações] está em branco](known-issues-workfront/resolved-issues-wf/wf-updates-my-updates-blank.md)
       + [Usuários: a configuração “[!UICONTROL Permitir apenas a autenticação SAML 2.0]” está ausente ao copiar um usuário](known-issues-workfront/resolved-issues-wf/wf-users-only-allow-saml-setting-missing.md)
 
@@ -143,12 +144,12 @@ ht-degree: 75%
 
 
 + [!DNL Workfront Proof] {#proof}
-   + [Problemas conhecidos no [!DNL Workfront Proof]](workfrontproof.md)
+   + [Problemas conhecidos no  [!DNL Workfront Proof]](workfrontproof.md)
    + Problemas atuais no [!DNL Workfront Proof] {#proof-current}
-      + [Provas: O resumo de impressão não exibe todas as páginas de prova](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
-      + [Provas: A prova não é compartilhada com os usuários no Fluxo de trabalho de prova](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
-      + [[!DNL Workfront Proof]: Páginas em branco ao visualizar uma prova com várias páginas](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
-      + [Provas: erro ao adicionar prova ao  [!DNL Workfront] do  [!DNL Workfront] Proof](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
+      + [Provas: o Resumo de impressão não exibe todas as páginas da prova](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
+      + [Provas: a prova não é compartilhada com os usuários no Fluxo de trabalho de prova](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
+      + [[!DNL Workfront Proof]: páginas em branco ao visualizar uma prova com várias páginas](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
+      + [Provas: erro ao adicionar prova ao  [!DNL Workfront]  do  [!DNL Workfront]  Proof](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
       + [[!DNL Workfront Proof]: erro ao fazer upload de um arquivo para um comentário](known-issues-workfront-proof/proof-error-when-uploading-file-to-comment.md)
       + [[!DNL Workfront Proof]: as visualizações de pasta não exibem provas](known-issues-workfront-proof/proof-folder-views-not-displaying-proofs.md)
       + [[!DNL Workfront Proof]: não é possível criar prova para arquivos com mais de 1,5 GB](known-issues-workfront-proof/proof-cannot-proof-files-over-1-5gb.md)
@@ -179,12 +180,12 @@ ht-degree: 75%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problemas conhecidos no Workfront Fusion](workfrontfusion.md)
    + Problemas atuais no [!DNL Workfront Fusion] {#fusion-current}
-      + [[!DNL Workfront Fusion]: Erro ao exibir um erro em um histórico de execução de cenário](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
-      + [[!DNL Workfront Fusion]: Erro 409 em [!DNL Fusion] cenário](known-issues-workfront-fusion/fusion-409-error.md)
-      + [[!DNL Workfront Fusion]: &quot;[!UICONTROL Falha ao carregar dados]&quot; erro](known-issues-workfront-fusion/fusion-failed-to-load-data-error.md)
-      + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  Chamada da API personalizada] módulo retornando erros 404 ou 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
-      + [[!DNL Workfront Fusion]: [!DNL Adobe PDF Services] > [!UICONTROL Extrair texto] módulo não produzindo texto](known-issues-workfront-fusion/fusion-pdf-extract-text.md)
-      + [[!DNL Workfront Fusion]: Erro &quot;Falha ao verificar conexão&quot;](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
+      + [[!DNL Workfront Fusion]: erro ao visualizar um erro em um histórico de execução de cenário](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
+      + [[!DNL Workfront Fusion]: erro 409 no cenário do [!DNL Fusion] ](known-issues-workfront-fusion/fusion-409-error.md)
+      + [[!DNL Workfront Fusion]: erro “[!UICONTROL Erro ao carrregar dados]”](known-issues-workfront-fusion/fusion-failed-to-load-data-error.md)
+      + [[!DNL Workfront Fusion]: o módulo  [!DNL Workfront]  > [!UICONTROL Chamada de API personalizada] retorna o erro 404 ou 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]: o módulo  [!DNL Adobe PDF Services] > [!UICONTROL Extrair texto] não produz texto](known-issues-workfront-fusion/fusion-pdf-extract-text.md)
+      + [[!DNL Workfront Fusion]: erro “Falha ao verificar a conexão”](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: o módulo não é carregado ao criar ou editar um cenário](known-issues-workfront-fusion/fusion-module-does-not-load.md)
       + [[!DNL Workfront Fusion]:  [!DNL Fusion]  o módulo retorna o erro 404 sem mais informações](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion]: não consegue se conectar ao módulo MS Dynamics no Fusion](known-issues-workfront-fusion/fusion-unable-to-connect-to-ms-dynamics-module.md)
@@ -194,13 +195,13 @@ ht-degree: 75%
       + [Dados de formulários personalizados não estão disponíveis em módulos do  [!DNL Workfront Fusion] [!DNL Workfront] ](known-issues-workfront-fusion/resolved-issues-fusion/data-from-custom-forms-not-available.md)
 
 + [!UICONTROL Metas do Adobe Workfront] {#goals}
-   + [Problemas conhecidos no [!DNL Workfront Goals]](workfrontgoals.md)
+   + [Problemas conhecidos no  [!DNL Workfront Goals]](workfrontgoals.md)
 + [!DNL Workfront Library] {#library}
-   + [Problemas conhecidos no [!DNL Workfront Library]](workfrontlibrary.md)
+   + [Problemas conhecidos no  [!DNL Workfront Library]](workfrontlibrary.md)
 + [!DNL Workfront] Aplicativo móvel {#mobile}
-   + [Problemas conhecidos no [!DNL Workfront] Aplicativo móvel](workfrontmobile.md)
+   + [Problemas conhecidos no  [!DNL Workfront] Aplicativo móvel](workfrontmobile.md)
 + [!DNL Workfront Scenario Planner] {#scenarioplanner}
-   + [Problemas conhecidos no [!DNL Workfront Scenario Planner]](workfrontscenarioplanner.md)
+   + [Problemas conhecidos no  [!DNL Workfront Scenario Planner]](workfrontscenarioplanner.md)
 
 <!--
 
