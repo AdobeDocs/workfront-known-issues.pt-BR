@@ -1,16 +1,16 @@
 ---
-title: "Provas: Não é possível abrir a prova em [!DNL Workfront]"
-description: "Quando um usuário exibe um documento em [!DNL Workfront] e tenta abrir a prova, a prova não abre e o usuário é retornado para a [!UICONTROL Detalhes do documento] página."
+title: '“Provas: não é possível abrir a prova no [!DNL Workfront]”'
+description: “Quando um usuário visualiza um documento no  [!DNL Workfront]  e tenta abrir a prova, a prova não abre e o usuário retorna para a página [!UICONTROL Detalhes do documento].”
 hidefromtoc: true
 source-git-commit: 4db776a758d437a6f08bb088a5ad8fa11f4d8211
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '83'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Provas: Não é possível abrir a prova em [!DNL Workfront]
+# Provas: não é possível abrir a prova no [!DNL Workfront]
 
 >[!NOTE]
 >
@@ -18,11 +18,11 @@ ht-degree: 0%
 
 <!--This article is linked from the WF TOC and the WFP TOC-->
 
-Quando um usuário exibe um documento em [!DNL Workfront] e tenta abrir a prova, a prova não abre e o usuário é retornado para a [!UICONTROL Detalhes do documento] página.
+Quando um usuário visualiza um documento no [!DNL Workfront] e tenta abrir a prova, a prova não abre e o usuário retorna para a página [!UICONTROL Detalhes do documento].
 
 **Solução alternativa**
 
-Abra a prova em [!DNL Workfront Proof].
+Abra a prova no [!DNL Workfront Proof].
 
-_Primeiro reportado em 18 de setembro de 2022._
+_Reportado pela primeira vez em 18 de setembro de 2022._
 
