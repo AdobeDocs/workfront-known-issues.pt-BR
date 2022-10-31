@@ -1,10 +1,10 @@
 ---
 title: '“Workfront Fusion: não consegue se conectar ao módulo MS Dynamics no Fusion”'
-description: O módulo MS Dynamics no [!DNL Fusion] não consegue se conectar, encontrando uma falha ao verificar o erro de conexão para conexões novas e existentes.
+description: O módulo MS Dynamics no  [!DNL Fusion]  não consegue se conectar, encontrando uma falha ao verificar o erro de conexão para conexões novas e existentes.
 hidefromtoc: true
 exl-id: 8fb72e2b-5be5-42eb-a098-98a3e74efa65
 source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '68'
 ht-degree: 100%
 
