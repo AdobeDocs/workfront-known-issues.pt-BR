@@ -4,9 +4,9 @@ description: Quando adicionado a uma prova como Revisor ou Solicitante, o usuár
 exl-id: 7a4b0007-4e75-457a-984e-1b50492e8818
 hidefromtoc: true
 source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
