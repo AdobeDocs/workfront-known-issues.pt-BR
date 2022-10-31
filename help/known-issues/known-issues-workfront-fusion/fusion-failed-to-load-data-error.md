@@ -1,22 +1,22 @@
 ---
-title: "[!DNL Workfront Fusion]: Falha ao carregar dados"
-description: "As conexões do Workfront Fusion com uma conta Workfront podem falhar na autenticação, fazendo com que os cenários apresentem o seguinte erro: Falha ao carregar dados! A solicitação falhou devido à falha de uma solicitação anterior."
+title: '“[!DNL Workfront Fusion]: falha ao carregar dados”'
+description: '“As conexões do Workfront Fusion com uma conta do Workfront podem ter falha na autenticação, fazendo com que os cenários apresentem o seguinte erro: falha ao carregar dados! A solicitação falhou devido à falha de uma solicitação anterior.'
 hidefromtoc: true
 source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# [!DNL Workfront Fusion]: &quot;[!UICONTROL Falha ao carregar dados]&quot; erro
+# [!DNL Workfront Fusion]: erro “[!UICONTROL Erro ao carrregar dados]”
 
 >[!NOTE]
 >
 >Esse problema foi corrigido em 7 de outubro de 2022.
 
-[!DNL Workfront Fusion] conexões com um [!DNL Workfront] A conta pode falhar na autenticação, fazendo com que os cenários exibam o seguinte erro:
+As conexões do [!DNL Workfront Fusion] com uma conta do [!DNL Workfront] podem ter falha na autenticação, fazendo com que os cenários apresentem o seguinte erro:
 
 [!UICONTROL Falha ao carregar dados! A solicitação falhou devido à falha de uma solicitação anterior.]
 
@@ -26,4 +26,4 @@ O cenário não pode ser executado até que a conexão seja restaurada.
 
 Crie uma nova conexão e use a nova conexão no [!DNL Workfront] em seu cenário.
 
-_Primeiro reportado em 15 de setembro de 2022._
+_Reportado pela primeira vez em 15 de setembro de 2022._
