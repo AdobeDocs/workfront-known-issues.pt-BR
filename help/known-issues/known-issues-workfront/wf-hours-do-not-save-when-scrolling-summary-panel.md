@@ -1,22 +1,22 @@
 ---
-title: "Tarefas: As horas não são salvas ao inserir horas na Tarefa [!UICONTROL Painel Resumo]"
-description: "Quando um usuário tenta inserir horas para uma tarefa no painel Resumo da tarefa, as horas não são salvas. Isso ocorre quando o usuário deixa o cursor no quadrado onde ele inseriu horas e rola o [!UICONTROL Painel Resumo]. "
+title: '“Tarefas: as horas não são salvas ao inserir horas no [!UICONTROL Painel de resumo] da tarefa”'
+description: “Quando um usuário tenta inserir horas para uma tarefa no Painel de resumo da tarefa, as horas não são salvas. Isso ocorre quando o usuário deixa o cursor no quadrado onde inseriu as horas e rola a tela até o [!UICONTROL Painel de resumo].”
 hidefromtoc: true
 source-git-commit: 78d0a040027e22dc14e0a2326f635c5f4c6e1a41
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '125'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Tarefas: As horas não são salvas ao inserir horas na Tarefa [!UICONTROL Painel Resumo].
+# Tarefas: as horas não são salvas ao inserir horas no [!UICONTROL Painel de resumo] da tarefa”
 
-Quando um usuário tenta inserir horas para uma tarefa no painel Resumo da tarefa, as horas não são salvas. Isso ocorre quando o usuário deixa o cursor no quadrado onde ele inseriu horas e rola o [!UICONTROL Painel Resumo].
+Quando um usuário tenta inserir horas para uma tarefa no Painel de resumo da tarefa, as horas não são salvas. Isso ocorre quando o usuário deixa o cursor no quadrado onde inseriu as horas e rola a tela até o [!UICONTROL Painel de resumo].
 
 **Solução alternativa**
 
-Clique fora do quadrado, onde as horas são inseridas antes de rolar a página [!UICONTROL Painel Resumo].
+Clique fora do quadrado, onde as horas são inseridas antes de rolar a tela até o [!UICONTROL Painel de resumo].
 
-_Primeiro reportado em 1 de junho de 2022._
+_Reportado pela primeira vez em 1 de junho de 2022._
 
