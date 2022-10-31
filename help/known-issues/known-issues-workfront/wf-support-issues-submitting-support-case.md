@@ -1,9 +1,9 @@
 ---
 title: '“[!DNL Workfront]: problemas ao enviar um caso de suporte do Workfront na Experience League”'
-description: “Se você é um [!DNL Workfront] Contato de suporte autorizado e está com problemas ao enviar um caso de suporte, ligue para os números abaixo para que possamos ajudá-lo.”
+description: “Se você é um  [!DNL Workfront] Contato de suporte autorizado e está com problemas ao enviar um caso de suporte, ligue para os números abaixo para que possamos ajudá-lo.”
 hidefromtoc: true
 source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
 ht-degree: 100%
 
