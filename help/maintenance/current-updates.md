@@ -2,9 +2,9 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: c2fd207043d8d813dbea4695198b49a4cda5fbc2
+source-git-commit: 57105cfb344a29ae7eb7b64c932d735198f135f6
 workflow-type: tm+mt
-source-wordcount: '14718'
+source-wordcount: '14801'
 ht-degree: 99%
 
 ---
@@ -28,6 +28,32 @@ As seguintes atualizações de manutenção foram efetuadas em 2022.
 -->
 
 Para obter atualizações de manutenção anteriores a 2022, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
+
+## Atualizações em outubro de 2022
+
++++**Atualização de manutenção em 3 de novembro de 2022**
+
+**Erros ao acessar configurações de notificação por email**
+
+*Notificações*
+
+>[!NOTE]
+>
+>Esse problema existe nos ambientes Produção e Pré-visualização.
+
+Ao tentar alterar as configurações de notificação por email, o usuário pode ver os seguintes erros:
+
+* “[!UICONTROL Vamos tentar novamente. Ops! Um erro inesperado aconteceu. Entre em contato com o [!DNL Workfront] para que possamos descobrir o que aconteceu e resolver o problema.]”
+
+* “[!UICONTROL Falha ao obter notificação por email]”
+
+Esse problema foi relatado nas seguintes áreas:
+
+* [!UICONTROL Configuração] > [!UICONTROL Notificações por email]
+* [!UICONTROL Usuário] > [!UICONTROL Editar usuário]
+* [!UICONTROL Grupos]
+
++++
 
 ## Atualizações em outubro de 2022
 
