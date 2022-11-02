@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do [!DNL Adobe Workfront]
-source-git-commit: 34cded8048e7f2c9e99f9c29303acde09ac76be1
+source-git-commit: ed5bd591f4be66631dba19d666b7d280eda1e1ab
 workflow-type: tm+mt
-source-wordcount: '1542'
-ht-degree: 93%
+source-wordcount: '1553'
+ht-degree: 92%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Listas: Erros de edição embutidos pelo usuário não causam mensagens de erro](known-issues-workfront/wf-lists-error-messages-not-generated.md)
       + [Pesquisar: A pesquisa é extremamente lenta](known-issues-workfront/wf-search-basic-search-is-slow.md)
       + [[!DNL Workfront Fusion]: Erros 404 em [!DNL Workfront] módulos](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md)
       + [API: Não é possível classificar por campos dinâmicos](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md)

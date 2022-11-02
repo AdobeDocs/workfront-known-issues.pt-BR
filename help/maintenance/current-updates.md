@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 57105cfb344a29ae7eb7b64c932d735198f135f6
+source-git-commit: ed5bd591f4be66631dba19d666b7d280eda1e1ab
 workflow-type: tm+mt
-source-wordcount: '14801'
-ht-degree: 99%
+source-wordcount: '14844'
+ht-degree: 98%
 
 ---
 
@@ -32,6 +32,12 @@ Para obter atualizações de manutenção anteriores a 2022, consulte [Atualiza�
 ## Atualizações em outubro de 2022
 
 +++**Atualização de manutenção em 3 de novembro de 2022**
+
+**Renomeie as seções &quot;Agendamento&quot; e &quot;Agendamento&quot; para equipes e projetos no modelo de layout**
+
+*Modelos de layout*
+
+As guias &quot;Agendamento&quot; e &quot;Agendamento&quot; disponíveis para adicionar um modelo de layout ao painel esquerdo de uma equipe ou projeto foram renomeadas para &quot;Balanceador de carga de trabalho&quot;.
 
 **Erros ao acessar configurações de notificação por email**
 
