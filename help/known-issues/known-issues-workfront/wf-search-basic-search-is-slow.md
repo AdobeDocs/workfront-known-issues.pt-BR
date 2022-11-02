@@ -2,7 +2,7 @@
 title: "Pesquisar: A pesquisa é extremamente lenta"
 description: "Quando um usuário pesquisa usando a pesquisa básica (o ícone Pesquisar ), os resultados da pesquisa são retornados extremamente lentamente."
 hidefromtoc: true
-source-git-commit: 34cded8048e7f2c9e99f9c29303acde09ac76be1
+source-git-commit: 2716a6fe76366e7225ca8c199e8e53ba5805c856
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 11%
@@ -10,13 +10,13 @@ ht-degree: 11%
 ---
 
 
-# Pesquisar: A pesquisa é extremamente lenta
+# Pesquisar: [!UICONTROL Pesquisar] é extremamente lento
 
-Quando um usuário pesquisa usando a pesquisa básica (o ícone Pesquisar ), os resultados da pesquisa são retornados extremamente lentamente.
+Quando um usuário pesquisa usando a pesquisa básica (a variável [!UICONTROL Pesquisar] ícone ), os resultados da pesquisa são retornados extremamente lentamente.
 
 **Solução alternativa**
 
-Use a Pesquisa avançada. O link para Pesquisa avançada está na parte inferior da lista suspensa que aparece ao clicar no ícone Pesquisar.
+Use a [!UICONTROL Pesquisa avançada]. O link para [!UICONTROL Pesquisa avançada] está na parte inferior da lista suspensa que aparece ao clicar no botão [!UICONTROL Pesquisar] ícone .
 
 _Reportado pela primeira vez em 1 de novembro de 2022._
 
