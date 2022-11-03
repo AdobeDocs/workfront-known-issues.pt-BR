@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do [!DNL Adobe Workfront]
-source-git-commit: d2d2ae6585d64cfc68d90c17f72d5ce47f7168ab
+source-git-commit: 5c3f91350bc1a1e2b563d4d3fc6660fc49f38075
 workflow-type: tm+mt
-source-wordcount: '1560'
-ht-degree: 92%
+source-wordcount: '1583'
+ht-degree: 91%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 92%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Tarefas: Não é possível alterar [!UICONTROL Data de Conclusão Planejada] de uma tarefa](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
+      + [Workfront: Erro 500 ao fazer alterações em um objeto Workfront](known-issues-workfront/wf-500-error-when-making-changes.md)
       + [Solicitações: Mensagem &quot;Ops&quot; ao editar a fila de solicitações](known-issues-workfront/wf-requests-error-message-when-editing-queue.md)
       + [Listas: Erros de edição embutidos pelo usuário não causam mensagens de erro](known-issues-workfront/wf-lists-error-messages-not-generated.md)
       + [Pesquisar: A pesquisa é extremamente lenta](known-issues-workfront/wf-search-basic-search-is-slow.md)
@@ -149,6 +151,7 @@ ht-degree: 92%
 + [!DNL Workfront Proof] {#proof}
    + [Problemas conhecidos no  [!DNL Workfront Proof]](workfrontproof.md)
    + Problemas atuais no [!DNL Workfront Proof] {#proof-current}
+      + [[!DNL Workfront Proof]: Não é possível abrir uma prova interativa](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md)
       + [Provas: o Resumo de impressão não exibe todas as páginas da prova](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
       + [Provas: a prova não é compartilhada com os usuários no Fluxo de trabalho de prova](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
       + [[!DNL Workfront Proof]: páginas em branco ao visualizar uma prova com várias páginas](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)

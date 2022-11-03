@@ -3,10 +3,10 @@ title: Problemas conhecidos na nova experiência do  [!DNL Adobe Workfront]
 description: Problemas conhecidos reportados da nova experiência do  [!DNL Adobe Workfront]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 047fff767e0eb5e0eff72640ddeb7626276afb7c
+source-git-commit: d425d85b81c88bf301fce143b7cbed55c3c64cbb
 workflow-type: tm+mt
-source-wordcount: '633'
-ht-degree: 82%
+source-wordcount: '645'
+ht-degree: 81%
 
 ---
 
@@ -45,6 +45,8 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Tarefas: Não é possível alterar [!UICONTROL Data de Conclusão Planejada] de uma tarefa](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md) | 3 de novembro de 2022 |
+| [[!DNL Workfront]: 500 error when making changes to a [!DNL Workfront] objeto](known-issues-workfront/wf-500-error-when-making-changes.md) | 3 de novembro de 2022 |
 | [Formulários personalizados: [!UICONTROL HORA] em campos calculados usa UTC](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 28 de outubro de 2022 |
 | [Projetos: Problemas de desempenho e mensagem de erro ao criar um projeto a partir de um modelo](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 27 de outubro de 2022 |
 | [Documentos: o link de solicitação de documento externo abre a página de logon](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 20 de outubro de 2022 |

@@ -3,10 +3,10 @@ title: Problemas conhecidos no  [!DNL Adobe Workfront Proof]
 description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 9d484f963278ae1e7b5df10379ed2d0c7b9caade
+source-git-commit: d425d85b81c88bf301fce143b7cbed55c3c64cbb
 workflow-type: tm+mt
-source-wordcount: '223'
-ht-degree: 97%
+source-wordcount: '229'
+ht-degree: 94%
 
 ---
 
@@ -35,6 +35,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Proof]: Não é possível abrir uma prova interativa](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md) | 3 de novembro de 2022 |
 | [Documentos: o link de solicitação de documento externo abre a página de logon](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 20 de outubro de 2022 |
 | [Provas: a caixa de texto “Novos recipients de prova” é muito pequena](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 18 de outubro de 2022 |
 
