@@ -2,15 +2,19 @@
 title: "Tarefas: Não é possível alterar a Data de Conclusão Planejada de uma tarefa"
 description: '"Quando um usuário tenta alterar a Data de conclusão planejada de uma tarefa, o campo fica sem resposta. “'
 hidefromtoc: true
-source-git-commit: d425d85b81c88bf301fce143b7cbed55c3c64cbb
+source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 16%
+source-wordcount: '118'
+ht-degree: 24%
 
 ---
 
 
 # Tarefas: Não é possível alterar [!UICONTROL Data de Conclusão Planejada] de uma tarefa
+
+>[!NOTE]
+>
+>Este problema foi encerrado porque o botão está funcionando conforme projetado.
 
 Quando um usuário tenta alterar a variável [!UICONTROL Data de Conclusão Planejada] de uma tarefa, o campo não responde.
 

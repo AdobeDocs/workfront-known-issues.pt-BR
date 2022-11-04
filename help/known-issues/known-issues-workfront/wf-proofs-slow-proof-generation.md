@@ -2,15 +2,19 @@
 title: "Provas: Geração de prova é extremamente lenta"
 description: "Quando um usuário tenta adicionar uma prova a um item de trabalho do Workfront por meio da opção Add new > Proof , usando um fluxo de trabalho automatizado, a prova demora vários minutos para ser gerada."
 hidefromtoc: true
-source-git-commit: 9d484f963278ae1e7b5df10379ed2d0c7b9caade
+source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 5%
+source-wordcount: '103'
+ht-degree: 10%
 
 ---
 
 
 # Provas: Geração de prova é extremamente lenta
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em 31 de outubro de 2022.
 
 <!--This article is on the WF and WFP TOCs-->
 
