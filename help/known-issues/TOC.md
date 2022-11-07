@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do [!DNL Adobe Workfront]
-source-git-commit: 5c3f91350bc1a1e2b563d4d3fc6660fc49f38075
+source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
 workflow-type: tm+mt
-source-wordcount: '1583'
-ht-degree: 91%
+source-wordcount: '1591'
+ht-degree: 90%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 91%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Ágil: A tarefa tem uma ordem de backlog Kanban de 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
       + [Tarefas: Não é possível alterar [!UICONTROL Data de Conclusão Planejada] de uma tarefa](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
       + [Workfront: Erro 500 ao fazer alterações em um objeto Workfront](known-issues-workfront/wf-500-error-when-making-changes.md)
       + [Solicitações: Mensagem &quot;Ops&quot; ao editar a fila de solicitações](known-issues-workfront/wf-requests-error-message-when-editing-queue.md)

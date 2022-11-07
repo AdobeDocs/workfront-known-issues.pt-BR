@@ -2,9 +2,9 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 047fff767e0eb5e0eff72640ddeb7626276afb7c
+source-git-commit: a1758017f1fa00903c057f6f3d51bc8ac81c1f02
 workflow-type: tm+mt
-source-wordcount: '14844'
+source-wordcount: '15198'
 ht-degree: 98%
 
 ---
@@ -30,6 +30,77 @@ As seguintes atualizações de manutenção foram efetuadas em 2022.
 Para obter atualizações de manutenção anteriores a 2022, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em novembro de 2022
+
++++**Atualização de manutenção (hotfix) em 4 de novembro de 2022**
+
+**problemas com tarefas adicionadas a uma iteração**
+
+*Agile*
+
+Os seguintes problemas foram relatados em relação a tarefas adicionadas a uma iteração:
+
+* Algumas subtarefas de uma tarefa adicionada a uma iteração não aparecem na página [!UICONTROL Iteração].
+* Quando um usuário tenta adicionar uma tarefa ausente à iteração, ela não é adicionada e o usuário vê a seguinte mensagem:
+
+   “[!UICONTROL ocorreu o seguinte erro: não foi possível mover nenhum dos itens selecionados, porque não estão atribuídos a uma Equipe Ágil ou não são itens de Equipe Ágil]”
+
+**As tarefas atribuídas por meio da edição em massa não aparecem no backlog da equipe**
+
+*Ágil*
+
+Quando um usuário atribui tarefas a uma equipe do Scrum usando a edição em massa, essas tarefas não aparecem no backlog da equipe.
+
+As equipes kanban não são afetadas por esse problema.
+
+**&quot;[!UICONTROL Novos destinatários de prova]&quot; caixa de texto é muito pequena**
+
+*Provas*
+
+Quando um usuário visualiza uma prova e tenta compartilhar a prova na guia [!UICONTROL Compartilhamento], a caixa de texto “[!UICONTROL Novos recipients da prova]” é muito pequena. O usuário pode digitar um nome, mas como a caixa é muito pequena, o texto fica ilegível.
+
+**As informações de uso do relatório não estão sendo atualizadas**
+
+*Relatórios*
+
+Quando um usuário visualiza um relatório, as informações da Última visualização, como a Última data de visualização e a Última visualização por, não são atualizadas. Isso significa que qualquer informação de uso pode estar incorreta.
+
+Esse comportamento foi relatado quando o usuário acessa o relatório das seguintes maneiras:
+
+* Pesquisar
+* Pins
+* Favoritos
+* Recentes
+
+O acesso aos relatórios por meio de um painel atualiza as informações da Última visualização.
+
+**[!DNL Workfront]: Erro 500 ao fazer alterações em um [!DNL Workfront] objeto**
+
+*[!DNL Workfront]*
+
+Quando um usuário tenta fazer alterações em um [!DNL Workfront] , as alterações não são salvas e o usuário vê o seguinte erro:
+
+&quot;[!UICONTROL 500: Erro de banco de dados devido a uma instrução SQL inválida.]&quot;
+
+Isso foi relatado nas seguintes situações:
+
+* Alteração do status de um objeto
+* Recálculo de linhas do tempo
+* Anexar um template
+* Hora de registro
+
++++
+
++++**[!DNL Workfront Fusion]Atualização de manutenção em 3 de novembro de 2022**
+
+**Erro relacionado ao [!UICONTROL apiKey] em [!DNL Workfront] > [!UICONTROL Eventos de observação] módulo**
+
+*[!DNL Workfront Fusion]*
+
+Quando um usuário tenta adicionar um webhook no [!DNL Workfront] > [!UICONTROL Eventos de observação] , eles receberão o seguinte erro:
+
+&quot;[!UICONTROL A apiKey fornecida estava vazia ou era considerada inválida.]&quot;
+
++++
 
 +++**Atualização de manutenção em 3 de novembro de 2022**
 
@@ -1527,7 +1598,7 @@ Isso ocorre mesmo se o usuário tiver a função de tarefa da atribuição de fu
 
 **Problema com a barra “Mostrar mais itens de trabalho” do quadro Scrum**&#x200B;
 
-*Agile*
+*Ágil*
 
 Quando um usuário clica na barra [!UICONTROL Mostrar mais itens de trabalho] em um Quadro Scrum e rola a tela para ver os novos itens, a barra [!UICONTROL Mostrar mais itens de trabalho] fica presa no Quadro Scrum e se move com ele ao rolar a tela. Isso pode dificultar a leitura dos cartões.
 
