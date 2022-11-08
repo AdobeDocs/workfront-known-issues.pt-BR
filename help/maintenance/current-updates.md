@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: a1758017f1fa00903c057f6f3d51bc8ac81c1f02
+source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
 workflow-type: tm+mt
-source-wordcount: '15198'
-ht-degree: 98%
+source-wordcount: '15236'
+ht-degree: 97%
 
 ---
 
@@ -30,6 +30,18 @@ As seguintes atualizações de manutenção foram efetuadas em 2022.
 Para obter atualizações de manutenção anteriores a 2022, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em novembro de 2022
+
++++**(Planejado) Atualização de manutenção em 10 de novembro de 2022**
+
+**Não é possível abrir uma prova interativa**
+
+*Prova do Workfront*
+
+Quando um usuário tenta abrir uma prova interativa, a prova não abre e o usuário vê a seguinte mensagem:
+
+&quot;[!UICONTROL Prova não carregada (501) Tente novamente]&quot;
+
++++
 
 +++**Atualização de manutenção (hotfix) em 4 de novembro de 2022**
 

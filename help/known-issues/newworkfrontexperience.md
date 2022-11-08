@@ -3,10 +3,10 @@ title: Problemas conhecidos na nova experiência do  [!DNL Adobe Workfront]
 description: Problemas conhecidos reportados da nova experiência do  [!DNL Adobe Workfront]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
+source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
 workflow-type: tm+mt
-source-wordcount: '562'
-ht-degree: 86%
+source-wordcount: '570'
+ht-degree: 85%
 
 ---
 
@@ -40,6 +40,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Tarefas: Tarefas de edição em massa alteram atribuições de tarefas](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md) | 7 de novembro de 2022 |
 | [Listas: Erros de edição embutidos pelo usuário não causam mensagens de erro](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 4 de novembro de 2022 |
 | [Solicitações: Não é possível visualizar mais de 100 Tópicos da Fila em uma página](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 4 de novembro de 2022 |
 | [Projetos: Problemas de desempenho e mensagem de erro ao criar um projeto a partir de um modelo](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 27 de outubro de 2022 |
