@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
 workflow-type: tm+mt
 source-wordcount: '15236'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -56,13 +56,13 @@ Os seguintes problemas foram relatados em relação a tarefas adicionadas a uma 
 
    “[!UICONTROL ocorreu o seguinte erro: não foi possível mover nenhum dos itens selecionados, porque não estão atribuídos a uma Equipe Ágil ou não são itens de Equipe Ágil]”
 
-**As tarefas atribuídas por meio da edição em massa não aparecem no backlog da equipe**
+**tarefas atribuídas por meio da edição em massa não aparecem na lista de pendências da equipe**
 
 *Ágil*
 
-Quando um usuário atribui tarefas a uma equipe do Scrum usando a edição em massa, essas tarefas não aparecem no backlog da equipe.
+Quando um usuário atribui tarefas a uma equipe do Scrum usando a edição em massa, essas tarefas não aparecem na lista de pendências da equipe.
 
-As equipes kanban não são afetadas por esse problema.
+As equipes Kanban não são afetadas por esse problema.
 
 **&quot;[!UICONTROL Novos destinatários de prova]&quot; caixa de texto é muito pequena**
 
@@ -148,13 +148,13 @@ Esse problema foi relatado nas seguintes áreas:
 
 +++**Atualização de manutenção em 27 de outubro de 2022**
 
-**[!UICONTROL HORA] em campos calculados usa UTC**
+A função **[!UICONTROL HORA] em campos calculados usa UTC**
 
 *Formulários personalizados*
 
-Quando um campo calculado inclui a variável [!UICONTROL HORA] , a função retorna valores com base em UTC em vez do fuso horário esperado. Portanto, qualquer cálculo baseado no valor HOUR está incorreto.
+Quando um campo calculado inclui a função [!UICONTROL HORA], a função retorna valores com base em UTC, em vez do fuso horário esperado. Portanto, qualquer cálculo baseado no valor HORA está incorreto.
 
-**[!UICONTROL Filtro rápido] não retorna resultados ao pesquisar por equipes**
+O **[!UICONTROL Filtro rápido] não retorna resultados ao pesquisar por equipes**
 
 *Listas*
 
@@ -166,17 +166,17 @@ Quando um usuário tenta usar o [!UICONTROL Filtro rápido] em uma lista para pr
 
 >[!NOTE]
 >
->Esse problema foi corrigido na Pré-visualização em 13 de outubro de 2022. Foi corrigido em Produção em 27 de outubro de 2022.
+>Esse problema foi corrigido na Pré-visualização em 13 de outubro de 2022. Foi corrigido na Produção em 27 de outubro de 2022.
 
 Ao selecionar a opção “[!UICONTROL Remover pino]” em um pino, o usuário recebe uma mensagem sobre a remoção e tenta substituir o pino clicando em “[!UICONTROL Desfazer]” na mensagem. O pino não é substituído na navegação superior, nem é adicionado à lista de pinos na lista [!UICONTROL Mais pinos] (o menu de três pontos na área [!UICONTROL Pinos]).
 
 Se um usuário tentar fixar novamente a página indo até a página e fixando o pino, o pino não será criado e o usuário não poderá fixar a página.
 
-**Todos os usuários listados em [!UICONTROL Balanceador de Carga de Trabalho] ao usar um link compartilhável em [!DNL Safari] navegador**
+**Todos os usuários listados no [!UICONTROL Balanceador de carga de trabalho] ao usar um link compartilhável no [!DNL Safari] navegador**
 
 *[!UICONTROL Balanceador de carga de trabalho]*
 
-Quando um usuário segue um link compartilhável para a [!UICONTROL Balanceador de Carga de Trabalho] ao usar um [!DNL Safari] No navegador, eles veem todos os usuários em vez de apenas os membros da equipe listados.
+Ao seguir um link compartilhável para o [!UICONTROL Balanceador de carga de trabalho] ao usar um navegador do [!DNL Safari], o usuário vê todos os usuários em vez de apenas os membros da equipe listados.
 
 +++
 
@@ -190,7 +190,7 @@ Quando um usuário edita tarefas ou problemas em massa e atribui uma equipe apó
 
 “[!UICONTROL Vamos tentar novamente. Ocorreu o seguinte erro: teamAssignments deve ser uma lista de objetos ou uma lista de IDs]”
 
-**&quot;[!UICONTROL Falha ao carregar arquivo]&quot; erro**
+Erro **“[!UICONTROL Falha ao carregar arquivo]”**
 
 *Documentos*
 
@@ -1074,7 +1074,7 @@ Quando um usuário com acesso de Planejador que inclui o acesso de Administrador
 
 +++**[!DNL Workfront Scenario Planner]Atualização de manutenção em 9 de junho de 2022**
 
-**Painel esquerdo redimensionável no[!DNL Scenario Planner]**
+**Painel esquerdo redimensionável no [!DNL Scenario Planner]**
 
 *[!DNL Workfront Scenario Planner]*
 
@@ -1100,7 +1100,7 @@ Quando um usuário exibe o histórico de execução de um cenário e tenta rolar
 
 +++**Atualização de manutenção em 2 de junho de 2022**
 
-O **[!UICONTROL Otimizador de portfólios] mostra uma pontuação de 0 ao usar um idioma diferente do inglês**
+O **[!UICONTROL Otimizador de portfólios] mostra uma pontuação de 0 ao usar um idioma diferente do inglês**
 
 *Portfólios*
 
@@ -1172,7 +1172,7 @@ Os seguintes problemas foram relatados ao imprimir um painel em um PDF:
 O PDF não imprime todas as linhas no relatório. Quando as linhas não aparecerem, somente será exibido um espaço em branco.
 O PDF inclui espaços em branco entre os cabeçalhos da coluna e a primeira linha do relatório.
 
-O **[!DNL Portfolio Optimizer]mostra uma pontuação de 0 ao usar um idioma diferente do inglês**
+O **[!DNL Portfolio Optimizer] mostra uma pontuação de 0 ao usar um idioma diferente do inglês**
 
 *Portfólios*
 
@@ -1194,13 +1194,13 @@ Quando um usuário visualiza o [!UICONTROL Balanceador de carga de trabalho] usa
 
 +++**Atualização de manutenção em 19 de maio de 2022**
 
-**Não é possível criar uma prova a partir de um[!DNL PowerPoint]**
+**Não é possível criar uma prova a partir de um [!DNL PowerPoint]**
 
 *[!DNL Workfront Proof]*
 
 Quando um usuário tenta criar uma prova a partir de um [!DNL PowerPoint] que inclui um gráfico, a criação da prova falha.
 
-**Não é possível criar uma prova de um documento do [!UICONTROL Word]**
+**Não é possível criar uma prova de um documento do [!UICONTROL Word]**
 
 *[!DNL Workfront Proof]*
 
@@ -1386,7 +1386,7 @@ Quando um usuário tenta abrir o [!UICONTROL Balanceador de carga de trabalho], 
 
 Quando um usuário adiciona uma tarefa abaixo de uma tarefa existente em uma lista, a página salta para baixo na lista. Embora a nova tarefa esteja no local correto, o usuário deve rolar a tela de volta para localizá-la.
 
-**Os usuários adicionados a uma prova não conseguem acessar o item de trabalho da prova no[!DNL Workfront]**
+**Os usuários adicionados a uma prova não conseguem acessar o item de trabalho da prova no [!DNL Workfront]**
 
 *Provas*
 
@@ -1396,7 +1396,7 @@ Se um usuário for adicionado a um estágio no fluxo de trabalho de uma prova, e
 
 Esse problema é específico para provas já criadas e usuários adicionados após o fato. Adicionar usuários ao fluxo de trabalho antes da criação da prova funciona conforme esperado.
 
-**Não é possível enviar email de redefinição de senha a partir do[!DNL Workfront]**
+**Não é possível enviar email de redefinição de senha a partir do [!DNL Workfront]**
 
 *Usuários*
 
@@ -1570,7 +1570,7 @@ Quando um usuário acessa uma página de Projetos por meio de uma guia que foi f
 
 +++**Atualização de manutenção em 31 de março de 2022**
 
-**Os fusos horários não são consistentes entre o [!DNL Workfront] e[!DNL Workfront Proof]**
+**Os fusos horários não são consistentes entre o [!DNL Workfront] e [!DNL Workfront Proof]**
 
 *[!DNL Workfront Proof]*
 
@@ -1604,7 +1604,7 @@ Quando um usuário tenta adicionar um formulário personalizado entre objetos à
 
 Quando um usuário tenta atribuir outro usuário a uma tarefa no [!UICONTROL Balanceador de carga de trabalho] e a tarefa é atribuída a uma função de trabalho diferente da função de trabalho principal do usuário atribuído, o usuário será atribuído à tarefa pela função de trabalho principal e a seguinte mensagem será exibida:
 
-“\&lt;Name\> não corresponde à função de \&lt;Task role assignment\>. 1 item de trabalho atribuído à função de &lt;\Task role assignment\> será atribuído a \&lt;Name\> na função de \&lt;Primary job role\>.”
+“&lt;Name> não corresponde à função de &lt;Task role assignment>. 1 item de trabalho atribuído à função de &lt;\Task role assignment> será atribuído a &lt;Name> na função de &lt;Primary job role>.”
 
 Isso ocorre mesmo se o usuário tiver a função de tarefa da atribuição de função de tarefa como uma função de trabalho secundária.
 
@@ -1644,7 +1644,7 @@ OBSERVAÇÃO: essa correção de problema incluía funcionalidade adicional. Ago
 
 +++**Atualização de manutenção em 24 de março de 2022**
 
-**Os fusos horários não são consistentes entre o [!DNL Workfront] e[!DNL Workfront Proof]**
+**Os fusos horários não são consistentes entre o [!DNL Workfront] e [!DNL Workfront Proof]**
 
 *[!DNL Workfront Proof]*
 
@@ -1868,7 +1868,7 @@ Quando um usuário altera o status de um item de trabalho no cabeçalho, o statu
 
 +++**Atualização de manutenção em 3 de março de 2022**
 
-**Não é possível adicionar o documento a partir de[!DNL Google Drive]**
+**Não é possível adicionar o documento a partir de [!DNL Google Drive]**
 
 *Documentos*
 
@@ -1904,7 +1904,7 @@ Quando um usuário não administrador tenta converter um problema em um projeto 
 
 Quando um administrador converte o problema, os dados são transportados para o novo projeto, como esperado.
 
-O limite do tamanho de arquivo do **[!DNL XLS]e do [!DNL XLSX] foi temporariamente reduzido para 100 MB para provas**
+O limite do tamanho de arquivo do **[!DNL XLS] e do [!DNL XLSX] foi temporariamente reduzido para 100 MB para provas**
 
 *Prova*
 
@@ -1991,7 +1991,7 @@ Quando um usuário tenta converter um problema em um projeto usando um modelo e 
 
 Ao tentar abrir uma prova, o usuário não consegue abri-la. Por fim, a página é atualizada.
 
-O limite do tamanho de arquivo do **[!DNL XLS]e do [!DNL XLSX] foi temporariamente reduzido para 100 MB para provas**
+O limite do tamanho de arquivo do **[!DNL XLS] e do [!DNL XLSX] foi temporariamente reduzido para 100 MB para provas**
 
 *Prova*
 
@@ -2283,7 +2283,7 @@ Quando um usuário tenta anexar um formulário personalizado ou um modelo a um p
 
 Quando um usuário visualiza uma prova na área [!UICONTROL Documentos], os comentários feitos na prova em si não serão exibidos na área [!UICONTROL Atualizações] do documento.
 
-**[!UICONTROL Balanceador de carga de trabalho]: “[!UICONTROL ?[objeto Objeto]?]” é exibido nas informações de superalocação**
+**[!UICONTROL Balanceador de carga de trabalho]: “[!UICONTROL ?[objeto Objeto]?]” é exibido nas informações de superalocação**
 
 *[!UICONTROL Balanceador de carga de trabalho]*
 

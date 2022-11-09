@@ -4,7 +4,7 @@ user-guide-description: Problemas conhecidos do [!DNL Adobe Workfront]
 source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
 workflow-type: tm+mt
 source-wordcount: '1598'
-ht-degree: 90%
+ht-degree: 95%
 
 ---
 
@@ -24,16 +24,16 @@ ht-degree: 90%
       + [Listas: Erros de edição embutidos pelo usuário não causam mensagens de erro](known-issues-workfront/wf-lists-error-messages-not-generated.md)
       + [Pesquisar: A pesquisa é extremamente lenta](known-issues-workfront/wf-search-basic-search-is-slow.md)
       + [[!DNL Workfront Fusion]: Erros 404 em [!DNL Workfront] módulos](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md)
-      + [API: Não é possível classificar por campos dinâmicos](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md)
-      + [Provas: Geração de prova é extremamente lenta](known-issues-workfront/wf-proofs-slow-proof-generation.md)
-      + [Projetos: Problemas de desempenho e mensagem de erro ao criar um projeto a partir de um modelo](known-issues-workfront/wf-issues-when-creating-project-from-template.md)
-      + [Solicitações: Não é possível visualizar mais de 100 Tópicos da Fila em uma página](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md)
-      + [Problemas: A navegação à esquerda exibe &quot;(0)&quot; problemas quando os problemas estão presentes](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
-      + [Solicitações: [!UICONTROL Configurações da fila de emails] não disponível](known-issues-workfront/wf-requests-email-queue-details-not-available.md)
-      + [[!UICONTROL Quadros]: [!UICONTROL Tomada] a pesquisa de coluna é ineficaz](known-issues-workfront/wf-boards-search-returns-no-results.md)
-      + [[!UICONTROL Configuração]: Lista carregar lentamente em [!UICONTROL Configuração]](known-issues-workfront/wf-setup-lists-load-slowly.md)
-      + [Formulários personalizados: [!UICONTROL HORA] em campos calculados usa UTC](known-issues-workfront/wf-custom-form-hours-use-utc.md)
-      + [Ágil: As tarefas atribuídas por meio da edição em massa não aparecem no backlog da equipe](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md)
+      + [API: não é possível classificar por campos dinâmicos](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md)
+      + [Provas: a geração de prova é extremamente lenta](known-issues-workfront/wf-proofs-slow-proof-generation.md)
+      + [Projetos: problemas de desempenho e mensagem de erro ao criar um projeto a partir de um modelo](known-issues-workfront/wf-issues-when-creating-project-from-template.md)
+      + [Solicitações: não é possível exibir mais de 100 tópicos da fila em uma página](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md)
+      + [Problemas: a navegação à esquerda exibe “(0)” problemas quando há problemas](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
+      + [Solicitações: as [!UICONTROL Configurações da fila de emails] não estão disponíveis](known-issues-workfront/wf-requests-email-queue-details-not-available.md)
+      + [[!UICONTROL Quadros]: a pesquisa da coluna [!UICONTROL Entrada] é ineficiente](known-issues-workfront/wf-boards-search-returns-no-results.md)
+      + [[!UICONTROL Configuração]: as listas carregam lentamente na [!UICONTROL Configuração]](known-issues-workfront/wf-setup-lists-load-slowly.md)
+      + [Formulários personalizados: a função [!UICONTROL HORA] em campos calculados usa UTC](known-issues-workfront/wf-custom-form-hours-use-utc.md)
+      + [Agile: tarefas atribuídas por meio da edição em massa não aparecem na lista de pendências da equipe](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md)
       + [Relatórios: as informações de uso do relatório não são atualizadas](known-issues-workfront/wf-reports-usage-not-updating.md)
       + [Navegação: não é possível fixar objetos](known-issues-workfront/wf-navigation-cannot-pin-objects.md)
       + [[!UICONTROL Quadros]: a página [!UICONTROL Quadros] não carrega](known-issues-workfront/wf-boards-boards-do-not-load.md)

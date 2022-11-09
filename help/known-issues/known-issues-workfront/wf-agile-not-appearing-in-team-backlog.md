@@ -1,28 +1,27 @@
 ---
-title: "Ágil: Tarefas atribuídas por meio da edição em massa não aparecem no backlog da equipe"
-description: "Quando um usuário atribui tarefas a uma equipe do Scrum usando a edição em massa, essas tarefas não aparecem no backlog da equipe."
+title: '“Agile: tarefas atribuídas por meio da edição em massa não aparecem na lista de pendências da equipe”'
+description: Quando um usuário atribui tarefas a uma equipe do Scrum usando a edição em massa, essas tarefas não aparecem na lista de pendências da equipe.
 hidefromtoc: true
-source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
+exl-id: 07244b97-bfb4-4920-b91e-b1d448e53718
+source-git-commit: 66e3bc22d8aef2d6287161f4a13fbbe0f3ac99c8
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 5%
+ht-degree: 93%
 
 ---
 
-
-# Ágil: As tarefas atribuídas por meio da edição em massa não aparecem no backlog da equipe
+# Agile: tarefas atribuídas por meio da edição em massa não aparecem na lista de pendências da equipe
 
 >[!NOTE]
 >
 >Esse problema foi corrigido em 4 de novembro de 2022.
 
-Quando um usuário atribui tarefas a uma equipe do Scrum usando a edição em massa, essas tarefas não aparecem no backlog da equipe.
+Quando um usuário atribui tarefas a uma equipe do Scrum usando a edição em massa, essas tarefas não aparecem na lista de pendências da equipe.
 
-As equipes kanban não são afetadas por esse problema.
+As equipes Kanban não são afetadas por esse problema.
 
 **Solução alternativa**
 
 Atribua as tarefas em linha, individualmente.
 
 _Reportado pela primeira vez em 13 de outubro de 2022._
-
