@@ -1,9 +1,9 @@
 ---
-title: '“[!DNL Workfront Fusion]: o módulo  [!DNL Workfront]  > [!UICONTROL Chamda de API personalizada] retorna os erros 404 ou 422”'
+title: '“[!DNL Workfront Fusion]: o módulo  [!DNL Workfront]  > [!UICONTROL Chamada de API personalizada] retorna os erros 404 ou 422”'
 description: “O módulo Workfront > API personalizada retorna um erro.”
 hidefromtoc: true
 source-git-commit: f5a953dafaa758e941e56595e9b1cabd6dc87f15
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '68'
 ht-degree: 100%
 
