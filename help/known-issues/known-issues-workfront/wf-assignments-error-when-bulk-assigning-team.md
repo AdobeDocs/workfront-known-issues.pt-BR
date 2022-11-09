@@ -3,7 +3,7 @@ title: '“Atribuições: erro ao atribuir uma equipe em massa”'
 description: “Quando um usuário edita tarefas ou problemas em massa e atribui uma equipe após atribuir um indivíduo, as atribuições não são salvas e o usuário vê um erro.”
 hidefromtoc: true
 source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '111'
 ht-degree: 100%
 
