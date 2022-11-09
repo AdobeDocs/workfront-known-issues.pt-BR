@@ -3,7 +3,7 @@ title: '“Documentos: falha ao carregar o erro do arquivo”'
 description: “Quando um usuário tenta fazer upload de um arquivo para a área Documentos, o arquivo não é carregado e o usuário vê o erro Falha ao fazer upload do arquivo.”
 hidefromtoc: true
 source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
 ht-degree: 100%
 
