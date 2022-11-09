@@ -3,7 +3,7 @@ title: '“Listas: o filtro rápido não retorna resultados ao pesquisar por equ
 description: “Quando um usuário tenta usar o Filtro rápido em uma lista para procurar uma equipe, inserir o nome da equipe não retorna resultados, mesmo quando a equipe está visível na lista (como no campo Atribuído a). Pesquisar a palavra equipe também não retorna resultados.”
 hidefromtoc: true
 source-git-commit: 8f04dc85caf0019001913bb4762c924109516a96
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '132'
 ht-degree: 100%
 
