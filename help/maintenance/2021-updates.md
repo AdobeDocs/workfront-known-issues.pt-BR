@@ -3,7 +3,7 @@ title: Atualizações de manutenção do Workfront de 2021
 description: Histórico das atualizações de manutenção de 2021 do [!DNL Adobe Workfront]
 exl-id: 57a3636e-fd01-4ee6-bc96-df535b62d4f7
 source-git-commit: 65b26c28f83d32aa44e23ca5820bb9a8d8267935
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '10019'
 ht-degree: 100%
 
@@ -271,13 +271,13 @@ Quando um usuário cria uma nova tarefa usando o botão “[!UICONTROL Nova tare
 
 **Os campos não são exibidos nos cartões de história do Agile**
 
-_Ágil_
+_Agile_
 
 Quando um usuário visualiza um storyboard do Agile, os cartões são exibidos somente nos campos [!UICONTROL Descrição] e [!UICONTROL Status]. Nenhum outro campo, inclusive qualquer campo personalizado, será exibido.
 
 **Os cartões retornam à coluna original antes de passar para a nova coluna**
 
-_Ágil_
+_Agile_
 
 Quando um usuário arrasta um cartão para uma nova coluna no storyboard, ele pode ver o cartão que está sendo arrastado. No entanto, quando o usuário solta o cartão na nova coluna, o cartão aparece brevemente na coluna original antes de ser exibido na nova coluna.
 
@@ -374,13 +374,13 @@ Quando um usuário no [!UICONTROL Balanceador de carga de trabalho] tenta adicio
 
 **O quadro Agile Scrum não exibe histórias**
 
-_Ágil_
+_Agile_
 
 Quando um usuário tenta visualizar o quadro Scrum na iteração de uma equipe, o quadro Scrum é exibido em branco.
 
 **O storyboard Scrum fica em branco ao usar filtros**
 
-_Ágil_
+_Agile_
 
 Quando um usuário tenta exibir um storyboard Scrum usando qualquer filtro, exceto o filtro “[!UICONTROL Todos os grupos]”, uma tela em branco é exibida. O usuário não pode voltar para o filtro “[!UICONTROL Todas as equipes]”.
 
@@ -428,7 +428,7 @@ Quando um usuário na nova experiência do [!DNL Workfront] cria uma solicitaç�
 
 **O storyboard Scrum fica em branco ao usar filtros**
 
-_Ágil_
+_Agile_
 
 Quando um usuário tenta exibir um storyboard Scrum usando qualquer filtro, exceto o filtro “[!UICONTROL Todos os grupos]”, uma tela em branco é exibida. O usuário não pode voltar para o filtro “[!UICONTROL Todas as equipes]”.
 
@@ -715,7 +715,7 @@ Quando um usuário no [!DNL Adobe Workfront Classic] seleciona um problema da [!
 
 **Não é possível personalizar a exibição ágil no projeto**
 
-_Ágil_
+_Agile_
 
 Quando um usuário tenta personalizar uma visualização ágil existente em um projeto, a janela é fechada e o usuário não consegue editá-la.
 
@@ -779,7 +779,7 @@ Quando um usuário cria uma nova prova e tenta alterar as configurações, a con
 
 O **[!UICONTROL Storyboard] não carrega corretamente**
 
-_Ágil_
+_Agile_
 
 Quando um usuário na nova experiência do [!DNL Adobe Workfront] navega para um [!UICONTROL Storyboard], pode levar até 10 segundos para carregar o quadro. O atraso no carregamento é devido ao sistema carregar todas as placas quando ele deve carregar apenas 50 placas de cada vez.
 
@@ -958,7 +958,7 @@ No futuro, essa marca será mostrada em outros tipos de emails do Workfront.
 
 **Não é possível editar uma equipe**
 
-_Ágil_
+_Agile_
 
 Quando um usuário na nova experiência do [!DNL Adobe Workfront] clica em [!UICONTROL Editar] para abrir a Página de equipe do [!DNL Edit] de uma Equipe Ágil, a página é carregada inicialmente, em seguida, as configurações desaparecem e ela fica em branco.
 
@@ -1039,7 +1039,7 @@ _[!DNL Workfront Proof]_
 
 Quando um usuário navega até a página [!UICONTROL Criação de nova prova] no [!DNL Workfront Proof] e o conteúdo está sendo traduzido para um idioma diferente do inglês, algumas frases ainda são exibidas em inglês.
 
-**Rótulos desativados e excluídos adicionados aos usuários[!DNL Workfront Proof]**
+**Rótulos desativados e excluídos adicionados aos usuários [!DNL Workfront Proof]**
 
 _[!DNL Workfront Proof]_
 
@@ -1245,7 +1245,7 @@ Quando um usuário clica em um objeto na [!UICONTROL Lista de trabalho da págin
 
 +++**Atualização de manutenção em 29 de abril de 2021**
 
-A integração do **[!DNL SharePoint]é autenticada usando credenciais de uma integração separada**
+A integração do **[!DNL SharePoint] é autenticada usando credenciais de uma integração separada**
 
 _Integrações do Workfront_
 
@@ -1257,7 +1257,7 @@ _Integrações do Workfront_
 
 Quando um usuário tenta fazer upload ou exportar arquivos usando a integração do [!DNL Workfront for Adobe Creative Cloud], é exibida a mensagem de erro “[!UICONTROL Não é possível ler a propriedade ‘estágios’ de indefinido]” e não é possível carregar ou exportar os arquivos.
 
-**Os arquivos não estão visíveis no[!DNL Internet Explorer]**
+**Os arquivos não estão visíveis no [!DNL Internet Explorer]**
 
 _Documentos_
 
@@ -1298,7 +1298,7 @@ _[!UICONTROL Balanceador de carga de trabalho]_
 
 Quando um usuário visualiza as horas planejadas de uma tarefa no [!UICONTROL Balanceador de carga de trabalho], o valor das horas planejadas não corresponde às horas planejadas atribuídas à tarefa.
 
-**A barra de navegação superior não está visível no[!DNL Workfront Proof]**
+**A barra de navegação superior não está visível no [!DNL Workfront Proof]**
 
 _[!DNL Workfront Proof]_
 
@@ -1324,7 +1324,7 @@ Quando um usuário tenta criar uma prova diretamente do [!DNL Adobe Creative Clo
 
 +++**Atualização de manutenção em 1 de abril de 2021**
 
-**Problemas ao visualizar o painel de resumo no[!DNL Chrome]**
+**Problemas ao visualizar o painel de resumo no [!DNL Chrome]**
 
 _[!UICONTROL Resumo]_
 
@@ -1393,7 +1393,7 @@ Quando um usuário usa um termo da API do [!DNL Workfront] para selecionar uma c
 
 **As configurações do modelo de projeto agora se aplicam aos projetos criados por meio do [!DNL Workfront Fusion] 2.0**
 
-_[!DNL Workfront Fusion]2,0_
+_[!DNL Workfront Fusion]2.0_
 
 Ao criar um projeto a partir de um modelo usando o [!DNL Workfront Fusion] 2.0, as configurações do modelo são aplicadas ao novo projeto. Esse comportamento é o mesmo ao criar um projeto a partir de um modelo no aplicativo [!DNL Workfront].
 
@@ -1608,7 +1608,7 @@ Quando um usuário na nova experiência do [!DNL Workfront] clica em alguns link
 
 +++**Atualização de manutenção do Workfront Fusion em 16 de fevereiro de 2021**
 
-O **[!DNL Workfront Fusion]2.0 mostra fusos horários imprecisos**
+O **[!DNL Workfront Fusion] 2.0 mostra fusos horários imprecisos**
 
 _Cenários_
 
@@ -1675,7 +1675,7 @@ Quando um usuário na nova experiência do [!DNL Workfront] abre o [!UICONTROL C
 
 _Projetos_
 
-Ao usar um processo de aprovação de uso único para um projeto na nova experiência do [!DNL Workfront], agora ele é exibido como “[!UICONTROL Processo de aprovação de uso único]” em vez de “\&lt;Custom\>” na caixa [!UICONTROL Editar projeto]. Isso ainda não está disponível para tarefas e problemas.
+Ao usar um processo de aprovação de uso único para um projeto na nova experiência do [!DNL Workfront], agora ele é exibido como “[!UICONTROL Processo de aprovação de uso único]” em vez de “&lt;Custom>” na caixa [!UICONTROL Editar projeto]. Isso ainda não está disponível para tarefas e problemas.
 
 **Aparência e comportamento aprimorados para formulários personalizados**
 
@@ -1711,7 +1711,7 @@ _[!DNL Workfront Proof]_
 
 Quando um usuário cria uma prova e desmarca a configuração [!UICONTROL Permitir compartilhamento de prova via URL ou código incorporado], a configuração é verificada novamente após a geração da prova. Se o usuário deixar a configuração marcada, ela será desmarcada após gerar a prova.
 
-Os usuários do **[!DNL Mac]não conseguem colar em campos de texto no visualizador de prova**
+Os usuários do **[!DNL Mac] não conseguem colar em campos de texto no visualizador de prova**
 
 _[!DNL Workfront Proof]_
 
