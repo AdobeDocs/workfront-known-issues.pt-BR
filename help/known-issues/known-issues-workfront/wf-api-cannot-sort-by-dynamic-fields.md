@@ -1,16 +1,16 @@
 ---
-title: "API: Não é possível classificar por campos dinâmicos"
-description: '"A API do Workfront não permite a classificação por campos dinâmicos. “'
+title: '“API: não é possível classificar por campos dinâmicos”'
+description: “A API do Workfront não permite a classificação por campos dinâmicos. ”
 hidefromtoc: true
 source-git-commit: 0f9815d500d0da022a217f023b14379cfbda645b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '47'
-ht-degree: 31%
+ht-degree: 100%
 
 ---
 
 
-# API: Não é possível classificar por campos dinâmicos
+# API: não é possível classificar por campos dinâmicos
 
 <!--Article exists to let people know they can't do this.-->
 
