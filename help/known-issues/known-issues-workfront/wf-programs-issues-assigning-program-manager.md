@@ -2,15 +2,19 @@
 title: '“Programas: problemas ao atribuir um Proprietário de programa”'
 description: “Quando um usuário cria um programa e atribui um Proprietário do programa, ocorrem os problemas descritos neste artigo.”
 hidefromtoc: true
-source-git-commit: f7685aec7811e8741440479d083ef13922b73327
-workflow-type: ht
-source-wordcount: '95'
-ht-degree: 100%
+source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
+workflow-type: tm+mt
+source-wordcount: '101'
+ht-degree: 94%
 
 ---
 
 
 # Programas: problemas ao atribuir um [!UICONTROL Proprietário de programa]
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em 7 de novembro de 2022.
 
 Quando um usuário cria um programa e atribui um [!UICONTROL Proprietário de programa], os seguintes problemas ocorrem:
 

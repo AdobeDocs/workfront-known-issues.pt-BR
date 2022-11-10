@@ -3,10 +3,10 @@ title: Problemas conhecidos no  [!DNL Adobe Workfront Proof]
 description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
+source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
 workflow-type: tm+mt
-source-wordcount: '202'
-ht-degree: 97%
+source-wordcount: '196'
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Proof]: Não é possível abrir uma prova interativa](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md) | 3 de novembro de 2022 |
 | [Documentos: o link de solicitação de documento externo abre a página de logon](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 20 de outubro de 2022 |
 
 {style=&quot;table-layout:auto&quot;}

@@ -2,15 +2,19 @@
 title: "Workfront Proof: Não é possível abrir uma prova interativa"
 description: "Quando um usuário tenta abrir uma prova interativa, a prova não abre e o usuário vê uma mensagem de erro."
 hidefromtoc: true
-source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
+source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '79'
 ht-degree: 5%
 
 ---
 
 
 # [!DNL Workfront Proof]: Não é possível abrir uma prova interativa
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em 10 de novembro de 2022.
 
 Quando um usuário tenta abrir uma prova interativa, a prova não abre e o usuário vê a seguinte mensagem:
 

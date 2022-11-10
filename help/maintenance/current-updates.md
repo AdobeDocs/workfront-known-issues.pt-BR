@@ -2,9 +2,9 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
+source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
 workflow-type: tm+mt
-source-wordcount: '15236'
+source-wordcount: '15269'
 ht-degree: 98%
 
 ---
@@ -31,7 +31,13 @@ Para obter atualizações de manutenção anteriores a 2022, consulte [Atualiza�
 
 ## Atualizações em novembro de 2022
 
-+++**(Planejado) Atualização de manutenção em 10 de novembro de 2022**
++++**Atualização de manutenção em 10 de novembro de 2022**
+
+**Tarefas de edição em massa alteram atribuições de tarefas**
+
+*Tarefas*
+
+Quando um usuário edita qualquer campo em massa para um conjunto de tarefas, as Atribuições da primeira tarefa são aplicadas a todas as tarefas. Isso exclui atribuições anteriores.
 
 **Não é possível abrir uma prova interativa**
 
