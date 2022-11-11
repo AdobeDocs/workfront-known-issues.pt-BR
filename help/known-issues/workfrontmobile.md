@@ -3,10 +3,10 @@ title: Problemas conhecidos no  [!DNL Adobe Workfront] Aplicativo móvel
 description: Problemas conhecidos relatados para  [!DNL Adobe Workfront]  Aplicativo móvel
 keywords: novo arquivo, adicionar arquivo
 exl-id: 9f48d0f8-b4e8-4bd8-b317-ff406e97cb1b
-source-git-commit: 6c17aed35f0124d39c5c5f5807e02ba242fa2801
-workflow-type: ht
-source-wordcount: '58'
-ht-degree: 100%
+source-git-commit: ea7b66fa2ef7d3a93250c7fe3b3ae804cad3bfb5
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ Esta página contém problemas identificados atualmente o Aplicativo móvel [!DN
 >
 >Para obter informações sobre tempo de atividade ou interrupções do servidor, consulte [https://status.adobe.com/pt](https://status.adobe.com/pt). Para obter informações sobre problemas corrigidos recentemente, consulte [[!DNL Workfront] Atualizações de manutenção](../maintenance/current-updates.md).
 
-**No momento, não há problemas conhecidos no[!DNL Workfront Library]**
+**No momento, não há problemas conhecidos no[!DNL Workfront Mobile]**
 
 <!--
 

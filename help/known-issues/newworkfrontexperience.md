@@ -3,7 +3,7 @@ title: Problemas conhecidos na nova experiência do  [!DNL Adobe Workfront]
 description: Problemas conhecidos reportados da nova experiência do  [!DNL Adobe Workfront]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 813e6bb26b612f016ad7df071fa7f6690fe528cf
+source-git-commit: 8a0bd10d95cda709d9d934ef1458bb07fc2f335d
 workflow-type: tm+mt
 source-wordcount: '564'
 ht-degree: 92%
@@ -29,7 +29,6 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | [Provas: a geração de prova é extremamente lenta](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 de outubro de 2022 |
 | [Solicitações: as [!UICONTROL Configurações da fila de emails] não estão disponíveis](known-issues-workfront/wf-requests-email-queue-details-not-available.md) | 27 de outubro de 2022 |
 | [Provas: o Resumo de impressão não exibe todas as páginas da prova](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 de outubro de 2022 |
-| [Notificações: os usuários não são notificados quando mencionados ou incluídos em um comentário](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 29 de setembro de 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -60,6 +59,7 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Notificações: os usuários não são notificados quando mencionados ou incluídos em um comentário](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 11 de novembro de 2022 |
 | [API: não é possível classificar por campos dinâmicos](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 31 de outubro de 2022 |
 | [[!UICONTROL Configuração]: as listas carregam lentamente na [!UICONTROL Configuração]](known-issues-workfront/wf-setup-lists-load-slowly.md) | 28 de outubro de 2022 |
 | [Provas: a prova não é compartilhada com os usuários no Fluxo de trabalho de prova](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18 de setembro de 2022 |
