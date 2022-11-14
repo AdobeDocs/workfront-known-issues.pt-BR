@@ -1,11 +1,11 @@
 ---
-title: ""
-description: ""
+title: "Provas: [!UICONTROL Imprimir resumo] não mostra a miniatura da imagem"
+description: "Quando um usuário exibe a variável [!UICONTROL Imprimir resumo] de uma prova em [!DNL Workfront], a miniatura da prova não é exibida. Em vez disso, uma imagem simples de espaço reservado é exibida."
 hidefromtoc: true
-source-git-commit: 7d6683758d76de8d31048f6f0657d45ea9fd5fe1
+source-git-commit: 3ce48fed9e3e7b57e2775c33313718159daecb98
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '72'
+ht-degree: 5%
 
 ---
 
