@@ -3,9 +3,9 @@ title: '“Notificações: erros ao acessar configurações de notificação por
 description: “Ao tentar alterar as configurações de notificação por email, o usuário pode ver um erro.”
 hidefromtoc: true
 source-git-commit: 047fff767e0eb5e0eff72640ddeb7626276afb7c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '96'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
