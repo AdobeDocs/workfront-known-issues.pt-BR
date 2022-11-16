@@ -3,9 +3,9 @@ title: '“Problemas: a navegação à esquerda exibe (0) problemas quando há p
 description: “Quando um usuário está visualizando uma tarefa onde há problemas, a navegação à esquerda da tarefa exibe (0) na área Problemas, indicando que não há problemas. Se o usuário visualizar a área Problemas da tarefa, verá os problemas.”
 hidefromtoc: true
 source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 87%
 
 >[!NOTE]
 >
->Este problema foi encerrado porque o botão está funcionando conforme projetado. O número na área Problemas refere-se ao número de emissões em aberto, não ao total de emissões.
+>Este problema foi encerrado porque o botão está funcionando conforme projetado. O número na área Problemas refere-se ao número de problemas em aberto, não ao total de problemas.
 
 Quando um usuário está visualizando uma tarefa onde há problemas, a navegação à esquerda da tarefa exibe (0) na área Problemas, indicando que não há problemas. Se o usuário visualizar a área Problemas da tarefa, verá os problemas.
 
