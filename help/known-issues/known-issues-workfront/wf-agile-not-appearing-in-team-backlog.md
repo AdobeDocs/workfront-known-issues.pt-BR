@@ -4,9 +4,9 @@ description: Quando um usuário atribui tarefas a uma equipe do Scrum usando a e
 hidefromtoc: true
 exl-id: 07244b97-bfb4-4920-b91e-b1d448e53718
 source-git-commit: 66e3bc22d8aef2d6287161f4a13fbbe0f3ac99c8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
