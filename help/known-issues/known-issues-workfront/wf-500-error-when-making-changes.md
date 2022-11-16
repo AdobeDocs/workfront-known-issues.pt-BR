@@ -1,31 +1,30 @@
 ---
-title: "Workfront: Erro 500 ao fazer alterações em um objeto Workfront"
-description: "Quando um usuário tenta fazer alterações em um objeto do Workfront, as alterações não são salvas e o usuário vê um erro"
+title: '“Workfront: erro 500 ao fazer alterações em um objeto do Workfront”'
+description: Ao tentar fazer alterações em um objeto do Workfront, as alterações não são salvas e o usuário vê um erro
 hidefromtoc: true
-source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
-workflow-type: tm+mt
+exl-id: 67c686a8-3c4f-48c2-a120-eca27816a367
+source-git-commit: 66e3bc22d8aef2d6287161f4a13fbbe0f3ac99c8
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
-
-# [!DNL Workfront]: Erro 500 ao fazer alterações em um [!DNL Workfront] objeto
+# [!DNL Workfront]: erro 500 ao fazer alterações em um objeto do [!DNL Workfront]
 
 >[!NOTE]
 >
 >Esse problema foi corrigido em 4 de novembro de 2022.
 
-Quando um usuário tenta fazer alterações em um [!DNL Workfront] , as alterações não são salvas e o usuário vê o seguinte erro:
+Ao tentar fazer alterações em um objeto do [!DNL Workfront], as alterações não são salvas e o usuário vê o seguinte erro:
 
-&quot;[!UICONTROL 500: Erro de banco de dados devido a uma instrução SQL inválida.]&quot;
+“[!UICONTROL 500: erro de banco de dados devido à instrução SQL inválida.]”
 
-Isso foi relatado nas seguintes situações:
+Esse problema foi relatado as seguintes situações:
 
 * Alteração do status de um objeto
 * Recálculo de linhas do tempo
-* Anexar um template
-* Hora de registro
+* Anexo de um modelo
+* Registro de hora
 
 _Reportado pela primeira vez em 3 de novembro de 2022._
-
