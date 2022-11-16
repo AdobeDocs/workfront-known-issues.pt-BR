@@ -4,7 +4,7 @@ user-guide-description: Problemas conhecidos do [!DNL Adobe Workfront]
 source-git-commit: 6fb8c92089c56f00825ab27f6c92ed9335380a4f
 workflow-type: tm+mt
 source-wordcount: '1666'
-ht-degree: 91%
+ht-degree: 95%
 
 ---
 
@@ -23,14 +23,14 @@ ht-degree: 91%
       + [Provas: O resumo de impressão não mostra a miniatura da imagem](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
       + [Integrações: [!UICONTROL Calendário doméstico] mostra eventos uma hora depois de [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)
       + [Modelos de layout: Ocultar um item oculta o item incorreto](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)
-      + [Tarefas: Tarefas de edição em massa alteram atribuições de tarefas](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md)
-      + [Ágil: A tarefa tem uma ordem de backlog Kanban de 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
-      + [Tarefas: Não é possível alterar [!UICONTROL Data de Conclusão Planejada] de uma tarefa](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
-      + [Workfront: Erro 500 ao fazer alterações em um objeto Workfront](known-issues-workfront/wf-500-error-when-making-changes.md)
-      + [Solicitações: Mensagem &quot;Ops&quot; ao editar a fila de solicitações](known-issues-workfront/wf-requests-error-message-when-editing-queue.md)
-      + [Listas: Erros de edição embutidos pelo usuário não causam mensagens de erro](known-issues-workfront/wf-lists-error-messages-not-generated.md)
-      + [Pesquisar: A pesquisa é extremamente lenta](known-issues-workfront/wf-search-basic-search-is-slow.md)
-      + [[!DNL Workfront Fusion]: Erros 404 em [!DNL Workfront] módulos](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md)
+      + [Tarefas: tarefas de edição em massa alteram atribuições de tarefas](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md)
+      + [Agile: a tarefa tem uma ordem de backlog Kanban de 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
+      + [Tarefas: Não é possível alterar a [!UICONTROL Data de conclusão planejada] de uma tarefa](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
+      + [Workfront: erro 500 ao fazer alterações em um objeto do Workfront](known-issues-workfront/wf-500-error-when-making-changes.md)
+      + [Solicitações: Mensagem de erro ao editar a fila de solicitações](known-issues-workfront/wf-requests-error-message-when-editing-queue.md)
+      + [Listas: erros de edição em linha pelo usuário não causam mensagens de erro](known-issues-workfront/wf-lists-error-messages-not-generated.md)
+      + [Pesquisa: a pesquisa está extremamente lenta](known-issues-workfront/wf-search-basic-search-is-slow.md)
+      + [[!DNL Workfront Fusion]: erros 404 em módulos do  [!DNL Workfront] ](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md)
       + [API: não é possível classificar por campos dinâmicos](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md)
       + [Provas: a geração de prova é extremamente lenta](known-issues-workfront/wf-proofs-slow-proof-generation.md)
       + [Projetos: problemas de desempenho e mensagem de erro ao criar um projeto a partir de um modelo](known-issues-workfront/wf-issues-when-creating-project-from-template.md)
@@ -160,7 +160,7 @@ ht-degree: 91%
 + [!DNL Workfront Proof] {#proof}
    + [Problemas conhecidos no  [!DNL Workfront Proof]](workfrontproof.md)
    + Problemas atuais no [!DNL Workfront Proof] {#proof-current}
-      + [[!DNL Workfront Proof]: Não é possível abrir uma prova interativa](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md)
+      + [[!DNL Workfront Proof]: não é possível abrir uma prova interativa](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md)
       + [Provas: o Resumo de impressão não exibe todas as páginas da prova](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
       + [Provas: a prova não é compartilhada com os usuários no Fluxo de trabalho de prova](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
       + [[!DNL Workfront Proof]: páginas em branco ao visualizar uma prova com várias páginas](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
@@ -195,10 +195,10 @@ ht-degree: 91%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problemas conhecidos no Workfront Fusion](workfrontfusion.md)
    + Problemas atuais no [!DNL Workfront Fusion] {#fusion-current}
-      + [[!DNL Workfront Fusion]: Elementos de matriz em [!UICONTROL Iterador] exibição do módulo como &quot;[!UICONTROL Objeto]&quot;](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
+      + [[!DNL Workfront Fusion]: elementos de matriz no módulo [!UICONTROL Iterador] são exibidos como do módulo como “[!UICONTROL objeto]”](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]: erro ao visualizar um erro em um histórico de execução de cenário](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
       + [[!DNL Workfront Fusion]: erro 409 no cenário do [!DNL Fusion] ](known-issues-workfront-fusion/fusion-409-error.md)
-      + [[!DNL Workfront Fusion]: erro “[!UICONTROL Erro ao carrregar dados]”](known-issues-workfront-fusion/fusion-failed-to-load-data-error.md)
+      + [[!DNL Workfront Fusion]: erro “[!UICONTROL Erro ao carregar dados]”](known-issues-workfront-fusion/fusion-failed-to-load-data-error.md)
       + [[!DNL Workfront Fusion]: o módulo  [!DNL Workfront]  > [!UICONTROL Chamada de API personalizada] retorna o erro 404 ou 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: o módulo  [!DNL Adobe PDF Services] > [!UICONTROL Extrair texto] não produz texto](known-issues-workfront-fusion/fusion-pdf-extract-text.md)
       + [[!DNL Workfront Fusion]: erro “Falha ao verificar a conexão”](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
