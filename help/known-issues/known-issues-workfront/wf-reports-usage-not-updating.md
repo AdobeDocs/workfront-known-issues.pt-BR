@@ -3,9 +3,9 @@ title: '“Relatórios: as informações de uso do relatório não são atualiza
 description: “Quando um usuário visualiza um relatório, as informações da Última visualização, como a Última data de visualização e a Última visualização por, não são atualizadas. Isso significa que qualquer informação de uso pode estar incorreta.”
 hidefromtoc: true
 source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '115'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
