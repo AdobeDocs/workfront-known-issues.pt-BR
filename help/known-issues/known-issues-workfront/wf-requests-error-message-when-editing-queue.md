@@ -1,24 +1,24 @@
 ---
-title: "Pedidos: Mensagem completa ao editar a fila de solicitações"
-description: "Quando um usuário está editando uma fila de solicitações e tenta salvar as alterações, ele vê um erro."
+title: '“Solicitações: mensagem de erro ao editar a fila de solicitações”'
+description: “Ao editar uma fila de solicitações e tenta salvar as alterações, o usuário vê um erro.”
 hidefromtoc: true
 source-git-commit: d2d2ae6585d64cfc68d90c17f72d5ce47f7168ab
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '115'
-ht-degree: 31%
+ht-degree: 100%
 
 ---
 
 
-# Solicitações: Mensagem &quot;Ops&quot; ao editar a fila de solicitações
+# Solicitações: Mensagem de erro ao editar a fila de solicitações
 
-Quando um usuário está editando uma fila de solicitações e tenta salvar as alterações, ele vê o seguinte erro:
+Ao editar uma fila de solicitações e tenta salvar as alterações, o usuário vê o seguinte erro:
 
-“Vamos tentar novamente. Ops! Um erro inesperado aconteceu. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.”
+“Vamos tentar novamente. Ops! Um erro inesperado aconteceu. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.&quot;
 
-Além disso, o usuário vê a seguinte mensagem na parte inferior da página, próximo ao botão Salvar :
+Além disso, o usuário vê a seguinte mensagem na parte inferior da página, próximo ao botão Salvar:
 
-&quot;Não foi possível acessar o serviço de e-mail da fila de solicitações. Contate a Workfront.&quot;
+“Não foi possível acessar o serviço de email da fila de solicitações. Contate a Workfront.”
 
 As alterações na fila de solicitações são salvas apesar da mensagem de erro.
 
