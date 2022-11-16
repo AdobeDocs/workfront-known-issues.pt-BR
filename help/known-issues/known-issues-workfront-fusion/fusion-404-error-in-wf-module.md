@@ -1,22 +1,21 @@
 ---
-title: "Workfront Fusion: 404 erros nos módulos Workfront"
-description: "Quando um cenário é executado, um módulo Workfront retorna um erro 404."
+title: '“Workfront Fusion: erros 404 em módulos do Workfront”'
+description: Quando um cenário é executado, um módulo do Workfront retorna um erro 404.
 hidefromtoc: true
-source-git-commit: fb9067cb4d4941c06ae5e6730c15ab906124dc02
-workflow-type: tm+mt
+exl-id: c2a8ceb5-4c72-428d-8432-1aa394388ddd
+source-git-commit: 66e3bc22d8aef2d6287161f4a13fbbe0f3ac99c8
+workflow-type: ht
 source-wordcount: '43'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
+# [!DNL Workfront Fusion]: erros 404 em módulos do [!DNL Workfront]
 
-# [!DNL Workfront Fusion]: Erros 404 em [!DNL Workfront] módulos
+Quando um cenário é executado, um módulo do [!DNL Workfront] retorna um erro 404.
 
-Quando um cenário é executado, um [!DNL Workfront] O módulo retorna um erro 404.
-
-Isso foi relatado nos seguintes módulos:
+Esse problema foi relatado os seguintes módulos:
 
 * [!UICONTROL Ler um registro]
 
 _Reportado pela primeira vez em 27 de outubro de 2022._
-
