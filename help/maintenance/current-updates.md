@@ -2,9 +2,9 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 4934cd2daca87cbc3b1df7914a0e38969e22e061
+source-git-commit: fdf641bd38d05d6b8abac133daa3118d2c0fff3a
 workflow-type: tm+mt
-source-wordcount: '15306'
+source-wordcount: '15397'
 ht-degree: 99%
 
 ---
@@ -32,6 +32,12 @@ Para obter atualizações de manutenção anteriores a 2022, consulte [Atualiza�
 ## Atualizações em novembro de 2022
 
 +++**Atualização de manutenção em 17 de novembro de 2022**
+
+**Documentos colocados na [!UICONTROL Lixeira] se não estiver selecionado ao mover uma tarefa ou um problema**
+
+*Documentos*
+
+Agora, ao desmarcar a opção [!UICONTROL Documentos] no processo de mover uma tarefa ou um problema, os documentos anexados à tarefa ou o problema serão colocados na [!UICONTROL Lixeira] por 30 dias. Um administrador pode restaurá-las, se necessário. O usuário que desmarcar Documentos no processo em movimento receberá um aviso sobre esse comportamento no [!UICONTROL Mover tarefa] ou [!UICONTROL Problema de Movimentação] caixa. Antes dessa melhoria, os documentos eram permanentemente excluídos.
 
 **Ocultar um item oculta o item incorreto**
 
