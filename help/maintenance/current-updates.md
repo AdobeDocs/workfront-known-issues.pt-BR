@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: ffd3cb1f7e355af7fd568a33c7ca205031633276
+source-git-commit: 4934cd2daca87cbc3b1df7914a0e38969e22e061
 workflow-type: tm+mt
-source-wordcount: '15307'
-ht-degree: 98%
+source-wordcount: '15306'
+ht-degree: 99%
 
 ---
 
@@ -31,7 +31,7 @@ Para obter atualizações de manutenção anteriores a 2022, consulte [Atualiza�
 
 ## Atualizações em novembro de 2022
 
-+++**(Planejado) Atualização de manutenção em 17 de novembro de 2022**
++++**Atualização de manutenção em 17 de novembro de 2022**
 
 **Ocultar um item oculta o item incorreto**
 
@@ -54,13 +54,13 @@ Quando um usuário edita qualquer campo em massa para um conjunto de tarefas, as
 
 *Prova do Workfront*
 
-Quando um usuário tenta abrir uma prova interativa, a prova não abre e o usuário vê a seguinte mensagem:
+Ao tentar abrir uma prova interativa, a prova não abre e o usuário vê a seguinte mensagem:
 
-&quot;[!UICONTROL Prova não carregada (501) Tente novamente]&quot;
+“[!UICONTROL Prova não carregada (501) Tente novamente]”
 
 +++
 
-+++**Atualização de manutenção (hotfix) em 4 de novembro de 2022**
++++**Atualização de manutenção (Hot fix) em 4 de novembro de 2022**
 
 **problemas com tarefas adicionadas a uma iteração**
 
@@ -81,13 +81,13 @@ Quando um usuário atribui tarefas a uma equipe do Scrum usando a edição em ma
 
 As equipes Kanban não são afetadas por esse problema.
 
-**&quot;[!UICONTROL Novos destinatários de prova]&quot; caixa de texto é muito pequena**
+A caixa de texto **“[!UICONTROL Novos recipients de prova]” é muito pequena**
 
 *Provas*
 
 Quando um usuário visualiza uma prova e tenta compartilhar a prova na guia [!UICONTROL Compartilhamento], a caixa de texto “[!UICONTROL Novos recipients da prova]” é muito pequena. O usuário pode digitar um nome, mas como a caixa é muito pequena, o texto fica ilegível.
 
-**As informações de uso do relatório não estão sendo atualizadas**
+**As informações de uso do relatório não são atualizadas**
 
 *Relatórios*
 
@@ -102,42 +102,42 @@ Esse comportamento foi relatado quando o usuário acessa o relatório das seguin
 
 O acesso aos relatórios por meio de um painel atualiza as informações da Última visualização.
 
-**[!DNL Workfront]: Erro 500 ao fazer alterações em um [!DNL Workfront] objeto**
+**[!DNL Workfront]: erro 500 ao fazer alterações em um objeto do [!DNL Workfront]**
 
 *[!DNL Workfront]*
 
-Quando um usuário tenta fazer alterações em um [!DNL Workfront] , as alterações não são salvas e o usuário vê o seguinte erro:
+Ao tentar fazer alterações em um objeto do [!DNL Workfront], as alterações não são salvas e o usuário vê o seguinte erro:
 
-&quot;[!UICONTROL 500: Erro de banco de dados devido a uma instrução SQL inválida.]&quot;
+“[!UICONTROL 500: erro de banco de dados devido à instrução SQL inválida.]”
 
-Isso foi relatado nas seguintes situações:
+Esse problema foi relatado as seguintes situações:
 
 * Alteração do status de um objeto
 * Recálculo de linhas do tempo
-* Anexar um template
-* Hora de registro
+* Anexo de um modelo
+* Registro de hora
 
 +++
 
 +++**[!DNL Workfront Fusion]Atualização de manutenção em 3 de novembro de 2022**
 
-**Erro relacionado ao [!UICONTROL apiKey] em [!DNL Workfront] > [!UICONTROL Eventos de observação] módulo**
+**Erro relacionado a [!UICONTROL apiKey] no módulo [!DNL Workfront] > [!UICONTROL Eventos de observação]**
 
 *[!DNL Workfront Fusion]*
 
-Quando um usuário tenta adicionar um webhook no [!DNL Workfront] > [!UICONTROL Eventos de observação] , eles receberão o seguinte erro:
+Ao tentar adicionar um webhook no módulo [!DNL Workfront] > [!UICONTROL Eventos de observação], o usuário recebe o seguinte erro:
 
-&quot;[!UICONTROL A apiKey fornecida estava vazia ou era considerada inválida.]&quot;
+“[!UICONTROL A apiKey fornecida estava vazia ou era considerada inválida.]”
 
 +++
 
 +++**Atualização de manutenção em 3 de novembro de 2022**
 
-**Renomeie as seções &quot;Agendamento&quot; e &quot;Agendamento&quot; para equipes e projetos no modelo de layout**
+**Renomeie as seções “Cronograma” e “Planejando” para equipes e projetos no modelo de layout**
 
 *Modelos de layout*
 
-As guias &quot;Agendamento&quot; e &quot;Agendamento&quot; disponíveis para adicionar um modelo de layout ao painel esquerdo de uma equipe ou projeto foram renomeadas para &quot;Balanceador de carga de trabalho&quot;.
+As guias “Cronograma” e “Planejando” disponíveis para adicionar um modelo de layout ao painel esquerdo de uma equipe ou projeto foram renomeadas para “Balanceador de carga de trabalho”.
 
 **Erros ao acessar configurações de notificação por email**
 
@@ -248,7 +248,7 @@ Se um usuário tentar fixar novamente a página indo até a página e fixando o 
 
 *[!UICONTROL Planejamento de recursos]*
 
-Quandos um usuário tenta nomear um novo filtro no [!UICONTROL Planejador de recursos], a caixa de nome permanece em branco. Além disso, se o usuário pressionar a barra de espaço, o botão [!UICONTROL Salvar] ficará desativado.
+Quando um usuário tenta nomear um novo filtro no [!UICONTROL Planejador de recursos], a caixa de nome permanece em branco. Além disso, se o usuário pressionar a barra de espaço, o botão [!UICONTROL Salvar] ficará desativado.
 
 **Não é possível editar o nome ou porcentagem concluída de uma tarefa ou problema**
 
@@ -1621,7 +1621,7 @@ Quando um usuário tenta adicionar um formulário personalizado entre objetos à
 
 Quando um usuário tenta atribuir outro usuário a uma tarefa no [!UICONTROL Balanceador de carga de trabalho] e a tarefa é atribuída a uma função de trabalho diferente da função de trabalho principal do usuário atribuído, o usuário será atribuído à tarefa pela função de trabalho principal e a seguinte mensagem será exibida:
 
-“&lt;Name> não corresponde à função de &lt;Task role assignment>. 1 item de trabalho atribuído à função de &lt;\Task role assignment> será atribuído a &lt;Name> na função de &lt;Primary job role>.”
+“&lt;Name> não corresponde à função de &lt;Task role assignment>. 1 item de trabalho atribuído à função de &lt;Task role assignment> será atribuído a &lt;Name> na função de &lt;Primary job role>.”
 
 Isso ocorre mesmo se o usuário tiver a função de tarefa da atribuição de função de tarefa como uma função de trabalho secundária.
 
@@ -1865,7 +1865,7 @@ Quando um usuário adiciona um problema em linha e há uma exibição personaliz
 
 *Tarefas*
 
-Agora é possível mover ou copiar uma tarefa para outra tarefa em um projeto sem ter permissões para adicionar tarefas ao projeto de destino. Você deve ter permissões para adicionar tarefas a pelo menos uma das tarefas do projeto de destino. Antes desta atualização, você tinha permissões para adicionar tarefas ao projeto para mover ou copiar uma tarefa para o projeto ou para qualquer uma de suas tarefas. Essa atualização está disponível no ambiente de Produção. Ela está disponível no ambiente de Pré-visualização desde a atualização de manutenção de 24 de março de 2022.
+Agora é possível mover ou copiar uma tarefa para outra tarefa em um projeto sem ter permissões para adicionar tarefas ao projeto de destino. Você deve ter permissões para adicionar tarefas a pelo menos uma das tarefas do projeto de destino. Antes desta atualização, você tinha permissões para adicionar tarefas ao projeto para mover ou copiar uma tarefa para o projeto ou para qualquer uma de suas tarefas.  Essa atualização está disponível no ambiente de Produção. Ela está disponível no ambiente de Pré-visualização desde a atualização de manutenção de 24 de março de 2022.
 
 OBSERVAÇÃO: esta atualização estará disponível no ambiente de Produção ao copiar ou mover problemas após a versão de Produção 22.2. Para obter mais informações sobre a versão atual, consulte workfront.com/release.
 
