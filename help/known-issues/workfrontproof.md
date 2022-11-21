@@ -3,10 +3,10 @@ title: Problemas conhecidos no  [!DNL Adobe Workfront Proof]
 description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: be498327ea7bb2a49be0fc65e53806ddb217aa8c
+source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
 workflow-type: tm+mt
-source-wordcount: '227'
-ht-degree: 87%
+source-wordcount: '208'
+ht-degree: 89%
 
 ---
 
@@ -25,7 +25,6 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
 | [Provas: As provas são exibidas no Visualizador de prova como menos nítidas que a imagem original](known-issues-workfront/wf-proofs-are-blurry.md) | 18 de novembro de 2022 |
-| [Provas: [!UICONTROL Imprimir resumo] não mostra a miniatura da imagem](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md) | 14 de novembro de 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -36,7 +35,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
 | [Provas: A adição de mensagem personalizada causa problema no visualizador de prova](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | 14 de novembro de 2022 |
-| [Documentos: o link de solicitação de documento externo abre a página de logon](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 20 de outubro de 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 

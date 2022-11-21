@@ -3,9 +3,9 @@ title: Problemas conhecidos na nova experiência do  [!DNL Adobe Workfront]
 description: Problemas conhecidos reportados da nova experiência do  [!DNL Adobe Workfront]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: be498327ea7bb2a49be0fc65e53806ddb217aa8c
+source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
 workflow-type: tm+mt
-source-wordcount: '660'
+source-wordcount: '621'
 ht-degree: 85%
 
 ---
@@ -25,13 +25,8 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
 | [Provas: As provas são exibidas no Visualizador de prova como menos nítidas que a imagem original](known-issues-workfront/wf-proofs-are-blurry.md) | 18 de novembro de 2022 |
-| [Formulários personalizados: &quot;[!UICONTROL Você não tem acesso suficiente]&quot; erro ao editar formulário personalizado](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 16 de novembro de 2022 |
-| [Provas: [!UICONTROL Imprimir resumo] não mostra a miniatura da imagem](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md) | 14 de novembro de 2022 |
 | [Integrações: [!UICONTROL Calendário doméstico] mostra eventos uma hora depois de [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md) | 11 de novembro de 2022 |
-| [Agile: a tarefa tem uma ordem de backlog Kanban de 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 7 de novembro de 2022 |
-| [Solicitações: mensagem de erro ao editar a fila de solicitações](known-issues-workfront/wf-requests-error-message-when-editing-queue.md) | 2 de novembro de 2022 |
 | [Provas: a geração de prova é extremamente lenta](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 de outubro de 2022 |
-| [Solicitações: as [!UICONTROL Configurações da fila de emails] não estão disponíveis](known-issues-workfront/wf-requests-email-queue-details-not-available.md) | 27 de outubro de 2022 |
 | [Provas: o Resumo de impressão não exibe todas as páginas da prova](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 de outubro de 2022 |
 
 {style=&quot;table-layout:auto&quot;}
@@ -43,6 +38,8 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Formulários personalizados: &quot;[!UICONTROL Você não tem acesso suficiente]&quot; erro ao editar formulário personalizado](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 21 de novembro de 2022 |
+| [Agile: a tarefa tem uma ordem de backlog Kanban de 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 21 de novembro de 2022 |
 | [Formulários personalizados: &quot;[!UICONTROL Expressão personalizada inválida]&quot; ao referenciar &quot;[!UICONTROL proprietário]&quot; em um campo calculado](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 15 de novembro de 2022 |
 | [Relatórios: Erro &quot;Ops&quot; ao adicionar um novo problema a um relatório de problema](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14 de novembro de 2022 |
 | [Relatórios: O gráfico de combinação exibe os mesmos dados duas vezes](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md) | 14 de novembro de 2022 |
@@ -50,8 +47,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | [Listas: erros de edição em linha pelo usuário não causam mensagens de erro](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 4 de novembro de 2022 |
 | [Solicitações: não é possível exibir mais de 100 tópicos da fila em uma página](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 4 de novembro de 2022 |
 | [Projetos: problemas de desempenho e mensagem de erro ao criar um projeto a partir de um modelo](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 27 de outubro de 2022 |
-| [Documentos: o link de solicitação de documento externo abre a página de logon](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 20 de outubro de 2022 |
-| [Navegação: não é possível fixar objetos](known-issues-workfront/wf-navigation-cannot-pin-objects.md) | 19 de outubro de 2022 |
 | [Relatórios: a opção “Mover para” não fica disponível em relatórios de problemas](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md) | 13 de outubro de 2022 |
 | [Formulários personalizados: “erro” ao configurar um campo calculado](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 13 de outubro de 2022 |
 | [Tarefas: as horas não são salvas ao inserir horas no painel [!UICONTROL Resumo da tarefa]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 30 de setembro de 2022 |

@@ -2,15 +2,19 @@
 title: '“Solicitações: mensagem de erro ao editar a fila de solicitações”'
 description: “Ao editar uma fila de solicitações e tenta salvar as alterações, o usuário vê um erro.”
 hidefromtoc: true
-source-git-commit: d2d2ae6585d64cfc68d90c17f72d5ce47f7168ab
-workflow-type: ht
-source-wordcount: '115'
+source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
+workflow-type: tm+mt
+source-wordcount: '121'
 ht-degree: 100%
 
 ---
 
 
 # Solicitações: Mensagem de erro ao editar a fila de solicitações
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em 10 de novembro de 2022.
 
 Ao editar uma fila de solicitações e tenta salvar as alterações, o usuário vê o seguinte erro:
 

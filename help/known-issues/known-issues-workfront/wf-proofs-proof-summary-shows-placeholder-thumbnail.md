@@ -2,10 +2,10 @@
 title: "Provas: [!UICONTROL Imprimir resumo] não mostra a miniatura da imagem"
 description: "Quando um usuário exibe a variável [!UICONTROL Imprimir resumo] de uma prova em [!DNL Workfront], a miniatura da prova não é exibida. Em vez disso, uma imagem simples de espaço reservado é exibida."
 hidefromtoc: true
-source-git-commit: 3ce48fed9e3e7b57e2775c33313718159daecb98
+source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 5%
+source-wordcount: '83'
+ht-degree: 18%
 
 ---
 
@@ -13,6 +13,10 @@ ht-degree: 5%
 # Provas: [!UICONTROL Imprimir resumo] não mostra a miniatura da imagem
 
 <!--This is on both the WF and WFP TOCs-->
+
+>[!NOTE]
+>
+>Este problema foi encerrado porque o botão está funcionando conforme projetado.
 
 Quando um usuário exibe a variável [!UICONTROL Imprimir resumo] de uma prova em [!DNL Workfront], a miniatura da prova não é exibida. Em vez disso, uma imagem simples de espaço reservado é exibida.
 
