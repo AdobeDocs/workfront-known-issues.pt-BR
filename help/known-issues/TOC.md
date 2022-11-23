@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do [!DNL Adobe Workfront]
-source-git-commit: be498327ea7bb2a49be0fc65e53806ddb217aa8c
+source-git-commit: 94ab02425f64dc53dc62fe32df5fe72b8563b005
 workflow-type: tm+mt
-source-wordcount: '1704'
-ht-degree: 93%
+source-wordcount: '1721'
+ht-degree: 92%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Ágil: Erro ao mover itens de trabalho para uma iteração](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md)
+      + [Folhas de horas: Usuários desativados disponíveis ao selecionar aprovador de folha de ponto](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md)
       + [Formulários personalizados: Formulários personalizados entre objetos exigem [!UICONTROL Gerenciar] ou [!UICONTROL Editar] acesso para editar campos](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
       + [Provas: As provas são exibidas no Visualizador de prova como menos nítidas que a imagem original](known-issues-workfront/wf-proofs-are-blurry.md)
       + [Formulários personalizados: &quot;[!UICONTROL Você não tem acesso suficiente]&quot; erro ao editar formulário personalizado](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md)
