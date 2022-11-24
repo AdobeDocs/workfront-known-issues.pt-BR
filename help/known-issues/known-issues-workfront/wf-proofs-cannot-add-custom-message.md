@@ -1,20 +1,20 @@
 ---
-title: "Provas: Adicionar mensagem personalizada causa problema no visualizador de prova"
-description: "Quando um usuário está compartilhando uma prova e tenta adicionar uma mensagem personalizada, ocorrem problemas."
+title: '“Provas: adicionar mensagem personalizada causa um problema no visualizador de prova”'
+description: “Quando um usuário está compartilhando uma prova e tenta adicionar uma mensagem personalizada, ocorrem problemas.”
 hidefromtoc: true
 source-git-commit: 3ce48fed9e3e7b57e2775c33313718159daecb98
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# Provas: A adição de mensagem personalizada causa problema no visualizador de prova
+# Provas: a adição de mensagem personalizada causa um problema no visualizador de prova
 
 <!--This is on both the WF and WFP TOCs-->
 
-Quando um usuário está compartilhando uma prova e tenta adicionar uma mensagem personalizada, o seguinte ocorre:
+Quando um usuário está compartilhando uma prova e tenta adicionar uma mensagem personalizada, ocorre o seguinte:
 
 * O visualizador de prova amplia a prova.
 * As áreas na navegação à esquerda não são mais responsivas.
