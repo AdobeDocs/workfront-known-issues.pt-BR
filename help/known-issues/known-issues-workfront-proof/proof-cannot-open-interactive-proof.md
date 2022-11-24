@@ -3,7 +3,7 @@ title: '“Workfront Proof: não é possível abrir uma prova interativa”'
 description: “Ao tentar abrir uma prova interativa, a prova não abre e o usuário vê uma mensagem de erro.”
 hidefromtoc: true
 source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
 ht-degree: 100%
 
