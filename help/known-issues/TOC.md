@@ -4,7 +4,7 @@ user-guide-description: Problemas conhecidos do [!DNL Adobe Workfront]
 source-git-commit: 94ab02425f64dc53dc62fe32df5fe72b8563b005
 workflow-type: tm+mt
 source-wordcount: '1721'
-ht-degree: 92%
+ht-degree: 96%
 
 ---
 
@@ -21,13 +21,13 @@ ht-degree: 92%
       + [Formulários personalizados: Formulários personalizados entre objetos exigem [!UICONTROL Gerenciar] ou [!UICONTROL Editar] acesso para editar campos](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
       + [Provas: As provas são exibidas no Visualizador de prova como menos nítidas que a imagem original](known-issues-workfront/wf-proofs-are-blurry.md)
       + [Formulários personalizados: &quot;[!UICONTROL Você não tem acesso suficiente]&quot; erro ao editar formulário personalizado](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md)
-      + [Formulários personalizados: &quot;[!UICONTROL Expressão personalizada inválida]&quot; ao referenciar &quot;[!UICONTROL proprietário]&quot; em um campo calculado](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md)
-      + [Relatórios: Erro &quot;Ops&quot; ao adicionar um novo problema a um relatório de problema](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)
-      + [Relatórios: O gráfico de combinação exibe os mesmos dados duas vezes](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md)
-      + [Provas: A adição de mensagem personalizada causa problema no visualizador de prova](known-issues-workfront/wf-proofs-cannot-add-custom-message.md)
-      + [Provas: O resumo de impressão não mostra a miniatura da imagem](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
-      + [Integrações: [!UICONTROL Calendário doméstico] mostra eventos uma hora depois de [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)
-      + [Modelos de layout: Ocultar um item oculta o item incorreto](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)
+      + [Formulários personalizados: mensagem “[!UICONTROL Expressão personalizada inválida]” ao fazer referência ao “[!UICONTROL proprietário]” em um campo calculado](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md)
+      + [Relatórios: erro ao adicionar um novo problema a um relatório de problemas](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)
+      + [Relatórios: o gráfico de combinação exibe os mesmos dados duas vezes](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md)
+      + [Provas: a adição de mensagem personalizada causa um problema no visualizador de prova](known-issues-workfront/wf-proofs-cannot-add-custom-message.md)
+      + [Provas: o resumo de impressão não mostra a miniatura da imagem](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
+      + [Integrações: o [!UICONTROL Calendário da página inicial] mostra eventos uma hora depois do  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)
+      + [Modelos de layout: ocultar um item oculta o item incorreto](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)
       + [Tarefas: tarefas de edição em massa alteram atribuições de tarefas](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md)
       + [Agile: a tarefa tem uma ordem de backlog Kanban de 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
       + [Tarefas: Não é possível alterar a [!UICONTROL Data de conclusão planejada] de uma tarefa](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)

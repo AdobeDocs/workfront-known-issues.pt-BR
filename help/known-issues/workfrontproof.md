@@ -6,7 +6,7 @@ exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
 workflow-type: tm+mt
 source-wordcount: '208'
-ht-degree: 89%
+ht-degree: 94%
 
 ---
 
@@ -34,7 +34,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Provas: A adição de mensagem personalizada causa problema no visualizador de prova](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | 14 de novembro de 2022 |
+| [Provas: a adição de mensagem personalizada causa um problema no visualizador de prova](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | 14 de novembro de 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 

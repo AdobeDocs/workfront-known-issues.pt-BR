@@ -6,7 +6,7 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 94ab02425f64dc53dc62fe32df5fe72b8563b005
 workflow-type: tm+mt
 source-wordcount: '640'
-ht-degree: 83%
+ht-degree: 91%
 
 ---
 
@@ -26,7 +26,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | -----------------------------------------------------------------| ----------------- |
 | [Ágil: Erro ao mover itens de trabalho para uma iteração](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md) | 23 de novembro de 2022 |
 | [Provas: As provas são exibidas no Visualizador de prova como menos nítidas que a imagem original](known-issues-workfront/wf-proofs-are-blurry.md) | 18 de novembro de 2022 |
-| [Integrações: [!UICONTROL Calendário doméstico] mostra eventos uma hora depois de [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md) | 11 de novembro de 2022 |
+| [Integrações: o [!UICONTROL Calendário da página inicial] mostra eventos uma hora depois do  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md) | 11 de novembro de 2022 |
 | [Provas: a geração de prova é extremamente lenta](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 de outubro de 2022 |
 | [Provas: o Resumo de impressão não exibe todas as páginas da prova](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 de outubro de 2022 |
 
@@ -42,10 +42,10 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | [Folhas de horas: Usuários desativados disponíveis ao selecionar aprovador de folha de ponto](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 23 de novembro de 2022 |
 | [Formulários personalizados: &quot;[!UICONTROL Você não tem acesso suficiente]&quot; erro ao editar formulário personalizado](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 21 de novembro de 2022 |
 | [Agile: a tarefa tem uma ordem de backlog Kanban de 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 21 de novembro de 2022 |
-| [Formulários personalizados: &quot;[!UICONTROL Expressão personalizada inválida]&quot; ao referenciar &quot;[!UICONTROL proprietário]&quot; em um campo calculado](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 15 de novembro de 2022 |
-| [Relatórios: Erro &quot;Ops&quot; ao adicionar um novo problema a um relatório de problema](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14 de novembro de 2022 |
-| [Relatórios: O gráfico de combinação exibe os mesmos dados duas vezes](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md) | 14 de novembro de 2022 |
-| [Provas: A adição de mensagem personalizada causa problema no visualizador de prova](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | 14 de novembro de 2022 |
+| [Formulários personalizados: “[!UICONTROL Expressão personalizada inválida]” ao fazer referência ao “[!UICONTROL proprietário]” em um campo calculado](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 15 de novembro de 2022 |
+| [Relatórios: erro ao adicionar um novo problema a um relatório de problemas](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14 de novembro de 2022 |
+| [Relatórios: o gráfico de combinação exibe os mesmos dados duas vezes](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md) | 14 de novembro de 2022 |
+| [Provas: a adição de mensagem personalizada causa um problema no visualizador de prova](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | 14 de novembro de 2022 |
 | [Listas: erros de edição em linha pelo usuário não causam mensagens de erro](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 4 de novembro de 2022 |
 | [Solicitações: não é possível exibir mais de 100 tópicos da fila em uma página](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 4 de novembro de 2022 |
 | [Projetos: problemas de desempenho e mensagem de erro ao criar um projeto a partir de um modelo](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 27 de outubro de 2022 |
