@@ -3,9 +3,9 @@ title: '“Programas: problemas ao atribuir um Proprietário de programa”'
 description: “Quando um usuário cria um programa e atribui um Proprietário do programa, ocorrem os problemas descritos neste artigo.”
 hidefromtoc: true
 source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
