@@ -3,10 +3,10 @@ title: Problemas conhecidos no  [!DNL Adobe Workfront Fusion]
 description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Fusion]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 8a0bd10d95cda709d9d934ef1458bb07fc2f335d
-workflow-type: ht
-source-wordcount: '157'
-ht-degree: 100%
+source-git-commit: 7d50ddbd99edf3421ce92564590a2d8db76ae939
+workflow-type: tm+mt
+source-wordcount: '162'
+ht-degree: 97%
 
 ---
 
@@ -24,6 +24,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Fusion]: Não é possível criar conexão com [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md) | 28 de novembro de 2022 |
 | [[!DNL Workfront Fusion]: 404 errors on [!DNL Workfront] módulos](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md) | 31 de outubro de 2022 |
 
 {style=&quot;table-layout:auto&quot;}
