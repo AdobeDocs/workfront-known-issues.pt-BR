@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: fdf641bd38d05d6b8abac133daa3118d2c0fff3a
+source-git-commit: 5fdf05bfe98beb6a51bbc679253898cb1f3f7841
 workflow-type: tm+mt
-source-wordcount: '15397'
-ht-degree: 99%
+source-wordcount: '15666'
+ht-degree: 98%
 
 ---
 
@@ -28,6 +28,56 @@ As seguintes atualizações de manutenção foram efetuadas em 2022.
 -->
 
 Para obter atualizações de manutenção anteriores a 2022, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
+
+## Atualizações em dezembro de 2022
+
++++**(Planejado) Atualização de manutenção em 1 de dezembro de 2022**
+
+**a tarefa tem uma ordem de backlog Kanban de 0**
+
+*Agile*
+
+Quando um usuário exibe o backlog de uma equipe Kanban, uma ou mais tarefas mostram uma ordem de backlog de 0.
+
+**&quot;[!UICONTROL Expressão personalizada inválida]&quot; ao referenciar &quot;[!UICONTROL proprietário]&quot; em um campo calculado**
+
+*Formulários personalizados*
+
+Quando um usuário está adicionando um campo calculado a um formulário personalizado em nível de problema e tenta adicionar qualquer referência a um “[!UICONTROL proprietário]” (como `ownerID`), o campo não é salvo e o usuário visualiza a seguinte mensagem:
+
+“[!UICONTROL Esta expressão de cliente é inválida, tente novamente.]”
+
+Isso ocorre mesmo quando a expressão é válida.
+
+**Não é possível acessar elementos de [!DNL Workfront for Jira] integração**
+
+*Integrações*
+
+Os seguintes elementos não podem ser acessados no momento na variável [!DNL Workfront for Jira] integração para [!DNL Jira Cloud]:
+
+* O [!UICONTROL Configuração] página
+* O &quot;[!UICONTROL Abrir o Workfront]&quot; em um [!DNL Jira] problema
+
+**A adição de mensagem personalizada causa problema no visualizador de prova**
+
+*Provas*
+
+Quando um usuário está compartilhando uma prova e tenta adicionar uma mensagem personalizada, ocorre o seguinte:
+
+* O visualizador de prova amplia a prova.
+* As áreas na navegação à esquerda não são mais responsivas.
+
+**Usuários desativados disponíveis ao selecionar aprovador de folha de ponto**
+
+*Folhas de horas*
+
+Quando um usuário está criando uma folha de ponto e tenta atribuir um aprovador, a lista suspensa inclui usuários desativados. Se um usuário desativado for selecionado, a folha de ponto não será salva e o usuário visualizará a seguinte mensagem:
+
+“[!UICONTROL Erro. Desculpe! Somente usuários com licença de Plano podem aprovar ou rejeitar folhas de horas. Entre em contato com o administrador do sistema.]&quot;
+
+Como o usuário desativado não pode ser atribuído, o usuário deve selecionar um usuário ativado. Portanto, a folha de ponto funciona conforme o esperado, mas os usuários desativados na lista podem causar confusão ou inconveniente para o usuário.
+
++++
 
 ## Atualizações em novembro de 2022
 
@@ -70,7 +120,7 @@ Ao tentar abrir uma prova interativa, a prova não abre e o usuário vê a segui
 
 **problemas com tarefas adicionadas a uma iteração**
 
-*Agile*
+*Ágil*
 
 Os seguintes problemas foram relatados em relação a tarefas adicionadas a uma iteração:
 

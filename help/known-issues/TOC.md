@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do [!DNL Adobe Workfront]
-source-git-commit: bf8ea112ab3b45cc9aed93caec9a7b62dbbced75
+source-git-commit: 5fdf05bfe98beb6a51bbc679253898cb1f3f7841
 workflow-type: tm+mt
-source-wordcount: '1751'
-ht-degree: 95%
+source-wordcount: '1759'
+ht-degree: 94%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [[!UICONTROL Início]: Não é possível remover uma atribuição de problema em [!UICONTROL Início]](known-issues-workfront/wf-home-cannot-remove-assignment.md)
       + [Folhas de horas: A folha de horas não é gerada](known-issues-workfront/wf-timesheets-timesheet-not-generated.md)
       + [Integrações: Não é possível acessar elementos de [!DNL Workfront for Jira] integração](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
       + [Formulários personalizados: Não é possível usar o campo no cálculo se o nome do campo contiver apóstrofos ou aspas](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)
