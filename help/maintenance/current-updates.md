@@ -2,9 +2,9 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 5fdf05bfe98beb6a51bbc679253898cb1f3f7841
+source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
 workflow-type: tm+mt
-source-wordcount: '15666'
+source-wordcount: '15702'
 ht-degree: 98%
 
 ---
@@ -31,7 +31,7 @@ Para obter atualizações de manutenção anteriores a 2022, consulte [Atualiza�
 
 ## Atualizações em dezembro de 2022
 
-+++**(Planejado) Atualização de manutenção em 1 de dezembro de 2022**
++++**Atualização de manutenção em 1 de dezembro de 2022**
 
 **a tarefa tem uma ordem de backlog Kanban de 0**
 
@@ -76,6 +76,12 @@ Quando um usuário está criando uma folha de ponto e tenta atribuir um aprovado
 “[!UICONTROL Erro. Desculpe! Somente usuários com licença de Plano podem aprovar ou rejeitar folhas de horas. Entre em contato com o administrador do sistema.]&quot;
 
 Como o usuário desativado não pode ser atribuído, o usuário deve selecionar um usuário ativado. Portanto, a folha de ponto funciona conforme o esperado, mas os usuários desativados na lista podem causar confusão ou inconveniente para o usuário.
+
+**A folha de horas não é gerada**
+
+*Folhas de horas*
+
+As folhas de horas não estão sendo geradas apesar das configurações de perfil da folha de ponto. Como a folha de ponto nunca é gerada, ela não está disponível para o usuário inserir tempo e não está visível em listas.
 
 +++
 

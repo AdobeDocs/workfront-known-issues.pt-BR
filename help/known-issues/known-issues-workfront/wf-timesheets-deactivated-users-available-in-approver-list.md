@@ -2,15 +2,19 @@
 title: "Folhas de horas: Usuários desativados disponíveis ao selecionar aprovador de folha de ponto"
 description: "Quando um usuário cria uma folha de ponto e tenta atribuir um aprovador, a lista suspensa inclui usuários desativados. Se um usuário desativado for selecionado, a folha de ponto não será salva e o usuário visualizará uma mensagem de erro."
 hidefromtoc: true
-source-git-commit: f37c5514fa93915589c8af9bf5a4b678446a8078
+source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '152'
 ht-degree: 3%
 
 ---
 
 
 # Folhas de horas: Usuários desativados disponíveis ao selecionar aprovador de folha de ponto
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em 1º de dezembro de 2022.
 
 Quando um usuário está criando uma folha de ponto e tenta atribuir um aprovador, a lista suspensa inclui usuários desativados. Se um usuário desativado for selecionado, a folha de ponto não será salva e o usuário visualizará a seguinte mensagem:
 
