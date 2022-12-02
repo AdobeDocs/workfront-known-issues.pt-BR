@@ -3,7 +3,7 @@ title: '“Solicitações: mensagem de erro ao editar a fila de solicitações�
 description: “Ao editar uma fila de solicitações e tenta salvar as alterações, o usuário vê um erro.”
 hidefromtoc: true
 source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '121'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Ao editar uma fila de solicitações e tenta salvar as alterações, o usuário vê o seguinte erro:
 
-“Vamos tentar novamente. Ops! Um erro inesperado aconteceu. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.&quot;
+“Vamos tentar novamente. Ops! Um erro inesperado aconteceu. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.”
 
 Além disso, o usuário vê a seguinte mensagem na parte inferior da página, próximo ao botão Salvar:
 
