@@ -4,7 +4,7 @@ user-guide-description: Problemas conhecidos do [!DNL Adobe Workfront]
 source-git-commit: 5fdf05bfe98beb6a51bbc679253898cb1f3f7841
 workflow-type: tm+mt
 source-wordcount: '1759'
-ht-degree: 94%
+ht-degree: 97%
 
 ---
 
@@ -20,11 +20,11 @@ ht-degree: 94%
       + [Folhas de horas: A folha de horas não é gerada](known-issues-workfront/wf-timesheets-timesheet-not-generated.md)
       + [Integrações: Não é possível acessar elementos de [!DNL Workfront for Jira] integração](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
       + [Formulários personalizados: Não é possível usar o campo no cálculo se o nome do campo contiver apóstrofos ou aspas](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)
-      + [Ágil: Erro ao mover itens de trabalho para uma iteração](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md)
-      + [Folhas de horas: Usuários desativados disponíveis ao selecionar aprovador de folha de ponto](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md)
-      + [Formulários personalizados: Formulários personalizados entre objetos exigem [!UICONTROL Gerenciar] ou [!UICONTROL Editar] acesso para editar campos](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
-      + [Provas: As provas são exibidas no Visualizador de prova como menos nítidas que a imagem original](known-issues-workfront/wf-proofs-are-blurry.md)
-      + [Formulários personalizados: &quot;[!UICONTROL Você não tem acesso suficiente]&quot; erro ao editar formulário personalizado](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md)
+      + [Agile: erro ao mover itens de trabalho para uma iteração](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md)
+      + [Folhas de horas: usuários desativados disponíveis ao selecionar aprovador de folha de horas](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md)
+      + [Formulários personalizados: formulários personalizados entre objetos exigem acesso de [!UICONTROL Gerenciar] ou [!UICONTROL Editar] para editar campos](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
+      + [Provas: as provas são exibidas no Visualizador de prova com menos clareza que a imagem original](known-issues-workfront/wf-proofs-are-blurry.md)
+      + [Formulários personalizados: erro “[!UICONTROL Você não tem acesso suficiente]” ao editar um formulário personalizado](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md)
       + [Formulários personalizados: mensagem “[!UICONTROL Expressão personalizada inválida]” ao fazer referência ao “[!UICONTROL proprietário]” em um campo calculado](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md)
       + [Relatórios: erro ao adicionar um novo problema a um relatório de problemas](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)
       + [Relatórios: o gráfico de combinação exibe os mesmos dados duas vezes](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md)

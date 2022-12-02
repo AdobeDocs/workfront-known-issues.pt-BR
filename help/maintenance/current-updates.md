@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
 workflow-type: tm+mt
 source-wordcount: '15702'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -71,11 +71,11 @@ Quando um usuário está compartilhando uma prova e tenta adicionar uma mensagem
 
 *Folhas de horas*
 
-Quando um usuário está criando uma folha de ponto e tenta atribuir um aprovador, a lista suspensa inclui usuários desativados. Se um usuário desativado for selecionado, a folha de ponto não será salva e o usuário visualizará a seguinte mensagem:
+Quando um usuário cria uma folha de horas e tenta atribuir um aprovador, a lista suspensa inclui usuários desativados. Se um usuário desativado for selecionado, a folha de horas não será salva e o usuário verá a seguinte mensagem:
 
-“[!UICONTROL Erro. Desculpe! Somente usuários com licença de Plano podem aprovar ou rejeitar folhas de horas. Entre em contato com o administrador do sistema.]&quot;
+“[!UICONTROL Erro. Desculpe, somente usuários com licença de Plano podem aprovar ou rejeitar folhas de horas. Entre em contato com o administrador do sistema.]”
 
-Como o usuário desativado não pode ser atribuído, o usuário deve selecionar um usuário ativado. Portanto, a folha de ponto funciona conforme o esperado, mas os usuários desativados na lista podem causar confusão ou inconveniente para o usuário.
+Como o usuário desativado não pode ser atribuído, o usuário deve selecionar um usuário ativado. Portanto, a folha de horas funciona conforme o esperado, mas os usuários desativados na lista podem causar confusão ou inconveniência para o usuário.
 
 **A folha de horas não é gerada**
 
@@ -89,11 +89,11 @@ As folhas de horas não estão sendo geradas apesar das configurações de perfi
 
 +++**Atualização de manutenção em 17 de novembro de 2022**
 
-**Documentos colocados na [!UICONTROL Lixeira] se não estiver selecionado ao mover uma tarefa ou um problema**
+**Os documentos são colocados na [!UICONTROL Lixeira] se não estiverem selecionados ao mover uma tarefa ou um problema**
 
 *Documentos*
 
-Agora, ao desmarcar a opção [!UICONTROL Documentos] no processo de mover uma tarefa ou um problema, os documentos anexados à tarefa ou o problema serão colocados na [!UICONTROL Lixeira] por 30 dias. Um administrador pode restaurá-las, se necessário. O usuário que desmarcar Documentos no processo em movimento receberá um aviso sobre esse comportamento no [!UICONTROL Mover tarefa] ou [!UICONTROL Problema de Movimentação] caixa. Antes dessa melhoria, os documentos eram permanentemente excluídos.
+Agora, ao desmarcar a opção [!UICONTROL Documentos] no processo de mover uma tarefa ou um problema, os documentos anexados à tarefa ou o problema serão colocados na [!UICONTROL Lixeira] por 30 dias. Um administrador pode restaurá-los, se necessário. O usuário que desmarcar a opção Documentos no processo de movimentação receberá um aviso sobre esse comportamento na caixa [!UICONTROL Mover tarefa] ou [!UICONTROL Mover problema]. Antes dessa melhoria, os documentos eram permanentemente excluídos.
 
 **Ocultar um item oculta o item incorreto**
 
@@ -372,7 +372,7 @@ Essa alteração foi feita para se adequar melhor aos padrões de UX do seletor 
 >
 >Esse problema existe apenas no ambiente de Visualização.
 
-Quando um usuário atribui várias equipes a uma tarefa ou problema, somente uma equipe é exibida na lista de atribuições. Esse problema também afeta os relatórios. Os relatórios que mostram atribuições de equipe são imprecisos porque somente uma equipe aparece como atribuída à tarefa ou problema.”
+Quando um usuário atribui várias equipes a uma tarefa ou problema, somente uma equipe é exibida na lista de atribuições. Esse problema também afeta os relatórios. Os relatórios que mostram atribuições de equipe são imprecisos porque somente uma equipe aparece como atribuída à tarefa ou problema.
 
 Erro **“[!UICONTROL As alterações recentes não foram salvas]” ao salvar automaticamente alterações em uma folha de horas**
 
