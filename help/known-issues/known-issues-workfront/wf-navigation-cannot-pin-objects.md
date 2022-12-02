@@ -3,7 +3,7 @@ title: '“Navegação: não é possível fixar objetos”'
 description: '“Quando um usuário tenta fixar um objeto no Workfront, o objeto não é fixado e o usuário vê a seguinte mensagem: Algo deu errado. Entre em contato com o Workfront para que possamos resolver esse problema.”'
 hidefromtoc: true
 source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
 ht-degree: 100%
 
