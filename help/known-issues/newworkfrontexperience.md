@@ -3,10 +3,10 @@ title: Problemas conhecidos na nova experiência do  [!DNL Adobe Workfront]
 description: Problemas conhecidos reportados da nova experiência do  [!DNL Adobe Workfront]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
+source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
 workflow-type: tm+mt
-source-wordcount: '623'
-ht-degree: 88%
+source-wordcount: '614'
+ht-degree: 92%
 
 ---
 
@@ -25,9 +25,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!UICONTROL Início]: Não é possível remover uma atribuição de problema em [!UICONTROL Início]](known-issues-workfront/wf-home-cannot-remove-assignment.md) | 29 de novembro de 2022 |
-| [Ágil: Erro ao mover itens de trabalho para uma iteração](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md) | 23 de novembro de 2022 |
-| [Provas: As provas são exibidas no Visualizador de prova como menos nítidas que a imagem original](known-issues-workfront/wf-proofs-are-blurry.md) | 18 de novembro de 2022 |
-| [Integrações: o [!UICONTROL Calendário da página inicial] mostra eventos uma hora depois do  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md) | 11 de novembro de 2022 |
+| [Provas: as provas são exibidas no Visualizador de prova com menos clareza que a imagem original](known-issues-workfront/wf-proofs-are-blurry.md) | 18 de novembro de 2022 |
 | [Provas: a geração de prova é extremamente lenta](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 de outubro de 2022 |
 | [Provas: o Resumo de impressão não exibe todas as páginas da prova](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 de outubro de 2022 |
 
@@ -40,16 +38,15 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Folhas de horas: usuários desativados disponíveis ao selecionar aprovador de folha de horas](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2 de dezembro de 2022 |
+| [Formulários personalizados: “[!UICONTROL Expressão personalizada inválida]” ao fazer referência ao “[!UICONTROL proprietário]” em um campo calculado](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2 de dezembro de 2022 |
+| [Projetos: O status do projeto não segue as preferências do projeto do Grupo](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md) | 2 de dezembro de 2022 |
+| [Projetos: Erro &quot;Ops&quot; ao criar um projeto a partir de um modelo](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md) | 2 de dezembro de 2022 |
 | [Formulários personalizados: Não é possível usar o campo no cálculo se o nome do campo contiver apóstrofos ou aspas](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 28 de novembro de 2022 |
-| [Formulários personalizados: &quot;[!UICONTROL Você não tem acesso suficiente]&quot; erro ao editar formulário personalizado](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 21 de novembro de 2022 |
+| [Formulários personalizados: erro “[!UICONTROL Você não tem acesso suficiente]” ao editar um formulário personalizado](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 21 de novembro de 2022 |
 | [Relatórios: erro ao adicionar um novo problema a um relatório de problemas](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14 de novembro de 2022 |
 | [Relatórios: o gráfico de combinação exibe os mesmos dados duas vezes](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md) | 14 de novembro de 2022 |
-| [Listas: erros de edição em linha pelo usuário não causam mensagens de erro](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 4 de novembro de 2022 |
-| [Solicitações: não é possível exibir mais de 100 tópicos da fila em uma página](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 4 de novembro de 2022 |
-| [Projetos: problemas de desempenho e mensagem de erro ao criar um projeto a partir de um modelo](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 27 de outubro de 2022 |
-| [Relatórios: a opção “Mover para” não fica disponível em relatórios de problemas](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md) | 13 de outubro de 2022 |
 | [Formulários personalizados: “erro” ao configurar um campo calculado](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 13 de outubro de 2022 |
-| [Tarefas: as horas não são salvas ao inserir horas no painel [!UICONTROL Resumo da tarefa]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 30 de setembro de 2022 |
 | [Integrações: erro ao enviar solicitação do [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30 de agosto de 2022 |
 | Caso de suporte do [[!DNL Workfront]: Issues submitting a [!DNL Workfront] caso na Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 de agosto de 2022 |
 
@@ -61,7 +58,9 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Formulários personalizados: Formulários personalizados entre objetos exigem [!UICONTROL Gerenciar] ou [!UICONTROL Editar] acesso para editar campos](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md) | 21 de novembro de 2022 |
+| [Tarefas: as horas não são salvas ao inserir horas no painel [!UICONTROL Resumo da tarefa]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2 de dezembro de 2022 |
+| [Projetos: problemas de desempenho e mensagem de erro ao criar um projeto a partir de um modelo](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 2 de dezembro de 2022 |
+| [Formulários personalizados: formulários personalizados entre objetos exigem acesso de [!UICONTROL Gerenciar] ou [!UICONTROL Editar] para editar campos](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md) | 21 de novembro de 2022 |
 | [Notificações: os usuários não são notificados quando mencionados ou incluídos em um comentário](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 11 de novembro de 2022 |
 | [API: não é possível classificar por campos dinâmicos](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 31 de outubro de 2022 |
 | [[!UICONTROL Configuração]: as listas carregam lentamente na [!UICONTROL Configuração]](known-issues-workfront/wf-setup-lists-load-slowly.md) | 28 de outubro de 2022 |

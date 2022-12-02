@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do [!DNL Adobe Workfront]
-source-git-commit: 5fdf05bfe98beb6a51bbc679253898cb1f3f7841
+source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
 workflow-type: tm+mt
-source-wordcount: '1759'
-ht-degree: 97%
+source-wordcount: '1778'
+ht-degree: 96%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Projetos: O status do projeto não segue as preferências do projeto do Grupo](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md)
+      + [Projetos: Erro &quot;Ops&quot; ao criar um projeto a partir de um modelo](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md)
       + [[!UICONTROL Início]: Não é possível remover uma atribuição de problema em [!UICONTROL Início]](known-issues-workfront/wf-home-cannot-remove-assignment.md)
       + [Folhas de horas: A folha de horas não é gerada](known-issues-workfront/wf-timesheets-timesheet-not-generated.md)
       + [Integrações: Não é possível acessar elementos de [!DNL Workfront for Jira] integração](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)

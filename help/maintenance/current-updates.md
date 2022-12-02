@@ -2,9 +2,9 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
+source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
 workflow-type: tm+mt
-source-wordcount: '15702'
+source-wordcount: '15901'
 ht-degree: 99%
 
 ---
@@ -30,6 +30,35 @@ As seguintes atualizações de manutenção foram efetuadas em 2022.
 Para obter atualizações de manutenção anteriores a 2022, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em dezembro de 2022
+
++++**Atualização de manutenção (hotfix) em 1 de dezembro de 2022**
+
+**Erros de edição embutidos pelo usuário não causam mensagens de erro**
+
+*Listas*
+
+Quando um usuário está editando um objeto em linha e faz um erro que deveria criar uma mensagem de erro, nenhuma mensagem de erro é exibida. O erro em si não é salvo no Workfront, portanto, os dados não são afetados, mas a falta de uma mensagem de erro pode causar confusão.
+
+Esse problema foi relatado para as seguintes situações:
+
+* Predecessores: um loop predecessor é criado, como atribuir uma tarefa a si mesmo
+* Datas: uma data impossível é definida, como uma Data de conclusão anterior à Data de início ou que esteja além da Data de conclusão do projeto
+
+**Opção &quot;Mover para&quot; não disponível em relatórios de problemas**
+
+*Relatórios*
+
+Quando um usuário visualiza um relatório de problema e tenta mover um problema, a opção Mover para não fica disponível no menu Mais (três pontos).
+
+
+**Não é possível fechar o cartão de usuário no fluxo de atualização**
+
+*Atualizações*
+
+Quando um usuário está visualizando atualizações e passa o mouse sobre um nome, um cartão com detalhes sobre o usuário é aberto e não é fechado automaticamente. A página não responde até que o cartão seja fechado manualmente clicando no X no canto superior direito.
+
+
++++
 
 +++**Atualização de manutenção em 1 de dezembro de 2022**
 

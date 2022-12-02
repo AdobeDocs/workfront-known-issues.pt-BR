@@ -2,15 +2,19 @@
 title: '“Relatórios: a opção Mover para não está disponível nos relatórios de problemas”'
 description: “Quando um usuário visualiza um relatório de problema e tenta mover um problema, a opção Mover para não fica disponível no menu Mais (três pontos).”
 hidefromtoc: true
-source-git-commit: cdc8a8a6c4dbf6b53a7c8aa0aeae37058f60f5c5
-workflow-type: ht
-source-wordcount: '74'
-ht-degree: 100%
+source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
+workflow-type: tm+mt
+source-wordcount: '80'
+ht-degree: 92%
 
 ---
 
 
 # Relatórios: a opção “Mover para” não fica disponível em relatórios de problemas
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em 1º de dezembro de 2022.
 
 Quando um usuário visualiza um relatório de problema e tenta mover um problema, a opção Mover para não fica disponível no menu Mais (três pontos).
 

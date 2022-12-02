@@ -3,14 +3,18 @@ title: '“Agile: erro ao mover itens de trabalho para uma iteração”'
 description: Quando um usuário tenta mover uma tarefa ou problema para uma iteração, o item de trabalho não se move e o usuário vê uma mensagem de erro.
 hidefromtoc: true
 exl-id: f83d946d-04ec-4c0d-9b07-a44c439f99b0
-source-git-commit: fbf501c23b2dcaee5e7de5b752cb39221bfb4a1f
-workflow-type: ht
-source-wordcount: '101'
-ht-degree: 100%
+source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
+workflow-type: tm+mt
+source-wordcount: '107'
+ht-degree: 94%
 
 ---
 
 # Agile: erro ao mover itens de trabalho para uma iteração
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em 1º de dezembro de 2022.
 
 Quando um usuário tenta mover uma tarefa ou problema para uma iteração, o item de trabalho não se move e o usuário vê a seguinte mensagem:
 
