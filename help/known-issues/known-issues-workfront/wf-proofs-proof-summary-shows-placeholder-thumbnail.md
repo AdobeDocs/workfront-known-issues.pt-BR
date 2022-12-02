@@ -3,7 +3,7 @@ title: '“Provas: o [!UICONTROL Resumo de impressão] não mostra a miniatura d
 description: “Quando um usuário visualiza a página [!UICONTROL Resumo de impressão] de uma prova no [!DNL Workfront], a miniatura da prova não é exibida. Em vez disso, uma imagem simples de espaço reservado é exibida.”
 hidefromtoc: true
 source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '83'
 ht-degree: 100%
 
