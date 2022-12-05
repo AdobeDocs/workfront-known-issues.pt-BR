@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do [!DNL Adobe Workfront]
-source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
+source-git-commit: eff0362813a15b8e2f5085c05b1d88b716aba25e
 workflow-type: tm+mt
-source-wordcount: '1778'
-ht-degree: 96%
+source-wordcount: '1793'
+ht-degree: 95%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Folhas de horas: Não é possível inserir hora na folha de ponto](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md)
+      + [Provas: O status da prova não é atualizado em [!UICONTROL Documento] listas](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)
       + [Projetos: O status do projeto não segue as preferências do projeto do Grupo](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md)
       + [Projetos: Erro &quot;Ops&quot; ao criar um projeto a partir de um modelo](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md)
       + [[!UICONTROL Início]: Não é possível remover uma atribuição de problema em [!UICONTROL Início]](known-issues-workfront/wf-home-cannot-remove-assignment.md)
