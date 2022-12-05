@@ -1,11 +1,11 @@
 ---
-title: ""
-description: ""
+title: "Folhas de horas: Não é possível inserir a hora na folha de ponto"
+description: "Quando um usuário tenta adicionar tempo a uma folha de ponto, ele vê que as caixas de hora em qualquer linha de Tempo do projeto ou Tempo da tarefa estão esmaecidas e não podem digitar tempo nessas caixas. Eles podem inserir horário somente na área Tempo Geral."
 hidefromtoc: true
-source-git-commit: 4557df164d16b5451cb23d19399655a363641ae9
+source-git-commit: 3a66060667d5c90b4a2c7c17fd56e7003367ebc8
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 7%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
