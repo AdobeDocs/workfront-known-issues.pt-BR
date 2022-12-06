@@ -2,9 +2,9 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
+source-git-commit: dd71044b671b7a7da8a8769039485b80664880d7
 workflow-type: tm+mt
-source-wordcount: '15901'
+source-wordcount: '15954'
 ht-degree: 99%
 
 ---
@@ -30,6 +30,18 @@ As seguintes atualizações de manutenção foram efetuadas em 2022.
 Para obter atualizações de manutenção anteriores a 2022, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em dezembro de 2022
+
++++**(Planejado) Atualização de manutenção em 8 de dezembro de 2022**
+
++++
+
+**O status do projeto não segue as preferências do projeto do Grupo**
+
+*Projetos*
+
+Quando um usuário cria um projeto a partir de um modelo, o novo projeto não assume o status definido nas preferências do projeto do Grupo. Se um projeto for criado sem um modelo, o status refletirá as preferências do projeto do Grupo, conforme esperado.
+
++++
 
 +++**Atualização de manutenção (hotfix) em 1 de dezembro de 2022**
 
