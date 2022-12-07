@@ -3,10 +3,10 @@ title: Problemas conhecidos na nova experiência do  [!DNL Adobe Workfront]
 description: Problemas conhecidos reportados da nova experiência do  [!DNL Adobe Workfront]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 4557df164d16b5451cb23d19399655a363641ae9
+source-git-commit: 4de171bddf40bf7329a0928776d63efbfd18603c
 workflow-type: tm+mt
-source-wordcount: '631'
-ht-degree: 89%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -38,6 +38,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Tarefas: Não é possível adicionar subtarefa](known-issues-workfront/wf-tasks-cannot-add-subtask.md) | 7 de dezembro de 2022 |
 | [Folhas de horas: Não é possível inserir hora na folha de ponto](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md) | 5 de dezembro de 2022 |
 | [Folhas de horas: usuários desativados disponíveis ao selecionar aprovador de folha de horas](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 2 de dezembro de 2022 |
 | [Formulários personalizados: “[!UICONTROL Expressão personalizada inválida]” ao fazer referência ao “[!UICONTROL proprietário]” em um campo calculado](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2 de dezembro de 2022 |

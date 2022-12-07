@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do [!DNL Adobe Workfront]
-source-git-commit: eff0362813a15b8e2f5085c05b1d88b716aba25e
+source-git-commit: 4de171bddf40bf7329a0928776d63efbfd18603c
 workflow-type: tm+mt
-source-wordcount: '1793'
-ht-degree: 95%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Tarefas: Não é possível adicionar subtarefa](known-issues-workfront/wf-tasks-cannot-add-subtask.md)
       + [Folhas de horas: Não é possível inserir hora na folha de ponto](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md)
       + [Provas: O status da prova não é atualizado em [!UICONTROL Documento] listas](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)
       + [Projetos: O status do projeto não segue as preferências do projeto do Grupo](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md)
