@@ -3,10 +3,10 @@ title: Problemas conhecidos na nova experiência do  [!DNL Adobe Workfront]
 description: Problemas conhecidos reportados da nova experiência do  [!DNL Adobe Workfront]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 835873c47203f6f13e0c5239ff2e68d18049762d
+source-git-commit: 40a8c48b51e1da690aa0622606c40ebfd8df4e8e
 workflow-type: tm+mt
-source-wordcount: '640'
-ht-degree: 88%
+source-wordcount: '646'
+ht-degree: 87%
 
 ---
 
@@ -39,6 +39,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documentos: Não é possível carregar o arquivo MP4](known-issues-workfront/wf-documents-cannot-upload-mp4.md) | 8 de dezembro de 2022 |
 | [Tarefas: Não é possível adicionar subtarefa](known-issues-workfront/wf-tasks-cannot-add-subtask.md) | 7 de dezembro de 2022 |
 | [Folhas de horas: Não é possível inserir hora na folha de ponto](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md) | 5 de dezembro de 2022 |
 | [Folhas de horas: usuários desativados disponíveis ao selecionar aprovador de folha de horas](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 2 de dezembro de 2022 |
