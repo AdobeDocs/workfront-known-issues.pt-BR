@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: dd71044b671b7a7da8a8769039485b80664880d7
+source-git-commit: faf363bbdaa7c44a447117e35779eeb10d463dbf
 workflow-type: tm+mt
-source-wordcount: '15954'
-ht-degree: 99%
+source-wordcount: '16044'
+ht-degree: 98%
 
 ---
 
@@ -31,15 +31,30 @@ Para obter atualizações de manutenção anteriores a 2022, consulte [Atualiza�
 
 ## Atualizações em dezembro de 2022
 
-+++**(Planejado) Atualização de manutenção em 8 de dezembro de 2022**
-
-+++
++++**Atualização de manutenção em 8 de dezembro de 2022**
 
 **O status do projeto não segue as preferências do projeto do Grupo**
 
 *Projetos*
 
 Quando um usuário cria um projeto a partir de um modelo, o novo projeto não assume o status definido nas preferências do projeto do Grupo. Se um projeto for criado sem um modelo, o status refletirá as preferências do projeto do Grupo, conforme esperado.
+
+**Não é possível adicionar subtarefa**
+
+*Tarefas*
+
+Quando um usuário tenta adicionar uma subtarefa usando o[!UICONTROL +Novo]&quot;, nenhuma opção é exibida no [!UICONTROL Nova tarefa] e o usuário vê a seguinte mensagem:
+
+&quot;[!UICONTROL Não é possível ler propriedades de indefinido (lendo &#39;validações&#39;)]&quot;
+
+**Erros ao fechar ou salvar folhas de ponto**
+
+*Folhas de horas*
+
+Quando um usuário tenta adicionar tempo ou fechar uma folha de ponto, ela não é salva e o usuário vê os seguintes erros:
+
+* Erro de SQL.
+* Suas alterações recentes não foram salvas. Atualize a página para visualizar as últimas alterações salvas.
 
 +++
 

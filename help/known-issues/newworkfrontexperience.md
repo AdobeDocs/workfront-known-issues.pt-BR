@@ -3,10 +3,10 @@ title: Problemas conhecidos na nova experiência do  [!DNL Adobe Workfront]
 description: Problemas conhecidos reportados da nova experiência do  [!DNL Adobe Workfront]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 40a8c48b51e1da690aa0622606c40ebfd8df4e8e
+source-git-commit: 1dac681ce138ca2aec65c47833de02cfa1d3fd8f
 workflow-type: tm+mt
-source-wordcount: '646'
-ht-degree: 87%
+source-wordcount: '636'
+ht-degree: 88%
 
 ---
 
@@ -44,7 +44,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | [Folhas de horas: Não é possível inserir hora na folha de ponto](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md) | 5 de dezembro de 2022 |
 | [Folhas de horas: usuários desativados disponíveis ao selecionar aprovador de folha de horas](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 2 de dezembro de 2022 |
 | [Formulários personalizados: “[!UICONTROL Expressão personalizada inválida]” ao fazer referência ao “[!UICONTROL proprietário]” em um campo calculado](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2 de dezembro de 2022 |
-| [Projetos: O status do projeto não segue as preferências do projeto do Grupo](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md) | 2 de dezembro de 2022 |
 | [Projetos: Erro &quot;Ops&quot; ao criar um projeto a partir de um modelo](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md) | 2 de dezembro de 2022 |
 | [Formulários personalizados: Não é possível usar o campo no cálculo se o nome do campo contiver apóstrofos ou aspas](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 28 de novembro de 2022 |
 | [Formulários personalizados: erro “[!UICONTROL Você não tem acesso suficiente]” ao editar um formulário personalizado](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 21 de novembro de 2022 |
