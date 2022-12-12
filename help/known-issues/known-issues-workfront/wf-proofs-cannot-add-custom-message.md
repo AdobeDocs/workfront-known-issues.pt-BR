@@ -3,9 +3,9 @@ title: '“Provas: adicionar mensagem personalizada causa um problema no visuali
 description: “Quando um usuário está compartilhando uma prova e tenta adicionar uma mensagem personalizada, ocorrem problemas.”
 hidefromtoc: true
 source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 92%
 
 >[!NOTE]
 >
->Esse problema foi corrigido em 1º de dezembro de 2022.
+>Esse problema foi corrigido em 1 de dezembro de 2022.
 
 Quando um usuário está compartilhando uma prova e tenta adicionar uma mensagem personalizada, ocorre o seguinte:
 
