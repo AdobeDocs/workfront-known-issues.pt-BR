@@ -3,8 +3,8 @@ title: '“Tarefas: as horas não são salvas ao inserir horas no [!UICONTROL Pa
 description: “Quando um usuário tenta inserir horas para uma tarefa no Painel de resumo da tarefa, as horas não são salvas. Isso ocorre quando o usuário deixa o cursor no quadrado onde inseriu as horas e rola a tela até o [!UICONTROL Painel de resumo].”
 hidefromtoc: true
 source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
-workflow-type: tm+mt
-source-wordcount: '153'
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
