@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: faf363bbdaa7c44a447117e35779eeb10d463dbf
+source-git-commit: 1e82922e463ea71019e1c4d625ba10157bd582fa
 workflow-type: tm+mt
-source-wordcount: '16044'
-ht-degree: 99%
+source-wordcount: '16198'
+ht-degree: 98%
 
 ---
 
@@ -276,6 +276,21 @@ Esse problema foi relatado nas seguintes áreas:
 * [!UICONTROL Configuração] > [!UICONTROL Notificações por email]
 * [!UICONTROL Usuário] > [!UICONTROL Editar usuário]
 * [!UICONTROL Grupos]
+
+**Novos ícones de informações para folhas de ponto, perfis de folha de ponto e preferências de folha de ponto**
+
+*Workfront*
+
+>[!NOTE]
+>
+>Esta atualização foi lançada somente no ambiente de Visualização. Ele será lançado para produção com a versão 23.1.
+
+Adicionamos vários ícones de informações às seguintes configurações:
+
+* Caixa de seleção &quot;Pode editar hora&quot; ao criar ou editar uma folha de ponto ou um perfil de folha de ponto para indicar que, quando ativada, os aprovadores também podem enviar, reabrir ou editar a folha de ponto, a menos que o administrador restrinja essas ações na área Preferências da folha de ponto da Configuração.
+* &quot;Restringir a edição da folha de ponto a proprietários e administradores&quot; na área Folha de horas e preferências de hora da configuração para indicar que, quando desativado, os usuários a seguir também podem editar as folhas de horas: usuários com acesso administrativo a folhas de ponto e horas, aprovadores de folha de ponto com permissão para editar tempo e gerentes de proprietários de folha de ponto.
+
+Observe que a funcionalidade dessas configurações não foi alterada e somente os ícones de informações foram adicionados para esclarecer o escopo das configurações.
 
 +++
 
