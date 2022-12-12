@@ -3,7 +3,7 @@ title: '“Folhas de horas: usuários desativados disponíveis ao selecionar apr
 description: “Quando um usuário cria uma folha de horas e tenta atribuir um aprovador, a lista suspensa inclui usuários desativados. Se um usuário desativado for selecionado, a folha de horas não será salva e o usuário visualizará uma mensagem de erro.”
 hidefromtoc: true
 source-git-commit: 800d8330bfc7a4f964ea4f4b4ae4217c26eb09b6
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 100%
 
