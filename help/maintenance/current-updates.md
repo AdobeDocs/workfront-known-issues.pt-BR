@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: faf363bbdaa7c44a447117e35779eeb10d463dbf
 workflow-type: tm+mt
 source-wordcount: '16044'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -95,7 +95,7 @@ Quando um usuário está visualizando atualizações e passa o mouse sobre um no
 
 Quando um usuário exibe o backlog de uma equipe Kanban, uma ou mais tarefas mostram uma ordem de backlog de 0.
 
-**&quot;[!UICONTROL Expressão personalizada inválida]&quot; ao referenciar &quot;[!UICONTROL proprietário]&quot; em um campo calculado**
+Mensagem **“[!UICONTROL Expressão personalizada inválida]” ao fazer referência a “[!UICONTROL proprietário]” em um campo calculado**
 
 *Formulários personalizados*
 
@@ -105,16 +105,16 @@ Quando um usuário está adicionando um campo calculado a um formulário persona
 
 Isso ocorre mesmo quando a expressão é válida.
 
-**Não é possível acessar elementos de [!DNL Workfront for Jira] integração**
+**Não é possível acessar elementos da integração do [!DNL Workfront for Jira]**
 
 *Integrações*
 
-Os seguintes elementos não podem ser acessados no momento na variável [!DNL Workfront for Jira] integração para [!DNL Jira Cloud]:
+Os seguintes elementos não podem ser acessados a integração do [!DNL Workfront for Jira] com o [!DNL Jira Cloud]:
 
-* O [!UICONTROL Configuração] página
-* O &quot;[!UICONTROL Abrir o Workfront]&quot; em um [!DNL Jira] problema
+* A página [!UICONTROL Configuração]
+* O botão “[!UICONTROL Abrir Workfront]” em um problema do [!DNL Jira]
 
-**A adição de mensagem personalizada causa problema no visualizador de prova**
+**A adição de mensagem personalizada causa um problema no visualizador de prova**
 
 *Provas*
 
@@ -123,7 +123,7 @@ Quando um usuário está compartilhando uma prova e tenta adicionar uma mensagem
 * O visualizador de prova amplia a prova.
 * As áreas na navegação à esquerda não são mais responsivas.
 
-**Usuários desativados disponíveis ao selecionar aprovador de folha de ponto**
+**Usuários desativados disponíveis ao selecionar aprovador de folha de horas**
 
 *Folhas de horas*
 
@@ -137,7 +137,7 @@ Como o usuário desativado não pode ser atribuído, o usuário deve selecionar 
 
 *Folhas de horas*
 
-As folhas de horas não estão sendo geradas apesar das configurações de perfil da folha de ponto. Como a folha de ponto nunca é gerada, ela não está disponível para o usuário inserir tempo e não está visível em listas.
+As folhas de horas não são geradas apesar das configurações de perfil da folha de horas. Como a folha de horas nunca é gerada, ela não está disponível para o usuário inserir horas e não está visível em listas.
 
 +++
 
@@ -1185,7 +1185,7 @@ Quando um usuário tenta abrir a área [!UICONTROL Solicitações de trabalho] e
 
 +++
 
-+++**Atualização de manutenção em 9 de junho de 2022**
++++** Atualização de manutenção em 9 de junho de 2022**
 
 **Não é possível selecionar objetos para filtrar nas preferências do [!UICONTROL Otimizador de portfólios]**
 
@@ -1207,7 +1207,7 @@ Quando um usuário com acesso de Planejador que inclui o acesso de Administrador
 
 +++
 
-+++**[!DNL Workfront Scenario Planner]Atualização de manutenção em 9 de junho de 2022**
++++**[!DNL Workfront Scenario Planner] Atualização de manutenção em 9 de junho de 2022**
 
 **Painel esquerdo redimensionável no [!DNL Scenario Planner]**
 
@@ -1217,7 +1217,7 @@ Agora é possível redimensionar o painel esquerdo em um Plano no [!DNL Scenario
 
 +++
 
-+++**[!DNL Workfront Fusion]Atualização de manutenção em 9 de junho de 2022**
++++**[!DNL Workfront Fusion] Atualização de manutenção em 9 de junho de 2022**
 
 **Dados de formulários personalizados não estão disponíveis em módulos do [!DNL Workfront Fusion] [!DNL Workfront]**
 

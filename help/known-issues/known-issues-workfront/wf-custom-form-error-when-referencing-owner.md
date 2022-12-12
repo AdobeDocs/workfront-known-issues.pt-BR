@@ -4,8 +4,8 @@ description: '“Quando um usuário adiciona um campo calculado a um formulário
 hidefromtoc: true
 exl-id: 254f1fae-0784-4332-99a1-cc1895c50896
 source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
-workflow-type: ht
-source-wordcount: '0'
+workflow-type: tm+mt
+source-wordcount: '129'
 ht-degree: 100%
 
 ---
