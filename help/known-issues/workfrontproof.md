@@ -3,9 +3,9 @@ title: Problemas conhecidos no  [!DNL Adobe Workfront Proof]
 description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 4557df164d16b5451cb23d19399655a363641ae9
+source-git-commit: a98c5f2dde335245343c56a2cabea9caef27e56f
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '200'
 ht-degree: 95%
 
 ---
@@ -51,7 +51,6 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 | [[!UICONTROL Página inicial]: o comportamento do botão [!UICONTROL Responder na prova] é inconsistente](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 21 de junho de 2021 |
 | [[!DNL Workfront Proof]: o acesso automático às provas fica atrasado](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md) | 14 de junho de 2021 |
 | [[!DNL Workfront Proof]: [!UICONTROL Proof Approval] O relatório não consegue determinar com precisão os prazos](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 21 de abril de 2021 |
-| [[!UICONTROL Página inicial]: provas concluídas presas na [!UICONTROL Lista de trabalho]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 14 de junho de 2021 |
 | [Documentos: o ícone de fluxo de trabalho de prova não é exibido](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 5 de março de 2021 |
 
 {style=&quot;table-layout:auto&quot;}
