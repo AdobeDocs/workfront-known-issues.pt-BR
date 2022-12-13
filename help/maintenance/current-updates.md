@@ -2,9 +2,9 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 707324aea99a9f77e7664afa555a4b7b9d6e4cef
+source-git-commit: 3973a5e7f934404165fb5132faa36392951940f3
 workflow-type: tm+mt
-source-wordcount: '16388'
+source-wordcount: '16460'
 ht-degree: 97%
 
 ---
@@ -60,6 +60,14 @@ Como o usuário desativado não pode ser atribuído, o usuário deve selecionar 
 +++
 
 +++**Atualização de manutenção em 8 de dezembro de 2022**
+
+**Seleção de usuário inteligente ao adicionar aprovadores a um caminho de aprovação**
+
+*Aprovações*
+
+Melhoramos a forma como os usuários são exibidos ao adicioná-los à variável [!UICONTROL Aprovadores] de uma nova aprovação.
+
+Agora, quando você adiciona um usuário ao [!UICONTROL Aprovadores] campo de uma aprovação de nível de sistema ou de uso único, além do nome e avatar, a função principal e o email também são exibidos. Isso ajuda a distinguir entre vários usuários com nomes semelhantes ou idênticos.
 
 **O status do projeto não segue as preferências do projeto do Grupo**
 
