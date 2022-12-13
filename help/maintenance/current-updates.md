@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 1e82922e463ea71019e1c4d625ba10157bd582fa
+source-git-commit: 707324aea99a9f77e7664afa555a4b7b9d6e4cef
 workflow-type: tm+mt
-source-wordcount: '16198'
-ht-degree: 98%
+source-wordcount: '16388'
+ht-degree: 97%
 
 ---
 
@@ -30,6 +30,34 @@ As seguintes atualizações de manutenção foram efetuadas em 2022.
 Para obter atualizações de manutenção anteriores a 2022, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em dezembro de 2022
+
++++**Atualização de manutenção em 15 de dezembro de 2022**
+
+**&quot;[!UICONTROL Boias]&quot;erro ao criar um projeto a partir de um modelo**
+
+*Projetos*
+
+Quando um usuário tenta criar um projeto a partir de um modelo, o projeto não é criado e o usuário vê o seguinte erro:
+
+“[!UICONTROL Ops! Um erro inesperado aconteceu. Entre em contato com o [!DNL Workfront] para que possamos descobrir o que aconteceu e resolver o problema.]”
+
+**O gráfico de combinação exibe os mesmos dados duas vezes**
+
+*Relatórios*
+
+Quando um usuário visualiza um gráfico de combinação, o gráfico exibe um conjunto de valores duas vezes em vez de comparar dois conjuntos de valores. Os conjuntos de valores corretos podem ser encontrados nos detalhes do relatório.
+
+**Usuários desativados disponíveis ao selecionar aprovador de folha de horas**
+
+*Folhas de horas*
+
+Quando um usuário cria uma folha de horas e tenta atribuir um aprovador, a lista suspensa inclui usuários desativados. Se um usuário desativado for selecionado, a folha de horas não será salva e o usuário verá a seguinte mensagem:
+
+“[!UICONTROL Erro. Desculpe, somente usuários com licença de Plano podem aprovar ou rejeitar folhas de horas. Entre em contato com o administrador do sistema.]”
+
+Como o usuário desativado não pode ser atribuído, o usuário deve selecionar um usuário ativado. Portanto, a folha de horas funciona conforme o esperado, mas os usuários desativados na lista podem causar confusão ou inconveniência para o usuário.
+
++++
 
 +++**Atualização de manutenção em 8 de dezembro de 2022**
 
@@ -220,7 +248,7 @@ Esse comportamento foi relatado quando o usuário acessa o relatório das seguin
 
 O acesso aos relatórios por meio de um painel atualiza as informações da Última visualização.
 
-**[!DNL Workfront]: erro 500 ao fazer alterações em um objeto do [!DNL Workfront]**
+**[!DNL Workfront]: erro 500 ao fazer alterações em um objeto do [!DNL Workfront]**+
 
 *[!DNL Workfront]*
 
