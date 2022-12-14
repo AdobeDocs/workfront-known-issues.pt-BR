@@ -2,9 +2,9 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 3973a5e7f934404165fb5132faa36392951940f3
+source-git-commit: 927ea8bc10eb333428f1d10961c0b859be8f19bb
 workflow-type: tm+mt
-source-wordcount: '16460'
+source-wordcount: '16506'
 ht-degree: 97%
 
 ---
@@ -46,6 +46,12 @@ Quando um usuário tenta criar um projeto a partir de um modelo, o projeto não 
 *Relatórios*
 
 Quando um usuário visualiza um gráfico de combinação, o gráfico exibe um conjunto de valores duas vezes em vez de comparar dois conjuntos de valores. Os conjuntos de valores corretos podem ser encontrados nos detalhes do relatório.
+
+**Dicas de ferramentas adicionadas para células de hora esmaecidas nas folhas de tempo**
+
+*Folhas de horas*
+
+Adicionamos dicas de ferramentas para explicar o motivo pelo qual uma célula de hora pode estar esmaecida em uma folha de ponto. Por exemplo, alguns dos motivos podem ser porque a folha de ponto está fechada ou porque o projeto está concluído.
 
 **Usuários desativados disponíveis ao selecionar aprovador de folha de horas**
 
