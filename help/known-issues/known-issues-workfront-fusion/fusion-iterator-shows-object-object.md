@@ -3,14 +3,18 @@ title: '“Workfront Fusion: os elementos de matriz no módulo Iterador são exi
 description: Quando um usuário visualiza um módulo Iterador, os elementos da matriz são exibidos como objeto. Isso pode ocorrer mesmo quando os elementos da matriz são exibidos corretamente quando visualizados anteriormente.
 hidefromtoc: true
 exl-id: 94cab740-6e04-41a6-85c7-d7755b6bae7e
-source-git-commit: 66e3bc22d8aef2d6287161f4a13fbbe0f3ac99c8
-workflow-type: ht
-source-wordcount: '80'
+source-git-commit: 2f8dbcb2fc5a2184b084aa87120b826d33f33d86
+workflow-type: tm+mt
+source-wordcount: '86'
 ht-degree: 100%
 
 ---
 
 # [!DNL Workfront Fusion]: elementos de matriz no módulo [!UICONTROL Iterador] são exibidos como do módulo como “[!UICONTROL objeto]”
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em 11 de dezembro de 2022.
 
 Quando um usuário visualiza um módulo [!UICONTROL Iterador], os elementos da matriz são exibidos como “[!UICONTROL objeto].” Isso pode ocorrer mesmo quando os elementos da matriz são exibidos corretamente quando visualizados anteriormente.
 
