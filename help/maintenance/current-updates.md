@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 927ea8bc10eb333428f1d10961c0b859be8f19bb
+source-git-commit: da562182a96fffe9bde86a4da2ecdf8072505c20
 workflow-type: tm+mt
-source-wordcount: '16506'
-ht-degree: 97%
+source-wordcount: '16687'
+ht-degree: 96%
 
 ---
 
@@ -32,6 +32,17 @@ Para obter atualizações de manutenção anteriores a 2022, consulte [Atualiza�
 ## Atualizações em dezembro de 2022
 
 +++**Atualização de manutenção em 15 de dezembro de 2022**
+
+**Atualizações de acessibilidade em listas**
+
+*Listas*
+
+Os seguintes recursos de acessibilidade estão disponíveis em listas:
+
+* As caixas de seleção em listas agora têm um indicador de foco visível quando você as guia. Isso facilita a navegação por teclado de itens em uma lista, de forma visual.
+* Todos os botões nas barras de ferramentas de lista agora têm estados consistentes de focagem e focagem, com um plano de fundo cinza mostrado ao passar o mouse e um plano de fundo cinza e contorno azul mostrados no foco.
+* Anteriormente, ao abrir um menu suspenso em uma lista com a tecla Space, o menu era aberto e a página também rolava para baixo um pouco, o que não era esperado. Agora, a página não rola mais ao pressionar Espaço em uma lista suspensa, que é o comportamento pretendido correto.
+* Ao visualizar uma lista com a caixa de seleção de linha selecionada, agora você pode navegar por cada item editável e pressionar a tecla Space para alternar para o Modo de edição e começar a editar essa célula na linha. Anteriormente, esses itens não eram navegáveis pelo teclado e exigiam o uso de um mouse. Agora, alternar para o Modo de edição é fácil para o mouse e o teclado.
 
 **&quot;[!UICONTROL Boias]&quot;erro ao criar um projeto a partir de um modelo**
 

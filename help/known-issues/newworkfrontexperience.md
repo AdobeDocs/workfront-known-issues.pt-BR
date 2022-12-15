@@ -3,10 +3,10 @@ title: Problemas conhecidos na nova experiência do  [!DNL Adobe Workfront]
 description: Problemas conhecidos reportados da nova experiência do  [!DNL Adobe Workfront]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: a98c5f2dde335245343c56a2cabea9caef27e56f
+source-git-commit: da562182a96fffe9bde86a4da2ecdf8072505c20
 workflow-type: tm+mt
-source-wordcount: '628'
-ht-degree: 90%
+source-wordcount: '599'
+ht-degree: 92%
 
 ---
 
@@ -42,13 +42,10 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | [Documentos: Não é possível carregar o arquivo MP4](known-issues-workfront/wf-documents-cannot-upload-mp4.md) | 8 de dezembro de 2022 |
 | [Tarefas: Não é possível adicionar subtarefa](known-issues-workfront/wf-tasks-cannot-add-subtask.md) | 7 de dezembro de 2022 |
 | [Folhas de horas: Não é possível inserir hora na folha de ponto](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md) | 5 de dezembro de 2022 |
-| [Folhas de horas: usuários desativados disponíveis ao selecionar aprovador de folha de horas](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 2 de dezembro de 2022 |
 | [Formulários personalizados: “[!UICONTROL Expressão personalizada inválida]” ao fazer referência ao “[!UICONTROL proprietário]” em um campo calculado](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2 de dezembro de 2022 |
-| [Projetos: Erro &quot;Ops&quot; ao criar um projeto a partir de um modelo](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md) | 2 de dezembro de 2022 |
 | [Formulários personalizados: não é possível usar o campo no cálculo se o nome do campo contiver apóstrofos ou aspas](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 28 de novembro de 2022 |
 | [Formulários personalizados: erro “[!UICONTROL Você não tem acesso suficiente]” ao editar um formulário personalizado](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 21 de novembro de 2022 |
 | [Relatórios: erro ao adicionar um novo problema a um relatório de problemas](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14 de novembro de 2022 |
-| [Relatórios: o gráfico de combinação exibe os mesmos dados duas vezes](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md) | 14 de novembro de 2022 |
 | [Formulários personalizados: “erro” ao configurar um campo calculado](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 13 de outubro de 2022 |
 | [Integrações: erro ao enviar solicitação do [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30 de agosto de 2022 |
 | Caso de suporte do [[!DNL Workfront]: Issues submitting a [!DNL Workfront] caso na Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 de agosto de 2022 |
