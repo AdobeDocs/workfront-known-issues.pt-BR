@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: da562182a96fffe9bde86a4da2ecdf8072505c20
+source-git-commit: 7bb0987beff9127e4f5ebf82401f5243712f45f0
 workflow-type: tm+mt
-source-wordcount: '16687'
-ht-degree: 96%
+source-wordcount: '16738'
+ht-degree: 95%
 
 ---
 
@@ -73,6 +73,12 @@ Quando um usuário cria uma folha de horas e tenta atribuir um aprovador, a list
 “[!UICONTROL Erro. Desculpe, somente usuários com licença de Plano podem aprovar ou rejeitar folhas de horas. Entre em contato com o administrador do sistema.]”
 
 Como o usuário desativado não pode ser atribuído, o usuário deve selecionar um usuário ativado. Portanto, a folha de horas funciona conforme o esperado, mas os usuários desativados na lista podem causar confusão ou inconveniência para o usuário.
+
+**Não é possível inserir hora na folha de ponto**
+
+*Folhas de horas*
+
+Quando um usuário tenta adicionar tempo a uma folha de ponto, ele vê que as caixas de hora em qualquer linha de Tempo do projeto ou Tempo da tarefa estão esmaecidas e não podem digitar tempo nessas caixas. Eles podem inserir horário somente na área Tempo geral .
 
 +++
 
@@ -235,7 +241,7 @@ Ao tentar abrir uma prova interativa, a prova não abre e o usuário vê a segui
 
 **problemas com tarefas adicionadas a uma iteração**
 
-*Ágil*
+*Agile*
 
 Os seguintes problemas foram relatados em relação a tarefas adicionadas a uma iteração:
 
@@ -246,7 +252,7 @@ Os seguintes problemas foram relatados em relação a tarefas adicionadas a uma 
 
 **tarefas atribuídas por meio da edição em massa não aparecem na lista de pendências da equipe**
 
-*Ágil*
+*Agile*
 
 Quando um usuário atribui tarefas a uma equipe do Scrum usando a edição em massa, essas tarefas não aparecem na lista de pendências da equipe.
 
@@ -1813,7 +1819,7 @@ Isso ocorre mesmo se o usuário tiver a função de tarefa da atribuição de fu
 
 **Problema com a barra “Mostrar mais itens de trabalho” do quadro Scrum**&#x200B;
 
-*Ágil*
+*Agile*
 
 Quando um usuário clica na barra [!UICONTROL Mostrar mais itens de trabalho] em um Quadro Scrum e rola a tela para ver os novos itens, a barra [!UICONTROL Mostrar mais itens de trabalho] fica presa no Quadro Scrum e se move com ele ao rolar a tela. Isso pode dificultar a leitura dos cartões.
 
@@ -1920,7 +1926,7 @@ A guia [!UICONTROL Acesso a blueprints] foi removida do modal de Preferências d
 
 **Não é possível rolar a lista de usuários para baixo ao fazer a atribuição no quadro Kanban**
 
-*Ágil*
+*Agile*
 
 Quando um usuário visualiza um quadro do [!DNL Kanban] e tenta fazer uma atribuição, a lista de usuários exibida ao digitar continua voltando para o topo à medida que a tela é rolada para baixo. O usuário não pode selecionar um usuário que não esteja perto do topo da lista e não pode salvar a alteração de atribuição.
 
@@ -2388,7 +2394,7 @@ Quando um usuário converte um problema em um projeto usando um modelo, os dados
 
 **A lista de usuários em um quadro Agile não está em ordem alfabética**
 
-*Ágil*
+*Agile*
 
 Quando um usuário exibe a lista de usuários em um quadro Agile, os usuários não são exibidos em ordem alfabética. Em vez disso, os usuários com mais atribuições são listados primeiro.
 
@@ -2466,7 +2472,7 @@ Quando um usuário visualiza a lista [!UICONTROL Meu trabalho] e o modelo de lay
 
 **[!UICONTROL Percentual concluído] e [!UICONTROL Horas concluídas] não podem ser modificados no Quadro Agile**
 
-*Ágil*
+*Agile*
 
 Quando um usuário seleciona “[!UICONTROL Mostrar mais itens de trabalho]” no Quadro Agile e tenta alterar o [!UICONTROL Percentual concluído] ou as [!UICONTROL Horas concluídas] em um dos itens de trabalho recém-carregados, não é possível alterar o percentual concluído ou as horas concluídas. O botão [!UICONTROL Percentual concluído] também está em cinza, indicando que está inativo.
 
