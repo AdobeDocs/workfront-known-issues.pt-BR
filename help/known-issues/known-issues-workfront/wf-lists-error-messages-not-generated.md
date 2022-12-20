@@ -3,9 +3,9 @@ title: '“Listas: a edição em linha de erros por usuário não causa mensagen
 description: “Quando um usuário está editando um objeto em linha e faz um erro que deveria criar uma mensagem de erro, nenhuma mensagem de erro é exibida. O erro em si não é salvo no Workfront, portanto, os dados não são afetados, mas a falta de uma mensagem de erro pode causar confusão.”
 hidefromtoc: true
 source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '171'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 96%
 
 >[!NOTE]
 >
->Esse problema foi corrigido em 1º de dezembro de 2022.
+>Esse problema foi corrigido em 1 de dezembro de 2022.
 
 Quando um usuário está editando um objeto em linha e faz um erro que deveria criar uma mensagem de erro, nenhuma mensagem de erro é exibida. O erro em si não é salvo no Workfront, portanto, os dados não são afetados, mas a falta de uma mensagem de erro pode causar confusão.
 
