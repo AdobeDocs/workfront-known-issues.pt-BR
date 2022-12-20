@@ -3,7 +3,7 @@ title: '“Página inicial: não é possível remover uma atribuição de proble
 description: “Quando um usuário visualiza um problema na Lista de trabalho da página inicial e tenta remover a atribuição, a página é atualizada e a atribuição não é removida.”
 hidefromtoc: true
 source-git-commit: a25db8e8235f2140b1364d60e2a96729931fea49
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
 ht-degree: 100%
 
