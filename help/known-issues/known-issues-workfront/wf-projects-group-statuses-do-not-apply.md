@@ -1,16 +1,16 @@
 ---
-title: "Projetos: O status do projeto não segue as preferências do projeto do grupo"
-description: "Quando um usuário cria um projeto a partir de um modelo, o novo projeto não assume o status definido nas preferências do projeto do Grupo. Se um projeto for criado sem um modelo, o status refletirá as preferências do projeto do Grupo, conforme esperado."
+title: '“Projetos: o status do projeto não segue as preferências do projeto do grupo”'
+description: “Quando um usuário cria um projeto a partir de um modelo, o novo projeto não assume o status definido nas preferências do projeto do Grupo. Se um projeto for criado sem um modelo, o status refletirá as preferências do projeto do Grupo, conforme esperado.”
 hidefromtoc: true
 source-git-commit: e470ad87b9ebd8795ec3d228479244322f96c928
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 
-# Projetos: O status do projeto não segue as preferências do projeto do Grupo
+# Projetos: o status do projeto não segue as preferências do projeto do Grupo
 
 >[!NOTE]
 >
