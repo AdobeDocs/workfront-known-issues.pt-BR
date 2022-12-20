@@ -4,9 +4,9 @@ description: Quando um usuário tenta mover uma tarefa ou problema para uma iter
 hidefromtoc: true
 exl-id: f83d946d-04ec-4c0d-9b07-a44c439f99b0
 source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->Esse problema foi corrigido em 1º de dezembro de 2022.
+>Esse problema foi corrigido em 1 de dezembro de 2022.
 
 Quando um usuário tenta mover uma tarefa ou problema para uma iteração, o item de trabalho não se move e o usuário vê a seguinte mensagem:
 
