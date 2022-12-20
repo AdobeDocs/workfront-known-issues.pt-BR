@@ -1,16 +1,16 @@
 ---
-title: "Projetos: Ocorre erro ao criar um projeto a partir de um modelo"
-description: '"Quando um usuário tenta criar um projeto a partir de um modelo, o projeto não é criado e o usuário vê o erro Booops! Um erro inesperado aconteceu. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.”'
+title: '“Projetos: ocorreu um erro ao criar um projeto a partir de um modelo”'
+description: “Quando um usuário tenta criar um projeto a partir de um modelo, o projeto não é criado e o usuário vê um erro. Um erro inesperado aconteceu. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.”
 hidefromtoc: true
 source-git-commit: da562182a96fffe9bde86a4da2ecdf8072505c20
 workflow-type: tm+mt
 source-wordcount: '121'
-ht-degree: 37%
+ht-degree: 100%
 
 ---
 
 
-# Projetos: &quot;[!UICONTROL Boias]&quot;erro ao criar um projeto a partir de um modelo
+# Projetos: “[!UICONTROL erro]” ao criar um projeto a partir de um modelo
 
 >[!NOTE]
 >

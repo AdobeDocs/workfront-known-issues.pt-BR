@@ -5,17 +5,17 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 7bb0987beff9127e4f5ebf82401f5243712f45f0
 workflow-type: tm+mt
 source-wordcount: '16738'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
-# Atualizações de manutenção do [!DNL Workfront] 
+# Atualizações de manutenção do [!DNL Workfront]
 
 As seguintes atualizações de manutenção foram efetuadas em 2022.
 
 >[!NOTE]
 >
->Essas atualizações também incluem outras correções de erros menores ou menos importantes. O suporte do [!DNL Workfront] enviará uma notificação quando um problema enviado for corrigido.
+>Essas atualizações também incluem outras correções de erros menores ou menos importantes. O suporte do [!DNL Workfront]enviará uma notificação quando um problema enviado for corrigido.
 
 <!--
 * [July 2022](#updates-in-july-2022)
@@ -78,7 +78,7 @@ Como o usuário desativado não pode ser atribuído, o usuário deve selecionar 
 
 *Folhas de horas*
 
-Quando um usuário tenta adicionar tempo a uma folha de ponto, ele vê que as caixas de hora em qualquer linha de Tempo do projeto ou Tempo da tarefa estão esmaecidas e não podem digitar tempo nessas caixas. Eles podem inserir horário somente na área Tempo geral .
+Ao tentar adicionar horas a uma folha de horas, o usuário vê que as caixas de horas em qualquer hora do projeto ou linhas de tempo de tarefa estão esmaecidas e não podem inserir o tempo nessas caixas. Eles podem inserir horas somente na área Tempo geral.
 
 +++
 
@@ -98,28 +98,28 @@ Agora, quando você adiciona um usuário ao [!UICONTROL Aprovadores] campo de um
 
 Quando um usuário cria um projeto a partir de um modelo, o novo projeto não assume o status definido nas preferências do projeto do Grupo. Se um projeto for criado sem um modelo, o status refletirá as preferências do projeto do Grupo, conforme esperado.
 
-**Não é possível adicionar subtarefa**
+**Não é possível adicionar uma subtarefa**
 
 *Tarefas*
 
-Quando um usuário tenta adicionar uma subtarefa usando o[!UICONTROL +Novo]&quot;, nenhuma opção é exibida no [!UICONTROL Nova tarefa] e o usuário vê a seguinte mensagem:
+Quando um usuário tenta adicionar uma subtarefa usando o botão “[!UICONTROL +Novo]”, nenhuma opção é exibida na janela “[!UICONTROL Nova tarefa]” e o usuário vê a seguinte mensagem:
 
-&quot;[!UICONTROL Não é possível ler propriedades de indefinido (lendo &#39;validações&#39;)]&quot;
+“[!UICONTROL Não é possível ler propriedades de indefinido (lendo validações)]”
 
-**Erros ao fechar ou salvar folhas de ponto**
+**Erros ao fechar ou salvar folhas de horas**
 
 *Folhas de horas*
 
-Quando um usuário tenta adicionar tempo ou fechar uma folha de ponto, ela não é salva e o usuário vê os seguintes erros:
+Quando um usuário tenta adicionar horas ou fechar uma folha de horas, ela não é salva e o usuário vê os seguintes erros:
 
-* Erro de SQL.
+* Erro de banco de dados devido à instrução SQL inválida.
 * Suas alterações recentes não foram salvas. Atualize a página para visualizar as últimas alterações salvas.
 
 +++
 
 +++**Atualização de manutenção (hotfix) em 1 de dezembro de 2022**
 
-**Erros de edição embutidos pelo usuário não causam mensagens de erro**
+**Erros de edição em linha do usuário não causam mensagens de erro**
 
 *Listas*
 
@@ -130,7 +130,7 @@ Esse problema foi relatado para as seguintes situações:
 * Predecessores: um loop predecessor é criado, como atribuir uma tarefa a si mesmo
 * Datas: uma data impossível é definida, como uma Data de conclusão anterior à Data de início ou que esteja além da Data de conclusão do projeto
 
-**Opção &quot;Mover para&quot; não disponível em relatórios de problemas**
+**A opção “Mover para” não fica disponível em relatórios de problemas**
 
 *Relatórios*
 
@@ -285,7 +285,7 @@ O acesso aos relatórios por meio de um painel atualiza as informações da Últ
 
 Ao tentar fazer alterações em um objeto do [!DNL Workfront], as alterações não são salvas e o usuário vê o seguinte erro:
 
-“[!UICONTROL 500: erro de banco de dados devido à instrução SQL inválida.]”
+“[!UICONTROL 500: Erro de banco de dados devido à instrução SQL inválida.]”
 
 Esse problema foi relatado as seguintes situações:
 
@@ -551,7 +551,7 @@ Quando um usuário que está visualizando uma prova no [!DNL Workfront] fecha a 
 
 Quando um usuário visualiza um documento no [!DNL Workfront] e tenta abrir a prova, a prova não abre e o usuário retorna para a página [!UICONTROL Detalhes do documento].
 
-**As horas não são salvas ao usar[!UICONTROL  a tecla ]Tab**
+**As horas não são salvas ao usar [!UICONTROL  a tecla] Tab**
 
 *Folhas de horas*
 
@@ -750,7 +750,7 @@ Quando um usuário converte um problema em um projeto em branco (sem um modelo),
 
 Quando um usuário tenta alterar uma data em um projeto com o [!UICONTROL Modo de plano] definido como [!UICONTROL Salvar manualmente] > [!UICONTROL Planejamento de linha do tempo], a data não muda e o usuário vê um erro.
 
-“[!UICONTROL O modo de Planejamento de linha do tempo está disponível somente quando a data da linha do tempo é carregada. Entre em contato com o [!DNL Workfront] para que possamos descobrir o que aconteceu e resolver o problema.]”
+“[!UICONTROL O modo de Planejamento de linha do tempo está disponível somente quando timelineDate é carregada. Entre em contato com o [!DNL Workfront] para que possamos descobrir o que aconteceu e resolver o problema.]”
 
 **Consistência ao abrir o Balanceador de carga de trabalho usando a visualização Mês**
 
@@ -1297,7 +1297,7 @@ Agora é possível redimensionar o painel esquerdo em um Plano no [!DNL Scenario
 
 *[!DNL Workfront Fusion]*
 
-Quando um usuário está configurando um módulo do [!DNL Workfront] no [!DNL Workfront Fusion] e tenta selecionar saídas para o módulo, os campos de formulários personalizados não estão visíveis. Isso ocorre quando o formulário personalizado foi criado para um tipo de objeto do [!DNL Workfront] e outro tipo foi adicionado a ele. O [!DNL Workfront Fusion] exibe somente campos de formulários personalizados originalmente criados para o tipo de objeto selecionado.
+Quando um usuário está configurando um módulo do [!DNL Workfront] no [!DNL Workfront Fusion] e tenta selecionar saídas para o módulo, os campos de formulários personalizados não estão visíveis. Isso ocorre quando o formulário personalizado foi criado para um tipo de objeto do [!DNL Workfront] e outro tipo foi adicionado a ele. O [!DNL Workfront Fusion]exibe somente campos de formulários personalizados originalmente criados para o tipo de objeto selecionado.
 
 **Não é possível rolar a tela para exibir todas as execuções de cenário**
 
@@ -1335,8 +1335,7 @@ Quando um usuário tenta editar as [!UICONTROL Condições] na área [!UICONTROL
 >
 >Essa atualização se aplica somente ao ambiente de Pré-visualização.
 
-Para melhorar o desempenho da área Atualizações, introduzimos um novo limite para o número de caracteres que podem ser inseridos em uma atualização ou em uma resposta a uma atualização existente. O novo limite é de 15.000 caracteres. Essa atualização não alterou o número de caracteres permitidos ao usar a API. O limite de caracteres da API para atualizações é 4.000. Atualizações 
-Suporte para campos personalizados do tipo digitação antecipada em filtros do Balanceador de carga de trabalho
+Para melhorar o desempenho da área Atualizações, introduzimos um novo limite para o número de caracteres que podem ser inseridos em uma atualização ou em uma resposta a uma atualização existente. O novo limite é de 15.000 caracteres. Essa atualização não alterou o número de caracteres permitidos ao usar a API. O limite de caracteres da API para atualizações é 4.000. Atualizações Suporte para campos personalizados do tipo digitação antecipada em filtros do Balanceador de carga de trabalho
 
 Agora oferecemos suporte a filtros com base nos campos personalizados do tipo [!UICONTROL Digitação antecipada] no Balanceador de carga de trabalho. Antes deste patch, a filtragem desse tipo de campo personalizado não era possível no Balanceador de carga de trabalho.
 
@@ -1353,7 +1352,7 @@ Quando um usuário tenta editar as permissões “[!UICONTROL Resolver comentár
 
 +++**Atualização de manutenção em 26 de maio de 2022**
 
-Esses problemas foram corrigidos somente na nova experiência do [!DNL Workfront]. O [!DNL Adobe Workfront Classic] não é mais compatível.
+Esses problemas foram corrigidos somente na nova experiência do [!DNL Workfront]. O [!DNL Adobe Workfront Classic]não é mais compatível.
 
 Todas as funcionalidades do [!DNL Workfront Classic] serão removidas em julho de 2022. Faça a transição para a nova experiência o mais rápido possível.
 
@@ -1377,11 +1376,10 @@ Ao tentar editar um formulário personalizado com uma quebra de seção, o usuá
 
 *Painéis*
 
-Os seguintes problemas foram relatados ao imprimir um painel em um PDF: 
-O PDF não imprime todas as linhas no relatório. Quando as linhas não aparecerem, somente será exibido um espaço em branco.
+Os seguintes problemas foram relatados ao imprimir um painel em um PDF: O PDF não imprime todas as linhas no relatório. Quando as linhas não aparecerem, somente será exibido um espaço em branco.
 O PDF inclui espaços em branco entre os cabeçalhos da coluna e a primeira linha do relatório.
 
-O **[!DNL Portfolio Optimizer] mostra uma pontuação de 0 ao usar um idioma diferente do inglês**
+O **[!DNL Portfolio Optimizer]mostra uma pontuação de 0 ao usar um idioma diferente do inglês**
 
 *Portfólios*
 
@@ -1447,7 +1445,7 @@ Quando um usuário está visualizando uma lista usando uma exibição que se est
 
 Quando um usuário tenta converter um problema em um projeto usando um modelo, o problema não é convertido e o usuário vê a seguinte mensagem:
 
-[!UICONTROL Ocorreu um erro inesperado: ]
+[!UICONTROL Ocorreu um erro inesperado:]
 
 **O campo [!UICONTROL Status] em uma visualização de folha de horas agora é somente leitura**
 
@@ -1863,8 +1861,7 @@ Quando o perfil de um usuário é definido com um fuso horário específico no [
 
 *Projetos*
 
-Ao anexar um modelo com campos personalizados obrigatórios a um projeto em que o campo já existe e está preenchido, os usuários veem o seguinte erro: “[!UICONTROL Há campos incompletos. Insira valores para os campos obrigatórios antes de continuar.]” 
-Clicar em “[!UICONTROL Leve-me lá]” permite que os usuários vejam que os campos estão preenchidos e podem anexar o modelo com êxito.
+Ao anexar um modelo com campos personalizados obrigatórios a um projeto em que o campo já existe e está preenchido, os usuários veem o seguinte erro: “[!UICONTROL Há campos incompletos. Insira valores para os campos obrigatórios antes de continuar.]” Clicar em “[!UICONTROL Leve-me lá]” permite que os usuários vejam que os campos estão preenchidos e podem anexar o modelo com êxito.
 
 **O [!UICONTROL Balanceador de carga de trabalho] pisca ao alternar entre datas**
 
@@ -2034,8 +2031,7 @@ Alterar o status de um projeto, tarefa ou problema e começar imediatamente a di
 
 Quando um usuário adiciona outro usuário a uma prova, a função dele na prova é definida como “[!UICONTROL Somente leitura]” apesar da função de prova real do usuário.
 
-Solução alternativa: 
-Defina a função de prova do usuário em seu perfil para algo diferente e redefina para a função correta.
+Solução alternativa: Defina a função de prova do usuário em seu perfil para algo diferente e redefina para a função correta.
 
 **O formulário personalizado não carrega ao converter o problema em um projeto usando o modelo**
 
@@ -2125,7 +2121,7 @@ OBSERVAÇÃO: essa atualização foi realizada no ambiente de Pré-visualizaçã
 
 Pesquisar
 
-Uma implantação em fases começou esta semana para atualizar a infraestrutura da funcionalidade de pesquisa do [!DNL Workfront]. A atualização tornará a Pesquisa mais fácil e mais confiável. Com essas alterações, os itens adicionados ao [!DNL Workfront] serão indexados mais rapidamente e, portanto, retornarão nos resultados da pesquisa mais cedo.
+Uma implantação em fases começou esta semana para atu alizar a infraestrutura da funcionalidade de pesquisa do [!DNL Workfront]. A atualização tornará a Pesquisa mais fácil e mais confiável. Com essas alterações, os itens adicionados ao [!DNL Workfront] serão indexados mais rapidamente e, portanto, retornarão nos resultados da pesquisa mais cedo.
 
 A distribuição em fases continuará por 2 semanas.
 
