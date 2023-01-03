@@ -3,7 +3,7 @@ title: '“Formulários personalizados: erro de acesso insuficiente ao editar um
 description: '“Quando um usuário tenta fazer qualquer alteração em um formulário personalizado, a alteração não é salva e o usuário vê o erro: Você não tem acesso suficiente para editar este parâmetro”'
 hidefromtoc: true
 source-git-commit: 7bb0987beff9127e4f5ebf82401f5243712f45f0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
 ht-degree: 100%
 
