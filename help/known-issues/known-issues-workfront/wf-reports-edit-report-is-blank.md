@@ -1,18 +1,18 @@
 ---
-title: "Relatórios: Editar tela de relatório está em branco"
-description: "Quando um usuário exibe um relatório e tenta editá-lo, ele é levado a uma tela em branco e não pode editá-lo."
+title: '“Relatórios: a tela Editar relatório está em branco”'
+description: “Quando um usuário está visualizando um relatório e tenta editá-lo, ele é direcionado a uma tela em branco e não consegue editar o relatório.”
 hidefromtoc: true
 source-git-commit: bb8f680e66310afda9544de28dc2dc3ceceda1f7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
 
-# Relatórios: [!UICONTROL Editar relatório] a tela está em branco
+# Relatórios: a tela [!UICONTROL Editar relatório] está em branco
 
-Quando um usuário exibe um relatório e tenta editá-lo, ele é levado a uma tela em branco e não pode editá-lo.
+Quando um usuário está visualizando um relatório e tenta editá-lo, ele é direcionado a uma tela em branco e não consegue editar o relatório.
 
 **Solução alternativa**
 
