@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: afd6b707f0d9df2887b66bf09e67d1edcac680b3
+source-git-commit: 69396ba9c1dabade728cca5c9dce97b2d7c1998c
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 81%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,7 +23,15 @@ Para obter atualizações de manutenção anteriores a 2023, consulte [Atualiza�
 
 +++**(Planejado) Atualização de manutenção em 5 de janeiro de 2023**
 
-Esta atualização contém apenas pequenas ou menos correções importantes de erros.
+**Funcionalidade de pin disponível em [!UICONTROL Mais] menu**
+
+_Navegação_
+
+Os seguintes recursos agora estão disponíveis no [!UICONTROL Mais] para pinos, somente no ambiente de visualização:
+
+* Renomear pinos
+* Reorganizando pinos dentro da [!UICONTROL Mais] menu
+* Mover um pino para fora do [!UICONTROL Mais] (ao fazer isso, o último pino na barra de navegação superior é movido para o [!UICONTROL Mais] menu)
 
 +++
 
