@@ -3,7 +3,7 @@ title: '“Relatórios: o gráfico de combinação exibe os mesmos dados duas ve
 description: “Quando um visualiza exibe um gráfico de combinação, o gráfico exibe um conjunto de valores duas vezes em vez de comparar dois conjuntos de valores. Os conjuntos de valores corretos podem ser encontrados nos detalhes do relatório.”
 hidefromtoc: true
 source-git-commit: da562182a96fffe9bde86a4da2ecdf8072505c20
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
 ht-degree: 100%
 
