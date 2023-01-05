@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: fef42f59b0dd8f9494478254e73fa9615852bf8a
+source-git-commit: aa129b37ee460450fa8c015b2f1c4b15c1dc466f
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 38%
+source-wordcount: '341'
+ht-degree: 60%
 
 ---
 
@@ -38,6 +38,21 @@ Os seguintes recursos agora estão disponíveis no [!UICONTROL Mais] para pinos,
 _Equipes_
 
 Removemos a limitação que exigia que os usuários que precisam ser adicionados a uma equipe de projeto estivessem no Grupo associado ao projeto. Agora, você pode adicionar qualquer usuário ativo a uma equipe de projeto, independentemente dos grupos aos quais ele pertence.
+
+**Novos ícones de informações para folhas de horas, perfis de folha de horas e preferências de folha de horas**
+
+>[!NOTE]
+>
+>Essa atualização foi lançada no ambiente de Visualização em 3 de novembro de 2022 e agora está disponível em Produção
+
+_Workfront_
+
+Adicionamos vários ícones de informações às seguintes configurações:
+
+* Caixa de seleção “Pode editar horas” ao criar ou editar uma folha de horas ou um perfil de folha de horas para indicar que, quando ativado, os aprovadores também podem enviar, reabrir ou editar a folha de horas, a menos que o administrador restrinja essas ações na área Preferências da folha de horas da Configuração.
+* “Restringir a edição da folha de horas a proprietários e administradores” na área Folha de horas e preferências de hora da configuração para indicar que, quando desativado, os usuários a seguir também podem editar as folhas de horas: usuários com acesso administrativo a folhas de horas, aprovadores de folha de horas com permissão para editar hora e gerentes de proprietários de folha de horas.
+
+Observe que a funcionalidade dessas configurações não foi alterada e somente os ícones de informações foram adicionados para esclarecer o escopo das configurações.
 
 +++
 
