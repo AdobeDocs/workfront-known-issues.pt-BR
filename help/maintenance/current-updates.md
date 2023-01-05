@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 69396ba9c1dabade728cca5c9dce97b2d7c1998c
+source-git-commit: 184d1abf18190ab41abe013ba2202df8a7d1888a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '129'
+ht-degree: 55%
 
 ---
 
@@ -21,7 +21,7 @@ Para obter atualizações de manutenção anteriores a 2023, consulte [Atualiza�
 
 ## Atualizações em janeiro de 2022
 
-+++**(Planejado) Atualização de manutenção em 5 de janeiro de 2023**
++++**Atualização de manutenção em 5 de janeiro de 2023**
 
 **Funcionalidade de pin disponível em [!UICONTROL Mais] menu**
 
