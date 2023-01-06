@@ -2,15 +2,19 @@
 title: '“Relatórios: ocorre um erro ao adicionar um novo problema a um relatório de problemas”'
 description: “Quando um usuário visualiza um relatório de problemas que foi adicionado a uma tarefa e tenta adicionar um novo problema, o problema não é adicionado e o usuário vê um erro.”
 hidefromtoc: true
-source-git-commit: 3ce48fed9e3e7b57e2775c33313718159daecb98
-workflow-type: ht
-source-wordcount: '117'
+source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
+workflow-type: tm+mt
+source-wordcount: '128'
 ht-degree: 100%
 
 ---
 
 
 # Relatórios: erro ao adicionar um novo problema a um relatório de problemas
+
+>[!NOTE]
+>
+>Esse problema foi encerrado porque não pôde ser reproduzido.
 
 Quando um usuário visualiza um relatório de problemas que foi adicionado a uma tarefa e tenta adicionar um novo problema, o problema não é adicionado e o usuário vê o seguinte erro:
 
