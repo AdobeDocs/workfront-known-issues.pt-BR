@@ -3,9 +3,9 @@ title: Problemas conhecidos na nova experiência do [!DNL Adobe Workfront]
 description: Problemas conhecidos reportados da nova experiência do  [!DNL Adobe Workfront]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
+source-git-commit: c4530d9f2848adb30cab802303170b3c5bc02451
 workflow-type: tm+mt
-source-wordcount: '624'
+source-wordcount: '628'
 ht-degree: 93%
 
 ---
@@ -44,7 +44,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | [Forms personalizada: Ctrl+F ou Cmd+F não funciona como esperado em campos suspensos](known-issues-workfront/wf-custom-forms-dropdown-search.md) | 3 de janeiro de 2023 |
 | [Provas: Provas não desarquivam](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 20 de dezembro de 2022 |
 | [Relatórios: a tela Editar relatório está em branco](known-issues-workfront/wf-reports-edit-report-is-blank.md) | 20 de dezembro de 2022 |
-| [Tarefas: não é possível adicionar uma subtarefa](known-issues-workfront/wf-tasks-cannot-add-subtask.md) | 7 de dezembro de 2022 |
 | [Formulários personalizados: “[!UICONTROL Expressão personalizada inválida]” ao fazer referência ao “[!UICONTROL proprietário]” em um campo calculado](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2 de dezembro de 2022 |
 | [Relatórios: erro ao adicionar um novo problema a um relatório de problemas](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14 de novembro de 2022 |
 | [Integrações: erro ao enviar solicitação do [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30 de agosto de 2022 |
@@ -58,6 +57,7 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Página inicial]: provas concluídas presas na [!UICONTROL Lista de trabalho]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 de janeiro de 2023 |
 | [Formulários personalizados: não é possível usar o campo no cálculo se o nome do campo contiver apóstrofos ou aspas](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 6 de janeiro de 2023 |
 | [Projetos: o status do projeto não segue as preferências do projeto do Grupo](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md) | 6 de janeiro de 2023 |
 | [Provas: o status da prova não é atualizado nas listas [!UICONTROL Documento]](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5 de dezembro de 2022 |

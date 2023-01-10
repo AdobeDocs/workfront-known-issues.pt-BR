@@ -3,10 +3,10 @@ title: Problemas conhecidos no [!DNL Adobe Workfront Proof]
 description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: c3f753f5cba03766f04f530edee1a726142475f5
+source-git-commit: c4530d9f2848adb30cab802303170b3c5bc02451
 workflow-type: tm+mt
-source-wordcount: '227'
-ht-degree: 95%
+source-wordcount: '245'
+ht-degree: 91%
 
 ---
 
@@ -24,6 +24,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Proof] API: &quot;[!UICONTROL Corpo não é um XML válido]&quot; erro](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 10 de janeiro de 2023 |
 | [Documentos: Não é possível adicionar documentos de [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md) | 20 de dezembro de 2022 |
 | [Documentos: permissões de documento não são herdadas quando o problema principal é convertido em um projeto](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 16 de dezembro de 2022 |
 | [Provas: as provas são exibidas no Visualizador de prova com menos clareza que a imagem original](known-issues-workfront/wf-proofs-are-blurry.md) | 18 de novembro de 2022 |
@@ -46,6 +47,7 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Página inicial]: provas concluídas presas na [!UICONTROL Lista de trabalho]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 de janeiro de 2023 |
 | [Provas: o status da prova não é atualizado nas listas [!UICONTROL Documento]](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5 de dezembro de 2022 |
 | [Provas: a prova não é compartilhada com os usuários no Fluxo de trabalho de prova](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18 de setembro de 2022 |
 | [Provas: o campo [!UICONTROL Estágios de prova ativos] está em branco](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 de setembro de 2022 |

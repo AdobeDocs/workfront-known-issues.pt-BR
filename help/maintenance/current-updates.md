@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: aa129b37ee460450fa8c015b2f1c4b15c1dc466f
+source-git-commit: c4530d9f2848adb30cab802303170b3c5bc02451
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 60%
+source-wordcount: '483'
+ht-degree: 49%
 
 ---
 
@@ -20,6 +20,28 @@ As seguintes atualizações de manutenção foram efetuadas em 2023.
 Para obter atualizações de manutenção anteriores a 2023, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em janeiro de 2023
+
++++**(Planejado) Atualização de manutenção em 12 de janeiro de 2023**
+
+**Ctrl+F ou Cmd+F não funciona como esperado em campos suspensos**
+
+_Formulários personalizados_
+
+Quando um usuário está preenchendo um formulário personalizado e pesquisa uma lista suspensa usando Ctrl+F ou Cmd+F e, em seguida, tenta passar para a próxima instância dessa pesquisa, a lista suspensa retorna ao topo da lista em vez de pular para a próxima instância da pesquisa. Isso ocorre quando uma lista suspensa é definida para permitir várias seleções.
+
+**[!UICONTROL Editar relatório] a tela está em branco**
+
+_Relatórios_
+
+Quando um usuário está visualizando um relatório e tenta editá-lo, ele é direcionado a uma tela em branco e não consegue editar o relatório.
+
+**As tarefas recuadas não permanecem recuadas**
+
+_Tarefas_
+
+Quando um usuário exibe uma lista de tarefas e recua uma tarefa, a tarefa retorna imediatamente ao seu estado original (recuado).
+
++++
 
 +++**Atualização de manutenção em 5 de janeiro de 2023**
 
