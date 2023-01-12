@@ -1,10 +1,10 @@
 ---
-title: Atualizações de manutenção do Workfront em 2022
-description: Atualizações de manutenção de 2022 para [!DNL Adobe Workfront]
+title: Atualizações de manutenção do Workfront  em 2022
+description: Atualizações de manutenção do [!DNL Adobe Workfront]
 source-git-commit: afd6b707f0d9df2887b66bf09e67d1edcac680b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '16739'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -544,7 +544,7 @@ Se uma função de trabalho para a qual você fez o logon tiver sido alterada e 
 
 Quando um usuário que está visualizando uma prova no [!DNL Workfront] fecha a prova, ele não retorna à página em que estava antes de abrir a prova. Em vez disso, ele é redirecionado para outra página no [!DNL Workfront].
 
-**Não é possível abrir a prova no[!DNL Workfront]**
+**Não é possível abrir a prova no [!DNL Workfront]**
 
 *Provas*
 
@@ -927,7 +927,7 @@ Os seguintes problemas foram relatados em relação à criação de folhas de ho
 
 **As áreas do [!DNL Workfront Proof] não são atualizadas quando uma prova é criada, movida ou arquivada**
 
-*[!DNL Workfront]Prova*
+*[!DNL Workfront] Prova*
 
 O Proof está enfrentando atrasos de indexação no momento. Isso pode afetar a experiência do usuário das seguintes formas:
 
@@ -1069,7 +1069,7 @@ Quando um usuário tenta fazer upload de um anexo usando o [!DNL Workfront for O
 
 **Atualização de notificação por email de prova**
 
-*[!DNL Workfront]Prova*
+*[!DNL Workfront] Prova*
 
 No início deste mês, como parte de uma correção para o ambiente de produção do [!DNL Workfront], corrigimos alguns erros no sistema de notificação por email de prova. Essa alteração não foi comunicada na atualização de manutenção quando foi lançada. Adicionamos as seguintes informações à [Atualização de manutenção em 2 de junho de 2022](#maintenance-update-on-june-2-2022):
 
@@ -1632,7 +1632,7 @@ Quando um usuário visualiza um relatório e seleciona a visualização de [!UIC
 
 Quando um usuário visualiza um relatório em um painel, a moeda usada no relatório está incorreta. Quando o usuário visualiza o relatório fora do painel, a moeda está correta.
 
-**O filtro concluído não exibe os itens de trabalho concluído**&#x200B; s
+**O filtro concluído não exibe os itens de trabalho concluído**&#x200B;
 
 *[!UICONTROL Página inicial]*
 
