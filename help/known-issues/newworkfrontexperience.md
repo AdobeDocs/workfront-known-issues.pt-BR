@@ -3,7 +3,7 @@ title: Problemas conhecidos na nova experiência do [!DNL Adobe Workfront]
 description: Problemas conhecidos reportados da nova experiência do  [!DNL Adobe Workfront]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 5f4d8813a43166db6491464dff26938fc4f545ef
+source-git-commit: dd093aff6103901898c561c9f6f544c1648682a3
 workflow-type: tm+mt
 source-wordcount: '597'
 ht-degree: 98%
@@ -38,7 +38,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Integrações: não é possível abrir o [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 6 de janeiro de 2023 |
 | [Documentos: permissões de documento não são herdadas quando o problema principal é convertido em um projeto](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 16 de dezembro de 2022 |
 | [Provas: provas não desarquivam](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 20 de dezembro de 2022 |
 | [Formulários personalizados: “[!UICONTROL Expressão personalizada inválida]” ao fazer referência ao “[!UICONTROL proprietário]” em um campo calculado](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2 de dezembro de 2022 |
@@ -54,6 +53,7 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integrações: não é possível abrir o [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 12 de janeiro de 2023 |
 | [[!UICONTROL Página inicial]: provas concluídas presas na [!UICONTROL Lista de trabalho]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 de janeiro de 2023 |
 | [Formulários personalizados: não é possível usar o campo no cálculo se o nome do campo contiver apóstrofos ou aspas](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 6 de janeiro de 2023 |
 | [Projetos: o status do projeto não segue as preferências do projeto do Grupo](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md) | 6 de janeiro de 2023 |
