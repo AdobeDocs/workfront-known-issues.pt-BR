@@ -3,7 +3,7 @@ title: '“Formulários personalizados: não é possível usar o campo no cálcu
 description: “Quando um usuário está criando uma expressão de campo calculado e tenta incluir um campo de digitação antecipada que tenha um nome com um apóstrofo ou aspas, o cálculo não é aceito e o usuário vê a mensagem Esta expressão personalizada é inválida, tente novamente.”
 hidefromtoc: true
 source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '176'
 ht-degree: 100%
 
