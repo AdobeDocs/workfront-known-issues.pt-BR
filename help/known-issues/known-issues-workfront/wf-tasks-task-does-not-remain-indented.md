@@ -2,9 +2,9 @@
 title: "Tarefas: As tarefas recuadas não permanecem recuadas"
 description: "Quando um usuário exibe uma lista de tarefas e recua uma tarefa, a tarefa retorna imediatamente ao seu estado original (recuado)."
 hidefromtoc: true
-source-git-commit: 765a69f5f29836e6296a79688c555d681964a6ba
+source-git-commit: 5f4d8813a43166db6491464dff26938fc4f545ef
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '66'
 ht-degree: 6%
 
 ---
@@ -12,7 +12,11 @@ ht-degree: 6%
 
 # Tarefas: As tarefas recuadas não permanecem recuadas
 
+>[!NOTE]
+>
+>Esse problema foi corrigido em 12 de janeiro de 2023.
+
 Quando um usuário exibe uma lista de tarefas e recua uma tarefa, a tarefa retorna imediatamente ao seu estado original (recuado).
 
-_Reportado pela primeira vez em 22 de novembro de 2022._
+_Relatado pela primeira vez em 22 de novembro de 2022._
 

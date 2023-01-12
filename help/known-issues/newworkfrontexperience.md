@@ -3,10 +3,10 @@ title: Problemas conhecidos na nova experiência do [!DNL Adobe Workfront]
 description: Problemas conhecidos reportados da nova experiência do  [!DNL Adobe Workfront]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: c4530d9f2848adb30cab802303170b3c5bc02451
+source-git-commit: 5f4d8813a43166db6491464dff26938fc4f545ef
 workflow-type: tm+mt
-source-wordcount: '628'
-ht-degree: 97%
+source-wordcount: '597'
+ht-degree: 98%
 
 ---
 
@@ -40,10 +40,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | -----------------------------------------------------------------| ----------------- |
 | [Integrações: não é possível abrir o [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 6 de janeiro de 2023 |
 | [Documentos: permissões de documento não são herdadas quando o problema principal é convertido em um projeto](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 16 de dezembro de 2022 |
-| [Tarefas: As tarefas recuadas não permanecem recuadas](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md) | 6 de janeiro de 2023 |
-| [Formulários personalizados: Ctrl+F ou Cmd+F não funciona como esperado em campos suspensos](known-issues-workfront/wf-custom-forms-dropdown-search.md) | 3 de janeiro de 2023 |
 | [Provas: provas não desarquivam](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 20 de dezembro de 2022 |
-| [Relatórios: a tela Editar relatório está em branco](known-issues-workfront/wf-reports-edit-report-is-blank.md) | 20 de dezembro de 2022 |
 | [Formulários personalizados: “[!UICONTROL Expressão personalizada inválida]” ao fazer referência ao “[!UICONTROL proprietário]” em um campo calculado](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2 de dezembro de 2022 |
 | [Relatórios: erro ao adicionar um novo problema a um relatório de problemas](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14 de novembro de 2022 |
 | [Integrações: erro ao enviar solicitação do [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30 de agosto de 2022 |
