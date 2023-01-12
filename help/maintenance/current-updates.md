@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: c4530d9f2848adb30cab802303170b3c5bc02451
 workflow-type: tm+mt
 source-wordcount: '483'
-ht-degree: 49%
+ht-degree: 63%
 
 ---
 
@@ -15,7 +15,7 @@ As seguintes atualizações de manutenção foram efetuadas em 2023.
 
 >[!NOTE]
 >
->Essas atualizações também incluem outras correções de erros menores ou menos importantes. O suporte do [!DNL Workfront]enviará uma notificação quando um problema enviado for corrigido.
+>Essas atualizações também incluem outras correções de erros menores ou menos importantes. O suporte do [!DNL Workfront] enviará uma notificação quando um problema enviado for corrigido.
 
 Para obter atualizações de manutenção anteriores a 2023, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 

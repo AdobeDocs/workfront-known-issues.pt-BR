@@ -4,7 +4,7 @@ user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 source-git-commit: 3f6f821e8452e2306175ff524dc6126ff14f2eab
 workflow-type: tm+mt
 source-wordcount: '1292'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 96%
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
       + [Tarefas: As tarefas recuadas não permanecem recuadas](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md)
       + [Atualizações: A tela fica temporariamente em branco quando a resposta é enviada](known-issues-workfront/wf-updates-reply-goes-blank.md)
-      + [Forms personalizada: Ctrl+F ou Cmd+F não funciona como esperado em campos suspensos](known-issues-workfront/wf-custom-forms-dropdown-search.md)
-      + [Provas: Provas não desarquivam](known-issues-workfront/wf-proofs-do-not-unarchive.md)
-      + [Documentos: Não é possível adicionar documentos de [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
+      + [Formulários personalizados: Ctrl+F ou Cmd+F não funciona como esperado em campos suspensos](known-issues-workfront/wf-custom-forms-dropdown-search.md)
+      + [Provas: provas não desarquivam](known-issues-workfront/wf-proofs-do-not-unarchive.md)
+      + [Documentos: não é possível adicionar documentos do [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
       + [Relatórios: a tela Editar relatório está em branco](known-issues-workfront/wf-reports-edit-report-is-blank.md)
       + [Documentos: as permissões de documento não são herdadas quando o problema principal é convertido em um projeto](known-issues-workfront/wf-documents-permissions-not-inherited.md)
       + [Relatórios: o relatório usa o criador de relatórios em vez do curinga “$$[!UICONTROL USERID]”](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md)

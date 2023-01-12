@@ -6,7 +6,7 @@ exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 source-git-commit: c4530d9f2848adb30cab802303170b3c5bc02451
 workflow-type: tm+mt
 source-wordcount: '245'
-ht-degree: 91%
+ht-degree: 96%
 
 ---
 
@@ -25,7 +25,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!DNL Workfront Proof] API: &quot;[!UICONTROL Corpo não é um XML válido]&quot; erro](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 10 de janeiro de 2023 |
-| [Documentos: Não é possível adicionar documentos de [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md) | 20 de dezembro de 2022 |
+| [Documentos: não é possível adicionar documentos do [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md) | 20 de dezembro de 2022 |
 | [Documentos: permissões de documento não são herdadas quando o problema principal é convertido em um projeto](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 16 de dezembro de 2022 |
 | [Provas: as provas são exibidas no Visualizador de prova com menos clareza que a imagem original](known-issues-workfront/wf-proofs-are-blurry.md) | 18 de novembro de 2022 |
 
@@ -37,7 +37,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Provas: Provas não desarquivam](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 20 de dezembro de 2022 |
+| [Provas: provas não desarquivam](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 20 de dezembro de 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 
