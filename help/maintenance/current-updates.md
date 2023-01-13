@@ -2,9 +2,9 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 5f4d8813a43166db6491464dff26938fc4f545ef
+source-git-commit: 62d6d8659079211804d2a270b181272ac7b0eede
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '662'
 ht-degree: 63%
 
 ---
@@ -20,6 +20,40 @@ As seguintes atualizações de manutenção foram efetuadas em 2023.
 Para obter atualizações de manutenção anteriores a 2023, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em janeiro de 2023
+
++++**[!DNL Adobe Workfront Fusion]Atualização de manutenção (hotfix) em 12 de janeiro de 2023**
+
+**erros 404 em módulos do[!DNL Workfront]**
+
+_Workfront Fusion_
+
+Quando um cenário é executado, um módulo do [!DNL Workfront] retorna um erro 404.
+
+Esse problema foi relatado os seguintes módulos:
+
+* [!UICONTROL Ler um registro]
+
++++
+
++++**Atualização de manutenção (hotfix) em 12 de janeiro de 2023**
+
+**&quot;[!UICONTROL Boias]&quot; ao configurar um campo calculado**
+
+_Formulários personalizados_
+
+Quando um usuário cria ou edita um campo calculado em um formulário personalizado e inclui um campo personalizado na expressão do campo calculado, a expressão é considerada inválida. O botão [!UICONTROL Salvar] está desativado e o usuário não consegue sair do campo personalizado. Além disso, o usuário vê a seguinte mensagem abaixo do campo:
+
+“[!UICONTROL Ops! Um erro inesperado aconteceu. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.]”
+
+Remover o campo personalizado da expressão permite que o usuário salve e navegue para fora do campo.
+
+**Não é possível definir níveis de acesso**
+
+_Usuários_
+
+Quando um usuário tenta alterar o nível de acesso de outro usuário, os níveis de acesso ficam esmaecidos e não é possível alterá-los. Isso ocorre mesmo quando o usuário que está tentando a alteração é um administrador do sistema.
+
++++
 
 +++**Atualização de manutenção em 12 de janeiro de 2023**
 
