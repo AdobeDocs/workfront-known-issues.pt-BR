@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 62d6d8659079211804d2a270b181272ac7b0eede
+source-git-commit: b6182d9693b48e4b3bdacb783d202522d23583f6
 workflow-type: tm+mt
-source-wordcount: '662'
-ht-degree: 63%
+source-wordcount: '771'
+ht-degree: 55%
 
 ---
 
@@ -20,6 +20,22 @@ As seguintes atualizações de manutenção foram efetuadas em 2023.
 Para obter atualizações de manutenção anteriores a 2023, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em janeiro de 2023
+
++++**(Planejado) Atualização de manutenção em 19 de janeiro de 2023**
+
+**Expressões com curingas não são válidas em campos personalizados**
+
+_Formulários personalizados_
+
+Quando um usuário usa um curinga, como $$TODAY ou $$NOW, juntamente com um modificador (como &quot;-30d&quot;) em um campo personalizado, o validador não aceita o curinga como válido. Curingas sem modificadores são vistos como válidos.
+
+**[!UICONTROL Balanceador de Carga de Trabalho] mostra horas não associadas a um projeto/tarefa/problema**
+
+_[!UICONTROL Balanceador de carga de trabalho]_
+
+Quando um usuário exibe a variável [!UICONTROL Balanceador de Carga de Trabalho], veem horas registradas para um usuário que não está associado a nenhum projeto, tarefa ou problema, nem são registradas como [!UICONTROL Geral] horas. Essas horas podem ser exibidas somente na visualização de 4 ou 6 semanas.
+
++++
 
 +++**[!DNL Adobe Workfront Fusion]Atualização de manutenção (hotfix) em 12 de janeiro de 2023**
 
