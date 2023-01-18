@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
-source-git-commit: 3f6f821e8452e2306175ff524dc6126ff14f2eab
+source-git-commit: f85f2ffac82c14c3ad3d6b1d6e8155c61586d767
 workflow-type: tm+mt
-source-wordcount: '1292'
-ht-degree: 98%
+source-wordcount: '1303'
+ht-degree: 97%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Documentos: Não é possível restaurar o documento excluído](known-issues-workfront/wf-documents-cannot-restore-document.md)
+      + [Documentos: Erro ao carregar arquivo grande](known-issues-workfront/wf-documents-large-uploads-fail.md)
       + [Tarefas: As tarefas recuadas não permanecem recuadas](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md)
       + [Atualizações: A tela fica temporariamente em branco quando a resposta é enviada](known-issues-workfront/wf-updates-reply-goes-blank.md)
       + [Formulários personalizados: Ctrl+F ou Cmd+F não funciona como esperado em campos suspensos](known-issues-workfront/wf-custom-forms-dropdown-search.md)

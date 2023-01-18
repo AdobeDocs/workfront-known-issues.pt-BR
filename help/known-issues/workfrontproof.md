@@ -3,10 +3,10 @@ title: Problemas conhecidos no [!DNL Adobe Workfront Proof]
 description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: c4530d9f2848adb30cab802303170b3c5bc02451
+source-git-commit: 7b0382f7c254795048dd015c4410dc6c25242101
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 96%
+source-wordcount: '258'
+ht-degree: 92%
 
 ---
 
@@ -24,6 +24,8 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documentos: Não é possível restaurar o documento excluído](known-issues-workfront/wf-documents-cannot-restore-document.md) | 18 de janeiro de 2023 |
+| [Documentos: Erro ao carregar arquivo grande](known-issues-workfront/wf-documents-large-uploads-fail.md) | 18 de janeiro de 2023 |
 | [[!DNL Workfront Proof] API: &quot;[!UICONTROL Corpo não é um XML válido]&quot; erro](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 10 de janeiro de 2023 |
 | [Documentos: não é possível adicionar documentos do [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md) | 20 de dezembro de 2022 |
 | [Documentos: permissões de documento não são herdadas quando o problema principal é convertido em um projeto](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 16 de dezembro de 2022 |

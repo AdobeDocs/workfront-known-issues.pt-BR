@@ -3,9 +3,9 @@ title: Problemas conhecidos na nova experiência do [!DNL Adobe Workfront]
 description: Problemas conhecidos reportados da nova experiência do  [!DNL Adobe Workfront]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: dd093aff6103901898c561c9f6f544c1648682a3
+source-git-commit: 7b0382f7c254795048dd015c4410dc6c25242101
 workflow-type: tm+mt
-source-wordcount: '597'
+source-wordcount: '600'
 ht-degree: 98%
 
 ---
@@ -24,7 +24,8 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Atualizações: A tela fica temporariamente em branco quando a resposta é enviada](known-issues-workfront/wf-updates-reply-goes-blank.md) | 6 de janeiro de 2023 |
+| [Documentos: Não é possível restaurar o documento excluído](known-issues-workfront/wf-documents-cannot-restore-document.md) | 18 de janeiro de 2023 |
+| [Documentos: Erro ao carregar arquivo grande](known-issues-workfront/wf-documents-large-uploads-fail.md) | 18 de janeiro de 2023 |
 | [Provas: as provas são exibidas no Visualizador de prova com menos clareza que a imagem original](known-issues-workfront/wf-proofs-are-blurry.md) | 18 de novembro de 2022 |
 | [Provas: a geração de prova é extremamente lenta](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 de outubro de 2022 |
 | [Provas: o Resumo de impressão não exibe todas as páginas da prova](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 de outubro de 2022 |

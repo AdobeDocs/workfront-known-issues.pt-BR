@@ -2,9 +2,9 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: b6182d9693b48e4b3bdacb783d202522d23583f6
+source-git-commit: f85f2ffac82c14c3ad3d6b1d6e8155c61586d767
 workflow-type: tm+mt
-source-wordcount: '771'
+source-wordcount: '770'
 ht-degree: 55%
 
 ---
@@ -21,13 +21,13 @@ Para obter atualizações de manutenção anteriores a 2023, consulte [Atualiza�
 
 ## Atualizações em janeiro de 2023
 
-+++**(Planejado) Atualização de manutenção em 19 de janeiro de 2023**
++++**Atualização de manutenção em 18 de janeiro de 2023**
 
 **Expressões com curingas não são válidas em campos personalizados**
 
 _Formulários personalizados_
 
-Quando um usuário usa um curinga, como $$TODAY ou $$NOW, juntamente com um modificador (como &quot;-30d&quot;) em um campo personalizado, o validador não aceita o curinga como válido. Curingas sem modificadores são vistos como válidos.
+Quando um usuário usa um curinga, como \$$TODAY ou $$NOW, juntamente com um modificador (como &quot;-30d&quot;) em um campo personalizado, o validador não aceita o curinga como válido. Curingas sem modificadores são vistos como válidos.
 
 **[!UICONTROL Balanceador de Carga de Trabalho] mostra horas não associadas a um projeto/tarefa/problema**
 
