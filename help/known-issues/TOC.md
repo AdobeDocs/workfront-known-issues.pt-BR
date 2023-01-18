@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
-source-git-commit: f85f2ffac82c14c3ad3d6b1d6e8155c61586d767
+source-git-commit: 682d0c0beafcb71a412afb1cad71f20ad3a50d82
 workflow-type: tm+mt
-source-wordcount: '1303'
-ht-degree: 97%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Configuração: Não é possível salvar modelos de email](known-issues-workfront/wf-setup-email-templates-not-working.md)
+      + [Usuários: O usuário não pode editar sua própria configuração de usuário](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
       + [Documentos: Não é possível restaurar o documento excluído](known-issues-workfront/wf-documents-cannot-restore-document.md)
       + [Documentos: Erro ao carregar arquivo grande](known-issues-workfront/wf-documents-large-uploads-fail.md)
       + [Tarefas: As tarefas recuadas não permanecem recuadas](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md)
