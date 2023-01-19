@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f85f2ffac82c14c3ad3d6b1d6e8155c61586d767
+source-git-commit: 244d9f48b2f63bf2b0b30259e42ca9317f5ad933
 workflow-type: tm+mt
-source-wordcount: '770'
-ht-degree: 55%
+source-wordcount: '879'
+ht-degree: 49%
 
 ---
 
@@ -20,6 +20,26 @@ As seguintes atualizações de manutenção foram efetuadas em 2023.
 Para obter atualizações de manutenção anteriores a 2023, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em janeiro de 2023
+
++++**Atualização de manutenção em 19 de janeiro de 2023**
+
+**Agora, os filtros da coluna de entrada podem ser compartilhados**
+
+_Quadros_
+
+Quando o recurso da coluna de entrada foi lançado para os quadros, os filtros para configurar a coluna de entrada só podiam ser vistos pela pessoa que criou esses filtros. Agora, o criador pode compartilhar os filtros com outros usuários ou equipes.
+
+**Funcionalidade de pin disponível em [!UICONTROL Mais] menu**
+
+_Navegação_
+
+Os seguintes recursos agora estão disponíveis no [!UICONTROL Mais] para pinos, no ambiente Produção:
+
+* Renomear pinos
+* Reorganizando pinos dentro da [!UICONTROL Mais] menu
+* Mover um pino para fora do [!UICONTROL Mais] (ao fazer isso, o último pino na barra de navegação superior é movido para o [!UICONTROL Mais] menu)
+
++++
 
 +++**Atualização de manutenção em 18 de janeiro de 2023**
 
