@@ -3,14 +3,18 @@ title: '“Formulários personalizados: mensagem de expressão personalizada inv
 description: '“Quando um usuário adiciona um campo calculado a um formulário personalizado em nível de problema e tenta adicionar qualquer referência a um proprietário (como “ownerID”), o campo não é salvo e o usuário vê a seguinte mensagem: esta expressão de cliente é inválida. Tente novamente.”'
 hidefromtoc: true
 exl-id: 254f1fae-0784-4332-99a1-cc1895c50896
-source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
+source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '157'
 ht-degree: 100%
 
 ---
 
 # Formulários personalizados: mensagem “[!UICONTROL Expressão personalizada inválida]” ao fazer referência ao “[!UICONTROL proprietário]” em um campo calculado
+
+>[!NOTE]
+>
+>A equipe do produto está avaliando a resolução do problema, que pode exigir melhorias do produto. As melhorias do produto são comunicadas nos Anúncios do produto e não nas Atualizações de manutenção.
 
 <!--
 >[!NOTE]
