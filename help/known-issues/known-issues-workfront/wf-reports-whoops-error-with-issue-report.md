@@ -3,7 +3,7 @@ title: '“Relatórios: ocorre um erro ao adicionar um novo problema a um relat�
 description: “Quando um usuário visualiza um relatório de problemas que foi adicionado a uma tarefa e tenta adicionar um novo problema, o problema não é adicionado e o usuário vê um erro.”
 hidefromtoc: true
 source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '128'
 ht-degree: 100%
 
