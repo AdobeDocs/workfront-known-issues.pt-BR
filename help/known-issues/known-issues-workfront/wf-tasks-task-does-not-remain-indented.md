@@ -1,16 +1,16 @@
 ---
-title: "Tarefas: As tarefas recuadas não permanecem recuadas"
-description: "Quando um usuário exibe uma lista de tarefas e recua uma tarefa, a tarefa retorna imediatamente ao seu estado original (recuado)."
+title: '“Tarefas: as tarefas recuadas não permanecem recuadas”'
+description: “Quando um usuário exibe uma lista de tarefas e recua uma tarefa, a tarefa retorna imediatamente ao seu estado original (recuado).”
 hidefromtoc: true
 source-git-commit: 5f4d8813a43166db6491464dff26938fc4f545ef
 workflow-type: tm+mt
 source-wordcount: '66'
-ht-degree: 6%
+ht-degree: 90%
 
 ---
 
 
-# Tarefas: As tarefas recuadas não permanecem recuadas
+# Tarefas: as tarefas recuadas não permanecem recuadas
 
 >[!NOTE]
 >

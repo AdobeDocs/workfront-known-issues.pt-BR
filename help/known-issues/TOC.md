@@ -3,8 +3,8 @@ user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 source-git-commit: 682d0c0beafcb71a412afb1cad71f20ad3a50d82
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1316'
+ht-degree: 98%
 
 ---
 
@@ -20,8 +20,8 @@ ht-degree: 0%
       + [Usuários: O usuário não pode editar sua própria configuração de usuário](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
       + [Documentos: Não é possível restaurar o documento excluído](known-issues-workfront/wf-documents-cannot-restore-document.md)
       + [Documentos: Erro ao carregar arquivo grande](known-issues-workfront/wf-documents-large-uploads-fail.md)
-      + [Tarefas: As tarefas recuadas não permanecem recuadas](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md)
-      + [Atualizações: A tela fica temporariamente em branco quando a resposta é enviada](known-issues-workfront/wf-updates-reply-goes-blank.md)
+      + [Tarefas: as tarefas recuadas não permanecem recuadas](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md)
+      + [Atualizações: a tela fica temporariamente em branco quando a resposta é enviada](known-issues-workfront/wf-updates-reply-goes-blank.md)
       + [Formulários personalizados: Ctrl+F ou Cmd+F não funciona como esperado em campos suspensos](known-issues-workfront/wf-custom-forms-dropdown-search.md)
       + [Provas: provas não desarquivam](known-issues-workfront/wf-proofs-do-not-unarchive.md)
       + [Documentos: não é possível adicionar documentos do [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
@@ -142,7 +142,7 @@ ht-degree: 0%
 + [!DNL Workfront Proof] {#proof}
    + [Problemas conhecidos no [!DNL Workfront Proof]](workfrontproof.md)
    + Problemas atuais no [!DNL Workfront Proof] {#proof-current}
-      + [[!DNL Workfront Proof] API: &quot;[!UICONTROL Corpo não é um XML válido]&quot; erro](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
+      + [[!DNL Workfront Proof] API: erro “[!UICONTROL corpo não é um XML válido]”](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
       + [[!DNL Workfront Proof]: não é possível abrir uma prova interativa](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md)
       + [Provas: o Resumo de impressão não exibe todas as páginas da prova](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
       + [Provas: a prova não é compartilhada com os usuários no Fluxo de trabalho de prova](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
@@ -177,7 +177,7 @@ ht-degree: 0%
       + [[!DNL Workfront Fusion]: o módulo não é carregado ao criar ou editar um cenário](known-issues-workfront-fusion/fusion-module-does-not-load.md)
       + [[!DNL Workfront Fusion]:  [!DNL Fusion] o módulo retorna o erro 404 sem mais informações](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion]: não consegue se conectar ao módulo MS Dynamics no Fusion](known-issues-workfront-fusion/fusion-unable-to-connect-to-ms-dynamics-module.md)
-      + [Os links de ajuda no aplicativo do [!DNL Workfront Fusion]não abrem páginas de ajuda específicas](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
+      + [Os links de ajuda no aplicativo do [!DNL Workfront Fusion] não abrem páginas de ajuda específicas](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + [!UICONTROL Adobe Workfront Goals] {#goals}
    + [Problemas conhecidos no [!DNL Workfront Goals]](workfrontgoals.md)

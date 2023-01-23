@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 244d9f48b2f63bf2b0b30259e42ca9317f5ad933
 workflow-type: tm+mt
 source-wordcount: '879'
-ht-degree: 49%
+ht-degree: 74%
 
 ---
 
@@ -29,15 +29,15 @@ _Quadros_
 
 Quando o recurso da coluna de entrada foi lançado para os quadros, os filtros para configurar a coluna de entrada só podiam ser vistos pela pessoa que criou esses filtros. Agora, o criador pode compartilhar os filtros com outros usuários ou equipes.
 
-**Funcionalidade de pin disponível em [!UICONTROL Mais] menu**
+**A funcionalidade de pino está disponível no menu [!UICONTROL Mais]**
 
 _Navegação_
 
 Os seguintes recursos agora estão disponíveis no [!UICONTROL Mais] para pinos, no ambiente Produção:
 
 * Renomear pinos
-* Reorganizando pinos dentro da [!UICONTROL Mais] menu
-* Mover um pino para fora do [!UICONTROL Mais] (ao fazer isso, o último pino na barra de navegação superior é movido para o [!UICONTROL Mais] menu)
+* Reorganização de pinos no menu [!UICONTROL Mais]
+* Mover um pino para fora do menu [!UICONTROL Mais] (ao fazer isso, o último pino na barra de navegação superior é movido para o menu [!UICONTROL Mais])
 
 +++
 
@@ -99,7 +99,7 @@ _Formulários personalizados_
 
 Quando um usuário está preenchendo um formulário personalizado e pesquisa uma lista suspensa usando Ctrl+F ou Cmd+F e, em seguida, tenta passar para a próxima instância dessa pesquisa, a lista suspensa retorna ao topo da lista em vez de pular para a próxima instância da pesquisa. Isso ocorre quando uma lista suspensa é definida para permitir várias seleções.
 
-**[!UICONTROL Editar relatório] a tela está em branco**
+A tela **[!UICONTROL Editar relatório] está em branco**
 
 _Relatórios_
 
@@ -115,15 +115,15 @@ Quando um usuário exibe uma lista de tarefas e recua uma tarefa, a tarefa retor
 
 +++**Atualização de manutenção em 5 de janeiro de 2023**
 
-**Funcionalidade de pin disponível em [!UICONTROL Mais] menu**
+**A funcionalidade de pino está disponível no menu [!UICONTROL Mais]**
 
 _Navegação_
 
-Os seguintes recursos agora estão disponíveis no [!UICONTROL Mais] para pinos, somente no ambiente de visualização:
+Os seguintes recursos agora estão disponíveis no menu [!UICONTROL Mais] para pinos, somente no ambiente de visualização:
 
 * Renomear pinos
-* Reorganizando pinos dentro da [!UICONTROL Mais] menu
-* Mover um pino para fora do [!UICONTROL Mais] (ao fazer isso, o último pino na barra de navegação superior é movido para o [!UICONTROL Mais] menu)
+* Reorganização de pinos no menu [!UICONTROL Mais]
+* Mover um pino para fora do menu [!UICONTROL Mais] (ao fazer isso, o último pino na barra de navegação superior é movido para o menu [!UICONTROL Mais])
 
 **Remoção da limitação do Grupo do projeto ao adicionar usuários à equipe do projeto**
 
@@ -135,7 +135,7 @@ Removemos a limitação que exigia que os usuários que precisam ser adicionados
 
 >[!NOTE]
 >
->Essa atualização foi lançada no ambiente de Visualização em 3 de novembro de 2022 e agora está disponível em Produção
+>Essa atualização foi lançada no ambiente de Visualização em 3 de novembro de 2022 e agora está disponível na Produção
 
 _Workfront_
 
