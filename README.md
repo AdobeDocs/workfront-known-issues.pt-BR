@@ -1,8 +1,8 @@
 ---
 source-git-commit: f4d70d8df5b944c0f95a3b6dda9eadcc41e4da0c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '421'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 # Artigo do Contribute
@@ -15,13 +15,13 @@ Este projeto adotou o [Código de conduta de código aberto da Adobe](code-of-co
 
 ## Sobre suas contribuições para o conteúdo da Adobe
 
-Consulte o [Guia do colaborador de documentos da Adobe](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
+Consulte o [Guia do colaborador de documentos da Adobe](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=pt-BR).
 
 A forma como você contribui depende de quem você é e do tipo de mudanças com as quais você gostaria de contribuir:
 
 ### Pequenas alterações
 
-Se você estiver contribuindo com pequenas atualizações, clique no link **Editar** do artigo que vai para a fonte do GitHub do artigo. Em seguida, use a interface do usuário do GitHub para fazer as atualizações. Consulte o [Guia do colaborador de documentos da Adobe](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html) para obter mais informações.
+Se você estiver contribuindo com pequenas atualizações, clique no link **Editar** do artigo que vai para a fonte do GitHub do artigo. Em seguida, use a interface do usuário do GitHub para fazer as atualizações. Consulte o [Guia do colaborador de documentos da Adobe](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=pt-BR) para obter mais informações.
 
 Pequenas correções ou esclarecimentos que você envia para documentação e exemplos de código neste repositório são cobertos pelos termos de uso da Adobe.
 
@@ -43,7 +43,7 @@ Se você é um autor técnico, gerente de programa ou desenvolvedor da equipe de
 
 Os colaboradores da comunidade podem usar a interface do usuário do GitHub para a edição básica ou bifurcar o repositório para fazer grandes contribuições.
 
-Consulte a [Guia do colaborador de documentos da Adobe](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html) para obter detalhes.
+Consulte a [Guia do colaborador de documentos da Adobe](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=pt-BR) para obter detalhes.
 
 ## Como usar marcação para formatar um tópico
 
