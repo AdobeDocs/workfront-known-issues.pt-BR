@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 244d9f48b2f63bf2b0b30259e42ca9317f5ad933
+source-git-commit: efa58e381aba8aaba59f0c19362f3da0cc81154f
 workflow-type: tm+mt
-source-wordcount: '879'
-ht-degree: 74%
+source-wordcount: '951'
+ht-degree: 75%
 
 ---
 
@@ -20,6 +20,20 @@ As seguintes atualizações de manutenção foram efetuadas em 2023.
 Para obter atualizações de manutenção anteriores a 2023, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em janeiro de 2023
+
++++**(Planejado) Atualização de manutenção em 26 de janeiro de 2023**
+
+**Erro ao enviar solicitação de[!DNL Outlook]**
+
+_Integrações_
+
+Quando um usuário tenta enviar uma solicitação com anexos de um email do [!DNL Outlook], um ou mais anexos não são carregados e o usuário vê o seguinte erro:
+
+“[!UICONTROL Ocorreu o seguinte erro: o arquivo com o identificador xxxx não existe.]”
+
+Isso ocorre somente quando uma atribuição é feita para a nova solicitação, seja por meio da fila de solicitações ou manualmente ao criar a solicitação.
+
++++
 
 +++**Atualização de manutenção em 19 de janeiro de 2023**
 
