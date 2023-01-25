@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: efa58e381aba8aaba59f0c19362f3da0cc81154f
+source-git-commit: 9d19a853dbd123107d55eb362d383f5080ff1b8a
 workflow-type: tm+mt
-source-wordcount: '951'
-ht-degree: 75%
+source-wordcount: '1000'
+ht-degree: 72%
 
 ---
 
@@ -32,6 +32,12 @@ Quando um usuário tenta enviar uma solicitação com anexos de um email do [!DN
 “[!UICONTROL Ocorreu o seguinte erro: o arquivo com o identificador xxxx não existe.]”
 
 Isso ocorre somente quando uma atribuição é feita para a nova solicitação, seja por meio da fila de solicitações ou manualmente ao criar a solicitação.
+
+**O usuário não pode editar sua própria configuração de usuário**
+
+_Usuários_
+
+Quando um usuário com uma licença de Trabalho, Revisão ou Solicitação tenta editar suas próprias configurações do usuário, o pop-up aberto fica em branco e o usuário não pode fazer edições. Para sair do pop-up, o usuário deve atualizar a página.
 
 +++
 
