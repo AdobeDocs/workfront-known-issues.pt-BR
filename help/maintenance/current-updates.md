@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: baeb2b783dcf75bc889096cd02035ecb9bd17ef6
+source-git-commit: 441062239d07963454e1cc57e4dff54e0c5a06bb
 workflow-type: tm+mt
-source-wordcount: '999'
-ht-degree: 72%
+source-wordcount: '1071'
+ht-degree: 67%
 
 ---
 
@@ -32,6 +32,17 @@ Quando um usuário tenta enviar uma solicitação com anexos de um email do [!DN
 “[!UICONTROL Ocorreu o seguinte erro: o arquivo com o identificador xxxx não existe.]”
 
 Isso ocorre somente quando uma atribuição é feita para a nova solicitação, seja por meio da fila de solicitações ou manualmente ao criar a solicitação.
+
+**Nova versão do Visualizador de Verificação de Verificação Linguística para Desktop**
+
+_Prova_
+
+Para corrigir um problema de congelamento no Desktop Proofing Viewer, implantamos uma nova versão do visualizador de prova de desktop. Os usuários que já tiverem o Desktop Proofing Viewer instalado receberão esta atualização automaticamente.
+
+Os usuários também podem baixar manualmente a versão mais recente. Para obter mais informações, consulte [Instale o Desktop Proofing Viewer](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=en).
+
+* Versão anterior: 2.1.19
+* Nova versão: 2.1.20
 
 **O usuário não pode editar sua própria configuração de usuário**
 
