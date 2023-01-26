@@ -2,15 +2,19 @@
 title: '“Integrações: erro ao enviar solicitação do Outlook”'
 description: “Quando um usuário tenta enviar uma solicitação com anexos de um email do [!DNL Outlook] , um ou mais anexos não são carregados e o usuário vê um erro.”
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: ht
-source-wordcount: '104'
-ht-degree: 100%
+source-git-commit: baeb2b783dcf75bc889096cd02035ecb9bd17ef6
+workflow-type: tm+mt
+source-wordcount: '110'
+ht-degree: 94%
 
 ---
 
 
 # Integrações: erro ao enviar solicitação do [!DNL Outlook]
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em 26 de janeiro de 2023.
 
 Quando um usuário tenta enviar uma solicitação com anexos de um email do [!DNL Outlook], um ou mais anexos não são carregados e o usuário vê o seguinte erro:
 
