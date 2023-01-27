@@ -3,7 +3,7 @@ title: '“Documentos: as permissões de documento não são herdadas quando o p
 description: “Quando os documentos são anexados a um problema e um usuário converte o problema em um projeto, os documentos do novo projeto não têm as permissões herdadas que deveriam ter.”
 hidefromtoc: true
 source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
 ht-degree: 100%
 
