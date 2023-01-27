@@ -3,9 +3,9 @@ title: '“Relatórios: a tela Editar relatório está em branco”'
 description: “Quando um usuário está visualizando um relatório e tenta editá-lo, ele é direcionado a uma tela em branco e não consegue editar o relatório.”
 hidefromtoc: true
 source-git-commit: 5f4d8813a43166db6491464dff26938fc4f545ef
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
