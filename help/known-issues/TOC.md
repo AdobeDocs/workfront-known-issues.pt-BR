@@ -3,8 +3,8 @@ user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 source-git-commit: 1b49b3fdcd78dc0ceef76f2a0c7492d2ae151296
 workflow-type: tm+mt
-source-wordcount: '1323'
-ht-degree: 97%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -17,10 +17,10 @@ ht-degree: 97%
    + [Problemas conhecidos no [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
       + [Usuários: A desativação agendada não desativa o usuário](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md)
-      + [Configuração: Não é possível salvar modelos de email](known-issues-workfront/wf-setup-email-templates-not-working.md)
-      + [Usuários: O usuário não pode editar sua própria configuração de usuário](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
-      + [Documentos: Não é possível restaurar o documento excluído](known-issues-workfront/wf-documents-cannot-restore-document.md)
-      + [Documentos: Erro ao carregar arquivo grande](known-issues-workfront/wf-documents-large-uploads-fail.md)
+      + [Configuração: não é possível salvar modelos de email](known-issues-workfront/wf-setup-email-templates-not-working.md)
+      + [Usuários: o usuário não pode editar sua própria configuração de usuário](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
+      + [Documentos: não é possível restaurar o documento excluído](known-issues-workfront/wf-documents-cannot-restore-document.md)
+      + [Documentos: erro ao fazer upload de um arquivo grande](known-issues-workfront/wf-documents-large-uploads-fail.md)
       + [Tarefas: as tarefas recuadas não permanecem recuadas](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md)
       + [Atualizações: a tela fica temporariamente em branco quando a resposta é enviada](known-issues-workfront/wf-updates-reply-goes-blank.md)
       + [Formulários personalizados: Ctrl+F ou Cmd+F não funciona como esperado em campos suspensos](known-issues-workfront/wf-custom-forms-dropdown-search.md)

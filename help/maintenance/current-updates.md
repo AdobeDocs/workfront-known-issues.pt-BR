@@ -4,8 +4,8 @@ description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 441062239d07963454e1cc57e4dff54e0c5a06bb
 workflow-type: tm+mt
-source-wordcount: '1071'
-ht-degree: 67%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -48,7 +48,7 @@ Os usuários também podem baixar manualmente a versão mais recente. Para obter
 
 _Usuários_
 
-Quando um usuário com uma licença de Trabalho, Revisão ou Solicitação tenta editar suas próprias configurações do usuário, o pop-up aberto fica em branco e o usuário não pode fazer edições. Para sair do pop-up, o usuário deve atualizar a página.
+Quando um usuário que possui uma licença de Trabalho, Revisão ou Solicitação tenta editar suas próprias configurações de usuário, a janela pop-up é aberta em branco e o usuário não consegue fazer edições. Para sair da janela pop-up, o usuário precisa atualizar a página.
 
 +++
 
@@ -58,13 +58,13 @@ Quando um usuário com uma licença de Trabalho, Revisão ou Solicitação tenta
 
 _Quadros_
 
-Quando o recurso da coluna de entrada foi lançado para os quadros, os filtros para configurar a coluna de entrada só podiam ser vistos pela pessoa que criou esses filtros. Agora, o criador pode compartilhar os filtros com outros usuários ou equipes.
+Quando o recurso da coluna de entrada foi lançado para Quadros, os filtros de configuração da coluna de entrada só podiam ser vistos pela pessoa que os criou. Agora, o criador pode compartilhar os filtros com outros usuários ou equipes.
 
 **A funcionalidade de pino está disponível no menu [!UICONTROL Mais]**
 
 _Navegação_
 
-Os seguintes recursos agora estão disponíveis no [!UICONTROL Mais] para pinos, no ambiente Produção:
+Os seguintes recursos agora estão disponíveis no menu [!UICONTROL Mais] dos marcadores, no ambiente de produção:
 
 * Renomear pinos
 * Reorganização de pinos no menu [!UICONTROL Mais]
@@ -78,19 +78,19 @@ Os seguintes recursos agora estão disponíveis no [!UICONTROL Mais] para pinos,
 
 _Formulários personalizados_
 
-Quando um usuário usa um curinga, como \$$TODAY ou $$NOW, juntamente com um modificador (como &quot;-30d&quot;) em um campo personalizado, o validador não aceita o curinga como válido. Curingas sem modificadores são vistos como válidos.
+Quando um usuário usa um curinga, como \$$TODAY ou $$NOW, juntamente com um modificador (como “-30d”) em um campo personalizado, o validador não aceita o curinga como válido. Curingas sem modificadores são vistos como válidos.
 
-**[!UICONTROL Balanceador de Carga de Trabalho] mostra horas não associadas a um projeto/tarefa/problema**
+O **[!UICONTROL Balanceador de carga de trabalho] mostra horas não associadas a um projeto/tarefa/problema**
 
 _[!UICONTROL Balanceador de carga de trabalho]_
 
-Quando um usuário exibe a variável [!UICONTROL Balanceador de Carga de Trabalho], veem horas registradas para um usuário que não está associado a nenhum projeto, tarefa ou problema, nem são registradas como [!UICONTROL Geral] horas. Essas horas podem ser exibidas somente na visualização de 4 ou 6 semanas.
+Ao visualizar o [!UICONTROL Balanceador de carga de trabalho], o usuário vê horas registradas para um usuário que não estão associadas a nenhum projeto, tarefa ou problema, e que não estão registradas como horas [!UICONTROL Gerais]. Essas horas podem ser exibidas somente na visualização de 4 ou 6 semanas.
 
 +++
 
-+++**[!DNL Adobe Workfront Fusion]Atualização de manutenção (hotfix) em 12 de janeiro de 2023**
++++**[!DNL Adobe Workfront Fusion]Atualização de manutenção (Hot Fix) em 12 de janeiro de 2023**
 
-**erros 404 em módulos do[!DNL Workfront]**
+**Erros 404 em módulos do [!DNL Workfront]**
 
 _Workfront Fusion_
 
@@ -102,9 +102,9 @@ Esse problema foi relatado os seguintes módulos:
 
 +++
 
-+++**Atualização de manutenção (hotfix) em 12 de janeiro de 2023**
++++**Atualização de manutenção (Hot Fix) em 12 de janeiro de 2023**
 
-**&quot;[!UICONTROL Boias]&quot; ao configurar um campo calculado**
+**Erro “[!UICONTROL Ops!]” ao configurar um campo calculado**
 
 _Formulários personalizados_
 
@@ -118,7 +118,7 @@ Remover o campo personalizado da expressão permite que o usuário salve e naveg
 
 _Usuários_
 
-Quando um usuário tenta alterar o nível de acesso de outro usuário, os níveis de acesso ficam esmaecidos e não é possível alterá-los. Isso ocorre mesmo quando o usuário que está tentando a alteração é um administrador do sistema.
+Quando um usuário tenta alterar o nível de acesso de outro usuário, os níveis de acesso ficam esmaecidos e não é possível alterá-los. Isso ocorre mesmo quando o usuário que está tentando realizar a alteração é um administrador do sistema.
 
 +++
 
