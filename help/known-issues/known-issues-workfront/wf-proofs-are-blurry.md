@@ -3,7 +3,7 @@ title: “As provas são exibidas com menos clareza do que a imagem original”
 description: “Quando um usuário cria uma prova e, em seguida, visualiza essa prova no visualizador de Prova, ela parece menos clara (mais turva) do que a imagem original.”
 hidefromtoc: true
 source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
 ht-degree: 100%
 
