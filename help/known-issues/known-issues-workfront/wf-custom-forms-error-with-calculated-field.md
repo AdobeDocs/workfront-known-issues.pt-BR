@@ -1,16 +1,16 @@
 ---
-title: '"Formulários personalizados: Erro Whops ao configurar um campo calculado'''
-description: Quando um usuário cria ou edita um campo calculado em um formulário personalizado e inclui um campo personalizado na expressão do campo calculado, a expressão é considerada inválida. O botão Salvar está desativado e o usuário não consegue sair do campo personalizado. Além disso, o usuário vê uma mensagem de Boops abaixo do campo.
+title: '“Formulários personalizados: um erro ‘Ops!’ ocorre ao configurar um campo calculado”'
+description: Quando um usuário cria ou edita um campo calculado em um formulário personalizado e inclui um campo personalizado na expressão do campo calculado, a expressão é considerada inválida. O botão Salvar está desativado e o usuário não consegue sair do campo personalizado. Além disso, o usuário vê uma mensagem de erro “Ops!” abaixo do campo.
 hidefromtoc: true
 exl-id: e499c680-2fdf-40cb-a1fa-b0d4ae799ad2
 source-git-commit: 62d6d8659079211804d2a270b181272ac7b0eede
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '176'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
-# Formulários personalizados: “[!UICONTROL erro]” ao configurar um campo calculado
+# Formulários personalizados: erro “[!UICONTROL Ops!]” ao configurar um campo calculado
 
 >[!NOTE]
 >
