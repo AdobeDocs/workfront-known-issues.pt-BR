@@ -3,9 +3,9 @@ title: '“Formulários personalizados: Ctrl+F ou Cmd+F não funciona como esper
 description: “Quando um usuário está preenchendo um formulário personalizado e pesquisa uma lista suspensa usando Ctrl+F ou Cmd+F e, em seguida, tenta passar para a próxima instância dessa pesquisa, a lista suspensa retorna ao topo da lista em vez de pular para a próxima instância da pesquisa. Isso ocorre quando uma lista suspensa é definida para permitir várias seleções.
 hidefromtoc: true
 source-git-commit: 5f4d8813a43166db6491464dff26938fc4f545ef
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '164'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
