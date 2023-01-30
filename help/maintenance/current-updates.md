@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 441062239d07963454e1cc57e4dff54e0c5a06bb
+source-git-commit: f3dbb947d2c3d9d36677c6c3c2cb41db2ce47685
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1319'
+ht-degree: 78%
 
 ---
 
@@ -20,6 +20,41 @@ As seguintes atualizações de manutenção foram efetuadas em 2023.
 Para obter atualizações de manutenção anteriores a 2023, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em janeiro de 2023
+
++++**Atualização de manutenção em 30 de janeiro de 2023**
+
+**Atalhos de teclado adicionados para ações comuns da folha de ponto**
+
+_Folhas de horas_
+
+Introduzimos os seguintes atalhos de teclado para as seguintes ações comumente executadas dentro de uma folha de ponto:
+
+* Adicionar linha (Cmd+Option++ / Ctrl+Option+)
+* Excluir linha (Cmd+Option+- / Ctrl+Option+-)
+* Fixar ou Desfixar um item de trabalho (Opção+P / Opção+P)
+* Abrir comentário (Shift+F2 / Shift+F2)
+* Salvar comentário (Cmd+Enter / Ctrl+Enter)
+* Expandir (Shift+Opção+Seta para cima/ Shift+Alt+Seta para cima)
+* Recolher (Shift+Option+Seta para baixo/ Shift+Alt+Seta para baixo)
+
+A área onde essas ações são executadas deve ser realçada para que sejam aplicadas.
+
+**Novos ícones de informações para folhas de horas, perfis de folha de horas e preferências de folha de horas**
+
+_Folhas de horas_
+
+>[!NOTE]
+>
+>Essa atualização foi lançada somente no ambiente de Visualização em 3 de novembro de 2022 e agora está disponível em Produção.
+
+Adicionamos vários ícones de informações às seguintes configurações:
+
+* &quot;[!UICONTROL Pode editar tempo]&quot;caixa de seleção ao criar ou editar uma folha de ponto ou um perfil de folha de ponto para indicar que, quando ativada, os aprovadores também podem enviar, reabrir ou editar a folha de ponto, a menos que o administrador restrinja essas ações na variável [!UICONTROL Preferências da folha de ponto] área de [!UICONTROL Configuração].
+* &quot;[!UICONTROL Restringir edição de folha de ponto a proprietários e administradores]&quot; na [!UICONTROL Folha de Horas e Preferências de Hora] área de [!UICONTROL Configuração] para indicar que, quando desativado, os usuários a seguir também podem editar as folhas de horas: usuários com acesso administrativo a folhas de ponto e horas, aprovadores de folha de ponto com permissão para editar tempo e gerentes de proprietários de folha de ponto.
+
+Observe que a funcionalidade dessas configurações não foi alterada e somente os ícones de informações foram adicionados para esclarecer o escopo das configurações.
+
++++
 
 +++**Atualização de manutenção em 26 de janeiro de 2023**
 
