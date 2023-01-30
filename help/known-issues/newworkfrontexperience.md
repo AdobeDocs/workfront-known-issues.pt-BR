@@ -3,7 +3,7 @@ title: Problemas conhecidos na nova experiência do [!DNL Adobe Workfront]
 description: Problemas conhecidos reportados da nova experiência do  [!DNL Adobe Workfront]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 7d01ba3dad163924a9f5f6f0a5d39215f77980ed
+source-git-commit: e8358a00e3cfa9a62f86056752801f030ced296f
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -24,6 +24,8 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Projetos: O projeto convertido do problema não herda permissões do portfólio ou programa](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 30 de janeiro de 2023 |
+| [Documentos: Erro &quot;Resposta inválida&quot; ao abrir ou baixar um documento](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md) | 30 de janeiro de 2023 |
 | [Documentos: não é possível restaurar o documento excluído](known-issues-workfront/wf-documents-cannot-restore-document.md) | 18 de janeiro de 2023 |
 | [Provas: a geração de prova é extremamente lenta](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 de outubro de 2022 |
 | [Provas: o Resumo de impressão não exibe todas as páginas da prova](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 de outubro de 2022 |
@@ -36,6 +38,8 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Configuração]: Logs de auditoria não são exportados](known-issues-workfront/wf-setup-audit-logs-do-not-export.md) | 30 de janeiro de 2023 |
+| [[!UICONTROL Resumo]: Não é possível rolar [!UICONTROL Resumo] painel](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md) | 30 de janeiro de 2023 |
 | [Usuários: A desativação agendada não desativa o usuário](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md) | 26 de janeiro de 2023 |
 | [Configuração: não é possível salvar modelos de email](known-issues-workfront/wf-setup-email-templates-not-working.md) | 20 de janeiro de 2023 |
 | [Documentos: não é possível restaurar o documento excluído](known-issues-workfront/wf-documents-cannot-restore-document.md) | 20 de janeiro de 2023 |
