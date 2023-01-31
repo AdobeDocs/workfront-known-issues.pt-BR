@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f3dbb947d2c3d9d36677c6c3c2cb41db2ce47685
+source-git-commit: ee85cc89d8803afa3a239e51c468fe3ed372ea49
 workflow-type: tm+mt
-source-wordcount: '1319'
-ht-degree: 78%
+source-wordcount: '1351'
+ht-degree: 79%
 
 ---
 
@@ -19,7 +19,17 @@ As seguintes atualizações de manutenção foram efetuadas em 2023.
 
 Para obter atualizações de manutenção anteriores a 2023, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
-## Atualizações em janeiro de 2023
+## Atualizações em fevereiro de 2023
+
++++**Atualização de manutenção em 2 de fevereiro de 2023**
+
+**Não é possível salvar modelos de email**
+
+_Configuração_
+
+Quando um usuário tenta criar ou editar um modelo de email, o botão [!UICONTROL Salvar] não responde e não é possível salvar o modelo.
+
++++
 
 +++**Atualização de manutenção em 30 de janeiro de 2023**
 
