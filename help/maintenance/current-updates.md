@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: ee85cc89d8803afa3a239e51c468fe3ed372ea49
+source-git-commit: 4f1ddf2ac7e5b6b463d421ba3356dfd0815e43f0
 workflow-type: tm+mt
-source-wordcount: '1351'
-ht-degree: 79%
+source-wordcount: '1402'
+ht-degree: 76%
 
 ---
 
@@ -23,7 +23,11 @@ Para obter atualizações de manutenção anteriores a 2023, consulte [Atualiza�
 
 +++**Atualização de manutenção em 2 de fevereiro de 2023**
 
-**Não é possível salvar modelos de email**
+**O ícone Quadros aparece no Menu principal por padrão**
+
+_Quadros_
+
+O ícone Quadros agora aparece no Menu principal para usuários que não têm um modelo de layout. Os quadros também são incluídos no Menu principal por padrão em qualquer novo modelo de layout criado. Os modelos de layout existentes não foram alterados.**Não é possível salvar modelos de email**
 
 _Configuração_
 
