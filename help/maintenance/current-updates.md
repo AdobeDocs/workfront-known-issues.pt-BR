@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f60d2cab1983c7486ca611050de5ee53596c9e05
+source-git-commit: f31a0b764aa1e734fc2cb997b7f7170b315f3086
 workflow-type: tm+mt
-source-wordcount: '1482'
-ht-degree: 73%
+source-wordcount: '1506'
+ht-degree: 71%
 
 ---
 
@@ -21,9 +21,13 @@ Para obter atualizações de manutenção anteriores a 2023, consulte [Atualiza�
 
 ## Atualizações em fevereiro de 2023
 
-+++**(Planejado) Atualização de manutenção em 9 de fevereiro de 2023**
++++**Atualização de manutenção em 9 de fevereiro de 2023**
 
-Esta atualização inclui apenas correções de erros menores ou menos importantes. O suporte do [!DNL Workfront] enviará uma notificação quando um problema enviado for corrigido.
+**[!UICONTROL Pontos da história] campo adicionado a listas de tarefas e problemas e relatórios**
+
+_Relatórios_
+
+O [!UICONTROL Pontos da história] O campo agora está disponível para adicionar a listas e relatórios para tarefas ou problemas. É um campo de formulário gratuito editável que não está vinculado a horas planejadas ou atribuições de equipe.
 
 +++
 
@@ -33,17 +37,17 @@ Esta atualização inclui apenas correções de erros menores ou menos important
 
 _Quadros_
 
-A coluna de entrada em um quadro agora inclui um **Adicionar um filtro** quando a coluna estiver vazia e nenhum filtro tiver sido criado. O botão abre a área de configuração, onde você pode adicionar filtros para trazer tarefas e problemas para a coluna de entrada.
+A coluna de entrada em um quadro agora inclui um **[!UICONTROL Adicionar um filtro]** quando a coluna estiver vazia e nenhum filtro tiver sido criado. O botão abre a área de configuração, onde você pode adicionar filtros para trazer tarefas e problemas para a coluna de entrada.
 
 +++
 
 +++**Atualização de manutenção em 2 de fevereiro de 2023**
 
-**O ícone Quadros aparece no Menu principal por padrão**
+**[!UICONTROL Quadros] ícone aparece em [!UICONTROL Menu principal] por padrão**
 
 _Quadros_
 
-O ícone Quadros agora aparece no Menu principal para usuários que não têm um modelo de layout. Os quadros também são incluídos no Menu principal por padrão em qualquer novo modelo de layout criado. Os modelos de layout existentes não foram alterados.
+O [!UICONTROL Quadros] agora aparece no [!UICONTROL Menu principal] para usuários que não têm um modelo de layout. Os quadros também são incluídos no Menu principal por padrão em qualquer novo modelo de layout criado. Os modelos de layout existentes não foram alterados.
 
 **Não é possível salvar modelos de email**
 
