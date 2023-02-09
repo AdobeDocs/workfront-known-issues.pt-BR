@@ -3,10 +3,10 @@ title: Problemas conhecidos na nova experiência do [!DNL Adobe Workfront]
 description: Problemas conhecidos reportados da nova experiência do  [!DNL Adobe Workfront]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 1617567bef73599325b363c61dff421fc65b9a1f
+source-git-commit: d03db6c677e340e01629a962fec8b2690af8460d
 workflow-type: tm+mt
-source-wordcount: '649'
-ht-degree: 85%
+source-wordcount: '606'
+ht-degree: 91%
 
 ---
 
@@ -25,9 +25,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
 | [Documentos: As permissões não são herdadas quando um documento é movido para um novo projeto](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 3 de fevereiro de 2023 |
-| [Balanceador de Carga de Trabalho: Resultados imprecisos ao usar vários filtros de uma só vez](known-issues-workfront/wf-workload-balancer-multiple-filters.md) | 3 de fevereiro de 2023 |
 | [Documentos: O painel Resumo volta ao início ao clicar no menu de três pontos](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md) | 31 de janeiro de 2023 |
-| [Documentos: Erro &quot;Essa página não existe&quot; ao abrir ou baixar um documento](known-issues-workfront/wf-documents-cannot-open-or-download-document.md) | 31 de janeiro de 2023 |
 | [Projetos: O projeto convertido do problema não herda permissões do portfólio ou programa](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 30 de janeiro de 2023 |
 | [Provas: a geração de prova é extremamente lenta](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 de outubro de 2022 |
 | [Provas: o Resumo de impressão não exibe todas as páginas da prova](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 de outubro de 2022 |
@@ -40,9 +38,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Grupos: Subgrupos não exibem notificações com base nas configurações de notificação de eventos do Grupo](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md) | 2 de fevereiro de 2023 |
 | [[!UICONTROL Configuração]: Logs de auditoria não são exportados](known-issues-workfront/wf-setup-audit-logs-do-not-export.md) | 30 de janeiro de 2023 |
-| [[!UICONTROL Resumo]: Não é possível rolar [!UICONTROL Resumo] painel](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md) | 30 de janeiro de 2023 |
 | [Usuários: A desativação agendada não desativa o usuário](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md) | 26 de janeiro de 2023 |
 | [Documentos: não é possível restaurar o documento excluído](known-issues-workfront/wf-documents-cannot-restore-document.md) | 20 de janeiro de 2023 |
 | [Relatórios: erro ao adicionar um novo problema a um relatório de problemas](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14 de novembro de 2022 |

@@ -1,16 +1,20 @@
 ---
-title: "Grupos: Subgrupos não exibem notificações com base nas configurações de notificação de eventos do grupo"
+title: "Grupos: Os subgrupos não recebem notificações com base nas configurações de notificação de eventos do grupo"
 description: "Quando ocorre um evento que aciona uma notificação com base nas configurações de notificação de evento do Grupo, os subgrupos desse grupo não recebem a notificação. No Workfront, esses subgrupos não estão herdando as configurações de notificação de grupo."
 hidefromtoc: true
-source-git-commit: e13d003b2771683ecd7cc1701f3d94c958b8b9e2
+source-git-commit: 209a6610fec9743c817ecb8bb9899f21a1c4762e
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 4%
+source-wordcount: '102'
+ht-degree: 3%
 
 ---
 
 
-# Grupos: Subgrupos não exibem notificações com base nas configurações de notificação de eventos do Grupo
+# Grupos: Subgrupos não recebem notificações com base nas configurações de notificação de eventos do Grupo
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em 9 de fevereiro de 2023.
 
 Quando ocorre um evento que aciona uma notificação com base nas configurações de notificação de evento do Grupo, os subgrupos desse grupo não recebem a notificação. No Workfront, esses subgrupos não estão herdando as configurações de notificação de grupo.
 

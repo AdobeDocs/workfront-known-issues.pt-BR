@@ -2,15 +2,19 @@
 title: "Balanceador de Carga de Trabalho: Resultados imprecisos ao usar vários filtros de uma só vez"
 description: "Quando um usuário está visualizando o Balanceador de carga de trabalho e usa vários filtros ao mesmo tempo, os resultados não são precisos. Por exemplo, um resultado que é exibido ao usar o Filtro A e ao usar o Filtro B não é exibido ao usar os Filtros A e B ao mesmo tempo."
 hidefromtoc: true
-source-git-commit: 4a346b600df6e53d85542faf8cb3ce56d76a07e2
+source-git-commit: d03db6c677e340e01629a962fec8b2690af8460d
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 3%
+source-wordcount: '143'
+ht-degree: 11%
 
 ---
 
 
 # Balanceador de Carga de Trabalho: Resultados imprecisos ao usar vários filtros de uma só vez
+
+>[!NOTE]
+>
+>Esse problema foi encerrado porque não é um problema.
 
 Quando um usuário exibe o Balanceador de carga de trabalho e usa vários filtros ao mesmo tempo, os resultados não são precisos. Por exemplo, um resultado exibido ao usar o Filtro A e ao usar o Filtro B não é exibido ao usar os Filtros A e B ao mesmo tempo.
 
