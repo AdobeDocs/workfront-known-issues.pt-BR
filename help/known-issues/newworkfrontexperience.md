@@ -3,7 +3,7 @@ title: Problemas conhecidos na nova experiência do [!DNL Adobe Workfront]
 description: Problemas conhecidos reportados da nova experiência do  [!DNL Adobe Workfront]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: e82b48da068f119a5ab42410b86dd47bf0aa0bc3
+source-git-commit: d91c84f60680c78b9e34481bd6435f5dad234358
 workflow-type: tm+mt
 source-wordcount: '625'
 ht-degree: 88%
@@ -39,7 +39,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Atualizações: Link para redirecionamentos de comentário para a página Detalhes](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md) | 10 de fevereiro de 2023 |
+| [Atualizações: Vincular a um comentário redireciona para [!UICONTROL Detalhes] página](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md) | 10 de fevereiro de 2023 |
 | [[!UICONTROL Configuração]: Logs de auditoria não são exportados](known-issues-workfront/wf-setup-audit-logs-do-not-export.md) | 30 de janeiro de 2023 |
 | [Usuários: A desativação agendada não desativa o usuário](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md) | 26 de janeiro de 2023 |
 | [Documentos: não é possível restaurar o documento excluído](known-issues-workfront/wf-documents-cannot-restore-document.md) | 20 de janeiro de 2023 |
