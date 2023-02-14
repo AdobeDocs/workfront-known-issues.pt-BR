@@ -4,7 +4,7 @@ user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 source-git-commit: b385fcb16dbcb85397afd22ce730757603f0f6d7
 workflow-type: tm+mt
 source-wordcount: '1462'
-ht-degree: 90%
+ht-degree: 91%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 90%
       + [[!UICONTROL Configuração]: Logs de auditoria não são exportados](known-issues-workfront/wf-setup-audit-logs-do-not-export.md)
       + [[!UICONTROL Resumo]: Não é possível rolar [!UICONTROL Resumo] painel](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md)
       + [Documentos: Erro &quot;Resposta inválida&quot; ao abrir ou baixar um documento](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md)
-      + [Usuários: A desativação agendada não desativa o usuário](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md)
+      + [Usuários: a desativação programada não desativa o usuário](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md)
       + [Configuração: não é possível salvar modelos de email](known-issues-workfront/wf-setup-email-templates-not-working.md)
       + [Usuários: o usuário não pode editar sua própria configuração de usuário](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
       + [Documentos: não é possível restaurar o documento excluído](known-issues-workfront/wf-documents-cannot-restore-document.md)
@@ -117,7 +117,7 @@ ht-degree: 90%
       + [Formulários personalizados: dica de ferramenta de exibição de campos de texto descritivos](known-issues-workfront/wf-custom-forms-descriptive-text-tooltip.md)
       + [Integrações: erro 404 ao adicionar um documento da  [!DNL SharePoint] [!UICONTROL (API gráfica)]](known-issues-workfront/wf-integrations-sharepoint-graph-api-returns-404.md)
       + [Integrações: [!DNL SharePoint] a pasta não aparece para o proprietário da pasta](known-issues-workfront/wf-integrations-sharepoint-folder-not-appearing-for-owner.md)
-      + [Integrações: erro ao enviar solicitação do [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md)
+      + [Integrações: erro ao enviar solicitação do  [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md)
       + [Folhas de horas: erro “[!UICONTROL Alguém tentou salvar este projeto]” ao inserir horas](known-issues-workfront/wf-timesheets-not-autosaving-due-to-error.md)
       + [Painéis: não é possível acessar o painel na navegação à esquerda em um objeto](known-issues-workfront/wf-dashboards-cannot-open-from-left-nav.md)
       + [Tarefas e problemas: saída involuntária ao criar tarefas ou problemas](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md)
