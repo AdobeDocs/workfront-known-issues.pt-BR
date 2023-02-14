@@ -3,9 +3,9 @@ title: Problemas conhecidos na nova experiência do [!DNL Adobe Workfront]
 description: Problemas conhecidos reportados da nova experiência do  [!DNL Adobe Workfront]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: a02311dcf01d961cc55e4faa7b26661154055578
+source-git-commit: b164121c0d7aa1c57fa23160ba37796fef2fa151
 workflow-type: tm+mt
-source-wordcount: '635'
+source-wordcount: '628'
 ht-degree: 88%
 
 ---
@@ -28,7 +28,6 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | [Documentos: As permissões não são herdadas quando um documento é movido para um novo projeto](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 3 de fevereiro de 2023 |
 | [Documentos: O painel Resumo volta ao início ao clicar no menu de três pontos](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md) | 31 de janeiro de 2023 |
 | [Projetos: O projeto convertido do problema não herda permissões do portfólio ou programa](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 30 de janeiro de 2023 |
-| [Provas: a geração de prova é extremamente lenta](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 de outubro de 2022 |
 | [Provas: o Resumo de impressão não exibe todas as páginas da prova](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 de outubro de 2022 |
 
 {style=&quot;table-layout:auto&quot;}
