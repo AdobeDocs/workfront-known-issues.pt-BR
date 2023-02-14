@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f31a0b764aa1e734fc2cb997b7f7170b315f3086
+source-git-commit: b931adc190ed492131133cf1ba704a8b8057b6f9
 workflow-type: tm+mt
-source-wordcount: '1506'
-ht-degree: 71%
+source-wordcount: '1538'
+ht-degree: 76%
 
 ---
 
@@ -20,6 +20,16 @@ As seguintes atualizações de manutenção foram efetuadas em 2023.
 Para obter atualizações de manutenção anteriores a 2023, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em fevereiro de 2023
+
++++**(Planejado) Atualização de manutenção em 16 de fevereiro de 2023**
+
+**A desativação agendada não desativa o usuário**
+
+_Usuários_
+
+A desativação programada de um usuário não ocorre ao chegar a data e hora programadas.
+
++++
 
 +++**Atualização de manutenção em 9 de fevereiro de 2023**
 
@@ -94,7 +104,7 @@ Observe que a funcionalidade dessas configurações não foi alterada e somente 
 
 +++**Atualização de manutenção em 26 de janeiro de 2023**
 
-**Erro ao enviar solicitação de[!DNL Outlook]**
+**Erro ao enviar solicitação do [!DNL Outlook]**
 
 _Integrações_
 
@@ -104,13 +114,13 @@ Quando um usuário tenta enviar uma solicitação com anexos de um email do [!DN
 
 Isso ocorre somente quando uma atribuição é feita para a nova solicitação, seja por meio da fila de solicitações ou manualmente ao criar a solicitação.
 
-**Nova versão do Visualizador de Verificação de Verificação Linguística para Desktop**
+**Nova versão do Visualizador de prova para desktop**
 
 _Prova_
 
-Para corrigir um problema de congelamento no Desktop Proofing Viewer, implantamos uma nova versão do visualizador de prova de desktop. Os usuários que já tiverem o Desktop Proofing Viewer instalado receberão esta atualização automaticamente.
+Para corrigir um problema de congelamento no Visualizador de prova para desktop, implantamos uma nova versão do visualizador. Os usuários que já tiverem o Visualizador de prova para desktop instalado receberão esta atualização automaticamente.
 
-Os usuários também podem baixar manualmente a versão mais recente. Para obter mais informações, consulte [Instale o Desktop Proofing Viewer](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=en).
+Os usuários também podem baixar manualmente a versão mais recente. Para obter mais informações, consulte [Instalar o Visualizador de prova para desktop](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=pt-BR).
 
 * Versão anterior: 2.1.19
 * Nova versão: 2.1.20
@@ -159,7 +169,7 @@ Ao visualizar o [!UICONTROL Balanceador de carga de trabalho], o usuário vê ho
 
 +++
 
-+++**[!DNL Adobe Workfront Fusion]Atualização de manutenção (Hot Fix) em 12 de janeiro de 2023**
++++Atualização de manutenção do **[!DNL Adobe Workfront Fusion] (Hot Fix) em 12 de janeiro de 2023**
 
 **Erros 404 em módulos do [!DNL Workfront]**
 
