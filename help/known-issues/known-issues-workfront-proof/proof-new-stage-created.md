@@ -3,7 +3,7 @@ title: '“Provas: nova etapa criada porque o prazo não pode corresponder ao pr
 description: Quando uma nova prova é criada, o prazo pode ser definido em um incremento de 15 minutos (10:00, 10:15, 10:30, 20:45, etc.). No entanto, quando um usuário é adicionado após a criação da prova, o prazo só pode ser definido em incrementos de 30 minutos (10:00, 10:30, 11:00, etc.).
 hidefromtoc: true
 source-git-commit: 3826558093ba7d8aa6ee25211010c60610d03fcc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '192'
 ht-degree: 100%
 
