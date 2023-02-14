@@ -3,9 +3,9 @@ title: '“Integrações: erro ao enviar solicitação do Outlook”'
 description: “Quando um usuário tenta enviar uma solicitação com anexos de um email do [!DNL Outlook] , um ou mais anexos não são carregados e o usuário vê um erro.”
 hidefromtoc: true
 source-git-commit: baeb2b783dcf75bc889096cd02035ecb9bd17ef6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
