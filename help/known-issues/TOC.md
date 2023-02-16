@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
-source-git-commit: ae624c4cf75d907613bd0fc7f2efbedf73b1c35d
+source-git-commit: c998c35b249f5702ff9676f3eff9da468d5f83e3
 workflow-type: tm+mt
-source-wordcount: '1075'
-ht-degree: 88%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 88%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [[!UICONTROL Quadros]: Não é possível adicionar cartões quando o agrupamento é aplicado](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
       + [Usuários: O nível de acesso não é atribuído ao reativar o usuário](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md)
       + [Atualizações: Vincular a um comentário redireciona para [!UICONTROL Detalhes] página](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md)
       + [Usuários: O usuário não pode editar suas próprias configurações de notificação](known-issues-workfront/wf-user-cannot-edit-notification-settings.md)

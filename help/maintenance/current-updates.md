@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: b931adc190ed492131133cf1ba704a8b8057b6f9
+source-git-commit: c998c35b249f5702ff9676f3eff9da468d5f83e3
 workflow-type: tm+mt
-source-wordcount: '1538'
-ht-degree: 76%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,7 +21,19 @@ Para obter atualizações de manutenção anteriores a 2023, consulte [Atualiza�
 
 ## Atualizações em fevereiro de 2023
 
-+++**(Planejado) Atualização de manutenção em 16 de fevereiro de 2023**
++++**Atualização de manutenção em 16 de fevereiro de 2023**
+
+**Várias atribuições de equipe em quadros**
+
+_Quadros_
+
+Agora é possível atribuir várias equipes a uma tarefa ou problema em um quadro e ao próprio quadro.
+
+**Aumento do limite de queda do cartão**
+
+_Quadros_
+
+Os limites de tempo de fallff do cartão foram aumentados para 8 semanas / 60 dias em vez de 4 semanas / 30 dias.
 
 **A desativação agendada não desativa o usuário**
 
