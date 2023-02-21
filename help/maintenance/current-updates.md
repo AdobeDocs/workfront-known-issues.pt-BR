@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: c998c35b249f5702ff9676f3eff9da468d5f83e3
+source-git-commit: e98fb79ece32db7e590078660a4fcf560b8e6be8
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1693'
+ht-degree: 70%
 
 ---
 
@@ -20,6 +20,24 @@ As seguintes atualizações de manutenção foram efetuadas em 2023.
 Para obter atualizações de manutenção anteriores a 2023, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em fevereiro de 2023
+
++++**(Planejado) Atualização de manutenção em 23 de fevereiro de 2023**
+
+**Vincular a um comentário redireciona para [!UICONTROL Detalhes] página**
+
+_Atualizações_
+
+Quando um usuário segue um link para um comentário em um objeto no Workfront, o fluxo de atualização é carregado brevemente e, em seguida, o usuário é redirecionado para o objeto [!UICONTROL Detalhes] área. Isso pode ocorrer se o usuário clicar no link de um email ou colar o link em seu navegador.
+
+Atualmente, isso afeta apenas objetos de Documento.
+
+**O usuário não pode editar suas próprias configurações de notificação**
+
+_Usuários_
+
+Quando um usuário com um [!UICONTROL Trabalhador] a licença tenta editar suas próprias configurações de notificação, a variável [!UICONTROL Notificações] não estão visíveis na variável [!UICONTROL Editar] e o usuário não pode editar as configurações.
+
++++
 
 +++**Atualização de manutenção em 16 de fevereiro de 2023**
 
@@ -78,6 +96,8 @@ _Configuração_
 Quando um usuário tenta criar ou editar um modelo de email, o botão [!UICONTROL Salvar] não responde e não é possível salvar o modelo.
 
 +++
+
+## Atualizações Em Janeiro De 2023
 
 +++**Atualização de manutenção em 30 de janeiro de 2023**
 
