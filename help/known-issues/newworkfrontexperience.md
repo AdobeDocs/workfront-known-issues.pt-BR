@@ -3,10 +3,10 @@ title: Problemas conhecidos na nova experiência do [!DNL Adobe Workfront]
 description: Problemas conhecidos reportados da nova experiência do  [!DNL Adobe Workfront]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: a21275163de2c7de2201971b125703f40b9983b8
+source-git-commit: ace7bcf248b16fa62c04cc112b5844f5fcb38a2d
 workflow-type: tm+mt
 source-wordcount: '611'
-ht-degree: 89%
+ht-degree: 88%
 
 ---
 
@@ -27,7 +27,6 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | [Projetos: Erro 504 no cabeçalho do projeto](known-issues-workfront/wf-projects-504-error-in-project-header.md) | 17 de fevereiro de 2023 |
 | [[!UICONTROL Quadros]: Não é possível adicionar cartões quando o agrupamento é aplicado](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md) | 16 de fevereiro de 2023 |
 | [Documentos: As permissões não são herdadas quando um documento é movido para um novo projeto](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 3 de fevereiro de 2023 |
-| [Projetos: O projeto convertido do problema não herda permissões do portfólio ou programa](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 30 de janeiro de 2023 |
 | [Provas: o Resumo de impressão não exibe todas as páginas da prova](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 de outubro de 2022 |
 
 {style=&quot;table-layout:auto&quot;}
@@ -38,7 +37,8 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Integrações: não é possível abrir o [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 14 de fevereiro de 2023 |
+| [Projetos: O projeto convertido do problema não herda permissões do portfólio ou programa](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 23 de fevereiro de 2023 |
+| [Integrações: não é possível abrir o  [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 14 de fevereiro de 2023 |
 | [Usuários: O nível de acesso não é atribuído ao reativar o usuário](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md) | 13 de fevereiro de 2023 |
 | [Documentos: não é possível restaurar o documento excluído](known-issues-workfront/wf-documents-cannot-restore-document.md) | 20 de janeiro de 2023 |
 | [Relatórios: erro ao adicionar um novo problema a um relatório de problemas](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14 de novembro de 2022 |
