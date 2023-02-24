@@ -2,8 +2,8 @@
 title: '“Provas: a prova não é compartilhada com os usuários no Fluxo de trabalho de prova”'
 description: “Quando uma prova atinge um estágio em um fluxo de trabalho ao qual um usuário foi adicionado na criação da prova, a prova não é compartilhada com o usuário e ele não pode acessar a prova.”
 hidefromtoc: true
-source-git-commit: 4addd191c4d14a2661dfc670a65edd72fe3ed146
-workflow-type: ht
+source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
+workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 100%
 
@@ -13,6 +13,7 @@ ht-degree: 100%
 # Provas: a prova não é compartilhada com os usuários no Fluxo de trabalho de prova
 
 <!--This issue is on the WF and WFP TOCs-->
+<!--Article live by request-->
 
 >[!NOTE]
 >

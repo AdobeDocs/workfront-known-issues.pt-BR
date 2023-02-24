@@ -3,9 +3,9 @@ title: '“Workfront Fusion: erro ao visualizar um erro em um histórico de exec
 description: Quando um usuário visualiza um histórico de execução de cenário e tenta ver mais detalhes sobre um erro clicando nele, os detalhes não são abertos e o usuário vê uma mensagem de erro.
 hidefromtoc: true
 exl-id: c997469f-b80c-4438-b353-897f9cdb9481
-source-git-commit: 66e3bc22d8aef2d6287161f4a13fbbe0f3ac99c8
-workflow-type: ht
-source-wordcount: '154'
+source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
+workflow-type: tm+mt
+source-wordcount: '132'
 ht-degree: 100%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->A equipe do produto está avaliando a resolução do problema, que pode exigir melhorias do produto. As melhorias do produto são comunicadas nos Anúncios do produto e não nas Atualizações de manutenção.
+>Esse problema foi corrigido em 25 de janeiro de 2023.
 
 Quando um usuário visualiza um histórico de execução de cenário e tenta ver mais detalhes sobre um erro clicando nele, os detalhes não são abertos e o usuário vê a seguinte mensagem:
 
