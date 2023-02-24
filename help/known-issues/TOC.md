@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
-source-git-commit: a21275163de2c7de2201971b125703f40b9983b8
+source-git-commit: 72d2cf5620f0ea6ca7f74d2e7e773f93a807af30
 workflow-type: tm+mt
-source-wordcount: '1100'
-ht-degree: 86%
+source-wordcount: '1114'
+ht-degree: 85%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 86%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Integrações: Erro ao fazer logon no [!DNL Workfront] from [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
       + [Projetos: Erro 504 no cabeçalho do projeto](known-issues-workfront/wf-projects-504-error-in-project-header.md)
       + [[!UICONTROL Quadros]: Não é possível adicionar cartões quando o agrupamento é aplicado](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
       + [Usuários: O nível de acesso não é atribuído ao reativar o usuário](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md)
@@ -119,6 +120,7 @@ ht-degree: 86%
 + [!DNL Workfront Proof] {#proof}
    + [Problemas conhecidos no [!DNL Workfront Proof]](workfrontproof.md)
    + Problemas atuais no [!DNL Workfront Proof] {#proof-current}
+      + [Integrações: Erro ao fazer logon no [!DNL Workfront] from [!DNL Jira]](known-issues-workfront-proof/proof-print-summary-does-not-load.md)
       + [Provas: O usuário não recebe email quando marcado em um comentário de prova](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
       + [Provas: nova etapa criada porque o prazo não pode corresponder ao prazo final da etapa existente](known-issues-workfront-proof/proof-new-stage-created.md)
       + [[!DNL Workfront Proof] API: erro “[!UICONTROL corpo não é um XML válido]”](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
