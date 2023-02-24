@@ -1,11 +1,11 @@
 ---
-title: ""
-description: ""
+title: "Provas: O usuário não recebe email quando marcado em um comentário de prova"
+description: "Quando um usuário é marcado usando o formato @name em um comentário de prova, ele não recebe uma notificação por email sobre o comentário."
 hidefromtoc: true
-source-git-commit: a21275163de2c7de2201971b125703f40b9983b8
+source-git-commit: 7aa896333c20e67da4da27b981eee0b0f79a09f2
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 29%
+source-wordcount: '87'
+ht-degree: 17%
 
 ---
 
