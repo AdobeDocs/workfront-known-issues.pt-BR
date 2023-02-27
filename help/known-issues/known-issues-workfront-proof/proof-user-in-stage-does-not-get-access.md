@@ -3,7 +3,7 @@ title: '“Provas: a prova não é compartilhada com os usuários no Fluxo de tr
 description: “Quando uma prova atinge um estágio em um fluxo de trabalho ao qual um usuário foi adicionado na criação da prova, a prova não é compartilhada com o usuário e ele não pode acessar a prova.”
 hidefromtoc: true
 source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '113'
 ht-degree: 100%
 
