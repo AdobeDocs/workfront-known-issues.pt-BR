@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: a21275163de2c7de2201971b125703f40b9983b8
 workflow-type: tm+mt
 source-wordcount: '1692'
-ht-degree: 70%
+ht-degree: 96%
 
 ---
 
@@ -27,7 +27,7 @@ Para obter atualizações de manutenção anteriores a 2023, consulte [Atualiza�
 
 _Atualizações_
 
-Quando um usuário segue um link para um comentário em um objeto no Workfront, o fluxo de atualização é carregado brevemente e, em seguida, o usuário é redirecionado para o objeto [!UICONTROL Detalhes] área. Isso pode ocorrer se o usuário clicar no link de um email ou colar o link em seu navegador.
+Quando um usuário clica em um link para um comentário em um objeto no Workfront, o fluxo de atualização é carregado brevemente e, em seguida, é redirecionado para a área [!UICONTROL Detalhes] do objeto. Isso pode ocorrer se o usuário clicar no link de um email ou colar o link em seu navegador.
 
 Atualmente, isso afeta apenas objetos de Documento.
 
@@ -35,7 +35,7 @@ Atualmente, isso afeta apenas objetos de Documento.
 
 _Usuários_
 
-Quando um usuário com um [!UICONTROL Trabalhador] a licença tenta editar suas próprias configurações de notificação, a variável [!UICONTROL Notificações] não estão visíveis na variável [!UICONTROL Editar] e o usuário não pode editar as configurações.
+Quando um usuário com uma licença [!UICONTROL Trabalhador] tenta editar suas próprias configurações de notificação, as opções de [!UICONTROL Notificações] não ficam visíveis na janela [!UICONTROL Editar] e o usuário não consegue editar as configurações.
 
 +++
 
@@ -53,7 +53,7 @@ _Quadros_
 
 Os limites de tempo de fallff do cartão foram aumentados para 8 semanas / 60 dias em vez de 4 semanas / 30 dias.
 
-**A desativação agendada não desativa o usuário**
+**A desativação programada não desativa o usuário**
 
 _Usuários_
 
@@ -63,11 +63,11 @@ A desativação programada de um usuário não ocorre ao chegar a data e hora pr
 
 +++**Atualização de manutenção em 9 de fevereiro de 2023**
 
-**[!UICONTROL Pontos da história] campo adicionado a listas de tarefas e problemas e relatórios**
+Adição do campo **[!UICONTROL Pontos da história] a listas de tarefas e problemas e relatórios**
 
 _Relatórios_
 
-O [!UICONTROL Pontos da história] O campo agora está disponível para adicionar a listas e relatórios para tarefas ou problemas. É um campo de formulário gratuito editável que não está vinculado a horas planejadas ou atribuições de equipe.
+O campo [!UICONTROL Pontos da história] agora está disponível para adicionar a listas e relatórios para tarefas ou problemas. É um campo de formulário gratuito editável que não está vinculado a horas planejadas ou atribuições de equipe.
 
 +++
 
@@ -77,17 +77,17 @@ O [!UICONTROL Pontos da história] O campo agora está disponível para adiciona
 
 _Quadros_
 
-A coluna de entrada em um quadro agora inclui um **[!UICONTROL Adicionar um filtro]** quando a coluna estiver vazia e nenhum filtro tiver sido criado. O botão abre a área de configuração, onde você pode adicionar filtros para trazer tarefas e problemas para a coluna de entrada.
+A coluna de entrada em um quadro agora inclui um botão **[!UICONTROL Adicionar um filtro]** quando a coluna estiver vazia e nenhum filtro tiver sido criado. O botão abre a área de configuração, onde você pode adicionar filtros para trazer tarefas e problemas para a coluna de entrada.
 
 +++
 
 +++**Atualização de manutenção em 2 de fevereiro de 2023**
 
-**[!UICONTROL Quadros] ícone aparece em [!UICONTROL Menu principal] por padrão**
+O ícone **[!UICONTROL Quadros] aparece no [!UICONTROL Menu principal] por padrão**
 
 _Quadros_
 
-O [!UICONTROL Quadros] agora aparece no [!UICONTROL Menu principal] para usuários que não têm um modelo de layout. Os quadros também são incluídos no Menu principal por padrão em qualquer novo modelo de layout criado. Os modelos de layout existentes não foram alterados.
+O ícone [!UICONTROL Quadros] agora aparece no [!UICONTROL Menu principal] para usuários que não têm um modelo de layout. Os quadros também são incluídos no Menu principal por padrão em qualquer novo modelo de layout criado. Os modelos de layout existentes não foram alterados.
 
 **Não é possível salvar modelos de email**
 
@@ -101,19 +101,19 @@ Quando um usuário tenta criar ou editar um modelo de email, o botão [!UICONTRO
 
 +++**Atualização de manutenção em 30 de janeiro de 2023**
 
-**Atalhos de teclado adicionados para ações comuns da folha de ponto**
+**Atalhos de teclado adicionados para ações comuns da folha de horas**
 
 _Folhas de horas_
 
-Introduzimos os seguintes atalhos de teclado para as seguintes ações comumente executadas dentro de uma folha de ponto:
+Introduzimos os seguintes atalhos de teclado para as seguintes ações executadas com frequência em uma folha de horas:
 
-* Adicionar linha (Cmd+Option++ / Ctrl+Option+)
-* Excluir linha (Cmd+Option+- / Ctrl+Option+-)
-* Fixar ou Desfixar um item de trabalho (Opção+P / Opção+P)
-* Abrir comentário (Shift+F2 / Shift+F2)
-* Salvar comentário (Cmd+Enter / Ctrl+Enter)
-* Expandir (Shift+Opção+Seta para cima/ Shift+Alt+Seta para cima)
-* Recolher (Shift+Option+Seta para baixo/ Shift+Alt+Seta para baixo)
+* Adicionar linha (Cmd+Option++/Ctrl+Option+)
+* Excluir linha (Cmd+Option+-/Ctrl+Option+-)
+* Fixar ou desafixar um item de trabalho (Option+P/Option+P)
+* Abrir comentário (Shift+F2/Shift+F2)
+* Salvar comentário (Cmd+Enter/Ctrl+Enter)
+* Expandir (Shift+Option+Seta para cima/Shift+Alt+Seta para cima)
+* Recolher (Shift+Option+Seta para baixo/Shift+Alt+Seta para baixo)
 
 A área onde essas ações são executadas deve ser realçada para que sejam aplicadas.
 
@@ -123,12 +123,12 @@ _Folhas de horas_
 
 >[!NOTE]
 >
->Essa atualização foi lançada somente no ambiente de Visualização em 3 de novembro de 2022 e agora está disponível em Produção.
+>Essa atualização foi lançada apenas no ambiente de Visualização em 3 de novembro de 2022 e agora está disponível na Produção.
 
 Adicionamos vários ícones de informações às seguintes configurações:
 
-* &quot;[!UICONTROL Pode editar tempo]&quot;caixa de seleção ao criar ou editar uma folha de ponto ou um perfil de folha de ponto para indicar que, quando ativada, os aprovadores também podem enviar, reabrir ou editar a folha de ponto, a menos que o administrador restrinja essas ações na variável [!UICONTROL Preferências da folha de ponto] área de [!UICONTROL Configuração].
-* &quot;[!UICONTROL Restringir edição de folha de ponto a proprietários e administradores]&quot; na [!UICONTROL Folha de Horas e Preferências de Hora] área de [!UICONTROL Configuração] para indicar que, quando desativado, os usuários a seguir também podem editar as folhas de horas: usuários com acesso administrativo a folhas de ponto e horas, aprovadores de folha de ponto com permissão para editar tempo e gerentes de proprietários de folha de ponto.
+* Caixa de seleção “[!UICONTROL Pode editar horas]” ao criar ou editar uma folha de horas ou um perfil de folha de horas para indicar que, quando ativado, os aprovadores também podem enviar, reabrir ou editar a folha de horas, a menos que o administrador restrinja essas ações na área [!UICONTROL Preferências da folha de horas] da [!UICONTROL Configuração].
+* “[!UICONTROL Restringir a edição da folha de horas a proprietários e administradores]” na área [!UICONTROL Folha de horas e preferências de hora] da [!UICONTROL Configuração] para indicar que, quando desativado, os usuários a seguir também podem editar as folhas de horas: usuários com acesso administrativo a folhas de horas, aprovadores de folha de horas com permissão para editar hora e gerentes de proprietários de folha de horas.
 
 Observe que a funcionalidade dessas configurações não foi alterada e somente os ícones de informações foram adicionados para esclarecer o escopo das configurações.
 

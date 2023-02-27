@@ -4,7 +4,7 @@ user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 source-git-commit: 3d821318a12bc8cbc47472f9bfc148cb20a0248a
 workflow-type: tm+mt
 source-wordcount: '1115'
-ht-degree: 85%
+ht-degree: 96%
 
 ---
 
@@ -20,18 +20,18 @@ ht-degree: 85%
       + [Integrações: Erro ao fazer logon no [!DNL Workfront] from [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
       + [Projetos: Erro 504 no cabeçalho do projeto](known-issues-workfront/wf-projects-504-error-in-project-header.md)
       + [[!UICONTROL Quadros]: Não é possível adicionar cartões quando o agrupamento é aplicado](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
-      + [Usuários: O nível de acesso não é atribuído ao reativar o usuário](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md)
-      + [Atualizações: Vincular a um comentário redireciona para [!UICONTROL Detalhes] página](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md)
-      + [Usuários: O usuário não pode editar suas próprias configurações de notificação](known-issues-workfront/wf-user-cannot-edit-notification-settings.md)
-      + [Documentos: As permissões não são herdadas quando um documento é movido para um novo projeto](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)
-      + [Balanceador de Carga de Trabalho: Resultados imprecisos ao usar vários filtros de uma só vez](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
-      + [Grupos: Subgrupos não exibem notificações com base nas configurações de notificação de eventos do Grupo](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md)
-      + [Documentos: O painel Resumo volta ao início ao clicar no menu de três pontos](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md)
-      + [Documentos: Erro &quot;Essa página não existe&quot; ao abrir ou baixar um documento](known-issues-workfront/wf-documents-cannot-open-or-download-document.md)
-      + [Projetos: O projeto convertido do problema não herda permissões do portfólio ou programa](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md)
-      + [[!UICONTROL Configuração]: Logs de auditoria não são exportados](known-issues-workfront/wf-setup-audit-logs-do-not-export.md)
-      + [[!UICONTROL Resumo]: Não é possível rolar [!UICONTROL Resumo] painel](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md)
-      + [Documentos: Erro &quot;Resposta inválida&quot; ao abrir ou baixar um documento](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md)
+      + [Usuários: o nível de acesso não é atribuído ao reativar o usuário](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md)
+      + [Atualizações: um link para um comentário redireciona para a página [!UICONTROL Detalhes]](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md)
+      + [Usuários: o usuário não consegue editar suas próprias configurações de notificação](known-issues-workfront/wf-user-cannot-edit-notification-settings.md)
+      + [Documentos: as permissões não são herdadas quando um documento é movido para um novo projeto](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)
+      + [Balanceador de carga de trabalho: resultados imprecisos ao usar vários filtros de uma só vez](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
+      + [Grupos: os subgrupos não recebem notificações com base nas configurações de notificação de eventos do grupo](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md)
+      + [Documentos: o painel Resumo volta ao início ao clicar no menu de três pontos](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md)
+      + [Documentos: erro “Essa página não existe” ao abrir ou baixar um documento](known-issues-workfront/wf-documents-cannot-open-or-download-document.md)
+      + [Projetos: o projeto convertido do problema não herda permissões do portfólio ou programa](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md)
+      + [[!UICONTROL Configuração]: os logs de auditoria não são exportados](known-issues-workfront/wf-setup-audit-logs-do-not-export.md)
+      + [[!UICONTROL Resumo]: não é possível rolar a página do painel [!UICONTROL Resumo]](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md)
+      + [Documentos: erro “Resposta inválida” ao abrir ou baixar um documento](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md)
       + [Usuários: a desativação programada não desativa o usuário](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md)
       + [Configuração: não é possível salvar modelos de email](known-issues-workfront/wf-setup-email-templates-not-working.md)
       + [Usuários: o usuário não pode editar sua própria configuração de usuário](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
@@ -142,8 +142,8 @@ ht-degree: 85%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problemas conhecidos no Workfront Fusion](workfrontfusion.md)
    + Problemas atuais no [!DNL Workfront Fusion] {#fusion-current}
-      + [[!DNL Adobe Workfront Fusion]: Erros de tempo limite no Workfront Fusion](known-issues-workfront-fusion/fusion-timeout-errors.md)
-      + [[!DNL Adobe Workfront Fusion]: Erros 404 em módulos Workfront](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
+      + [[!DNL Adobe Workfront Fusion]: erros de tempo limite no Workfront Fusion](known-issues-workfront-fusion/fusion-timeout-errors.md)
+      + [[!DNL Adobe Workfront Fusion]: erros 404 em módulos do Workfront](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
       + [[!DNL Workfront Fusion]: não é possível criar uma conexão com o [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md)
       + [[!DNL Workfront Fusion]: elementos de matriz no módulo [!UICONTROL Iterador] são exibidos como do módulo como “[!UICONTROL objeto]”](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]: erro ao visualizar um erro em um histórico de execução de cenário](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
