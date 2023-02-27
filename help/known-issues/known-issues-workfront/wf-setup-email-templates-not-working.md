@@ -3,9 +3,9 @@ title: '“Configuração: não é possível salvar modelos de email”'
 description: “Quando um usuário tenta criar ou editar um modelo de email, o botão Salvar não responde e não é possível salvar o modelo.”
 hidefromtoc: true
 source-git-commit: 4f1ddf2ac7e5b6b463d421ba3356dfd0815e43f0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 90%
 
 >[!NOTE]
 >
->Esse problema foi corrigido em 2 de fevereiro de 2023.
+>Esse problema foi resolvido em 2 de fevereiro de 2023.
 
 Quando um usuário tenta criar ou editar um modelo de email, o botão [!UICONTROL Salvar] não responde e não é possível salvar o modelo.
 
