@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
-source-git-commit: 3d821318a12bc8cbc47472f9bfc148cb20a0248a
+source-git-commit: 6f884b3539710a24aa5f389b0372e5a0de0a20c4
 workflow-type: tm+mt
-source-wordcount: '1115'
-ht-degree: 96%
+source-wordcount: '1124'
+ht-degree: 95%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Provas: Não é possível adicionar usuário ou grupo ao fluxo de trabalho de prova](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md)
       + [Provas: As funções de prova foram alteradas para [!UICONTROL Somente leitura]](known-issues-workfront/wf-proof-roles-set-to-read-only.md)
       + [Integrações: Erro ao fazer logon no [!DNL Workfront] from [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
       + [Projetos: Erro 504 no cabeçalho do projeto](known-issues-workfront/wf-projects-504-error-in-project-header.md)
