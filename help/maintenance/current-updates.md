@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: a21275163de2c7de2201971b125703f40b9983b8
+source-git-commit: 50e30f70083284302eccb04fb056cd4725650419
 workflow-type: tm+mt
-source-wordcount: '1692'
-ht-degree: 96%
+source-wordcount: '1870'
+ht-degree: 90%
 
 ---
 
@@ -18,6 +18,34 @@ As seguintes atualizações de manutenção foram efetuadas em 2023.
 >Essas atualizações também incluem outras correções de erros menores ou menos importantes. O suporte do [!DNL Workfront] enviará uma notificação quando um problema enviado for corrigido.
 
 Para obter atualizações de manutenção anteriores a 2023, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
+
+## Atualizações em março de 2023
+
++++**(Planejado) Atualização de manutenção em 2 de março de 2023**
+
+**Não é possível adicionar cartões quando o agrupamento é aplicado**
+
+_Quadros_
+
+Quando um usuário está visualizando um quadro com um agrupamento se aplica e tenta adicionar um cartão, ele só pode digitar o nome do cartão. O restante dos campos do cartão está desativado, incluindo o [!UICONTROL Salvar] botão.
+
+Se o usuário alterar o agrupamento para [!UICONTROL Nenhum], a questão permanece. O usuário deve alterar o agrupamento para [!UICONTROL Nenhum] e, em seguida, atualize a página para restaurar a capacidade de adicionar um cartão.
+
+**Vincular a um comentário redireciona para [!UICONTROL Detalhes] página**
+
+_Atualizações_
+
+Quando um usuário clica em um link para um comentário em um objeto no Workfront, o fluxo de atualização é carregado brevemente e, em seguida, é redirecionado para a área [!UICONTROL Detalhes] do objeto. Isso pode ocorrer se o usuário clicar no link de um email ou colar o link em seu navegador.
+
+Atualmente, isso afeta apenas objetos de Documento.
+
+**O Resumo de Impressão não é carregado**
+
+_[!UICONTROL Prova do Workfront]_
+
+Quando um usuário tenta carregar a página Imprimir resumo , a página parece estar carregando, mas nunca carrega.
+
++++
 
 ## Atualizações em fevereiro de 2023
 
