@@ -3,9 +3,9 @@ title: Problemas conhecidos no [!DNL Adobe Workfront Proof]
 description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 5b925d35b32ebdb1e74dd2e5b23962905788a8cc
+source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '271'
 ht-degree: 87%
 
 ---
@@ -37,8 +37,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| O [[!DNL Workfront Proof]: [!UICONTROL Print Summary]  não carrega](known-issues-workfront-proof/proof-print-summary-not-loading.md) | 28 de fevereiro de 2023 |
-| [Atualizações: vincular a um comentário redireciona para a página [!UICONTROL Detalhes]](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md) | 24 de fevereiro de 2023 |
 | [[!DNL Workfront Proof] API: erro “[!UICONTROL Corpo não é um XML válido]”](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 20 de janeiro de 2023 |
 
 {style=&quot;table-layout:auto&quot;}

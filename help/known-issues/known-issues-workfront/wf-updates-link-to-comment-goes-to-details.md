@@ -1,18 +1,22 @@
 ---
-title: "Atualizações: Link para um comentário redireciona para a página Detalhes"
-description: "Quando um usuário segue um link para um comentário em um objeto no Workfront, o fluxo de atualização é carregado brevemente e, em seguida, é redirecionado para a área Detalhes do objeto. Isso pode ocorrer se o usuário clicar no link de um email ou colar o link em seu navegador."
+title: '“Atualizações: um link para um comentário redireciona para a página Detalhes”'
+description: “Quando um usuário clica em um link para um comentário em um objeto no Workfront, o fluxo de atualização é carregado brevemente e, em seguida, é redirecionado para a área Detalhes do objeto. Isso pode ocorrer se o usuário clicar no link de um email ou colar o link em seu navegador.”
 hidefromtoc: true
-source-git-commit: 7aa896333c20e67da4da27b981eee0b0f79a09f2
+source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
-# Atualizações: Vincular a um comentário redireciona para [!UICONTROL Detalhes] página
+# Atualizações: um link para um comentário redireciona para a página [!UICONTROL Detalhes]
 
-Quando um usuário segue um link para um comentário em um objeto no Workfront, o fluxo de atualização é carregado brevemente e, em seguida, o usuário é redirecionado para o objeto [!UICONTROL Detalhes] área. Isso pode ocorrer se o usuário clicar no link de um email ou colar o link em seu navegador.
+>[!NOTE]
+>
+>Esse problema foi corrigido em 2 de março de 2023.
+
+Quando um usuário clica em um link para um comentário em um objeto no Workfront, o fluxo de atualização é carregado brevemente e, em seguida, é redirecionado para a área [!UICONTROL Detalhes] do objeto. Isso pode ocorrer se o usuário clicar no link de um email ou colar o link em seu navegador.
 
 Atualmente, isso afeta apenas objetos de Documento.
 

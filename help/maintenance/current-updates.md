@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 50e30f70083284302eccb04fb056cd4725650419
+source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
 workflow-type: tm+mt
-source-wordcount: '1870'
-ht-degree: 90%
+source-wordcount: '1905'
+ht-degree: 89%
 
 ---
 
@@ -21,17 +21,24 @@ Para obter atualizações de manutenção anteriores a 2023, consulte [Atualiza�
 
 ## Atualizações em março de 2023
 
-+++**(Planejado) Atualização de manutenção em 2 de março de 2023**
++++**Atualização de manutenção em 2 de março de 2023**
 
 **Não é possível adicionar cartões quando o agrupamento é aplicado**
 
 _Quadros_
 
-Quando um usuário está visualizando um quadro com um agrupamento se aplica e tenta adicionar um cartão, ele só pode digitar o nome do cartão. O restante dos campos do cartão está desativado, incluindo o [!UICONTROL Salvar] botão.
+Quando um usuário visualiza um quadro com uma aplicação de agrupamento e tenta adicionar um cartão, ele só pode inserir o nome do cartão. O restante dos campos do cartão está desativado, incluindo a variável [!UICONTROL Salvar] botão.
 
-Se o usuário alterar o agrupamento para [!UICONTROL Nenhum], a questão permanece. O usuário deve alterar o agrupamento para [!UICONTROL Nenhum] e, em seguida, atualize a página para restaurar a capacidade de adicionar um cartão.
+Se o usuário alterar o agrupamento para [!UICONTROL Nenhum], o problema permanece. O usuário deve alterar o agrupamento para [!UICONTROL Nenhum] e, em seguida, atualize a página para restaurar a capacidade de adicionar um cartão.
 
-**Vincular a um comentário redireciona para [!UICONTROL Detalhes] página**
+**Cartões conectados não adicionados às colunas com base no status**
+
+_Quadros_
+
+Mesmo que as políticas de coluna sejam aplicadas ao status, novos cartões conectados aparecerão na coluna mais à esquerda e não na coluna que corresponde ao status.
+
+
+**O link para um comentário redireciona para [!UICONTROL Detalhes] página**
 
 _Atualizações_
 
@@ -39,11 +46,11 @@ Quando um usuário clica em um link para um comentário em um objeto no Workfron
 
 Atualmente, isso afeta apenas objetos de Documento.
 
-**O Resumo de Impressão não é carregado**
+**O Resumo de impressão não carrega**
 
 _[!UICONTROL Prova do Workfront]_
 
-Quando um usuário tenta carregar a página Imprimir resumo , a página parece estar carregando, mas nunca carrega.
+Quando um usuário tenta carregar a página Resumo de impressão, a página parece estar carregando, mas nunca é carregada.
 
 +++
 
@@ -51,7 +58,7 @@ Quando um usuário tenta carregar a página Imprimir resumo , a página parece e
 
 +++**Atualização de manutenção em 23 de fevereiro de 2023**
 
-**Vincular a um comentário redireciona para [!UICONTROL Detalhes] página**
+**O link para um comentário redireciona para [!UICONTROL Detalhes] página**
 
 _Atualizações_
 
@@ -59,7 +66,7 @@ Quando um usuário clica em um link para um comentário em um objeto no Workfron
 
 Atualmente, isso afeta apenas objetos de Documento.
 
-**O usuário não pode editar suas próprias configurações de notificação**
+**O usuário não consegue editar suas próprias configurações de notificação**
 
 _Usuários_
 
@@ -69,17 +76,17 @@ Quando um usuário com uma licença [!UICONTROL Trabalhador] tenta editar suas p
 
 +++**Atualização de manutenção em 16 de fevereiro de 2023**
 
-**Várias atribuições de equipe em quadros**
+**Várias atribuições de equipe nos quadros**
 
 _Quadros_
 
 Agora é possível atribuir várias equipes a uma tarefa ou problema em um quadro e ao próprio quadro.
 
-**Aumento do limite de queda do cartão**
+**Aumento do limite de fallout do cartão**
 
 _Quadros_
 
-Os limites de tempo de fallff do cartão foram aumentados para 8 semanas / 60 dias em vez de 4 semanas / 30 dias.
+Os limites de tempo de queda do cartão foram aumentados para 8 semanas / 60 dias em vez de 4 semanas / 30 dias.
 
 **A desativação programada não desativa o usuário**
 
