@@ -3,7 +3,7 @@ title: Problemas conhecidos na nova experiência do [!DNL Adobe Workfront]
 description: Problemas conhecidos reportados da nova experiência do  [!DNL Adobe Workfront]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 5ac0ab64966824ac533f262ac9cb863b3b79c2ac
+source-git-commit: b5172e5c4991f4ea6a5bf05b92bfb419c1e95a35
 workflow-type: tm+mt
 source-wordcount: '576'
 ht-degree: 90%
@@ -38,7 +38,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
 | [Integrações: erro ao fazer logon no [!DNL Workfront] de [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md) | 2 de março de 2023 |
-| [Projetos: o campo personalizado está ausente quando o problema é convertido em projeto](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md) | 23 de março de 2023 |
+| [Projetos: o campo personalizado está ausente quando o problema é convertido em projeto](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md) | 2 de março de 2023 |
 | [Projetos: o projeto convertido do problema não herda permissões do portfólio ou programa](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 23 de fevereiro de 2023 |
 | [Usuários: o nível de acesso não é atribuído ao reativar o usuário](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md) | 13 de fevereiro de 2023 |
 | Caso de suporte do [[!DNL Workfront]: Issues submitting a [!DNL Workfront] caso na Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 de agosto de 2022 |
