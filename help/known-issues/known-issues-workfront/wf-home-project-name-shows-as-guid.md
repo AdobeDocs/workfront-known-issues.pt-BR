@@ -3,14 +3,16 @@ title: '“Página inicial: o nome do projeto é exibido como uma GUID na Lista 
 description: Quando um usuário precisa aprovar uma prova para a qual não tem acesso e sua Lista de trabalho na [!UICONTROL Página inicial] está classificada pelo Nome do projeto, o usuário não poderá ver o nome do projeto e a GUID será exibida.
 exl-id: ca75430f-42ea-4239-9756-fd8d4f4aba89
 hidefromtoc: true
-source-git-commit: d122c128b926167a00c7149cb88392b618486876
-workflow-type: ht
+source-git-commit: 6620357eb577a1a4da9e244a7d880054798f4654
+workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 100%
 
 ---
 
 # [!UICONTROL Página inicial]: o [!UICONTROL Nome do projeto] é exibido como uma GUID na [!UICONTROL Lista de trabalho]
+
+<!--Article created by request-->
 
 >[!NOTE]
 >
