@@ -3,10 +3,10 @@ title: Problemas conhecidos na nova experiência do [!DNL Adobe Workfront]
 description: Problemas conhecidos reportados da nova experiência do  [!DNL Adobe Workfront]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 94fb9fc57614aa914031d1fa0039650a7478201e
+source-git-commit: 3307a9be28555d0b9561e8ae96e3667cb1fee711
 workflow-type: tm+mt
-source-wordcount: '604'
-ht-degree: 86%
+source-wordcount: '579'
+ht-degree: 85%
 
 ---
 
@@ -29,7 +29,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | [Projetos: erro 504 no cabeçalho do projeto](known-issues-workfront/wf-projects-504-error-in-project-header.md) | 17 de fevereiro de 2023 |
 | [Documentos: as permissões não são herdadas quando um documento é movido para um novo projeto](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 3 de fevereiro de 2023 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Em andamento
 
@@ -46,7 +46,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | [Usuários: o nível de acesso não é atribuído ao reativar o usuário](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md) | 13 de fevereiro de 2023 |
 | Caso de suporte do [[!DNL Workfront]: Issues submitting a [!DNL Workfront] caso na Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 de agosto de 2022 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Sem correção
 
@@ -58,7 +58,6 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 | [Provas: o usuário não recebe email quando marcado em um comentário de prova](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 23 de fevereiro de 2023 |
 | [Formulários personalizados: “[!UICONTROL Expressão personalizada inválida]” ao fazer referência ao “[!UICONTROL proprietário]” em um campo calculado](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 20 de janeiro de 2023 |
 | [[!UICONTROL Página inicial]: provas concluídas presas na [!UICONTROL Lista de trabalho]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 de janeiro de 2023 |
-| [Formulários personalizados: não é possível usar o campo no cálculo se o nome do campo contiver apóstrofos ou aspas](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 6 de janeiro de 2023 |
 | [Provas: o status da prova não é atualizado nas listas [!UICONTROL Documento]](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5 de dezembro de 2022 |
 | [Tarefas: as horas não são salvas ao inserir horas no painel [!UICONTROL Resumo da tarefa]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2 de dezembro de 2022 |
 | [Formulários personalizados: formulários personalizados entre objetos exigem acesso de [!UICONTROL Gerenciar] ou [!UICONTROL Editar] para editar campos](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md) | 21 de novembro de 2022 |
@@ -91,5 +90,5 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 | [Página inicial: as datas de delegação de aprovação mudam após a atualização e o envio de 2 emails](known-issues-workfront/wf-home-approval-delegation-dates-changing.md) | 9 de novembro de 2020 |
 | [Calendário: as tarefas não são exibidas](known-issues-workfront/wf-calendar-tasks-not-displaying.md) | 9 de novembro de 2020 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
