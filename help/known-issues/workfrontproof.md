@@ -3,10 +3,10 @@ title: Problemas conhecidos no [!DNL Adobe Workfront Proof]
 description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 94fb9fc57614aa914031d1fa0039650a7478201e
+source-git-commit: 1b1627e2f4448c5e4fd3791354cd17e5dda327b3
 workflow-type: tm+mt
-source-wordcount: '282'
-ht-degree: 83%
+source-wordcount: '273'
+ht-degree: 82%
 
 ---
 
@@ -27,9 +27,8 @@ Estes problemas recentemente relatados estão atualmente em análise.
 |  | 24 de fevereiro de 2023 |
 | [Provas: não é possível adicionar usuário ou grupo ao fluxo de trabalho de prova](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | 27 de fevereiro de 2023 |
 | [Provas: funções de prova são alteradas para [!UICONTROL Somente leitura]](known-issues-workfront/wf-proof-roles-set-to-read-only.md) | 27 de fevereiro de 2023 |
-| [Documentos: as permissões não são herdadas quando um documento é movido para um novo projeto](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 3 de fevereiro de 2023 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Em andamento
 
@@ -40,7 +39,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | [Documentos: [!UICONTROL Resumo] o conteúdo do painel é muito largo para o painel](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 3 de março de 2023 |
 | [[!DNL Workfront Proof] API: erro “[!UICONTROL Corpo não é um XML válido]”](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 20 de janeiro de 2023 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Sem correção
 
@@ -48,6 +47,7 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documentos: as permissões não são herdadas quando um documento é movido para um novo projeto](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 7 de março de 2023 |
 | [[!DNL Workfront Proof]: [!UICONTROL Reports] A área não é mais suportada](known-issues-workfront-proof/proof-reports-analytics-not-working.md) | 1 de março de 2023 |
 | [Provas: o usuário não recebe email quando marcado em um comentário de prova](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 23 de fevereiro de 2023 |
 | [Provas: nova etapa criada porque o prazo não pode corresponder ao prazo final da etapa existente](known-issues-workfront-proof/proof-new-stage-created.md) | 2 de fevereiro de 2023 |
@@ -61,5 +61,5 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 | [[!DNL Workfront Proof]: [!UICONTROL Proof Approval] O relatório não consegue determinar com precisão os prazos](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 21 de abril de 2021 |
 | [Documentos: o ícone de fluxo de trabalho de prova não é exibido](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 5 de março de 2021 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
