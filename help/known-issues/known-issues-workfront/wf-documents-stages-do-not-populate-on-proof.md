@@ -3,7 +3,7 @@ title: '“Provas: o campo [!UICONTROL Estágios de prova ativos] está em branc
 description: Quando um usuário cria uma prova e a visualiza em um relatório como [!UICONTROL Versão do documento] ou [!UICONTROL Aprovação de prova], o campo [!UICONTROL Estágios de prova ativos] fica em branco. Isso ocorre quando a prova é criada depois que o documento é carregado, como uma [!UICONTROL Prova simples] ou [!UICONTROL Prova avançada] com um [!UICONTROL Fluxo de trabalho básico].
 hidefromtoc: true
 source-git-commit: 6620357eb577a1a4da9e244a7d880054798f4654
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '200'
 ht-degree: 100%
 
