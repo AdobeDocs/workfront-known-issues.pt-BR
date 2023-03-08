@@ -1,19 +1,19 @@
 ---
-title: "Projetos: Erro 504 no cabeçalho do projeto"
-description: "Quando um usuário está visualizando um projeto, não há nome ou dados no cabeçalho do projeto. Em vez disso, o usuário vê um erro."
+title: '“Projetos: erro 504 no cabeçalho do projeto”'
+description: “Quando um usuário está visualizando um projeto, nem o nome nem os dados são exibidos no cabeçalho do projeto. Em vez disso, um erro é exibido para o usuário.”
 source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# Projetos: Erro 504 no cabeçalho do projeto
+# Projetos: erro 504 no cabeçalho do projeto
 
-Quando um usuário está visualizando um projeto, não há nome ou dados no cabeçalho do projeto. Em vez disso, o usuário vê um erro semelhante ao seguinte:
+Quando um usuário está visualizando um projeto, nem o nome nem os dados são exibidos no cabeçalho do projeto. Em vez disso, um erro semelhante ao seguinte é exibido para o usuário:
 
-&quot;504: undefined /internal/qs/customizableHeaderData?objCode=PROJ&amp;objectID=xxxxxxxxxxxxxxxxxx&quot;
+“504: undefined /internal/qs/customizableHeaderData?objCode=PROJ&amp;objectID=xxxxxxxxxxxxxxx”
 
-_Reportado pela primeira vez em 3 de fevereiro de 2023._
+_Relatado pela primeira vez em 3 de fevereiro de 2023._
 
