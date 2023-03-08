@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 1b1627e2f4448c5e4fd3791354cd17e5dda327b3
 workflow-type: tm+mt
 source-wordcount: '1979'
-ht-degree: 88%
+ht-degree: 96%
 
 ---
 
@@ -37,9 +37,9 @@ Quando um usuário está reativando um usuário desativado e tenta atribuir a el
 
 _Quadros_
 
-Quando um usuário visualiza um quadro com uma aplicação de agrupamento e tenta adicionar um cartão, ele só pode inserir o nome do cartão. O restante dos campos do cartão está desativado, incluindo a variável [!UICONTROL Salvar] botão.
+Quando um usuário está visualizando um quadro com um agrupamento aplicado e tenta adicionar um cartão, ele só pode digitar o nome do cartão. O restante dos campos do cartão está desativado, incluindo o botão [!UICONTROL Salvar].
 
-Se o usuário alterar o agrupamento para [!UICONTROL Nenhum], o problema permanece. O usuário deve alterar o agrupamento para [!UICONTROL Nenhum] e, em seguida, atualize a página para restaurar a capacidade de adicionar um cartão.
+Se o usuário altera o agrupamento para [!UICONTROL Nenhum], o problema permanece. O usuário deve alterar o agrupamento para [!UICONTROL Nenhum] e atualizar a página para que a funcionalidade de adicionar um cartão seja restaurada.
 
 **Cartões conectados não adicionados às colunas com base no status**
 
@@ -48,7 +48,7 @@ _Quadros_
 Mesmo que as políticas de coluna sejam aplicadas ao status, novos cartões conectados aparecerão na coluna mais à esquerda e não na coluna que corresponde ao status.
 
 
-**O link para um comentário redireciona para [!UICONTROL Detalhes] página**
+**Vincular a um comentário redireciona para a página [!UICONTROL Detalhes]**
 
 _Atualizações_
 
@@ -68,7 +68,7 @@ Quando um usuário tenta carregar a página Resumo de impressão, a página pare
 
 +++**Atualização de manutenção em 23 de fevereiro de 2023**
 
-**O link para um comentário redireciona para [!UICONTROL Detalhes] página**
+**Vincular a um comentário redireciona para a página [!UICONTROL Detalhes]**
 
 _Atualizações_
 
@@ -86,17 +86,17 @@ Quando um usuário com uma licença [!UICONTROL Trabalhador] tenta editar suas p
 
 +++**Atualização de manutenção em 16 de fevereiro de 2023**
 
-**Várias atribuições de equipe nos quadros**
+**Várias atribuições de equipe em quadros**
 
 _Quadros_
 
-Agora é possível atribuir várias equipes a uma tarefa ou problema em um quadro e ao próprio quadro.
+Agora é possível atribuir várias equipes a uma tarefa ou problema em um quadro, bem como ao próprio quadro.
 
-**Aumento do limite de fallout do cartão**
+**Aumento do limite de queda do cartão**
 
 _Quadros_
 
-Os limites de tempo de queda do cartão foram aumentados para 8 semanas / 60 dias em vez de 4 semanas / 30 dias.
+Os limites de tempo de queda do cartão foram aumentados para 8 semanas (60 dias) em vez de 4 semanas (30 dias).
 
 **A desativação programada não desativa o usuário**
 
@@ -142,7 +142,7 @@ Quando um usuário tenta criar ou editar um modelo de email, o botão [!UICONTRO
 
 +++
 
-## Atualizações Em Janeiro De 2023
+## Atualizações em janeiro de 2023
 
 +++**Atualização de manutenção em 30 de janeiro de 2023**
 
