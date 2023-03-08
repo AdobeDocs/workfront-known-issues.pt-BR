@@ -1,22 +1,26 @@
 ---
-title: "Integrações: Erro ao fazer logon no Workfront a partir do Jira"
-description: "Quando um usuário tenta fazer logon no Workfront a partir do Jira usando o Workfront para integração Jira, a página não é carregada e o usuário vê um erro."
+title: '“Integrações: erro ao fazer logon no Workfront a partir do Jira”'
+description: “Quando um usuário tenta fazer logon no Workfront a partir do Jira usando a integração Workfront for Jira, a página não é carregada e um erro é exibido.”
 hidefromtoc: true
-source-git-commit: 72d2cf5620f0ea6ca7f74d2e7e773f93a807af30
+source-git-commit: fa782bc69636c0ad4d65f1ce7b7f9493ef155af3
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 4%
+source-wordcount: '103'
+ht-degree: 94%
 
 ---
 
 
-# Integrações: Erro ao fazer logon no [!DNL Workfront] from [!DNL Jira]
+# Integrações: erro ao fazer logon no [!DNL Workfront] a partir do [!DNL Jira]
 
-Quando um usuário tenta fazer logon no [!DNL Workfront] from [!DNL Jira] usando o Workfront para integração com Jira, a página não é carregada e o usuário vê o seguinte erro:
+>[!NOTE]
+>
+>Esse problema foi corrigido em 8 de março. 2023.
 
-[!UICONTROL &quot;statusCode&quot;:400,&quot;code&quot;:&quot;BAD_REQUEST&quot;,&quot;error&quot;:&quot;Solicitação inválida&quot;, &quot;message&quot;:&quot;Não é possível validar um JWT atlassiano.&quot;]
+Quando um usuário tenta fazer logon no [!DNL Workfront] a partir do [!DNL Jira] usando a integração Workfront for Jira, a página não é carregada e o seguinte erro é exibido:
+
+[!UICONTROL “statusCode”:400,“code”:“BAD_REQUEST”,“error”:“Solicitação inválida”,“message”:“Não foi possível validar um JWT atlassian.”]
 
 O usuário não consegue fazer logon no [!DNL Workfront].
 
-_Reportado pela primeira vez em 24 de fevereiro de 2023._
+_Relatado pela primeira vez em 24 de fevereiro de 2023._
 
