@@ -4,7 +4,7 @@ description: Quando um usuário administrador de grupo tenta criar um modelo na 
 exl-id: 7ff07a66-2dd2-41c6-ba1c-0c4aa7c5bd39
 hidefromtoc: true
 source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '169'
 ht-degree: 100%
 
