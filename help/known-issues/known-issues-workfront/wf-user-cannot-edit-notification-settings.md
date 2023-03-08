@@ -3,7 +3,7 @@ title: '“Usuários: o usuário não consegue editar suas próprias configuraç
 description: “Quando um usuário com uma licença [!UICONTROL Trabalhador] tenta editar suas próprias configurações de notificação, as opções de [!UICONTROL Notificações] não ficam visíveis na janela [!UICONTROL Editar] e o usuário não consegue editar as configurações.”
 hidefromtoc: true
 source-git-commit: a21275163de2c7de2201971b125703f40b9983b8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
 ht-degree: 100%
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Esse problema foi resolvido em 23 de fevereiro de 2023.
+>Esse problema foi corrigido em 23 de fevereiro de 2023.
 
 Quando um usuário com uma licença [!UICONTROL Trabalhador] tenta editar suas próprias configurações de notificação, as opções de [!UICONTROL Notificações] não ficam visíveis na janela [!UICONTROL Editar] e o usuário não consegue editar as configurações.
 
