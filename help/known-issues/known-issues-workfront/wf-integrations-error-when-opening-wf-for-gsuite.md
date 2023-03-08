@@ -3,9 +3,9 @@ title: '“Integrações: não é possível abrir o Workfront para G Suite”'
 description: “Quando um usuário está em um aplicativo G Suite e tenta abrir o complemento Workfront para G Suite, o complemento não abre e o usuário vê a mensagem Algo deu errado, tente novamente. Tentar novamente é ineficaz. “
 hidefromtoc: true
 source-git-commit: ca6c34c2ebb14b2eee1ac46e0edf2eb77218c0c0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '125'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 78%
 
 >[!NOTE]
 >
->A equipe de produtos está trabalhando atualmente em uma nova versão da integração com o G Suite. Quando ele for concluído, será necessário instalar a nova versão.
+>A equipe de produtos está trabalhando atualmente em uma nova versão da integração com o G Suite. Quando ela for concluída, será necessário instalá-la.
 
 Quando um usuário está em um aplicativo G Suite e tenta abrir o complemento Workfront para G Suite, o complemento não abre e o usuário vê a mensagem “Algo deu errado, tente novamente”. Tentar novamente é ineficaz.
 
