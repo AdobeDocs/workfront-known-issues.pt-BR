@@ -3,7 +3,7 @@ title: Problemas conhecidos na nova experiência do [!DNL Adobe Workfront]
 description: Problemas conhecidos reportados da nova experiência do  [!DNL Adobe Workfront]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: d6935a9ad66633d64083f227def3b027349645b1
+source-git-commit: ca969341423e373a94faa677729fc2dccd9453d6
 workflow-type: tm+mt
 source-wordcount: '547'
 ht-degree: 90%
@@ -36,7 +36,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Folhas de horas: [!UICONTROL Tipo de Hora] a lista suspensa não abre](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 3 de março de 2023 |
 | [Documentos: [!UICONTROL Resumo] o conteúdo do painel é muito largo para o painel](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 3 de março de 2023 |
 | [Provas: mensagens personalizadas não aparecem nas notificações por email](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md) | 3 de março de 2023 |
 | [Projetos: o campo personalizado está ausente quando o problema é convertido em projeto](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md) | 2 de março de 2023 |
@@ -51,6 +50,7 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Folhas de horas: [!UICONTROL Tipo de Hora] a lista suspensa não abre](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 9 de março de 2023 |
 | [Documentos: as permissões não são herdadas quando um documento é movido para um novo projeto](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 7 de março de 2023 |
 | [Integrações: não é possível abrir o  [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 24 de fevereiro de 2023 |
 | [Provas: o usuário não recebe um email ao ser marcado em um comentário de prova](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 23 de fevereiro de 2023 |
