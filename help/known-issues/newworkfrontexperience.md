@@ -3,10 +3,10 @@ title: Problemas conhecidos na nova experiência do [!DNL Adobe Workfront]
 description: Problemas conhecidos reportados da nova experiência do  [!DNL Adobe Workfront]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: fa782bc69636c0ad4d65f1ce7b7f9493ef155af3
+source-git-commit: d6935a9ad66633d64083f227def3b027349645b1
 workflow-type: tm+mt
-source-wordcount: '571'
-ht-degree: 91%
+source-wordcount: '547'
+ht-degree: 90%
 
 ---
 
@@ -41,7 +41,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | [Provas: mensagens personalizadas não aparecem nas notificações por email](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md) | 3 de março de 2023 |
 | [Projetos: o campo personalizado está ausente quando o problema é convertido em projeto](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md) | 2 de março de 2023 |
 | [Projetos: o projeto convertido do problema não herda permissões do portfólio ou programa](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 23 de fevereiro de 2023 |
-| [Usuários: o nível de acesso não é atribuído ao reativar o usuário](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md) | 13 de fevereiro de 2023 |
 | Caso de suporte do [[!DNL Workfront]: Issues submitting a [!DNL Workfront] caso na Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 de agosto de 2022 |
 
 {style="table-layout:auto"}
@@ -55,7 +54,6 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 | [Documentos: as permissões não são herdadas quando um documento é movido para um novo projeto](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 7 de março de 2023 |
 | [Integrações: não é possível abrir o  [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 24 de fevereiro de 2023 |
 | [Provas: o usuário não recebe um email ao ser marcado em um comentário de prova](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 23 de fevereiro de 2023 |
-| [Formulários personalizados: “[!UICONTROL Expressão personalizada inválida]” ao fazer referência ao “[!UICONTROL proprietário]” em um campo calculado](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 20 de janeiro de 2023 |
 | [[!UICONTROL Página inicial]: provas concluídas presas na [!UICONTROL Lista de trabalho]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 de janeiro de 2023 |
 | [Provas: o status da prova não é atualizado nas listas [!UICONTROL Documento]](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5 de dezembro de 2022 |
 | [Tarefas: as horas não são salvas ao inserir horas no painel [!UICONTROL Resumo da tarefa]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2 de dezembro de 2022 |
