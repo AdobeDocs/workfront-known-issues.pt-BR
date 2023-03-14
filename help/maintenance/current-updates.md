@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 3c0a34c118c8a3b900890a7126a7502b7556b0d4
+source-git-commit: 7f4d16ac984134af0f16122ea0aa79a6bcc4cd3c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '2193'
+ht-degree: 87%
 
 ---
 
@@ -20,6 +20,28 @@ As seguintes atualizações de manutenção foram efetuadas em 2023.
 Para obter atualizações de manutenção anteriores a 2023, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em março de 2023
+
++++**Atualização de manutenção em 16 de março de 2023**
+
+**[!UICONTROL Resumo] o conteúdo do painel é muito largo para o painel**
+
+_Documentos_
+
+Quando um usuário visualiza a variável [!UICONTROL Resumo] para um documento, os conteúdos são muito largos para serem vistos no painel. O painel agora tem uma barra de rolagem horizontal, e o usuário deve rolar horizontalmente para ver a [!UICONTROL Resumo] conteúdo do painel. Isso ocorre porque o nome do arquivo do documento não está em contorno. Esse problema é limitado ao arquivo em que o nome do arquivo tem uma extensão de arquivo HTML.
+
+**O campo personalizado está ausente quando o problema é convertido em projeto**
+
+_Projetos_
+
+Quando um usuário converte um problema em um projeto usando um modelo, um campo personalizado que estava sobre o problema não é exibido no projeto. Esse problema afeta somente os não administradores.
+
+**Mensagens personalizadas que não aparecem em notificações por email**
+
+_Provas_
+
+Quando um usuário compartilha uma prova e adiciona uma mensagem personalizada, ela não é exibida no email de notificação para o recipient. O assunto é o nome da prova e a mensagem não aparece no email.
+
++++
 
 +++**Atualização de manutenção em 9 de março de 2023**
 
