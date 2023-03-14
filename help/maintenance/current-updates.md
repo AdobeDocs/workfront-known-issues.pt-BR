@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 7738ac9b68dd48817105171d7f9ae2cf97e742fe
+source-git-commit: f27dfd8dbe3e0c862f84edfe5b2deab5f139eb50
 workflow-type: tm+mt
-source-wordcount: '2194'
-ht-degree: 86%
+source-wordcount: '2223'
+ht-degree: 85%
 
 ---
 
@@ -22,6 +22,12 @@ Para obter atualizações de manutenção anteriores a 2023, consulte [Atualiza�
 ## Atualizações em março de 2023
 
 +++**(Planejado) Atualização de manutenção em 16 de março de 2023**
+
+**Itens da lista de verificação não copiados ao copiar um cartão**
+
+_Quadros_
+
+Ao copiar um cartão ad hoc (cartões conectados não podem ser copiados), os itens da lista de verificação não são copiados para o novo cartão.
 
 **[!UICONTROL Resumo] o conteúdo do painel é muito largo para o painel**
 
