@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
-source-git-commit: 506874e3b4503db3390a09f44b4be204b4ead2b3
+source-git-commit: e2b518715b4283ed7940ee51dda44cc1cad0227a
 workflow-type: tm+mt
-source-wordcount: '1225'
-ht-degree: 91%
+source-wordcount: '1230'
+ht-degree: 90%
 
 ---
 
@@ -16,13 +16,13 @@ ht-degree: 91%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
-      + [[!UICONTROL Balanceador de carga de trabalho]: as horas não são ajustadas para levar em conta o tempo limite do usuário](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
-      + [Relatórios: a classificação por cabeçalho de coluna reverte para a classificação anterior](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md)
-      + [[!UICONTROL Atualizações]: não é possível registrar a hora do dia atual no [!UICONTROL Atualizações] área](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)
-      + [Folhas de horas: [!UICONTROL Tipo de Hora] a lista suspensa não abre](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md)
-      + [Documentos: [!UICONTROL Resumo] o conteúdo do painel é muito largo para o painel](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md)
-      + [Projetos: o campo personalizado está ausente quando o problema é convertido em projeto](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md)
-      + [Provas: não é possível adicionar usuário ou grupo ao fluxo de trabalho de prova](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md)
+      + [[!UICONTROL Balanceador de Carga de Trabalho]: As horas não se ajustam à conta para o tempo limite do usuário](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
+      + [Relatórios: A classificação por cabeçalho de coluna reverte para a classificação anterior](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md)
+      + [[!UICONTROL Atualizações]: Não é possível registrar a hora do dia atual no [!UICONTROL Atualizações] area](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)
+      + [Folhas de horas: [!UICONTROL Tipo de hora] lista suspensa não abre](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md)
+      + [Documentos: [!UICONTROL Resumo] o conteúdo do painel é muito grande para o painel](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md)
+      + [Projetos: O campo personalizado está ausente quando o problema é convertido em projeto](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md)
+      + [Provas: Não é possível adicionar usuário ou grupo ao fluxo de trabalho de prova](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md)
       + [Provas: as funções de prova foram alteradas para [!UICONTROL Somente leitura]](known-issues-workfront/wf-proof-roles-set-to-read-only.md)
       + [Integrações: erro ao fazer logon no  [!DNL Workfront]  a partir do  [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
       + [Projetos: erro 504 no cabeçalho do projeto](known-issues-workfront/wf-projects-504-error-in-project-header.md)
@@ -128,9 +128,10 @@ ht-degree: 91%
 + [!DNL Workfront Proof] {#proof}
    + [Problemas conhecidos no [!DNL Workfront Proof]](workfrontproof.md)
    + Problemas atuais no [!DNL Workfront Proof] {#proof-current}
-      + [Provas: mensagens personalizadas não aparecem nas notificações por email](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md)
-      + [[!DNL Workfront Proof]: a prova não carrega ao usar &quot;[!UICONTROL Ir para prova]Botão &quot; na notificação por email](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
-      + [[!DNL Workfront Proof]: [!UICONTROL Relatórios] A área não é mais suportada](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
+      + [[!DNL Workfront Proof]: As listas não são classificadas corretamente](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
+      + [Provas: Mensagens personalizadas que não aparecem em notificações por email](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md)
+      + [[!DNL Workfront Proof]: A prova não é carregada ao usar &quot;[!UICONTROL Ir para prova]botão &quot; na notificação por email](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
+      + [[!DNL Workfront Proof]: [!UICONTROL Relatórios] área não é mais suportada](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
       + [[!DNL Workfront Proof]: [!UICONTROL Imprimir resumo] não carrega](known-issues-workfront-proof/proof-print-summary-not-loading.md)
       + [Provas: o usuário não recebe um email ao ser marcado em um comentário de prova](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
       + [Provas: nova etapa criada porque o prazo não pode corresponder ao prazo final da etapa existente](known-issues-workfront-proof/proof-new-stage-created.md)
@@ -153,7 +154,7 @@ ht-degree: 91%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problemas conhecidos no Workfront Fusion](workfrontfusion.md)
    + Problemas atuais no [!DNL Workfront Fusion] {#fusion-current}
-      + [[!DNL Workfront Fusion]: o histórico de execução de cenários não exibe todo o histórico](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)
+      + [[!DNL Workfront Fusion]: O histórico de execução do cenário não exibe todo o histórico](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)
       + [[!DNL Adobe Workfront Fusion]: erros de tempo limite no Workfront Fusion](known-issues-workfront-fusion/fusion-timeout-errors.md)
       + [[!DNL Adobe Workfront Fusion]: erros 404 em módulos do Workfront](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
       + [[!DNL Workfront Fusion]: não é possível criar uma conexão com o [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md)
