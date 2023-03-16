@@ -1,18 +1,22 @@
 ---
-title: "Provas: mensagens personalizadas não aparecem nas notificações por email"
-description: "Quando um usuário compartilha uma prova e adiciona uma mensagem personalizada, ela não é exibida no email de notificação para o recipient. O assunto é o nome da prova e a mensagem não aparece no email."
+title: "Provas: Mensagens personalizadas que não aparecem em notificações por email"
+description: "Quando um usuário compartilha uma prova e adiciona uma mensagem personalizada, essa mensagem personalizada não aparece no email de notificação para o recipient. O assunto é o nome da prova e a mensagem não aparece no email."
 hidefromtoc: true
-source-git-commit: 10b71f5db302070b8fb851f40e01db7b234c5863
+source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 4%
+source-wordcount: '104'
+ht-degree: 9%
 
 ---
 
 
-# Provas: mensagens personalizadas não aparecem nas notificações por email
+# Provas: Mensagens personalizadas que não aparecem em notificações por email
 
-Quando um usuário compartilha uma prova e adiciona uma mensagem personalizada, ela não é exibida no email de notificação para o recipient. O assunto é o nome da prova e a mensagem não aparece no email.
+>[!NOTE]
+>
+>Esse problema foi corrigido em 16 de março de 2023.
 
-_Reportado pela primeira vez em 17 de fevereiro de 2023._
+Quando um usuário compartilha uma prova e adiciona uma mensagem personalizada, essa mensagem personalizada não aparece no email de notificação para o recipient. O assunto é o nome da prova e a mensagem não aparece no email.
+
+_Relatado pela primeira vez em 17 de fevereiro de 2023._
 

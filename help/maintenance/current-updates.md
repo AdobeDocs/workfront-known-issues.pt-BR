@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f27dfd8dbe3e0c862f84edfe5b2deab5f139eb50
+source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
 workflow-type: tm+mt
-source-wordcount: '2223'
-ht-degree: 85%
+source-wordcount: '2148'
+ht-degree: 88%
 
 ---
 
@@ -27,25 +27,19 @@ Para obter atualizações de manutenção anteriores a 2023, consulte [Atualiza�
 
 _Quadros_
 
-Ao copiar um cartão ad hoc (cartões conectados não podem ser copiados), os itens da lista de verificação não são copiados para o novo cartão.
-
-**[!UICONTROL Resumo] o conteúdo do painel é muito largo para o painel**
-
-_Documentos_
-
-Quando um usuário visualiza a variável [!UICONTROL Resumo] para um documento, os conteúdos são muito largos para serem vistos no painel. O painel agora tem uma barra de rolagem horizontal, e o usuário deve rolar horizontalmente para ver a [!UICONTROL Resumo] conteúdo do painel. Isso ocorre porque o nome do arquivo do documento não está em contorno. Esse problema é limitado ao arquivo em que o nome do arquivo tem uma extensão de arquivo HTML.
+Ao copiar um cartão ad hoc (os cartões conectados não podem ser copiados), os itens da lista de verificação não são copiados para o novo cartão.
 
 **O campo personalizado está ausente quando o problema é convertido em projeto**
 
 _Projetos_
 
-Quando um usuário converte um problema em um projeto usando um modelo, um campo personalizado que estava sobre o problema não é exibido no projeto. Esse problema afeta somente os não administradores.
+Quando um usuário converte um problema em um projeto usando um modelo, um campo personalizado que estava no problema não é exibido no projeto. Esse problema afeta apenas não administradores.
 
 **Mensagens personalizadas que não aparecem em notificações por email**
 
 _Provas_
 
-Quando um usuário compartilha uma prova e adiciona uma mensagem personalizada, ela não é exibida no email de notificação para o recipient. O assunto é o nome da prova e a mensagem não aparece no email.
+Quando um usuário compartilha uma prova e adiciona uma mensagem personalizada, essa mensagem personalizada não aparece no email de notificação para o recipient. O assunto é o nome da prova e a mensagem não aparece no email.
 
 +++
 
@@ -57,11 +51,11 @@ _Usuários_
 
 Quando um usuário está reativando um usuário desativado e tenta atribuir a ele um nível de acesso na janela [!UICONTROL Reativar usuário], a lista suspensa de nível de acesso não é preenchida conforme o usuário digita e ele não consegue selecionar um nível de acesso. Se o usuário digitar no nível de acesso e salvar, esse nível de acesso não será atribuído ao usuário reativado.
 
-**Salvar o rascunho de um comentário na [!DNL Goals] área**
+**Salve o rascunho de um comentário na [!DNL Goals] area**
 
 _[!DNL Workfront Goals]_
 
-Agora, ao sair da janela [!UICONTROL Atualizações] de uma meta enquanto estiver no meio da redação de uma mensagem, ela será preservada ao navegar de volta. Antes dessa atualização, o comentário não enviado teria sido excluído.
+Agora, quando você navega para longe do [!UICONTROL Atualizações] página de uma meta enquanto estiver no meio da composição de uma mensagem, a mensagem será preservada quando você navegar de volta. Antes desta atualização, o comentário não enviado teria sido excluído.
 
 +++
 
@@ -75,11 +69,11 @@ Quando um usuário está visualizando um quadro com um agrupamento aplicado e te
 
 Se o usuário altera o agrupamento para [!UICONTROL Nenhum], o problema permanece. O usuário deve alterar o agrupamento para [!UICONTROL Nenhum] e atualizar a página para que a funcionalidade de adicionar um cartão seja restaurada.
 
-**Cartões conectados não adicionados às colunas com base no status**
+**Cartões conectados não adicionados a colunas com base no status**
 
 _Quadros_
 
-Mesmo que as políticas de coluna sejam aplicadas ao status, novos cartões conectados aparecerão na coluna mais à esquerda e não na coluna que corresponde ao status.
+Embora as políticas de coluna sejam aplicadas para o status , os novos cartões conectados são exibidos na coluna mais à esquerda e não na coluna que corresponde ao status.
 
 
 **Vincular a um comentário redireciona para a página [!UICONTROL Detalhes]**
@@ -90,11 +84,11 @@ Quando um usuário clica em um link para um comentário em um objeto no Workfron
 
 Atualmente, isso afeta apenas objetos de Documento.
 
-**O Resumo de impressão não carrega**
+**O Resumo de Impressão não é carregado**
 
 _[!UICONTROL Prova do Workfront]_
 
-Quando um usuário tenta carregar a página Resumo de impressão, a página parece estar carregando, mas nunca é carregada.
+Quando um usuário tenta carregar a página Imprimir resumo , a página parece estar carregando, mas nunca carrega.
 
 +++
 
