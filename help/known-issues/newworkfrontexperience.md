@@ -3,9 +3,9 @@ title: Problemas conhecidos na nova experiência do [!DNL Adobe Workfront]
 description: Problemas conhecidos reportados da nova experiência do  [!DNL Adobe Workfront]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
+source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
 workflow-type: tm+mt
-source-wordcount: '572'
+source-wordcount: '555'
 ht-degree: 86%
 
 ---
@@ -24,12 +24,9 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Folhas de horas: [!UICONTROL Tipo de hora] lista suspensa não abre](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 16 de março de 2023 |
 | [[!UICONTROL Balanceador de Carga de Trabalho]: As horas não se ajustam à conta para o tempo limite do usuário](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md) | 13 de março de 2023 |
-| [Relatórios: A classificação por cabeçalho de coluna reverte para a classificação anterior](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 10 de março de 2023 |
 | [[!UICONTROL Atualizações]: Não é possível registrar a hora do dia atual no [!UICONTROL Atualizações] area](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md) | 10 de março de 2023 |
-| [Provas: Não é possível adicionar usuário ou grupo ao fluxo de trabalho de prova](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | 27 de fevereiro de 2023 |
-| [Provas: as funções de prova foram alteradas para [!UICONTROL Somente leitura]](known-issues-workfront/wf-proof-roles-set-to-read-only.md) | 27 de fevereiro de 2023 |
-| [Projetos: erro 504 no cabeçalho do projeto](known-issues-workfront/wf-projects-504-error-in-project-header.md) | 17 de fevereiro de 2023 |
 
 {style="table-layout:auto"}
 
@@ -39,6 +36,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Relatórios: A classificação por cabeçalho de coluna reverte para a classificação anterior](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 16 de março de 2023 |
 | [Filtros: O filtro não é aplicado quando a página é atualizada](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md) | 16 de março de 2023 |
 | [Documentos: [!UICONTROL Resumo] o conteúdo do painel é muito grande para o painel](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 3 de março de 2023 |
 | [Projetos: o projeto convertido do problema não herda permissões do portfólio ou programa](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 23 de fevereiro de 2023 |

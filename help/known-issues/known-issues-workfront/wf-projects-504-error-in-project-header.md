@@ -1,15 +1,19 @@
 ---
 title: '“Projetos: erro 504 no cabeçalho do projeto”'
 description: “Quando um usuário está visualizando um projeto, nem o nome nem os dados são exibidos no cabeçalho do projeto. Em vez disso, um erro é exibido para o usuário.”
-source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
-workflow-type: ht
-source-wordcount: '72'
+source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
+workflow-type: tm+mt
+source-wordcount: '77'
 ht-degree: 100%
 
 ---
 
 
 # Projetos: erro 504 no cabeçalho do projeto
+
+>[!NOTE]
+>
+>Esse problema foi resolvido.
 
 Quando um usuário está visualizando um projeto, nem o nome nem os dados são exibidos no cabeçalho do projeto. Em vez disso, um erro semelhante ao seguinte é exibido para o usuário:
 

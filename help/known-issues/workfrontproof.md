@@ -3,10 +3,10 @@ title: Problemas conhecidos no [!DNL Adobe Workfront Proof]
 description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: e2b518715b4283ed7940ee51dda44cc1cad0227a
+source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
 workflow-type: tm+mt
-source-wordcount: '279'
-ht-degree: 88%
+source-wordcount: '259'
+ht-degree: 90%
 
 ---
 
@@ -24,10 +24,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-|  | 24 de fevereiro de 2023 |
 | [[!DNL Workfront Proof]: As listas não são classificadas corretamente](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | 15 de março de 2023 |
-| [Provas: Não é possível adicionar usuário ou grupo ao fluxo de trabalho de prova](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | 27 de fevereiro de 2023 |
-| [Provas: as funções de prova foram alteradas para [!UICONTROL Somente leitura]](known-issues-workfront/wf-proof-roles-set-to-read-only.md) | 27 de fevereiro de 2023 |
 
 {style="table-layout:auto"}
 
