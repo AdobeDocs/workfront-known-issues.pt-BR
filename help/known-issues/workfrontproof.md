@@ -6,7 +6,7 @@ exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
 workflow-type: tm+mt
 source-wordcount: '259'
-ht-degree: 90%
+ht-degree: 98%
 
 ---
 
@@ -34,7 +34,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Documentos: [!UICONTROL Resumo] o conteúdo do painel é muito grande para o painel](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 3 de março de 2023 |
+| [Documentos: o conteúdo do painel [!UICONTROL Resumo] é muito largo para o painel](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 3 de março de 2023 |
 | [[!DNL Workfront Proof] API: erro “[!UICONTROL Corpo não é um XML válido]”](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 20 de janeiro de 2023 |
 
 {style="table-layout:auto"}
@@ -46,7 +46,7 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
 | [Documentos: as permissões não são herdadas quando um documento é movido para um novo projeto](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 7 de março de 2023 |
-| [[!DNL Workfront Proof]: [!UICONTROL Reports] área não é mais suportada](known-issues-workfront-proof/proof-reports-analytics-not-working.md) | 1 de março de 2023 |
+| A área do [[!DNL Workfront Proof]: [!UICONTROL Reports]  não é mais compatível.](known-issues-workfront-proof/proof-reports-analytics-not-working.md) | 1 de março de 2023 |
 | [Provas: o usuário não recebe um email ao ser marcado em um comentário de prova](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 23 de fevereiro de 2023 |
 | [Provas: nova etapa criada porque o prazo não pode corresponder ao prazo final da etapa existente](known-issues-workfront-proof/proof-new-stage-created.md) | 2 de fevereiro de 2023 |
 | [[!UICONTROL Página inicial]: provas concluídas presas na [!UICONTROL Lista de trabalho]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 de janeiro de 2023 |

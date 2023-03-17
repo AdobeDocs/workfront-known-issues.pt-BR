@@ -6,7 +6,7 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
 workflow-type: tm+mt
 source-wordcount: '555'
-ht-degree: 86%
+ht-degree: 92%
 
 ---
 
@@ -24,7 +24,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Folhas de horas: [!UICONTROL Tipo de hora] lista suspensa não abre](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 16 de março de 2023 |
+| [Folhas de horas: a lista suspensa [!UICONTROL Tipo de Hora] não abre](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 16 de março de 2023 |
 | [[!UICONTROL Balanceador de Carga de Trabalho]: As horas não se ajustam à conta para o tempo limite do usuário](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md) | 13 de março de 2023 |
 | [[!UICONTROL Atualizações]: Não é possível registrar a hora do dia atual no [!UICONTROL Atualizações] area](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md) | 10 de março de 2023 |
 
@@ -38,7 +38,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | -----------------------------------------------------------------| ----------------- |
 | [Relatórios: A classificação por cabeçalho de coluna reverte para a classificação anterior](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 16 de março de 2023 |
 | [Filtros: O filtro não é aplicado quando a página é atualizada](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md) | 16 de março de 2023 |
-| [Documentos: [!UICONTROL Resumo] o conteúdo do painel é muito grande para o painel](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 3 de março de 2023 |
+| [Documentos: o conteúdo do painel [!UICONTROL Resumo] é muito largo para o painel](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 3 de março de 2023 |
 | [Projetos: o projeto convertido do problema não herda permissões do portfólio ou programa](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 23 de fevereiro de 2023 |
 | Caso de suporte do [[!DNL Workfront]: Issues submitting a [!DNL Workfront] caso na Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 de agosto de 2022 |
 
@@ -50,7 +50,7 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Folhas de horas: [!UICONTROL Tipo de hora] lista suspensa não abre](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 9 de março de 2023 |
+| [Folhas de horas: a lista suspensa [!UICONTROL Tipo de Hora] não abre](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 9 de março de 2023 |
 | [Documentos: as permissões não são herdadas quando um documento é movido para um novo projeto](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 7 de março de 2023 |
 | [Integrações: não é possível abrir o  [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 24 de fevereiro de 2023 |
 | [Provas: o usuário não recebe um email ao ser marcado em um comentário de prova](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 23 de fevereiro de 2023 |
