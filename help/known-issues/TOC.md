@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
-source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
+source-git-commit: c95d478b78e26e4f0243e9b9ae69ecfbc016d696
 workflow-type: tm+mt
-source-wordcount: '1239'
-ht-degree: 96%
+source-wordcount: '1268'
+ht-degree: 94%
 
 ---
 
@@ -16,6 +16,9 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Documentos: Erro 404 ao acessar documento vinculado a partir de [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md)
+      + [Documentos: [!UICONTROL Atividades de Verificação Linguística] opções levam à página de logon](known-issues-workfront/wf-documents-taken-to-login-screen.md)
+      + [Atualizações: A atualização feita em nome de um usuário é exibida diretamente do usuário](known-issues-workfront/wf-updates-update-made-in-behalf-shows-as-from-user.md)
       + [Filtros: O filtro não é aplicado quando a página é atualizada](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md)
       + [[!UICONTROL Balanceador de Carga de Trabalho]: As horas não se ajustam à conta para o tempo limite do usuário](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + [Relatórios: A classificação por cabeçalho de coluna reverte para a classificação anterior](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md)
