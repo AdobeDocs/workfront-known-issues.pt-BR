@@ -1,22 +1,22 @@
 ---
-title: "Workfront Proof: o Resumo de impressão não carrega"
-description: "Quando um usuário tenta carregar a página Resumo de impressão, a página parece estar carregando, mas nunca é carregada."
+title: '“Prova do Workfront: o resumo de impressão não é carregado”'
+description: “Quando um usuário tenta carregar a página Resumo de impressão, ela aparenta estar sendo carregada, mas o processo nunca é concluído.”
 hidefromtoc: true
 source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '60'
-ht-degree: 16%
+ht-degree: 100%
 
 ---
 
 
-# [!DNL Workfront Proof]: [!UICONTROL Imprimir resumo] não carrega
+# [!DNL Workfront Proof]: o [!UICONTROL Resumo de impressão] não é carregado
 
 >[!NOTE]
 >
 >Esse problema foi corrigido em 2 de março de 2023.
 
-Quando um usuário tenta carregar o [!UICONTROL Imprimir resumo] parece estar carregando, mas nunca carrega.
+Quando um usuário tenta carregar a página [!UICONTROL Resumo de impressão], ela aparenta estar sendo carregada, mas o processo nunca é concluído.
 
-_Reportado pela primeira vez em 23 de fevereiro de 2023._
+_Relatado pela primeira vez em 23 de fevereiro de 2023._
 
