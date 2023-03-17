@@ -3,9 +3,9 @@ title: '“Atualizações: um link para um comentário redireciona para a págin
 description: “Quando um usuário clica em um link para um comentário em um objeto no Workfront, o fluxo de atualização é carregado brevemente e, em seguida, é redirecionado para a área Detalhes do objeto. Isso pode ocorrer se o usuário clicar no link de um email ou colar o link em seu navegador.”
 hidefromtoc: true
 source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '132'
+ht-degree: 100%
 
 ---
 
