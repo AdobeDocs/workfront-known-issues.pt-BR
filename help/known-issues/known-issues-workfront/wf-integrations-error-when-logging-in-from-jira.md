@@ -3,9 +3,9 @@ title: '“Integrações: erro ao fazer logon no Workfront a partir do Jira”'
 description: “Quando um usuário tenta fazer logon no Workfront a partir do Jira usando a integração Workfront for Jira, a página não é carregada e um erro é exibido.”
 hidefromtoc: true
 source-git-commit: fa782bc69636c0ad4d65f1ce7b7f9493ef155af3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
