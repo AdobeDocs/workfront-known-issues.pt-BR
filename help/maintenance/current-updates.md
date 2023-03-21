@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
+source-git-commit: f736d2d5eef0e77c56f1993ea32c92a4c6f17cb1
 workflow-type: tm+mt
-source-wordcount: '2148'
-ht-degree: 88%
+source-wordcount: '2227'
+ht-degree: 94%
 
 ---
 
@@ -21,7 +21,17 @@ Para obter atualizações de manutenção anteriores a 2023, consulte [Atualiza�
 
 ## Atualizações em março de 2023
 
-+++**(Planejado) Atualização de manutenção em 16 de março de 2023**
++++**(Planejado) Atualização de manutenção em 23 de março de 2023**
+
+**[!UICONTROL Resumo] o conteúdo do painel é muito grande para o painel**
+
+_Documentos_
+
+Quando um usuário visualiza o painel [!UICONTROL Resumo] de um documento, seus conteúdos são muito largos para serem visualizados no painel. O painel agora tem uma barra de rolagem horizontal, e o usuário deve rolar horizontalmente para ver a variável [!UICONTROL Resumo] conteúdo do painel. Isso ocorre porque o nome do arquivo do documento não possui quebra de linha. Esse problema é limitado a arquivos em que o nome do arquivo tenha uma extensão de arquivo HTML.
+
++++
+
++++**Atualização de manutenção em 16 de março de 2023**
 
 **Itens da lista de verificação não copiados ao copiar um cartão**
 
@@ -33,19 +43,19 @@ Ao copiar um cartão ad hoc (os cartões conectados não podem ser copiados), os
 
 _Projetos_
 
-Quando um usuário converte um problema em um projeto usando um modelo, um campo personalizado que estava no problema não é exibido no projeto. Esse problema afeta apenas não administradores.
+Quando um usuário converte um problema em um projeto usando um modelo, um campo personalizado que estava no problema não é exibido no projeto. Esse problema afeta somente usuários não administradores.
 
 **Mensagens personalizadas que não aparecem em notificações por email**
 
 _Provas_
 
-Quando um usuário compartilha uma prova e adiciona uma mensagem personalizada, essa mensagem personalizada não aparece no email de notificação para o recipient. O assunto é o nome da prova e a mensagem não aparece no email.
+Quando um usuário compartilha uma prova e adiciona uma mensagem personalizada, ela não é exibida no email de notificação do destinatário. O assunto é o nome da prova e a mensagem não aparece no email.
 
 +++
 
 +++**Atualização de manutenção em 9 de março de 2023**
 
-**O nível de acesso não é atribuído ao reativar o usuário**
+**O nível de acesso não é atribuído ao reativar um usuário**
 
 _Usuários_
 
@@ -61,7 +71,7 @@ Agora, quando você navega para longe do [!UICONTROL Atualizações] página de 
 
 +++**Atualização de manutenção em 2 de março de 2023**
 
-**Não é possível adicionar cartões quando o agrupamento é aplicado**
+**Não é possível adicionar cartões quando um agrupamento é aplicado**
 
 _Quadros_
 
@@ -69,11 +79,11 @@ Quando um usuário está visualizando um quadro com um agrupamento aplicado e te
 
 Se o usuário altera o agrupamento para [!UICONTROL Nenhum], o problema permanece. O usuário deve alterar o agrupamento para [!UICONTROL Nenhum] e atualizar a página para que a funcionalidade de adicionar um cartão seja restaurada.
 
-**Cartões conectados não adicionados a colunas com base no status**
+**Os cartões conectados não são adicionados às colunas com base no status**
 
 _Quadros_
 
-Embora as políticas de coluna sejam aplicadas para o status , os novos cartões conectados são exibidos na coluna mais à esquerda e não na coluna que corresponde ao status.
+Mesmo que as políticas de coluna sejam aplicadas para o status, os novos cartões conectados aparecem na coluna mais à esquerda, e não na coluna que corresponde a seu status.
 
 
 **Vincular a um comentário redireciona para a página [!UICONTROL Detalhes]**
@@ -84,11 +94,11 @@ Quando um usuário clica em um link para um comentário em um objeto no Workfron
 
 Atualmente, isso afeta apenas objetos de Documento.
 
-**O Resumo de Impressão não é carregado**
+**O Resumo de impressão não é carregado**
 
 _[!UICONTROL Prova do Workfront]_
 
-Quando um usuário tenta carregar a página Imprimir resumo , a página parece estar carregando, mas nunca carrega.
+Quando um usuário tenta carregar a página Resumo de impressão, ela parece estar sendo carregada, mas o processo nunca é concluído.
 
 +++
 
