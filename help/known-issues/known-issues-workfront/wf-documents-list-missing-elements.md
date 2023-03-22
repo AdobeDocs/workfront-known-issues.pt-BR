@@ -2,10 +2,10 @@
 title: "Documentos: Problemas com a lista de documentos "
 description: "Este artigo descreve problemas recentes que foram relatados em relação à Lista de documentos."
 hidefromtoc: true
-source-git-commit: 9c7a9725ae2ebcc98415c19457db28b8074460a3
+source-git-commit: 9d76e762063f7922b1d47930a0aa0b7e812ae7f9
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 6%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 6%
 
 Os seguintes problemas foram relatados em relação à Lista de documentos:
 
-* Miniaturas não são exibidas
+* Miniaturas não são exibidas.
 * Se um usuário alternar a pasta selecionada na exibição em Lista, as opções Filtro, Exibição e Agrupamento não funcionarão mais.
 
 **Solução alternativa**
