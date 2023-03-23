@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f736d2d5eef0e77c56f1993ea32c92a4c6f17cb1
+source-git-commit: 3299691cd869897ca0049e11e79e5b6fc7675411
 workflow-type: tm+mt
-source-wordcount: '2227'
-ht-degree: 94%
+source-wordcount: '2297'
+ht-degree: 92%
 
 ---
 
@@ -21,13 +21,26 @@ Para obter atualizações de manutenção anteriores a 2023, consulte [Atualiza�
 
 ## Atualizações em março de 2023
 
-+++**(Planejado) Atualização de manutenção em 23 de março de 2023**
++++**Atualização de manutenção em 23 de março de 2023**
 
 **[!UICONTROL Resumo] o conteúdo do painel é muito grande para o painel**
 
 _Documentos_
 
 Quando um usuário visualiza o painel [!UICONTROL Resumo] de um documento, seus conteúdos são muito largos para serem visualizados no painel. O painel agora tem uma barra de rolagem horizontal, e o usuário deve rolar horizontalmente para ver a variável [!UICONTROL Resumo] conteúdo do painel. Isso ocorre porque o nome do arquivo do documento não possui quebra de linha. Esse problema é limitado a arquivos em que o nome do arquivo tenha uma extensão de arquivo HTML.
+
+**Nova versão do Visualizador de prova para desktop**
+
+_Prova_
+
+Para corrigir um problema de comentário no [!UICONTROL Exibição da prova de desktop]r, implantamos uma nova versão do visualizador de prova de desktop.
+
+Usuários que já têm o [!UICONTROL Visualizador de prova de desktop] instalado obterá esta atualização automaticamente.
+
+Os usuários também podem baixar manualmente a versão mais recente. Para obter mais informações, consulte [[!UICONTROL Instalar o Visualizador de prova para desktop]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html).
+
+* Versão anterior: 2.1.22
+* Nova versão: 2.1.23
 
 +++
 
