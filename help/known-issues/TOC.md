@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
-source-git-commit: 3d16be4546c171afb0cc9485a7b2d62ca8cba9d2
+source-git-commit: 861e0f3e69cf30e897315fa7f999ef5ac4cbee3a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1345'
+ht-degree: 88%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Provas: A ferramenta de medição não aceita pontos decimais](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
       + [Pesquisar: [!DNL Workfront] Tempo limite de pesquisa](known-issues-workfront/wf-search-search-times-out.md)
       + [Provas: Não é possível alternar a versão de prova ao exibir a prova](known-issues-workfront/wf-proofs-cannot-switch-version.md)
       + [Provas: Os menus suspensos não são abertos quando um usuário é adicionado a uma prova](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md)
