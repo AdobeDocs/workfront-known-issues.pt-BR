@@ -3,10 +3,10 @@ title: Problemas conhecidos na nova experiência do [!DNL Adobe Workfront]
 description: Problemas conhecidos reportados da nova experiência do  [!DNL Adobe Workfront]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: dc40136eb4343745d7e43b372c444df2022bb406
+source-git-commit: 3d16be4546c171afb0cc9485a7b2d62ca8cba9d2
 workflow-type: tm+mt
-source-wordcount: '624'
-ht-degree: 81%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -38,6 +38,9 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Pesquisar: [!DNL Workfront] Tempo limite de pesquisa](known-issues-workfront/wf-search-search-times-out.md) | 27 de março de 2023 |
+| [Provas: Não é possível alternar a versão de prova ao exibir a prova](known-issues-workfront/wf-proofs-cannot-switch-version.md) | 27 de março de 2023 |
+| [Provas: Os menus suspensos não são abertos quando um usuário é adicionado a uma prova](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md) | 27 de março de 2023 |
 | [Folhas de horas: a lista suspensa [!UICONTROL Tipo de Hora] não abre](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 23 de março de 2023 |
 | [Provas: O estágio de prova não é ativado quando o prazo de estágio anterior é ultrapassado](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 23 de março de 2023 |
 | [Provas: O usuário é desativado no workflow de prova e obtém &quot;[!UICONTROL Acesso não permitido]&quot; ao acessar prova](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md) | 23 de março de 2023 |

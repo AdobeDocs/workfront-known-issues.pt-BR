@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
-source-git-commit: 223ef5c3573b85981a91fabddc7c591116beb94e
+source-git-commit: 3d16be4546c171afb0cc9485a7b2d62ca8cba9d2
 workflow-type: tm+mt
-source-wordcount: '1312'
-ht-degree: 90%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,6 +16,9 @@ ht-degree: 90%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Pesquisar: [!DNL Workfront] Tempo limite de pesquisa](known-issues-workfront/wf-search-search-times-out.md)
+      + [Provas: Não é possível alternar a versão de prova ao exibir a prova](known-issues-workfront/wf-proofs-cannot-switch-version.md)
+      + [Provas: Os menus suspensos não são abertos quando um usuário é adicionado a uma prova](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md)
       + [Provas: O usuário é desativado no workflow de prova e obtém &quot;[!UICONTROL Acesso não permitido]&quot; ao acessar prova](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)
       + [Documentos: Problemas com a lista de documentos](known-issues-workfront/wf-documents-list-missing-elements.md)
       + [Provas: O estágio de prova não é ativado quando o prazo de estágio anterior é ultrapassado](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md)
