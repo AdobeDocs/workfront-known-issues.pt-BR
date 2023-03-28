@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 3299691cd869897ca0049e11e79e5b6fc7675411
+source-git-commit: c3a4e85589744be4d1b40a1074835dc6bd7a48a1
 workflow-type: tm+mt
-source-wordcount: '2297'
-ht-degree: 92%
+source-wordcount: '2379'
+ht-degree: 89%
 
 ---
 
@@ -20,6 +20,22 @@ As seguintes atualizações de manutenção foram efetuadas em 2023.
 Para obter atualizações de manutenção anteriores a 2023, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em março de 2023
+
++++**(Planejado) Atualização de manutenção em 23 de março de 2023**
+
+**Não é possível alternar a versão de prova ao exibir a prova**
+
+_Provas_
+
+Quando um usuário exibe uma prova na variável [!UICONTROL Visualizador de Provas]e alterna para outra versão, a lista suspensa de versão é desativada e o usuário não pode voltar para a versão original que estava visualizando ou para outra versão da prova.
+
+**Erro 504 ao exportar relatórios**
+
+_Relatórios_
+
+Quando um usuário tenta exportar um relatório com um número alto de itens, ele vê um erro 504 e não pode exportar o relatório.
+
++++
 
 +++**Atualização de manutenção em 23 de março de 2023**
 
