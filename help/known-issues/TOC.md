@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
-source-git-commit: c3a4e85589744be4d1b40a1074835dc6bd7a48a1
+source-git-commit: b1f0590a6e5beffa41144bfbb04a4020dfe31a24
 workflow-type: tm+mt
-source-wordcount: '1357'
-ht-degree: 87%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 87%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Projetos: [!UICONTROL Grupo Doméstico] status personalizado não disponível ao criar um projeto a partir de um modelo](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
       + [Provas: Não é possível usar a ferramenta Polyline ao fazer um comentário em uma prova](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md)
       + [Provas: A ferramenta de medição não aceita pontos decimais](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
       + [Pesquisar: [!DNL Workfront] Tempo limite de pesquisa](known-issues-workfront/wf-search-search-times-out.md)
