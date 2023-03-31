@@ -6,7 +6,7 @@ exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 source-git-commit: aad3b2765a83b265b6b356d44f1be6b4c21bcdba
 workflow-type: tm+mt
 source-wordcount: '327'
-ht-degree: 76%
+ht-degree: 78%
 
 ---
 
@@ -51,7 +51,7 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 | [Provas: A ferramenta de medição não aceita pontos decimais](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 27 de março de 2023 |
 | [Documentos: Erro 404 ao acessar documento vinculado a partir de [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 23 de março de 2023 |
 | [Documentos: Problemas com a lista de documentos](known-issues-workfront/wf-documents-list-missing-elements.md) | 23 de março de 2023 |
-| [[!DNL Workfront Proof]: As listas não são classificadas corretamente](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | 23 de março de 2023 |
+| [[!DNL Workfront Proof]: as listas não são classificadas corretamente](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | 23 de março de 2023 |
 | [Documentos: as permissões não são herdadas quando um documento é movido para um novo projeto](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 7 de março de 2023 |
 | A área do [[!DNL Workfront Proof]: [!UICONTROL Reports]  não é mais compatível.](known-issues-workfront-proof/proof-reports-analytics-not-working.md) | 1 de março de 2023 |
 | [Provas: o usuário não recebe um email ao ser marcado em um comentário de prova](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 23 de fevereiro de 2023 |

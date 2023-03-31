@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: b03ef9d21bfe75bea3a2df6b2420490c6ce22050
 workflow-type: tm+mt
 source-wordcount: '2423'
-ht-degree: 88%
+ht-degree: 92%
 
 ---
 
@@ -49,7 +49,7 @@ Quando um administrador está conectado como um usuário e faz um comentário, e
 
 _Documentos_
 
-Quando um usuário visualiza o painel [!UICONTROL Resumo] de um documento, seus conteúdos são muito largos para serem visualizados no painel. O painel agora tem uma barra de rolagem horizontal, e o usuário deve rolar horizontalmente para ver a variável [!UICONTROL Resumo] conteúdo do painel. Isso ocorre porque o nome do arquivo do documento não possui quebra de linha. Esse problema é limitado a arquivos em que o nome do arquivo tenha uma extensão de arquivo HTML.
+Quando um usuário visualiza o painel [!UICONTROL Resumo] de um documento, seus conteúdos são muito largos para serem visualizados no painel. O painel agora tem uma barra de rolagem horizontal, e o usuário deve rolar a barra horizontalmente para ver o conteúdo do painel [!UICONTROL Resumo]. Isso ocorre porque o nome do arquivo do documento não possui quebra de linha. Esse problema é limitado a arquivos em que o nome do arquivo tenha uma extensão de arquivo HTML.
 
 **Nova versão do Visualizador de prova para desktop**
 
@@ -68,19 +68,19 @@ Os usuários também podem baixar manualmente a versão mais recente. Para obter
 
 +++**Atualização de manutenção em 16 de março de 2023**
 
-**Itens da lista de verificação não copiados ao copiar um cartão**
+**Os itens da lista de verificação não são copiados ao copiar um cartão**
 
 _Quadros_
 
 Ao copiar um cartão ad hoc (os cartões conectados não podem ser copiados), os itens da lista de verificação não são copiados para o novo cartão.
 
-**O campo personalizado está ausente quando o problema é convertido em projeto**
+**O campo personalizado está ausente quando o problema é convertido para o projeto**
 
 _Projetos_
 
 Quando um usuário converte um problema em um projeto usando um modelo, um campo personalizado que estava no problema não é exibido no projeto. Esse problema afeta somente usuários não administradores.
 
-**Mensagens personalizadas que não aparecem em notificações por email**
+**Mensagens personalizadas não aparecem nas notificações por email**
 
 _Provas_
 
@@ -96,11 +96,11 @@ _Usuários_
 
 Quando um usuário está reativando um usuário desativado e tenta atribuir a ele um nível de acesso na janela [!UICONTROL Reativar usuário], a lista suspensa de nível de acesso não é preenchida conforme o usuário digita e ele não consegue selecionar um nível de acesso. Se o usuário digitar no nível de acesso e salvar, esse nível de acesso não será atribuído ao usuário reativado.
 
-**Salve o rascunho de um comentário na [!DNL Goals] area**
+**Salve o rascunho de um comentário na área [!DNL Goals]**
 
 _[!DNL Workfront Goals]_
 
-Agora, quando você navega para longe do [!UICONTROL Atualizações] página de uma meta enquanto estiver no meio da composição de uma mensagem, a mensagem será preservada quando você navegar de volta. Antes desta atualização, o comentário não enviado teria sido excluído.
+Agora, quando sair da página [!UICONTROL Atualizações] de uma meta enquanto durante a composição de uma mensagem, a mensagem será preservada para quando você retornar. Antes desta atualização, o comentário não enviado teria sido excluído.
 
 +++
 
@@ -181,11 +181,11 @@ A desativação programada de um usuário não ocorre ao chegar a data e hora pr
 
 +++**Atualização de manutenção em 9 de fevereiro de 2023**
 
-Adição do campo **[!UICONTROL Pontos da história] a listas de tarefas e problemas e relatórios**
+Adição do campo **[!UICONTROL Story Points] a listas de tarefas e problemas e relatórios**
 
 _Relatórios_
 
-O campo [!UICONTROL Pontos da história] agora está disponível para adicionar a listas e relatórios para tarefas ou problemas. É um campo de formulário gratuito editável que não está vinculado a horas planejadas ou atribuições de equipe.
+O campo [!UICONTROL Story Points] agora está disponível para adicionar a listas e relatórios para tarefas ou problemas. É um campo de formulário gratuito editável que não está vinculado a horas planejadas ou atribuições de equipe.
 
 +++
 

@@ -6,7 +6,7 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: aad3b2765a83b265b6b356d44f1be6b4c21bcdba
 workflow-type: tm+mt
 source-wordcount: '672'
-ht-degree: 76%
+ht-degree: 82%
 
 ---
 
@@ -28,8 +28,8 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | [Provas: Não é possível usar a ferramenta Polyline ao fazer um comentário em uma prova](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 28 de março de 2023 |
 | [Usuários: Nível de acesso alterado pelo sistema sem registro da alteração](known-issues-workfront/wf-users-access-level-is-changed.md) | 20 de março de 2023 |
 | [Documentos: [!UICONTROL Atividades de Verificação Linguística] opções levam à página de logon](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 17 de março de 2023 |
-| [[!UICONTROL Balanceador de Carga de Trabalho]: As horas não se ajustam à conta para o tempo limite do usuário](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md) | 13 de março de 2023 |
-| [[!UICONTROL Atualizações]: Não é possível registrar a hora do dia atual no [!UICONTROL Atualizações] area](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md) | 10 de março de 2023 |
+| [[!UICONTROL Balanceador de carga de trabalho]: as horas não se ajustam para levar em conta os horários de folga do usuário](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md) | 13 de março de 2023 |
+| [[!UICONTROL Atualizações]: não é possível registrar as horas do dia atual na área [!UICONTROL Atualizações]](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md) | 10 de março de 2023 |
 
 {style="table-layout:auto"}
 
@@ -45,8 +45,8 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | [Folhas de horas: a lista suspensa [!UICONTROL Tipo de Hora] não abre](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 23 de março de 2023 |
 | [Provas: O estágio de prova não é ativado quando o prazo de estágio anterior é ultrapassado](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 23 de março de 2023 |
 | [Provas: O usuário é desativado no workflow de prova e obtém &quot;[!UICONTROL Acesso não permitido]&quot; ao acessar prova](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md) | 23 de março de 2023 |
-| [Relatórios: A classificação por cabeçalho de coluna reverte para a classificação anterior](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 16 de março de 2023 |
-| [Filtros: O filtro não é aplicado quando a página é atualizada](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md) | 16 de março de 2023 |
+| [Relatórios: a classificação por cabeçalho de coluna reverte para a classificação anterior](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 16 de março de 2023 |
+| [Filtros: o filtro não é aplicado quando a página é atualizada](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md) | 16 de março de 2023 |
 | [Projetos: o projeto convertido do problema não herda permissões do portfólio ou programa](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 23 de fevereiro de 2023 |
 | Caso de suporte do [[!DNL Workfront]: Issues submitting a [!DNL Workfront] caso na Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 de agosto de 2022 |
 
