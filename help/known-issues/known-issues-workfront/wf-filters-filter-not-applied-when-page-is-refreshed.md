@@ -1,20 +1,20 @@
 ---
-title: "Filtros: O filtro não é aplicado quando a página é atualizada"
-description: "Quando um usuário está visualizando uma lista com um filtro aplicado, e atualiza a página, a página atualizada exibe resultados como se o filtro não tivesse sido aplicado."
+title: '“Filtros: o filtro não é aplicado quando a página é atualizada”'
+description: “Quando um usuário está visualizando uma lista com um filtro aplicado e atualiza a página, a página atualizada exibe resultados como se o filtro não tivesse sido aplicado.”
 hidefromtoc: true
 source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
 
-# Filtros: O filtro não é aplicado quando a página é atualizada
+# Filtros: o filtro não é aplicado quando a página é atualizada
 
-Quando um usuário está visualizando uma lista com um filtro aplicado, e atualiza a página, a página atualizada exibe resultados como se o filtro não tivesse sido aplicado.
+Quando um usuário está visualizando uma lista com um filtro aplicado e atualiza a página, a página atualizada exibe resultados como se o filtro não tivesse sido aplicado.
 
-Isso foi relatado na seguinte área:
+Esse problema foi relatado na seguinte área:
 
 * Projetos
 
@@ -22,5 +22,5 @@ Isso foi relatado na seguinte área:
 
 Remova e reaplique o filtro.
 
-_Reportado pela primeira vez em 13 de março de 2023._
+_Relatado pela primeira vez em 13 de março de 2023._
 
