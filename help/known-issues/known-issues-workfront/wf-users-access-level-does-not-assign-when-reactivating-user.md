@@ -3,9 +3,9 @@ title: '“Usuários: o nível de acesso não é atribuído ao reativar o usuár
 description: “Quando um usuário está reativando um usuário desativado e tenta atribuir a ele um nível de acesso na janela Reativar usuário, a lista suspensa de nível de acesso não é preenchida conforme o usuário digita e ele não consegue selecionar um nível de acesso. Se o usuário digitar no nível de acesso e salvar, esse nível de acesso não será atribuído ao usuário reativado.”
 hidefromtoc: true
 source-git-commit: d6935a9ad66633d64083f227def3b027349645b1
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '163'
+ht-degree: 100%
 
 ---
 
