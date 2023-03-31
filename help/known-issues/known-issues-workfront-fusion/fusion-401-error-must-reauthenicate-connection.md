@@ -1,12 +1,12 @@
 ---
-title: '[!DNL Workfront Fusion]: Falha ao verificar o erro de conexão'
-description: "As conexões do Workfront Fusion com uma conta do Workfront podem ter falha na autenticação, fazendo com que os cenários apresentem o seguinte erro: falha ao verificar a conexão."
+title: '“[!DNL Workfront Fusion]: erro Falha ao verificar a conexão”'
+description: '“As conexões do Workfront Fusion com uma conta do Workfront podem ter uma falha na autenticação, fazendo com que os cenários apresentem o seguinte erro: Falha ao verificar a conexão.”'
 hidefromtoc: true
 exl-id: 89b6331d-8e5e-4139-9359-0afa7be07d2f
 source-git-commit: ca969341423e373a94faa677729fc2dccd9453d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
