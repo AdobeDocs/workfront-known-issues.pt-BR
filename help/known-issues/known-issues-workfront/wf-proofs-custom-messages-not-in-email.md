@@ -3,7 +3,7 @@ title: '“Provas: mensagens personalizadas não aparecem nas notificações por
 description: “Quando um usuário compartilha uma prova e adiciona uma mensagem personalizada, ela não é exibida no email de notificação do destinatário. O assunto é o nome da prova e a mensagem não aparece no email.”
 hidefromtoc: true
 source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '104'
 ht-degree: 100%
 
