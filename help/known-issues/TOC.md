@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
-source-git-commit: b1f0590a6e5beffa41144bfbb04a4020dfe31a24
+source-git-commit: aad3b2765a83b265b6b356d44f1be6b4c21bcdba
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1377'
+ht-degree: 86%
 
 ---
 
@@ -142,6 +142,7 @@ ht-degree: 0%
 + [!DNL Workfront Proof] {#proof}
    + [Problemas conhecidos no [!DNL Workfront Proof]](workfrontproof.md)
    + Problemas atuais no [!DNL Workfront Proof] {#proof-current}
+      + [Provas: A caixa de opções de texto mostra &quot;textAnnotations&quot;](known-issues-workfront-proof/proof-text-shows-textannotation.md)
       + [[!DNL Workfront Proof]: As listas não são classificadas corretamente](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
       + [Provas: mensagens personalizadas não aparecem nas notificações por email](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md)
       + [[!DNL Workfront Proof]: a prova não é carregada ao usar o botão “[!UICONTROL Ir para a prova]” na notificação por email](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
