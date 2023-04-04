@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: b03ef9d21bfe75bea3a2df6b2420490c6ce22050
+source-git-commit: c914b0f7d3b0f3fea1f73baf16b29cfe3e09ea96
 workflow-type: tm+mt
-source-wordcount: '2423'
-ht-degree: 92%
+source-wordcount: '2493'
+ht-degree: 90%
 
 ---
 
@@ -19,9 +19,21 @@ As seguintes atualizações de manutenção foram efetuadas em 2023.
 
 Para obter atualizações de manutenção anteriores a 2023, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
+## Atualizações em abril de 2023
+
++++**Atualização de manutenção em 4 de abril de 2023**
+
+**Os detalhamentos não são abertos quando um usuário é adicionado a uma prova**
+
+_Provas_
+
+Quando um usuário adiciona outro usuário a uma prova na [!UICONTROL Visualizador de Provas], o &quot;[!UICONTROL Função de prova]&quot; e &quot;[!UICONTROL Alertas por email]&quot; não é possível abrir as listas suspensas. O usuário não pode atribuir um plano de prova ou alerta por email. Isso pode ocorrer ao adicionar um usuário por meio de um comentário ou ao compartilhar a prova com o usuário.
+
++++
+
 ## Atualizações em março de 2023
 
-+++**Atualização de manutenção em 23 de março de 2023**
++++**Atualização de manutenção em 30 de março de 2023**
 
 **Não é possível alternar a versão de prova ao exibir a prova**
 
