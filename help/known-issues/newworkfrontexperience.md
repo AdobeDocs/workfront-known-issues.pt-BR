@@ -3,10 +3,10 @@ title: Problemas conhecidos na nova experiência do [!DNL Adobe Workfront]
 description: Problemas conhecidos reportados da nova experiência do  [!DNL Adobe Workfront]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: c914b0f7d3b0f3fea1f73baf16b29cfe3e09ea96
+source-git-commit: f3a5fa9f863c670d56c8d8dea929065317dc21d1
 workflow-type: tm+mt
-source-wordcount: '692'
-ht-degree: 80%
+source-wordcount: '700'
+ht-degree: 79%
 
 ---
 
@@ -40,6 +40,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Formulários personalizados: Problemas em campos suspensos personalizados](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md) | 5 de abril de 2023 |
 | [Provas: Não é possível alternar entre provas em [!UICONTROL Visualizador de prova]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md) | 31 de março de 2023 |
 | [Projetos: [!UICONTROL Grupo Doméstico] status personalizado não disponível ao criar um projeto a partir de um modelo](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 de março de 2023 |
 | [Pesquisar: [!DNL Workfront] Tempo limite de pesquisa](known-issues-workfront/wf-search-search-times-out.md) | 27 de março de 2023 |

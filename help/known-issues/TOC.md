@@ -1,9 +1,9 @@
 ---
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
-source-git-commit: c914b0f7d3b0f3fea1f73baf16b29cfe3e09ea96
+source-git-commit: f3a5fa9f863c670d56c8d8dea929065317dc21d1
 workflow-type: tm+mt
-source-wordcount: '1395'
+source-wordcount: '1402'
 ht-degree: 88%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 88%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Formulários personalizados: Problemas em campos suspensos personalizados](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md)
       + [Provas: Não é possível alternar entre provas em [!UICONTROL Visualizador de prova]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)
       + [Usuários: Não é possível selecionar [!UICONTROL Tipo de hora padrão] ou [!UICONTROL Tipos de hora disponíveis]](known-issues-workfront/wf-user-cannot-select-hour-type.md)
       + [Projetos: [!UICONTROL Grupo Doméstico] status personalizado não disponível ao criar um projeto a partir de um modelo](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
