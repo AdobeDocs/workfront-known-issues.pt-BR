@@ -2,7 +2,7 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: ff0a984c4f9f2041f1e3f3d8da6432f6b1a6d499
+source-git-commit: bce9d44c3f96d260ebdeec8665d095e8963bc5d0
 workflow-type: tm+mt
 source-wordcount: '2573'
 ht-degree: 88%
@@ -34,6 +34,7 @@ Quando um usuário exibe uma lista de solicitações com um filtro aplicado, a l
 _Usuários_
 
 Quando um administrador está editando um usuário e tenta selecionar um [!UICONTROL Tipo de hora padrão] ou [!UICONTROL Tipo de hora disponível], eles verão que as listas suspensas para esses campos estão desativadas e que não podem selecionar tipos de hora.
+
 +++
 
 +++**Atualização de manutenção em 6 de abril de 2023**
