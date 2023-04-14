@@ -3,9 +3,9 @@ title: '“Prova do Workfront: as listas não são classificadas corretamente”
 description: “Quando um usuário exibe uma lista em uma prova do Workfront que tem uma classificação aplicada (como Nome), a classificação não é precisa.”
 hidefromtoc: true
 source-git-commit: b03ef9d21bfe75bea3a2df6b2420490c6ce22050
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '74'
+ht-degree: 100%
 
 ---
 
