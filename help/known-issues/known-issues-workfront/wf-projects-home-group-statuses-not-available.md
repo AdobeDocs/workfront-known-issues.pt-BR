@@ -1,22 +1,22 @@
 ---
-title: "Projetos: Status personalizados do grupo inicial não disponíveis ao criar um projeto a partir de um modelo"
+title: '“Projetos: os status personalizados do grupo inicial não estão disponíveis ao criar um projeto a partir de um modelo”'
 description: ""
 hidefromtoc: true
 source-git-commit: b1f0590a6e5beffa41144bfbb04a4020dfe31a24
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# Projetos: [!UICONTROL Grupo Doméstico] status personalizado não disponível ao criar um projeto a partir de um modelo
+# Projetos: os status personalizados do [!UICONTROL grupo inicial] não estão disponíveis ao criar um projeto a partir de um modelo
 
-Quando um usuário cria um projeto a partir de um modelo e o modelo não tem nenhum grupo associado a ele, os status personalizados associados ao [!UICONTROL Grupo Doméstico] não estão disponíveis no [!UICONTROL Status] lista suspensa do &quot;[!UICONTROL Criar projeto]&quot;.
+Quando um usuário cria um projeto a partir de um modelo e o modelo não tem nenhum grupo associado a ele, os status personalizados associados ao [!UICONTROL grupo inicial] do usuário não estão disponíveis na lista suspensa [!UICONTROL Status] da interface “[!UICONTROL Criar projeto]”.
 
 **Solução alternativa**
 
-Salve o projeto e edite o status. O [!UICONTROL Grupo Doméstico] os status personalizados ficam visíveis depois que o projeto é salvo.
+Salve o projeto e, em seguida, edite o status. Os status personalizados do [!UICONTROL grupo inicial] ficam visíveis depois que o projeto é salvo.
 
-_Reportado pela primeira vez em 30 de março de 2023._
+_Relatado pela primeira vez em 30 de março de 2023._
 
