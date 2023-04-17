@@ -3,10 +3,10 @@ title: Problemas conhecidos no [!DNL Adobe Workfront Proof]
 description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 893ddaa5154dc7dcb859c45241f85bb08c25d524
+source-git-commit: 174dff688f137feecb5f3c7ad6c67e66ab6c2388
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '337'
+ht-degree: 94%
 
 ---
 
@@ -35,6 +35,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Provas: [!UICONTROL Atividade de prova] guia abre [!UICONTROL Detalhes da prova]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md) | 17 de abril de 2023 |
 | [Provas: não é possível usar a ferramenta Polyline ao fazer um comentário em uma prova](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 6 de abril |
 | [Provas: a caixa de opções de texto mostra “textAnnotations”](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 6 de abril de 2023 |
 | [Provas: Não é possível alternar entre provas em [!UICONTROL Visualizador de prova]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md) | 31 de março de 2023 |
