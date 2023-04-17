@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: bce9d44c3f96d260ebdeec8665d095e8963bc5d0
+source-git-commit: 5291904cc6e086d8f943f2141874df944b64a7bd
 workflow-type: tm+mt
-source-wordcount: '2573'
-ht-degree: 88%
+source-wordcount: '2657'
+ht-degree: 93%
 
 ---
 
@@ -20,6 +20,16 @@ As seguintes atualizações de manutenção foram efetuadas em 2023.
 Para obter atualizações de manutenção anteriores a 2023, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em abril de 2023
+
++++**Atualização de manutenção em 17 de abril de 2023**
+
+**Mostrar novos comentários fora da área da tela visível no [!UICONTROL Atualizações] seção de problemas (novo comentário da experiência Beta) e [!UICONTROL Metas]**
+
+_Atualizações_
+
+Adicionamos um banner de notificação para a variável [!UICONTROL Atualizações] para informar os usuários quando houver comentários mais recentes em um item que pode estar fora da área visível na tela. Esta atualização está atualmente disponível na [!UICONTROL Atualizações] seção de metas e de problemas quando a nova experiência beta de comentário tiver sido ativada para problemas.
+
++++
 
 +++**Atualização de manutenção em 13 de abril de 2023**
 
@@ -43,7 +53,7 @@ Quando um administrador está editando um usuário e tenta selecionar um [!UICON
 
 _Provas_
 
-Quando um usuário adiciona outro usuário a uma prova na [!UICONTROL Visualizador de Provas], o &quot;[!UICONTROL Função de prova]&quot; e &quot;[!UICONTROL Alertas por email]&quot; não é possível abrir as listas suspensas. O usuário não pode atribuir um plano de prova ou alerta por email. Isso pode ocorrer ao adicionar um usuário por meio de um comentário ou ao compartilhar a prova com o usuário.
+Quando um usuário adiciona outro usuário a uma prova no [!UICONTROL Visualizador de prova], os menus suspensos “[!UICONTROL Função de prova]” e “[!UICONTROL Alertas por email]” não podem ser abertos. O usuário não consegue atribuir uma função de prova ou alerta de email. Isso pode ocorrer ao adicionar um usuário por meio de um comentário ou ao compartilhar a prova com o usuário.
 
 +++
 
@@ -51,43 +61,43 @@ Quando um usuário adiciona outro usuário a uma prova na [!UICONTROL Visualizad
 
 +++**Atualização de manutenção em 30 de março de 2023**
 
-**Não é possível alternar a versão de prova ao exibir a prova**
+**Não é possível alternar a versão da prova ao visualizar a prova**
 
 _Provas_
 
-Quando um usuário exibe uma prova na variável [!UICONTROL Visualizador de Provas]e alterna para outra versão, a lista suspensa de versão é desativada e o usuário não pode voltar para a versão original que estava visualizando ou para outra versão da prova.
+Quando um usuário visualiza uma prova no [!UICONTROL Visualizador de prova] e alterna para outra versão, a lista suspensa da versão é desativada e o usuário não consegue voltar para a versão original que estava visualizando ou para outra versão da prova.
 
 **Erro 504 ao exportar relatórios**
 
 _Relatórios_
 
-Quando um usuário tenta exportar um relatório com um número alto de itens, ele vê um erro 504 e não pode exportar o relatório.
+Quando um usuário tenta exportar um relatório com um número alto de itens, ele vê um erro 504 e não consegue exportar o relatório.
 
-**A atualização feita em nome de um usuário é exibida diretamente do usuário**
+**A atualização feita em nome de um usuário é vinculada diretamente ao usuário**
 
 _Atualizações_
 
-Quando um administrador está conectado como um usuário e faz um comentário, esse comentário é exibido diretamente do usuário, em vez do administrador, em nome do usuário.
+Quando um administrador está conectado como um usuário e faz um comentário, esse comentário é vinculado diretamente ao usuário, e não ao administrador em nome do usuário.
 
 +++
 
 +++**Atualização de manutenção em 23 de março de 2023**
 
-**[!UICONTROL Resumo] o conteúdo do painel é muito grande para o painel**
+O conteúdo do painel **[!UICONTROL Resumo] é muito largo para o painel**
 
 _Documentos_
 
 Quando um usuário visualiza o painel [!UICONTROL Resumo] de um documento, seus conteúdos são muito largos para serem visualizados no painel. O painel agora tem uma barra de rolagem horizontal, e o usuário deve rolar a barra horizontalmente para ver o conteúdo do painel [!UICONTROL Resumo]. Isso ocorre porque o nome do arquivo do documento não possui quebra de linha. Esse problema é limitado a arquivos em que o nome do arquivo tenha uma extensão de arquivo HTML.
 
-**Nova versão do Visualizador de prova para desktop**
+**Nova versão do [!UICONTROL Visualizador de prova para desktop**]
 
 _Prova_
 
-Para corrigir um problema de comentário no [!UICONTROL Exibição da prova de desktop]r, implantamos uma nova versão do visualizador de prova de desktop.
+Para corrigir um problema de comentário no [!UICONTROL Visualizador de prova para desktop], implantamos uma nova versão do visualizador.
 
-Usuários que já têm o [!UICONTROL Visualizador de prova de desktop] instalado obterá esta atualização automaticamente.
+Os usuários que já tiverem o [!UICONTROL Visualizador de prova para desktop] instalado receberão esta atualização automaticamente.
 
-Os usuários também podem baixar manualmente a versão mais recente. Para obter mais informações, consulte [[!UICONTROL Instalar o Visualizador de prova para desktop]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html).
+Os usuários também podem baixar manualmente a versão mais recente. Para obter mais informações, consulte [Instalar o [!UICONTROL Visualizador de prova para desktop]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=pt-BR).
 
 * Versão anterior: 2.1.22
 * Nova versão: 2.1.23
