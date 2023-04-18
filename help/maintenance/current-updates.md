@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 5291904cc6e086d8f943f2141874df944b64a7bd
+source-git-commit: 6cbbb738a49855fb2d0750ca4a8b4b21ba7a2f5b
 workflow-type: tm+mt
-source-wordcount: '2657'
-ht-degree: 93%
+source-wordcount: '2757'
+ht-degree: 92%
 
 ---
 
@@ -20,6 +20,25 @@ As seguintes atualizações de manutenção foram efetuadas em 2023.
 Para obter atualizações de manutenção anteriores a 2023, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em abril de 2023
+
++++**(Planejado) Atualização de manutenção em 20 de abril de 2023**
+
+**Problemas em campos suspensos personalizados**
+
+_Formulários personalizados_
+
+Campos suspensos personalizados ativados como campos de seleção múltipla podem exibir os seguintes problemas:
+
+* O &quot;+[!UICONTROL Adicionar]&quot; não está presente quando o formulário não está no modo de edição.
+* Os campos que não têm valores mostram um &quot;—[!UICONTROL sem rótulo]—&quot;.
+
+**A caixa de opções de texto mostra &quot;textAnnotations&quot;**
+
+_Provas_
+
+Quando um usuário visualiza uma prova, começa a adicionar um comentário e abre a ferramenta de texto, a palavra “textAnnotation” aparece ao lado das opções na ferramenta. A ferramenta de texto ainda funciona conforme o esperado, e “textAnnotation” desaparece após o comentário ser publicado.
+
++++
 
 +++**Atualização de manutenção em 17 de abril de 2023**
 
