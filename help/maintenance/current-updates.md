@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 6cbbb738a49855fb2d0750ca4a8b4b21ba7a2f5b
+source-git-commit: 92e59572387e45e24569a8b8781e8487ef848718
 workflow-type: tm+mt
-source-wordcount: '2757'
-ht-degree: 92%
+source-wordcount: '2859'
+ht-degree: 88%
 
 ---
 
@@ -37,6 +37,14 @@ Campos suspensos personalizados ativados como campos de seleção múltipla pode
 _Provas_
 
 Quando um usuário visualiza uma prova, começa a adicionar um comentário e abre a ferramenta de texto, a palavra “textAnnotation” aparece ao lado das opções na ferramenta. A ferramenta de texto ainda funciona conforme o esperado, e “textAnnotation” desaparece após o comentário ser publicado.
+
+## Manter imagens como rascunho ao afastar-se de uma atualização para metas e problemas na experiência beta de comentário
+
+>[!NOTE]
+>
+>Esse recurso foi lançado na Visualização em 19 de abril de 2023. Ele será lançado para produção em 20 de abril de 2023.
+
+Agora, quando você navega para longe da página Atualizações enquanto está no meio da composição de uma mensagem onde você anexou uma imagem, a mensagem e a imagem são preservadas quando você navega de volta. Antes desta atualização, o comentário não enviado era preservado, mas a imagem era excluída. Isso está disponível na seção Atualizações para metas e em problemas ao ativar a experiência beta de comentário.
 
 +++
 
