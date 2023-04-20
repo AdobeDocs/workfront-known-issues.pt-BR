@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 92e59572387e45e24569a8b8781e8487ef848718
+source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
 workflow-type: tm+mt
-source-wordcount: '2859'
-ht-degree: 88%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -32,6 +32,12 @@ Campos suspensos personalizados ativados como campos de seleção múltipla pode
 * O &quot;+[!UICONTROL Adicionar]&quot; não está presente quando o formulário não está no modo de edição.
 * Os campos que não têm valores mostram um &quot;—[!UICONTROL sem rótulo]—&quot;.
 
+**Não é possível usar a ferramenta Polyline ao fazer um comentário em uma prova**
+
+_Provas_
+
+Quando um usuário visualiza uma prova no Visualizador de prova e tenta fazer um comentário usando a ferramenta Polyline, a ferramenta não marca a prova.
+
 **A caixa de opções de texto mostra &quot;textAnnotations&quot;**
 
 _Provas_
@@ -42,9 +48,17 @@ Quando um usuário visualiza uma prova, começa a adicionar um comentário e abr
 
 >[!NOTE]
 >
->Esse recurso foi lançado na Visualização em 19 de abril de 2023. Ele será lançado para produção em 20 de abril de 2023.
+>Esse recurso foi lançado na Visualização em 19 de abril de 2023. A produção será lançada em breve.
+
+_Atualizações_
 
 Agora, quando você navega para longe da página Atualizações enquanto está no meio da composição de uma mensagem onde você anexou uma imagem, a mensagem e a imagem são preservadas quando você navega de volta. Antes desta atualização, o comentário não enviado era preservado, mas a imagem era excluída. Isso está disponível na seção Atualizações para metas e em problemas ao ativar a experiência beta de comentário.
+
+**Nível de acesso alterado pelo sistema sem registro da alteração**
+
+_Usuários_
+
+O nível de acesso de um usuário pode ser alterado imprevisivelmente pelo sistema. Quando isso ocorre, não há atualização visível e a alteração não aparece no log de auditoria.
 
 +++
 
