@@ -2,15 +2,19 @@
 title: "Formulários personalizados: Problemas em campos suspensos personalizados"
 description: "Os campos suspensos personalizados que são ativados como campos de seleção múltipla podem exibir os problemas."
 hidefromtoc: true
-source-git-commit: f3a5fa9f863c670d56c8d8dea929065317dc21d1
+source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 11%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # Formulários personalizados: Problemas em campos suspensos personalizados
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em 20 de abril de 2023.
 
 Campos suspensos personalizados ativados como campos de seleção múltipla podem exibir os seguintes problemas:
 
