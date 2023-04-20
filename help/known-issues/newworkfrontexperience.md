@@ -3,10 +3,10 @@ title: Problemas conhecidos na nova experiência do [!DNL Adobe Workfront]
 description: Problemas conhecidos reportados da nova experiência do  [!DNL Adobe Workfront]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 174dff688f137feecb5f3c7ad6c67e66ab6c2388
+source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
 workflow-type: tm+mt
-source-wordcount: '672'
-ht-degree: 92%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -35,11 +35,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
 | [Provas: [!UICONTROL Atividade de prova] guia abre [!UICONTROL Detalhes da prova]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md) | 17 de abril de 2023 |
-| [Usuários: nível de acesso alterado pelo sistema sem registro da alteração](known-issues-workfront/wf-users-access-level-is-changed.md) | 13 de abril de 2023 |
 | [Modelos: Não é possível selecionar modelo de [!UICONTROL Modelos favoritos]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 12 de abril de 2023 |
-| [Provas: não é possível usar a ferramenta Polyline ao fazer um comentário em uma prova](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 6 de abril de 2023 |
-| [Provas: a caixa de opções de texto mostra “textAnnotations”](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 6 de abril de 2023 |
-| [Formulários personalizados: Problemas em campos suspensos personalizados](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md) | 5 de abril de 2023 |
 | [Provas: Não é possível alternar entre provas em [!UICONTROL Visualizador de prova]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md) | 31 de março de 2023 |
 | [Projetos: os status personalizados do [!UICONTROL grupo inicial] não estão disponíveis ao criar um projeto a partir de um modelo](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 de março de 2023 |
 | [Pesquisa: [!DNL Workfront] a pesquisa atinge o tempo limite](known-issues-workfront/wf-search-search-times-out.md) | 27 de março de 2023 |
