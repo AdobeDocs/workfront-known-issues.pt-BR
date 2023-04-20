@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
+source-git-commit: 64c3ac3656a8caf38a224bf092c9e755b04fc179
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '3021'
+ht-degree: 86%
 
 ---
 
@@ -44,15 +44,25 @@ _Provas_
 
 Quando um usuário visualiza uma prova, começa a adicionar um comentário e abre a ferramenta de texto, a palavra “textAnnotation” aparece ao lado das opções na ferramenta. A ferramenta de texto ainda funciona conforme o esperado, e “textAnnotation” desaparece após o comentário ser publicado.
 
-## Manter imagens como rascunho ao afastar-se de uma atualização para metas e problemas na experiência beta de comentário
+**Manter imagens como rascunho ao afastar-se de uma atualização para metas e problemas na experiência beta de comentário**
 
 >[!NOTE]
 >
->Esse recurso foi lançado na Visualização em 19 de abril de 2023. A produção será lançada em breve.
+>Esse recurso foi lançado na Preview em 19 de abril de 2023 e foi lançado para produção em 20 de abril de 2023.
 
 _Atualizações_
 
 Agora, quando você navega para longe da página Atualizações enquanto está no meio da composição de uma mensagem onde você anexou uma imagem, a mensagem e a imagem são preservadas quando você navega de volta. Antes desta atualização, o comentário não enviado era preservado, mas a imagem era excluída. Isso está disponível na seção Atualizações para metas e em problemas ao ativar a experiência beta de comentário.
+
+**Atualizações em tempo real e comentários excluídos na seção Atualizações**
+
+>[!NOTE]
+>
+>Esse recurso foi lançado na Preview em 19 de abril de 2023 e foi lançado para produção em 20 de abril de 2023.
+
+_Atualizações_
+
+Agora, quando alguém adiciona um comentário ou resposta ou exclui um comentário da área Atualizações, você pode ver o novo comentário ou uma indicação de que o comentário foi removido em tempo real, sem atraso. Isso está disponível na seção Atualizações para metas e em problemas ao ativar a experiência beta de comentário.
 
 **Nível de acesso alterado pelo sistema sem registro da alteração**
 
