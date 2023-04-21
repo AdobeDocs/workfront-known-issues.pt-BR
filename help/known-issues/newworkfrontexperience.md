@@ -3,7 +3,7 @@ title: Problemas conhecidos na nova experiência do [!DNL Adobe Workfront]
 description: Problemas conhecidos reportados da nova experiência do  [!DNL Adobe Workfront]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 3022b08896b3bb467210597e0c7bd6c4688fdbe6
+source-git-commit: 84a36d6747a47a6e0884eb053b16f5e6dbfb9c20
 workflow-type: tm+mt
 source-wordcount: '641'
 ht-degree: 91%
@@ -26,7 +26,6 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | -----------------------------------------------------------------| ----------------- |
 | [Provas: As aprovações de prova bloqueadas ainda são mostradas na Lista de Trabalho](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 21 de abril de 2023 |
 | [[!UICONTROL Planejador de recursos]: Não é possível salvar após o tempo de adição](known-issues-workfront/wf-resource-planner-cannot-save-time.md) | 20 de abril de 2023 |
-| [Documentos: as opções das [!UICONTROL Atividades de prova] levam à página de logon](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 17 de março de 2023 |
 
 {style="table-layout:auto"}
 
@@ -55,7 +54,8 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Pesquisa: a pesquisa do  [!DNL Workfront]  atinge o tempo limite](known-issues-workfront/wf-search-search-times-out.md) | 13 de abril de 2023 |
+| [Documentos: as opções das [!UICONTROL Atividades de prova] levam à página de logon](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 21 de abril de 2023 |
+| [Pesquisa: [!DNL Workfront] a pesquisa atinge o tempo limite](known-issues-workfront/wf-search-search-times-out.md) | 13 de abril de 2023 |
 | [Filtros: Não é possível compartilhar um filtro de um relatório em um painel](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md) | 11 de abril de 2023 |
 | [Provas: a ferramenta de medição não aceita pontos decimais](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 27 de março de 2023 |
 | [Documentos: erro 404 ao acessar um documento vinculado no  [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 23 de março de 2023 |
