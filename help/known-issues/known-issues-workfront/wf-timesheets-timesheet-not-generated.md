@@ -1,9 +1,9 @@
 ---
 title: '“Folhas de horas: a folha de horas não é gerada”'
-description: “As folhas de horas não são geradas apesar das configurações de perfil da folha de horas.
+description: “As folhas de horas não são geradas apesar das configurações de perfil da folha de horas.“
 hidefromtoc: true
-source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
-workflow-type: ht
+source-git-commit: 67d7e907af995a40ecad3792584ebf8768ad4570
+workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 100%
 

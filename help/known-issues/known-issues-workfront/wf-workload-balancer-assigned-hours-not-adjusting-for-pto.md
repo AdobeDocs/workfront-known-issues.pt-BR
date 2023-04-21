@@ -1,11 +1,11 @@
 ---
 title: '“Balanceador de carga de trabalho: as horas não se ajustam para levar em conta os horários de folga do usuário”'
-description: “Se um usuário programar um horário de folga e tiver tarefas atribuídas, o Balanceador de carga de trabalho não atualizará a linha do tempo para levar em conta o horário de folga. Em vez disso, o Balanceador de carga de trabalho mostrará que o usuário está superalocado nos dias que programou para a folga. Para ajustar as horas, o administrador deve entrar no projeto e recalcular a linha do tempo.
+description: “Se um usuário programar um horário de folga e tiver tarefas atribuídas, o Balanceador de carga de trabalho não atualizará a linha do tempo para levar em conta o horário de folga. Em vez disso, o Balanceador de carga de trabalho mostrará que o usuário está superalocado nos dias que programou para a folga. Para ajustar as horas, o administrador deve entrar no projeto e recalcular a linha do tempo.“
 hidefromtoc: true
-source-git-commit: f89ebb0b007f8c0c8fdc678f2b8933c5f4fb585b
+source-git-commit: 67d7e907af995a40ecad3792584ebf8768ad4570
 workflow-type: tm+mt
-source-wordcount: '149'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
