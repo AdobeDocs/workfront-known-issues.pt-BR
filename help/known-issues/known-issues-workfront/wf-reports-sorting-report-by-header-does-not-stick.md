@@ -3,9 +3,9 @@ title: '“Relatórios: a classificação por cabeçalho de coluna reverte para 
 description: “Quando um usuário tenta classificar um relatório clicando em um cabeçalho de coluna, o relatório é classificado de acordo com a coluna, mas é revertido rapidamente para a classificação anterior.”
 hidefromtoc: true
 source-git-commit: 893ddaa5154dc7dcb859c45241f85bb08c25d524
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '93'
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Esse problema foi corrigido em 6 de abril de 2023.
+>O problema foi corrigido em 6 de abril de 2023.
 
 Quando um usuário tenta classificar um relatório clicando em um cabeçalho de coluna, o relatório é classificado de acordo com a coluna, mas é revertido rapidamente para a classificação anterior.
 
