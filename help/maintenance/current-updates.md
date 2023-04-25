@@ -2,7 +2,7 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 3466245b95c2ab8b6206eec7f42f9bed0b68e325
+source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -20,6 +20,26 @@ As seguintes atualizações de manutenção foram efetuadas em 2023.
 Para obter atualizações de manutenção anteriores a 2023, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em abril de 2023
+
++++**(Planejado) Atualização de manutenção em 27 de abril de 2023**
+
+**Não é possível alternar entre provas em [!UICONTROL Visualizador de prova]**
+
+_Provas_
+
+Quando um usuário exibe uma prova na variável [!UICONTROL Visualizador de Provas]e alternar para outra prova, o botão de prova do switch ficará sem resposta. O usuário não pode voltar para a prova original que estava visualizando ou para outra prova.
+
++++
+
++++**[!DNL Adobe Workfront Fusion]Atualização de manutenção em 25 de abril de 2023**
+
+ Os links de ajuda no aplicativo do **[!DNL Fusion]não abrem páginas de ajuda específicas**
+
+_[!DNL Workfront Fusion]_
+
+Quando um usuário exibe uma prova na variável [!UICONTROL Visualizador de Provas]e alternar para outra prova, o botão de prova do switch ficará sem resposta. O usuário não pode voltar para a prova original que estava visualizando ou para outra prova.
+
++++
 
 +++**Atualização de manutenção em 20 de abril de 2023**
 

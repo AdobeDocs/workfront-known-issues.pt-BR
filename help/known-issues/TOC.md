@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
-source-git-commit: 3022b08896b3bb467210597e0c7bd6c4688fdbe6
+source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
 workflow-type: tm+mt
-source-wordcount: '1454'
-ht-degree: 94%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Folhas de horas: O filtro não é aplicado quando a página é atualizada](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)
       + [Provas: As aprovações de prova bloqueadas ainda são mostradas na Lista de Trabalho](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
       + [[!UICONTROL Planejador de recursos]: Não é possível salvar após o tempo de adição](known-issues-workfront/wf-resource-planner-cannot-save-time.md)
       + [Provas: [!UICONTROL Atividade de prova] guia abre [!UICONTROL Detalhes da prova]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
