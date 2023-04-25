@@ -1,20 +1,20 @@
 ---
-title: "Provas: Os detalhamentos não são abertos quando um usuário é adicionado a uma prova"
+title: '“Provas: os menus suspensos não são abertos quando um usuário é adicionado a uma prova”'
 description: “Quando um usuário adiciona outro usuário a uma prova no Visualizador de prova, os menus suspensos Função de prova e Alertas de email não podem ser abertos. O usuário não consegue atribuir uma função de prova ou alerta de email. Isso pode ocorrer ao adicionar um usuário por meio de um comentário ou ao compartilhar a prova com o usuário.”
 hidefromtoc: true
 source-git-commit: 29ac6a3f35892297665f7841cb74ab2d4d824e5b
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '136'
+ht-degree: 100%
 
 ---
 
 
-# Provas: Os detalhamentos não são abertos quando um usuário é adicionado a uma prova
+# Provas: os menus suspensos não são abertos quando um usuário é adicionado a uma prova
 
 >[!NOTE]
 >
->Esse problema foi corrigido em 6 de abril de 2023.
+>O problema foi corrigido em 6 de abril de 2023.
 
 <!--This article is on WF and WFP TOCs-->
 
