@@ -4,8 +4,8 @@ description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '3123'
+ht-degree: 90%
 
 ---
 
@@ -27,7 +27,7 @@ Para obter atualizações de manutenção anteriores a 2023, consulte [Atualiza�
 
 _Provas_
 
-Quando um usuário exibe uma prova na variável [!UICONTROL Visualizador de Provas]e alternar para outra prova, o botão de prova do switch ficará sem resposta. O usuário não pode voltar para a prova original que estava visualizando ou para outra prova.
+Quando um usuário visualiza uma prova no [!UICONTROL Visualizador de prova] e alterna para outra prova, o botão de alternância para de responder. O usuário não consegue voltar para a prova original que estava visualizando ou para outra prova.
 
 +++
 
@@ -37,7 +37,7 @@ Quando um usuário exibe uma prova na variável [!UICONTROL Visualizador de Prov
 
 _[!DNL Workfront Fusion]_
 
-Quando um usuário exibe uma prova na variável [!UICONTROL Visualizador de Provas]e alternar para outra prova, o botão de prova do switch ficará sem resposta. O usuário não pode voltar para a prova original que estava visualizando ou para outra prova.
+Quando um usuário visualiza uma prova no [!UICONTROL Visualizador de prova] e alterna para outra prova, o botão de alternância para de responder. O usuário não consegue voltar para a prova original que estava visualizando ou para outra prova.
 
 +++
 
@@ -47,10 +47,10 @@ Quando um usuário exibe uma prova na variável [!UICONTROL Visualizador de Prov
 
 _Formulários personalizados_
 
-Campos suspensos personalizados ativados como campos de seleção múltipla podem exibir os seguintes problemas:
+Campos suspensos personalizados que foram habilitados como campos de seleção múltipla podem exibir os seguintes problemas:
 
-* O &quot;+[!UICONTROL Adicionar]&quot; não está presente quando o formulário não está no modo de edição.
-* Os campos que não têm valores mostram um &quot;—[!UICONTROL sem rótulo]—&quot;.
+* O botão “+[!UICONTROL Adicionar]” não está presente quando o formulário não está no modo de edição.
+* Campos sem valor mostram uma opção “--[!UICONTROL sem rótulo]--”.
 
 **Não é possível usar a ferramenta Polyline ao fazer um comentário em uma prova**
 
@@ -108,19 +108,19 @@ Adicionamos um banner de notificação para a variável [!UICONTROL Atualizaçõ
 
 _Solicitações_
 
-Quando um usuário exibe uma lista de solicitações com um filtro aplicado, a lista inclui solicitações que o filtro deve excluir.
+Quando um usuário visualiza uma lista de solicitações com um filtro aplicado, a lista inclui solicitações que o filtro deveria excluir.
 
-**Não é possível selecionar [!UICONTROL Tipo de hora padrão] ou [!UICONTROL Tipos de hora disponíveis]**
+**Não é possível selecionar o [!UICONTROL Tipo de hora padrão] ou [!UICONTROL Tipos de hora disponíveis]**
 
 _Usuários_
 
-Quando um administrador está editando um usuário e tenta selecionar um [!UICONTROL Tipo de hora padrão] ou [!UICONTROL Tipo de hora disponível], eles verão que as listas suspensas para esses campos estão desativadas e que não podem selecionar tipos de hora.
+Quando um administrador edita um usuário e tenta selecionar um [!UICONTROL Tipo de hora padrão] ou [!UICONTROL Tipo de hora disponível], os menus suspensos desses campos são desabilitados e não é possível selecionar os tipos de hora.
 
 +++
 
 +++**Atualização de manutenção em 6 de abril de 2023**
 
-**Os detalhamentos não são abertos quando um usuário é adicionado a uma prova**
+**Os menus suspensos não são abertos quando um usuário é adicionado a uma prova**
 
 _Provas_
 

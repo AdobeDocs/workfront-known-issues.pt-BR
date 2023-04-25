@@ -1,32 +1,31 @@
 ---
-title: "Formulários personalizados: Problemas em campos suspensos personalizados"
-description: "Os campos suspensos personalizados que são ativados como campos de seleção múltipla podem exibir os problemas."
+title: 'Formulários personalizados: problemas em campos suspensos personalizados'
+description: Campos suspensos personalizados ativados como campos de seleção múltipla podem exibir os problemas.
 hidefromtoc: true
-source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
+exl-id: 9dbada55-672a-4afa-b4a5-2b9cda9c0e86
+source-git-commit: a9e0c0cc9bd1d69b22fcf9ef755a715d37ba658d
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '95'
+ht-degree: 86%
 
 ---
 
-
-# Formulários personalizados: Problemas em campos suspensos personalizados
+# Formulários personalizados: problemas em campos suspensos personalizados
 
 >[!NOTE]
 >
->Esse problema foi corrigido em 20 de abril de 2023.
+>O problema foi corrigido em 20 de abril de 2023.
 
-Campos suspensos personalizados ativados como campos de seleção múltipla podem exibir os seguintes problemas:
+Campos suspensos personalizados que foram habilitados como campos de seleção múltipla podem exibir os seguintes problemas:
 
-* O &quot;+[!UICONTROL Adicionar]&quot; não está presente quando o formulário não está no modo de edição.
-* Os campos que não têm valores mostram um &quot;—[!UICONTROL sem rótulo]—&quot;.
+* O botão “+[!UICONTROL Adicionar]” não está presente quando o formulário não está no modo de edição.
+* Campos sem valor mostram uma opção “--[!UICONTROL sem rótulo]--”.
 
 **Solução alternativa**
 
 Siga um destes procedimentos:
 
-* Remova a opção para que o campo seja selecionado várias vezes.
+* Remova a opção de seleção múltipla do campo.
 * Defina um valor padrão.
 
 _Relatado pela primeira vez em 30 de março de 2023._
-
