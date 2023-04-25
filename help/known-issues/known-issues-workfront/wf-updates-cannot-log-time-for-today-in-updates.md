@@ -3,7 +3,7 @@ title: '“Atualizações: não é possível registrar as horas do dia atual na 
 description: “Quando um usuário tenta registrar as horas do dia atual na área Atualizações, o dia atual fica esmaecido e não é possível digitar a hora.”
 hidefromtoc: true
 source-git-commit: f89ebb0b007f8c0c8fdc678f2b8933c5f4fb585b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
 ht-degree: 100%
 
