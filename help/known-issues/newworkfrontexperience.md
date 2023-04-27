@@ -3,10 +3,10 @@ title: Problemas conhecidos na nova experiência do [!DNL Adobe Workfront]
 description: Problemas conhecidos reportados da nova experiência do  [!DNL Adobe Workfront]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
+source-git-commit: b0f3e9f359165f6d0900bbdb4ba5fa57cf43cffb
 workflow-type: tm+mt
-source-wordcount: '642'
-ht-degree: 95%
+source-wordcount: '634'
+ht-degree: 96%
 
 ---
 
@@ -26,7 +26,6 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | -----------------------------------------------------------------| ----------------- |
 | [Folhas de horas: O filtro não é aplicado quando a página é atualizada](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md) | 25 de abril de 2023 |
 | [Provas: As aprovações de prova bloqueadas ainda são mostradas na Lista de Trabalho](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 21 de abril de 2023 |
-| [[!UICONTROL Planejador de recursos]: Não é possível salvar após o tempo de adição](known-issues-workfront/wf-resource-planner-cannot-save-time.md) | 20 de abril de 2023 |
 
 {style="table-layout:auto"}
 
