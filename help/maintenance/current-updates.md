@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
+source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
 workflow-type: tm+mt
-source-wordcount: '3123'
-ht-degree: 90%
+source-wordcount: '3167'
+ht-degree: 89%
 
 ---
 
@@ -21,13 +21,19 @@ Para obter atualizações de manutenção anteriores a 2023, consulte [Atualiza�
 
 ## Atualizações em abril de 2023
 
-+++**(Planejado) Atualização de manutenção em 27 de abril de 2023**
++++**Atualização de manutenção em 27 de abril de 2023**
 
 **Não é possível alternar entre provas em [!UICONTROL Visualizador de prova]**
 
 _Provas_
 
 Quando um usuário visualiza uma prova no [!UICONTROL Visualizador de prova] e alterna para outra prova, o botão de alternância para de responder. O usuário não consegue voltar para a prova original que estava visualizando ou para outra prova.
+
+**Editar imagens anexadas ao editar um comentário**
+
+_Atualizações_
+
+Agora é possível editar a imagem anexada a um comentário ao editar um comentário. Isso está disponível na seção Atualizações para Metas do Workfront e no caso de problemas ao ativar a experiência beta de comentário.
 
 +++
 

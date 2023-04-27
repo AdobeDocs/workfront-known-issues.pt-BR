@@ -3,10 +3,10 @@ title: Problemas conhecidos no [!DNL Adobe Workfront Proof]
 description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 84a36d6747a47a6e0884eb053b16f5e6dbfb9c20
+source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
 workflow-type: tm+mt
-source-wordcount: '320'
-ht-degree: 94%
+source-wordcount: '316'
+ht-degree: 93%
 
 ---
 
@@ -24,6 +24,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Proof]: A pesquisa não retorna resultados](known-issues-workfront-proof/proof-search-returns-no-results.md) | 27 de abril de 2023 |
 | [Provas: As aprovações de prova bloqueadas ainda são mostradas na Lista de Trabalho](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 21 de abril de 2023 |
 
 {style="table-layout:auto"}
@@ -35,7 +36,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
 | [Provas: [!UICONTROL Atividade de prova] guia abre [!UICONTROL Detalhes da prova]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md) | 17 de abril de 2023 |
-| [Provas: não é possível alternar entre provas no [!UICONTROL Visualizador de prova]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md) | 31 de março de 2023 |
 | [Provas: o estágio da prova não é ativado quando o prazo do estágio anterior é ultrapassado](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 23 de março de 2023 |
 | [[!DNL Workfront Proof] API: erro “[!UICONTROL Corpo não é um XML válido]”](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 20 de janeiro de 2023 |
 

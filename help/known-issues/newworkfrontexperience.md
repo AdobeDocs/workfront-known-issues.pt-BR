@@ -3,9 +3,9 @@ title: Problemas conhecidos na nova experiência do [!DNL Adobe Workfront]
 description: Problemas conhecidos reportados da nova experiência do  [!DNL Adobe Workfront]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
+source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
 workflow-type: tm+mt
-source-wordcount: '651'
+source-wordcount: '642'
 ht-degree: 95%
 
 ---
@@ -38,7 +38,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | -----------------------------------------------------------------| ----------------- |
 | [Provas: [!UICONTROL Atividade de prova] guia abre [!UICONTROL Detalhes da prova]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md) | 17 de abril de 2023 |
 | [Modelos: não é possível selecionar um modelo dos [!UICONTROL Modelos favoritos]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 12 de abril de 2023 |
-| [Provas: não é possível alternar entre provas no [!UICONTROL Visualizador de prova]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md) | 31 de março de 2023 |
 | [Projetos: os status personalizados do [!UICONTROL grupo inicial] não estão disponíveis ao criar um projeto a partir de um modelo](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 de março de 2023 |
 | [Pesquisa: [!DNL Workfront] a pesquisa atinge o tempo limite](known-issues-workfront/wf-search-search-times-out.md) | 27 de março de 2023 |
 | [Provas: o estágio da prova não é ativado quando o prazo do estágio anterior é ultrapassado](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 23 de março de 2023 |

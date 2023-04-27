@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
-source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
+source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1467'
+ht-degree: 97%
 
 ---
 
@@ -152,6 +152,7 @@ ht-degree: 0%
 + [!DNL Workfront Proof] {#proof}
    + [Problemas conhecidos no [!DNL Workfront Proof]](workfrontproof.md)
    + Problemas atuais no [!DNL Workfront Proof] {#proof-current}
+      + [[!DNL Workfront Proof]: A pesquisa não retorna resultados](known-issues-workfront-proof/proof-search-returns-no-results.md)
       + [Provas: a caixa de opções de texto mostra “textAnnotations”](known-issues-workfront-proof/proof-text-shows-textannotation.md)
       + [[!DNL Workfront Proof]: as listas não são classificadas corretamente](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
       + [Provas: mensagens personalizadas não aparecem nas notificações por email](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md)
