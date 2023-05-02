@@ -1,16 +1,18 @@
 ---
-title: '“Filtros: não é possível compartilhar um filtro de um relatório em um painel”'
-description: “Quando um usuário visualiza um relatório em um painel e tenta compartilhar um filtro desse relatório, ele não consegue compartilhar o filtro. Ao clicar nos três pontos, o painel vai para o próximo relatório e, quando o usuário rola de volta para o relatório desejado, a opção Compartilhar não está disponível.”
+title: 'Filtros: não é possível compartilhar um filtro de um relatório em um painel'
+description: Quando um usuário visualiza um relatório em um painel e tenta compartilhar um filtro desse relatório, ele não consegue compartilhar o filtro. Ao clicar nos três pontos, o painel vai para o próximo relatório e, quando o usuário rola de volta para o relatório desejado, a opção Compartilhar não está disponível.
 hidefromtoc: true
-source-git-commit: ddce44ac49df4795b17195a8672e4240945398be
-workflow-type: ht
+exl-id: 50c3f5c8-f4ba-4447-bfc8-5cdd56cc43b0
+source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
+workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 100%
 
 ---
 
-
 # Filtros: não é possível compartilhar um filtro de um relatório em um painel
+
+<!--Valid issue, won't fix-->
 
 Quando um usuário visualiza um relatório em um painel e tenta compartilhar um filtro desse relatório, ele não consegue compartilhar o filtro. Ao clicar nos três pontos, o painel vai para o próximo relatório e, quando o usuário rola de volta para o relatório desejado, a opção [!UICONTROL Compartilhar] não está disponível.
 
@@ -23,4 +25,3 @@ Siga um destes procedimentos:
 * Compartilhe o filtro a partir da área [!UICONTROL Configuração] > [!UICONTROL Filtros].
 
 _Relatado pela primeira vez em 14 de março de 2023._
-

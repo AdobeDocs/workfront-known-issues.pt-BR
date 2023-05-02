@@ -1,20 +1,20 @@
 ---
-title: '“Documentos: as permissões não são herdadas quando um documento é movido para um novo projeto”'
-description: “Quando um usuário move um documento para um projeto diferente, o documento não herda as permissões de compartilhamento do novo projeto. O documento não é compartilhado com os usuários para os quais o projeto é compartilhado. “
+title: 'Documentos: as permissões não são herdadas quando um documento é movido para um novo projeto'
+description: '''Quando um usuário move um documento para um projeto diferente, o documento não herda as permissões de compartilhamento do novo projeto. O documento não é compartilhado com os usuários para os quais o projeto é compartilhado. ”'
 hidefromtoc: true
-source-git-commit: ca969341423e373a94faa677729fc2dccd9453d6
-workflow-type: ht
+exl-id: 56dfaf55-7438-4569-b9a1-b62fbdd3f4d9
+source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
+workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 100%
 
 ---
 
-
 # Documentos: as permissões não são herdadas quando um documento é movido para um novo projeto
 
 <!-- This Known Issue is on the TOC for both Workfront and Workfront Proof-->
 
-<!--This issue has been closed as won't fix, but no reason.-->
+<!--Valid issue, won't fix.-->
 
 Quando um usuário move um documento para um projeto diferente, o documento não herda as permissões de compartilhamento do novo projeto. O documento não é compartilhado com os usuários para os quais o projeto é compartilhado.
 
@@ -29,4 +29,3 @@ Quando um usuário move um documento para um projeto diferente, o documento não
 Como alternativa, você pode anotar a ID do documento (encontrada no URL da página [!UICONTROL Detalhes do documento]) e entrar em contato com o suporte ao cliente do [!DNL Workfront].
 
 _Relatado pela primeira vez em 6 de janeiro de 2023._
-

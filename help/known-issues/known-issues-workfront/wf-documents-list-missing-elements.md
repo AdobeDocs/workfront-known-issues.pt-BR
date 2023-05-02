@@ -1,18 +1,18 @@
 ---
-title: '“Documentos: problemas com a lista de documentos”'
-description: “Este artigo descreve problemas recentes que foram relatados em relação à lista de documentos.”
+title: 'Documentos: problemas com a lista de documentos '
+description: Este artigo descreve problemas recentes que foram relatados em relação à Lista de documentos.
 hidefromtoc: true
-source-git-commit: 9d76e762063f7922b1d47930a0aa0b7e812ae7f9
-workflow-type: ht
+exl-id: 39bc9972-7c9a-4a00-8b00-9670e502fed1
+source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
+workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 100%
+ht-degree: 83%
 
 ---
 
-
 # Documentos: problemas com a lista de documentos
 
-<!--This article is on the WF and WFP TOCs-->
+<!--This article is on the WF and WFP TOCs. Valid issue, won't fix.-->
 
 Os seguintes problemas foram relatados em relação à lista de documentos:
 
@@ -24,4 +24,3 @@ Os seguintes problemas foram relatados em relação à lista de documentos:
 Para restaurar as opções de filtro, exibição e agrupamento, alterne para exibição padrão e, em seguida, volte para a exibição em lista.
 
 _Relatado pela primeira vez em 1 de junho de 2023._
-
