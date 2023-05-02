@@ -2,9 +2,9 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
+source-git-commit: e50e74711a4c19c3f9f6964ec228dbe50c7b00c5
 workflow-type: tm+mt
-source-wordcount: '3167'
+source-wordcount: '3246'
 ht-degree: 89%
 
 ---
@@ -18,6 +18,18 @@ As seguintes atualizações de manutenção foram efetuadas em 2023.
 >Essas atualizações também incluem outras correções de erros menores ou menos importantes. O suporte do [!DNL Workfront] enviará uma notificação quando um problema enviado for corrigido.
 
 Para obter atualizações de manutenção anteriores a 2023, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
+
+## Atualizações em maio de 2023
+
++++**Atualização de manutenção (planejada) em 4 de maio de 2023**
+
+**Não é possível selecionar modelo de [!UICONTROL Modelos favoritos]**
+
+_Modelos_
+
+Quando um usuário tenta selecionar um modelo no menu Ações (três pontos), a lista de modelos desaparece quando o usuário move seu mouse para a lista, impossibilitando a seleção de um modelo. Isso ocorre porque a barra de rolagem está entre o menu e a lista de modelos, e o mouse alterna o foco para a barra de rolagem à medida que se move para a lista de modelos.
+
++++
 
 ## Atualizações em abril de 2023
 
