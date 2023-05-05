@@ -1,9 +1,9 @@
 ---
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
-source-git-commit: 9947478d3699657386fef218be278fb3ec95e187
+source-git-commit: b52c358bc47dbfa9c3f4bb31998651614b88f76a
 workflow-type: tm+mt
-source-wordcount: '1136'
+source-wordcount: '1142'
 ht-degree: 95%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Projetos: Erro ao usar [!UICONTROL Marco] exibir](known-issues-workfront/wf-projects-error-in-milestone-view.md)
       + [Tarefas: Nenhuma mensagem de erro ao reorganizar a tarefa em [!UICONTROL Aprovação pendente] status](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
       + [Folhas de horas: O filtro não é aplicado quando a página é atualizada](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)
       + [Provas: As aprovações de prova bloqueadas ainda são mostradas na Lista de Trabalho](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
