@@ -1,23 +1,23 @@
 ---
-title: '"Folhas de horas: O filtro não é aplicado quando a página é atualizada'''
-description: Quando um usuário está visualizando uma lista de folhas de horas usando um filtro e atualiza ou navega para fora da página e para trás, o filtro não é aplicado. O filtro parece estar selecionado na lista de filtros.
+title: 'Folhas de hora: o filtro não continua aplicado quando a página é atualizada'
+description: Quando um usuário está visualizando uma lista de folhas de hora usando um filtro e atualiza ou sai da página e volta, o filtro não permanece aplicado. O filtro aparece selecionado na lista de filtros.
 hidefromtoc: true
 exl-id: 4ec51957-448a-42ac-8c19-dbdc221901b8
 source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '119'
+ht-degree: 100%
 
 ---
 
-# Folhas de horas: O filtro não é aplicado quando a página é atualizada
+# Folhas de hora: o filtro não permanece aplicado quando a página é atualizada
 
 >[!NOTE]
 >
 >O problema foi corrigido em 27 de abril de 2023.
 
-Quando um usuário está visualizando uma lista de folhas de horas usando um filtro e atualiza ou navega para fora da página e para trás, o filtro não é aplicado. O filtro parece estar selecionado na lista de filtros.
+Quando um usuário está visualizando uma lista de folhas de hora usando um filtro e atualiza ou sai da página e volta, o filtro não permanece aplicado. O filtro aparece selecionado na lista de filtros.
 
-Isso ocorre com filtros na categoria &quot;Padrões do sistema&quot;. Os filtros salvos são aplicados conforme esperado.
+Isso ocorre com filtros na categoria “Padrões do sistema”. Os filtros salvos são aplicados conforme esperado.
 
 _Relatado pela primeira vez em 18 de abril de 2023._

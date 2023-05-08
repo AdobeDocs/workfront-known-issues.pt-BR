@@ -4,8 +4,8 @@ description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 64a21b5ac15ffb068ae2e45a13cab91977d1608d
 workflow-type: tm+mt
-source-wordcount: '3245'
-ht-degree: 89%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -35,7 +35,7 @@ Quando um usuário tenta selecionar um modelo no menu Ações (três pontos), a 
 
 +++**Atualização de manutenção em 27 de abril de 2023**
 
-**Não é possível alternar entre provas em [!UICONTROL Visualizador de prova]**
+**Não é possível alternar entre provas no [!UICONTROL Visualizador de prova]**
 
 _Provas_
 
@@ -76,31 +76,31 @@ _Provas_
 
 Quando um usuário visualiza uma prova no Visualizador de prova e tenta fazer um comentário usando a ferramenta Polyline, a ferramenta não marca a prova.
 
-**A caixa de opções de texto mostra &quot;textAnnotations&quot;**
+**A caixa de opções de texto mostra “textAnnotations”**
 
 _Provas_
 
 Quando um usuário visualiza uma prova, começa a adicionar um comentário e abre a ferramenta de texto, a palavra “textAnnotation” aparece ao lado das opções na ferramenta. A ferramenta de texto ainda funciona conforme o esperado, e “textAnnotation” desaparece após o comentário ser publicado.
 
-**Manter imagens como rascunho ao afastar-se de uma atualização para metas e problemas na experiência beta de comentário**
+**Manter imagens como rascunho ao sair de uma seção Atualização de metas ou de uma seção Atualização de problemas na experiência beta de comentários**
 
 >[!NOTE]
 >
->Esse recurso foi lançado na Preview em 19 de abril de 2023 e foi lançado para produção em 20 de abril de 2023.
+>Esse recurso teve uma pré-visualização lançada em 19 de abril de 2023 e foi enviado para produção em 20 de abril de 2023.
 
 _Atualizações_
 
-Agora, quando você navega para longe da página Atualizações enquanto está no meio da composição de uma mensagem onde você anexou uma imagem, a mensagem e a imagem são preservadas quando você navega de volta. Antes desta atualização, o comentário não enviado era preservado, mas a imagem era excluída. Isso está disponível na seção Atualizações para metas e em problemas ao ativar a experiência beta de comentário.
+Agora, ao sair da página Atualizações enquanto estiver no meio da composição de uma mensagem na qual uma imagem foi anexada, a mensagem e a imagem serão preservadas quando você voltar. Antes desta atualização, comentários não enviados eram preservados, mas não as imagens. Isso está disponível na seção Atualizações de metas e na de problemas ao habilitar a experiência beta de comentários.
 
 **Atualizações em tempo real e comentários excluídos na seção Atualizações**
 
 >[!NOTE]
 >
->Esse recurso foi lançado na Preview em 19 de abril de 2023 e foi lançado para produção em 20 de abril de 2023.
+>Esse recurso teve uma pré-visualização lançada em 19 de abril de 2023 e foi enviado para produção em 20 de abril de 2023.
 
 _Atualizações_
 
-Agora, quando alguém adiciona um comentário ou resposta ou exclui um comentário da área Atualizações, você pode ver o novo comentário ou uma indicação de que o comentário foi removido em tempo real, sem atraso. Isso está disponível na seção Atualizações para metas e em problemas ao ativar a experiência beta de comentário.
+Agora, quando alguém adiciona um comentário ou resposta ou exclui um comentário da área Atualizações, você pode ver o novo comentário ou uma indicação de que o comentário foi removido em tempo real, sem atraso. Isso está disponível na seção Atualizações de metas e na de problemas ao habilitar a experiência beta de comentários.
 
 **Nível de acesso alterado pelo sistema sem registro da alteração**
 
@@ -112,11 +112,11 @@ O nível de acesso de um usuário pode ser alterado imprevisivelmente pelo siste
 
 +++**Atualização de manutenção em 17 de abril de 2023**
 
-**Mostrar novos comentários fora da área da tela visível no [!UICONTROL Atualizações] seção de problemas (novo comentário da experiência Beta) e [!UICONTROL Metas]**
+**Mostrar novos comentários fora da área visível da tela na seção [!UICONTROL Atualizações] de problemas (nova experiência Beta de comentários) e na de [!UICONTROL Metas]**
 
 _Atualizações_
 
-Adicionamos um banner de notificação para a variável [!UICONTROL Atualizações] para informar os usuários quando houver comentários mais recentes em um item que pode estar fora da área visível na tela. Esta atualização está atualmente disponível na [!UICONTROL Atualizações] seção de metas e de problemas quando a nova experiência beta de comentário tiver sido ativada para problemas.
+Adicionamos um banner de notificação na seção [!UICONTROL Atualizações] para informar aos usuários quando houver comentários novos em um item que pode estar fora da área visível na tela. Esta atualização está atualmente disponível na seção [!UICONTROL Atualizações] de metas e na de problemas quando a nova experiência beta de comentário tiver sido habilitada para problemas.
 
 +++
 

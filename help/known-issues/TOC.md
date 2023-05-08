@@ -4,7 +4,7 @@ user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 source-git-commit: b52c358bc47dbfa9c3f4bb31998651614b88f76a
 workflow-type: tm+mt
 source-wordcount: '1142'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -18,10 +18,10 @@ ht-degree: 95%
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
       + [Projetos: Erro ao usar [!UICONTROL Marco] exibir](known-issues-workfront/wf-projects-error-in-milestone-view.md)
       + [Tarefas: Nenhuma mensagem de erro ao reorganizar a tarefa em [!UICONTROL Aprovação pendente] status](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
-      + [Folhas de horas: O filtro não é aplicado quando a página é atualizada](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)
-      + [Provas: As aprovações de prova bloqueadas ainda são mostradas na Lista de Trabalho](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
-      + [[!UICONTROL Planejador de recursos]: Não é possível salvar após o tempo de adição](known-issues-workfront/wf-resource-planner-cannot-save-time.md)
-      + [Provas: [!UICONTROL Atividade de prova] guia abre [!UICONTROL Detalhes da prova]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
+      + [Folhas de hora: o filtro não permanece aplicado quando a página é atualizada](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)
+      + [Provas: as aprovações de prova bloqueadas ainda são mostradas na Lista de trabalho](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
+      + [[!UICONTROL Planejador de recursos]: não é possível salvar após adicionar tempo](known-issues-workfront/wf-resource-planner-cannot-save-time.md)
+      + [Provas: a guia [!UICONTROL Atividade de prova] abre a guia [!UICONTROL Detalhes da prova]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
       + [Modelos: não é possível selecionar um modelo dos [!UICONTROL Modelos favoritos]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
       + [Filtros: não é possível compartilhar um filtro de um relatório em um painel](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)
       + [[!UICONTROL Página inicial]: clicar próximo à miniatura na [!UICONTROL lista de trabalho] leva a uma página em branco](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md)
