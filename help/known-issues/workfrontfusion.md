@@ -4,7 +4,7 @@ description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Fusion]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 source-git-commit: b0f3e9f359165f6d0900bbdb4ba5fa57cf43cffb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
 ht-degree: 100%
 
@@ -45,7 +45,7 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Pesquisa: a pesquisa do  [!DNL Workfront]  atinge o tempo limite](known-issues-workfront/wf-search-search-times-out.md) | 13 de abril de 2023 |
+| [Pesquisa: [!DNL Workfront] a pesquisa atinge o tempo limite](known-issues-workfront/wf-search-search-times-out.md) | 13 de abril de 2023 |
 | [[!DNL Workfront Fusion]: erro “Falha ao verificar a conexão”](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md) | 29 de setembro de 2022 |
 | O módulo [[!DNL Workfront Fusion]: [!DNL Fusion]  retorna o erro 404 sem mais informações](known-issues-workfront-fusion/fusion-404-error-no-description.md) | 9 de setembro de 2022 |
 
