@@ -1,20 +1,19 @@
 ---
-title: "Provas: As aprovações de prova bloqueadas ainda são mostradas na Lista de Trabalho"
-description: "As aprovações de prova que ultrapassaram seu prazo e estão bloqueadas ainda são exibidas na Lista de Trabalho Doméstico do aprovador, em vez de descartar a lista quando o prazo passou."
+title: 'Provas: as aprovações de prova bloqueadas ainda são mostradas na Lista de trabalho'
+description: As aprovações de prova que ultrapassaram seu prazo e foram bloqueadas ainda são mostradas na Lista de trabalho da página inicial do aprovador, em vez de serem removidas da lista quando o prazo acabou.
 hidefromtoc: true
-source-git-commit: 3022b08896b3bb467210597e0c7bd6c4688fdbe6
-workflow-type: tm+mt
+exl-id: d2ccfaa4-2a60-4ffb-ac38-7f127aa5cc32
+source-git-commit: a9e0c0cc9bd1d69b22fcf9ef755a715d37ba658d
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
-
-# Provas: As aprovações de prova bloqueadas ainda são mostradas na Lista de Trabalho
+# Provas: as aprovações de prova bloqueadas ainda são mostradas na Lista de trabalho
 
 <!--This issue is on the WF and WFP TOC-->
 
-As aprovações de prova que ultrapassaram seu prazo e estão bloqueadas ainda são exibidas na Lista de Trabalho Doméstico do aprovador, em vez de descartar a lista quando o prazo passou.
+As aprovações de prova que ultrapassaram seu prazo e foram bloqueadas ainda são mostradas na Lista de trabalho da página inicial do aprovador, em vez de serem removidas da lista quando o prazo acabou.
 
 _Relatado pela primeira vez em 27 de fevereiro de 2023._
-
