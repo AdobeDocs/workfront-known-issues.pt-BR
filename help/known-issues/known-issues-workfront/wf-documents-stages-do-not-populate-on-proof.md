@@ -1,14 +1,14 @@
 ---
-title: '“Provas: o campo [!UICONTROL Estágios de prova ativos] está em branco”'
-description: Quando um usuário cria uma prova e a visualiza em um relatório como [!UICONTROL Versão do documento] ou [!UICONTROL Aprovação de prova], o campo [!UICONTROL Estágios de prova ativos] fica em branco. Isso ocorre quando a prova é criada depois que o documento é carregado, como uma [!UICONTROL Prova simples] ou [!UICONTROL Prova avançada] com um [!UICONTROL Fluxo de trabalho básico].“
+title: 'Provas: o campo [!UICONTROL Estágios de prova ativos] está em branco'
+description: Quando um usuário cria uma prova e a visualiza em um relatório como [!UICONTROL Versão do documento] ou [!UICONTROL Aprovação de prova], o campo [!UICONTROL Estágios de prova ativos] fica em branco. Isso ocorre quando a prova é criada depois que o documento é carregado, como uma [!UICONTROL Prova simples] ou [!UICONTROL Prova avançada] com um [!UICONTROL Fluxo de trabalho básico].
 hidefromtoc: true
-source-git-commit: 67d7e907af995a40ecad3792584ebf8768ad4570
-workflow-type: tm+mt
+exl-id: 1cd7baed-b561-48fa-ba58-e0533db01696
+source-git-commit: a9e0c0cc9bd1d69b22fcf9ef755a715d37ba658d
+workflow-type: ht
 source-wordcount: '200'
 ht-degree: 100%
 
 ---
-
 
 # Provas: o campo [!UICONTROL Estágios de prova ativos] está em branco
 
@@ -28,4 +28,3 @@ Siga um destes procedimentos:
 * Ao criar uma prova a partir de um documento existente, crie-a como uma [!UICONTROL Prova avançada] com [!UICONTROL Fluxo de trabalho automatizado].
 
 _Reportado pela primeira vez em 31 de agosto de 2022._
-
