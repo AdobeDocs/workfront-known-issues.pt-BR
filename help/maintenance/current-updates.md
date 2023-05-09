@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 64a21b5ac15ffb068ae2e45a13cab91977d1608d
+source-git-commit: 50664b35f7edcd9064f0055ea3988a41b00621d0
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '3456'
+ht-degree: 96%
 
 ---
 
@@ -20,6 +20,52 @@ As seguintes atualizações de manutenção foram efetuadas em 2023.
 Para obter atualizações de manutenção anteriores a 2023, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em maio de 2023
+
++++**Atualização de manutenção (planejada) em 11 de maio de 2023**
+
+**[!DNL Workfront]Tempo limite de pesquisa**
+
+_Pesquisar_
+
+A pesquisa do [!DNL Workfront] atinge o tempo limite. A pesquisa pode retornar alguns resultados ou nenhum.
+
+Esse problema também afeta a funcionalidade do módulo [!DNL Workfront Fusion] > [!DNL Workfront] > [!UICONTROL Pesquisar].
+
+**Não é possível alternar a versão da prova ao visualizar a prova**
+
+_Provas_
+
+Quando um usuário visualiza uma prova no [!UICONTROL Visualizador de prova] e alterna para outra versão, a lista suspensa da versão é desativada e o usuário não consegue voltar para a versão original que estava visualizando ou para outra versão da prova.
+
++++
+
++++**(Planejado) [!DNL Adobe Workfront Fusion] Atualização de manutenção em 11 de maio de 2023**
+
+**Erros de tempo limite em[!DNL Workfront Fusion]**
+
+_Adobe Workfront Fusion_
+
+Quando um cenário está em execução, pode ocorrer um erro de tempo limite. As informações do módulo com o erro não chegam ao destino.
+
+**[!DNL Workfront]Tempo limite de pesquisa**
+
+_Pesquisar_
+
+A pesquisa do [!DNL Workfront] atinge o tempo limite. A pesquisa pode retornar alguns resultados ou nenhum.
+
+Esse problema também afeta a funcionalidade do módulo [!DNL Workfront Fusion] > [!DNL Workfront] > [!UICONTROL Pesquisar].
+
++++
+
++++**Atualização de manutenção em 9 de maio de 2023**
+
+**Filtros salvos disponíveis na coluna de entrada do quadro**
+
+_Quadros_
+
+Agora é possível usar a tarefa existente do Workfront e os filtros de problemas ao configurar a coluna de entrada de um quadro. No entanto, os filtros de coluna de entrada existentes agora são somente leitura no painel de configuração. Os filtros existentes ainda são aplicados à coluna de entrada, mas você deve recriar os filtros se quiser editá-los.
+
++++
 
 +++**Atualização de manutenção em 4 de maio de 2023**
 

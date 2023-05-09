@@ -3,10 +3,10 @@ title: Problemas conhecidos na nova experiência do [!DNL Adobe Workfront]
 description: Problemas conhecidos reportados da nova experiência do  [!DNL Adobe Workfront]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: b52c358bc47dbfa9c3f4bb31998651614b88f76a
+source-git-commit: 50664b35f7edcd9064f0055ea3988a41b00621d0
 workflow-type: tm+mt
-source-wordcount: '571'
-ht-degree: 95%
+source-wordcount: '580'
+ht-degree: 96%
 
 ---
 
@@ -24,7 +24,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| Nenhum(a) |  |
+| [Relatórios: a classificação por cabeçalho de coluna reverte para a classificação anterior](known-issues-workfront/wf-reports-sorting-not-applied.md) | 9 de maio de 2023 |
 
 {style="table-layout:auto"}
 
@@ -35,7 +35,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
 | [Projetos: Erro ao usar [!UICONTROL Marco] exibir](known-issues-workfront/wf-projects-error-in-milestone-view.md) | 5 de maio de 2023 |
-| [Provas: As aprovações de prova bloqueadas ainda são mostradas na Lista de Trabalho](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 4 de maio de 2023 |
+| [Provas: as aprovações de prova bloqueadas ainda são mostradas na Lista de trabalho](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 4 de maio de 2023 |
 | [Tarefas: Nenhuma mensagem de erro ao reorganizar a tarefa em [!UICONTROL Aprovação pendente] status](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 3 de maio de 2023 |
 | [Projetos: os status personalizados do [!UICONTROL grupo inicial] não estão disponíveis ao criar um projeto a partir de um modelo](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 de março de 2023 |
 | [Pesquisa: [!DNL Workfront] a pesquisa atinge o tempo limite](known-issues-workfront/wf-search-search-times-out.md) | 27 de março de 2023 |
