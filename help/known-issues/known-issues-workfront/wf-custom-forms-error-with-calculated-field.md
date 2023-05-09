@@ -3,7 +3,7 @@ title: '“Formulários personalizados: um erro ‘Ops!’ ocorre ao configurar 
 description: Quando um usuário cria ou edita um campo calculado em um formulário personalizado e inclui um campo personalizado na expressão do campo calculado, a expressão é considerada inválida. O botão Salvar está desativado e o usuário não consegue sair do campo personalizado. Além disso, o usuário vê uma mensagem de erro “Ops!” abaixo do campo.
 hidefromtoc: true
 exl-id: e499c680-2fdf-40cb-a1fa-b0d4ae799ad2
-source-git-commit: 25b7ec9e953eca2f439a2625ba4ca58514703d1e
+source-git-commit: 4cc779627205b6b66876e6e7323cdf0ce94477b6
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 100%
@@ -11,6 +11,8 @@ ht-degree: 100%
 ---
 
 # Formulários personalizados: erro “[!UICONTROL Ops!]” ao configurar um campo calculado
+
+<!--Do not delete without approval from Alex Beach-->
 
 >[!NOTE]
 >
