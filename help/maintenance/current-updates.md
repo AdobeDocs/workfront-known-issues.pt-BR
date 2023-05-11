@@ -2,9 +2,9 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 50664b35f7edcd9064f0055ea3988a41b00621d0
+source-git-commit: 94dd70f476ea62a644bad32d8b0627a5ead737c3
 workflow-type: tm+mt
-source-wordcount: '3456'
+source-wordcount: '3454'
 ht-degree: 96%
 
 ---
@@ -21,7 +21,13 @@ Para obter atualizações de manutenção anteriores a 2023, consulte [Atualiza�
 
 ## Atualizações em maio de 2023
 
-+++**Atualização de manutenção (planejada) em 11 de maio de 2023**
++++**Atualização de manutenção em 11 de maio de 2023**
+
+**Não é possível alternar a versão da prova ao visualizar a prova**
+
+_Provas_
+
+Quando um usuário visualiza uma prova no [!UICONTROL Visualizador de prova] e alterna para outra versão, a lista suspensa da versão é desativada e o usuário não consegue voltar para a versão original que estava visualizando ou para outra versão da prova.
 
 **[!DNL Workfront]Tempo limite de pesquisa**
 
@@ -31,15 +37,9 @@ A pesquisa do [!DNL Workfront] atinge o tempo limite. A pesquisa pode retornar a
 
 Esse problema também afeta a funcionalidade do módulo [!DNL Workfront Fusion] > [!DNL Workfront] > [!UICONTROL Pesquisar].
 
-**Não é possível alternar a versão da prova ao visualizar a prova**
-
-_Provas_
-
-Quando um usuário visualiza uma prova no [!UICONTROL Visualizador de prova] e alterna para outra versão, a lista suspensa da versão é desativada e o usuário não consegue voltar para a versão original que estava visualizando ou para outra versão da prova.
-
 +++
 
-+++**(Planejado) [!DNL Adobe Workfront Fusion] Atualização de manutenção em 11 de maio de 2023**
++++**[!DNL Adobe Workfront Fusion]Atualização de manutenção em 11 de maio de 2023**
 
 **Erros de tempo limite em[!DNL Workfront Fusion]**
 
