@@ -1,10 +1,10 @@
 ---
-title: 'Filtros: não é possível compartilhar um filtro de um relatório em um painel'
+title: '“Filtros: não é possível compartilhar um filtro de um relatório em um painel”'
 description: Quando um usuário visualiza um relatório em um painel e tenta compartilhar um filtro desse relatório, ele não consegue compartilhar o filtro. Ao clicar nos três pontos, o painel vai para o próximo relatório e, quando o usuário rola de volta para o relatório desejado, a opção Compartilhar não está disponível.
 hidefromtoc: true
 exl-id: 50c3f5c8-f4ba-4447-bfc8-5cdd56cc43b0
 source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '187'
 ht-degree: 100%
 
