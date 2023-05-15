@@ -1,12 +1,12 @@
 ---
-title: 'Modelos: não é possível selecionar um modelo dos Modelos favoritos'
+title: '“Modelos: não é possível selecionar um modelo dos Modelos favoritos”'
 description: Quando um usuário tenta selecionar um modelo no menu Ações (três pontos), a lista de modelos desaparece quando o usuário move seu mouse para a lista, impossibilitando a seleção de um modelo. Isso ocorre porque a barra de rolagem está entre o menu e a lista de modelos, e o mouse alterna o foco para a barra de rolagem à medida que se move para a lista de modelos.
 hidefromtoc: true
 exl-id: 2be285e6-c09c-4eb4-b383-7237a5ae6bbb
 source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '181'
+ht-degree: 100%
 
 ---
 
