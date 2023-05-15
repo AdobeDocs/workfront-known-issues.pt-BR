@@ -1,12 +1,12 @@
 ---
-title: '"API de prova do Workfront: Corpo não é um erro XML válido'''
+title: '“API de prova do Workfront: erro ‘Corpo não é um XML válido’”'
 description: Uma chamada para a API de prova do Workfront retorna um erro.
 hidefromtoc: true
 exl-id: f3bf3adb-5760-465d-a42a-dc6919d423d0
 source-git-commit: b0f3e9f359165f6d0900bbdb4ba5fa57cf43cffb
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '74'
+ht-degree: 100%
 
 ---
 
