@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 94dd70f476ea62a644bad32d8b0627a5ead737c3
 workflow-type: tm+mt
 source-wordcount: '3454'
-ht-degree: 96%
+ht-degree: 97%
 
 ---
 
@@ -69,7 +69,7 @@ Agora é possível usar a tarefa existente do Workfront e os filtros de problema
 
 +++**Atualização de manutenção em 4 de maio de 2023**
 
-**Não é possível selecionar modelo de [!UICONTROL Modelos favoritos]**
+**Não é possível selecionar um modelo dos [!UICONTROL Modelos favoritos]**
 
 _Modelos_
 
@@ -91,7 +91,7 @@ Quando um usuário visualiza uma prova no [!UICONTROL Visualizador de prova] e a
 
 _Atualizações_
 
-Agora é possível editar a imagem anexada a um comentário ao editar um comentário. Isso está disponível na seção Atualizações para Metas do Workfront e no caso de problemas ao ativar a experiência beta de comentário.
+Agora é possível editar a imagem anexada a um comentário ao editar um comentário. Isso está disponível na seção Atualizações das Metas do Workfront e na seção de problemas ao habilitar a experiência beta de comentários.
 
 +++
 

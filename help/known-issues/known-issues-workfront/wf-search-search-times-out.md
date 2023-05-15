@@ -1,12 +1,12 @@
 ---
-title: 'Pesquisar: O tempo limite da Pesquisa do Workfront é excedido'
-description: A pesquisa no Workfront está atingindo o tempo limite. A pesquisa pode retornar alguns resultados ou nenhum.
+title: '“Pesquisa: a pesquisa do Workfront atinge o tempo limite”'
+description: A pesquisa do Workfront atinge o tempo limite. A pesquisa pode retornar alguns resultados ou nenhum.
 hidefromtoc: true
 exl-id: cbae251b-605c-4062-9627-34347da70ee5
 source-git-commit: 94dd70f476ea62a644bad32d8b0627a5ead737c3
 workflow-type: tm+mt
 source-wordcount: '60'
-ht-degree: 73%
+ht-degree: 100%
 
 ---
 

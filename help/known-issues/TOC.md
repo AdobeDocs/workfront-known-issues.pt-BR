@@ -4,7 +4,7 @@ user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
 workflow-type: tm+mt
 source-wordcount: '1176'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -20,8 +20,8 @@ ht-degree: 96%
       + [Balanceador de Carga de Trabalho: Horas redistribuídas inesperadamente](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
       + [Formulários personalizados: erro “[!UICONTROL Ops!]” ao configurar um campo calculado](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
       + [Relatórios: a classificação por cabeçalho de coluna reverte para a classificação anterior](known-issues-workfront/wf-reports-sorting-not-applied.md)
-      + [Projetos: Erro ao usar [!UICONTROL Marco] exibir](known-issues-workfront/wf-projects-error-in-milestone-view.md)
-      + [Tarefas: Nenhuma mensagem de erro ao reorganizar a tarefa em [!UICONTROL Aprovação pendente] status](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
+      + [Projetos: erro ao usar a exibição de [!UICONTROL Marco]](known-issues-workfront/wf-projects-error-in-milestone-view.md)
+      + [Tarefas: nenhuma mensagem de erro ao reordenar uma tarefa com o status de [!UICONTROL Aprovação pendente]](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
       + [Folhas de hora: o filtro não permanece aplicado quando a página é atualizada](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)
       + [Provas: as aprovações de prova bloqueadas ainda são mostradas na Lista de trabalho](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
       + [[!UICONTROL Planejador de recursos]: não é possível salvar após adicionar tempo](known-issues-workfront/wf-resource-planner-cannot-save-time.md)
@@ -73,10 +73,10 @@ ht-degree: 96%
       + [Configuração: não é possível salvar modelos de email](known-issues-workfront/wf-setup-email-templates-not-working.md)
       + [Documentos: não é possível restaurar o documento excluído](known-issues-workfront/wf-documents-cannot-restore-document.md)
       + [Documentos: erro ao fazer upload de um arquivo grande](known-issues-workfront/wf-documents-large-uploads-fail.md)
-      + [Documentos: não é possível adicionar documentos do [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
+      + [Documentos: não é possível adicionar documentos do  [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
       + [Documentos: as permissões de documento não são herdadas quando o problema principal é convertido em um projeto](known-issues-workfront/wf-documents-permissions-not-inherited.md)
       + [Relatórios: o relatório usa o criador de relatórios em vez do curinga “$$[!UICONTROL USERID]”](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md)
-      + [Integrações: não é possível abrir o [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md)
+      + [Integrações: não é possível abrir o  [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md)
       + [Provas: o status da prova não é atualizado nas listas [!UICONTROL Documento]](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)
       + [Projetos: o status do projeto não segue as preferências do projeto do Grupo](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md)
       + [Formulários personalizados: não é possível usar o campo no cálculo se o nome do campo contiver apóstrofos ou aspas](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)
@@ -86,14 +86,14 @@ ht-degree: 96%
       + [Relatórios: erro ao adicionar um novo problema a um relatório de problemas](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)
       + [Provas: o resumo de impressão não mostra a miniatura da imagem](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
       + [Integrações: o [!UICONTROL Calendário da página inicial] mostra eventos uma hora depois do [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)
-      + [Tarefas: Não é possível alterar a [!UICONTROL Data de conclusão planejada] de uma tarefa](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
+      + [Tarefas: não é possível alterar a [!UICONTROL Data de conclusão planejada] de uma tarefa](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
       + [API: não é possível classificar por campos dinâmicos](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md)
-      + [Projetos: problemas de desempenho e mensagem de erro ao criar um projeto a partir de um modelo](known-issues-workfront/wf-issues-when-creating-project-from-template.md)
+      + [Projetos: problemas de desempenho e uma mensagem de erro ao criar um projeto a partir de um modelo](known-issues-workfront/wf-issues-when-creating-project-from-template.md)
       + [Problemas: a navegação à esquerda exibe “(0)” problemas quando há problemas](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
       + [[!UICONTROL Configuração]: as listas carregam lentamente na [!UICONTROL Configuração]](known-issues-workfront/wf-setup-lists-load-slowly.md)
       + [Tarefas: as horas não são salvas ao inserir horas no painel [!UICONTROL Resumo da tarefa]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
       + [Provas: o campo [!UICONTROL Estágios de prova ativos] está em branco](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md)
-      + [[!DNL Workfront]: problemas ao enviar um caso de suporte do  [!DNL Workfront] na Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md)
+      + [[!DNL Workfront]: problemas ao enviar um caso de suporte do  [!DNL Workfront]  na Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md)
       + [Painéis: os gráficos de relatório exibidos em um painel usam cores diferentes das exibidas no relatório](known-issues-workfront/wf-dashboard-reports-wrong-color.md)
       + [Agile: problemas ao mover cartões no quadro Agile](known-issues-workfront/wf-agile-issues-moving-cards.md)
       + [Página inicial: a terminologia personalizada não é aplicada à área da página inicial](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md)
@@ -123,7 +123,7 @@ ht-degree: 96%
 + [!DNL Workfront Proof] {#proof}
    + [Problemas conhecidos no [!DNL Workfront Proof]](workfrontproof.md)
    + Problemas atuais no [!DNL Workfront Proof] {#proof-current}
-      + [[!DNL Workfront Proof]: A pesquisa não retorna resultados](known-issues-workfront-proof/proof-search-returns-no-results.md)
+      + [[!DNL Workfront Proof]: a pesquisa não retorna resultados](known-issues-workfront-proof/proof-search-returns-no-results.md)
       + [Provas: a caixa de opções de texto mostra “textAnnotations”](known-issues-workfront-proof/proof-text-shows-textannotation.md)
       + [[!DNL Workfront Proof]: as listas não são classificadas corretamente](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
       + [Provas: mensagens personalizadas não aparecem nas notificações por email](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md)
@@ -133,7 +133,7 @@ ht-degree: 96%
       + [Provas: o usuário não recebe um email ao ser marcado em um comentário de prova](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
       + [Provas: nova etapa criada porque o prazo não pode corresponder ao prazo final da etapa existente](known-issues-workfront-proof/proof-new-stage-created.md)
       + [[!DNL Workfront Proof] API: erro “[!UICONTROL Corpo não é um XML válido]”](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
-      + [Provas: a prova não é compartilhada com os usuários no Fluxo de trabalho de prova](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
+      + [Provas: a prova não é compartilhada com os usuários no fluxo de trabalho de prova](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
       + [Não é possível adicionar um usuário à prova marcando o usuário em um comentário](known-issues-workfront-proof/cannot-add-user-to-proof.md)
       + [O comportamento do botão [!UICONTROL Responder na prova] é inconsistente](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md)
       + [O acesso automático às provas fica atrasado](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md)
