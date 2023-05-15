@@ -1,10 +1,10 @@
 ---
-title: 'Provas: não é possível alternar entre provas no Visualizador de prova'
-description: Quando um usuário visualiza uma prova no [!UICONTROL Visualizador de prova] e alterna para outra versão, a lista suspensa da versão é desativada e o usuário não consegue voltar para a versão original que estava visualizando ou para outra versão da prova.
+title: '“Provas: não é possível alternar entre provas no Visualizador de prova”'
+description: Quando um usuário visualiza uma prova no [!UICONTROL Visualizador de prova] e alterna para outra versão, a lista suspensa da versão é desabilitada e o usuário não consegue voltar para a versão original que estava visualizando ou para outra versão da prova.
 hidefromtoc: true
 exl-id: 52e7b55e-4239-4785-9b27-25e91b5eb8bd
 source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
 ht-degree: 100%
 
