@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 94dd70f476ea62a644bad32d8b0627a5ead737c3
+source-git-commit: cc698b048b0e13e52fa5b0739a7354097018f011
 workflow-type: tm+mt
-source-wordcount: '3454'
-ht-degree: 97%
+source-wordcount: '3533'
+ht-degree: 95%
 
 ---
 
@@ -20,6 +20,22 @@ As seguintes atualizações de manutenção foram efetuadas em 2023.
 Para obter atualizações de manutenção anteriores a 2023, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em maio de 2023
+
++++**Atualização de manutenção (planejada) em 18 de maio de 2023**
+
+
+**O relatório não classifica corretamente ao classificar por campo personalizado**
+
+_Relatórios_
+Quando um usuário executa um relatório de tarefa, o relatório parece classificar corretamente quando está carregando, mas quando ele termina de carregar o usuário vê que o relatório não está classificado corretamente.
+
+Isso parece ocorrer se todas as seguintes circunstâncias forem atendidas:
+
+* O relatório é um relatório de tarefa
+* O relatório é classificado por um campo personalizado
+* O relatório tem um agrupamento aplicado
+
++++
 
 +++**Atualização de manutenção em 11 de maio de 2023**
 
