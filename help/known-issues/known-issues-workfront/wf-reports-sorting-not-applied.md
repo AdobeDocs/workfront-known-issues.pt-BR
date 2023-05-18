@@ -2,15 +2,19 @@
 title: '"Relatórios: O relatório não classifica corretamente ao classificar por campo personalizado'
 description: '"Quando um usuário executa um relatório de tarefa, o relatório parece classificar corretamente quando está carregando, mas quando ele conclui o carregamento, o usuário vê que o relatório não está classificado corretamente. '
 hidefromtoc: true
-source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
+source-git-commit: d781ab9f0204cf65f67583a90d9aaaa3bc9db303
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 3%
+source-wordcount: '127'
+ht-degree: 7%
 
 ---
 
 
 # Relatórios: O relatório não classifica corretamente ao classificar por campo personalizado
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em 18 de maio de 2023.
 
 Quando um usuário executa um relatório de tarefa, o relatório parece classificar corretamente quando está carregando, mas quando ele termina de carregar o usuário vê que o relatório não está classificado corretamente.
 
@@ -20,6 +24,6 @@ Isso parece ocorrer se todas as seguintes circunstâncias forem atendidas:
 * O relatório é classificado por um campo personalizado
 * O relatório tem um agrupamento aplicado
 
-_Reportado pela primeira vez em 4 de maio de 2023._
+_Relatado pela primeira vez em 4 de maio de 2023._
 
 

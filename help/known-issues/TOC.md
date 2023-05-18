@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
-source-git-commit: da7467950481dc880a88c2cc78df73bc7ded3a74
+source-git-commit: d781ab9f0204cf65f67583a90d9aaaa3bc9db303
 workflow-type: tm+mt
-source-wordcount: '1182'
-ht-degree: 98%
+source-wordcount: '1187'
+ht-degree: 97%
 
 ---
 
@@ -148,6 +148,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problemas conhecidos no Workfront Fusion](workfrontfusion.md)
    + Problemas atuais no [!DNL Workfront Fusion] {#fusion-current}
+      + [[!DNL Workfront Fusion]: As execuções estão presas ou atrasadas](known-issues-workfront-fusion/fusion-stuck-executions.md)
       + [[!DNL Workfront Fusion]: o histórico de execução de cenários não exibe todo o histórico](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)
       + [[!DNL Adobe Workfront Fusion]: erros de tempo limite no Workfront Fusion](known-issues-workfront-fusion/fusion-timeout-errors.md)
       + [[!DNL Adobe Workfront Fusion]: erros 404 em módulos do Workfront](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)

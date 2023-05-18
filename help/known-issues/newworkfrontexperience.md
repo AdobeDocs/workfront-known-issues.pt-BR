@@ -3,10 +3,10 @@ title: Problemas conhecidos na nova experiência do [!DNL Adobe Workfront]
 description: Problemas conhecidos reportados da nova experiência do  [!DNL Adobe Workfront]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
+source-git-commit: d781ab9f0204cf65f67583a90d9aaaa3bc9db303
 workflow-type: tm+mt
-source-wordcount: '565'
-ht-degree: 95%
+source-wordcount: '553'
+ht-degree: 97%
 
 ---
 
@@ -34,7 +34,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Relatórios: O relatório não classifica corretamente ao classificar por campo personalizado](known-issues-workfront/wf-reports-sorting-not-applied.md) | 11 de maio de 2023 |
 | [Tarefas: nenhuma mensagem de erro ao reordenar uma tarefa com o status de [!UICONTROL Aprovação pendente]](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 11 de maio de 2023 |
 | [Balanceador de Carga de Trabalho: Horas redistribuídas inesperadamente](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 11 de maio de 2023 |
 | [Provas: as aprovações de prova bloqueadas ainda são mostradas na lista de trabalho](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 4 de maio de 2023 |
