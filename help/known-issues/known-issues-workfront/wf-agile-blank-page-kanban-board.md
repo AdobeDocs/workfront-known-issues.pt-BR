@@ -2,7 +2,7 @@
 title: "Ágil: O quadro kanban fica em branco ao editar cartões"
 description: "Quando um usuário altera algo sobre um cartão no [!UICONTROL Kanban] quadro, o [!UICONTROL Kanban] O quadro fica em branco em vez de atualizar com a alteração. Se o usuário atualizar a página manualmente, a variável [!UICONTROL Kanban] quadro retorna, mostrando a mudança correta."
 hidefromtoc: true
-source-git-commit: 0463aa5cf7f786af9464ad3efb1d3d3929bcb1af
+source-git-commit: 97538739d474bd79b28362b1f21527d9dbe1486b
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 7%
@@ -23,5 +23,5 @@ Este fato foi comunicado nas seguintes circunstâncias:
 
 Atualize a página.
 
-_Relatado pela primeira vez em 1 de junho de 2023._
+_Relatado pela primeira vez em 14 de maio de 2023._
 
