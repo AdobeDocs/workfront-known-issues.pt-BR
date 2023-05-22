@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: d781ab9f0204cf65f67583a90d9aaaa3bc9db303
+source-git-commit: d0c6f72269cb94bbe309b1bd3f323af83b79353d
 workflow-type: tm+mt
-source-wordcount: '3532'
-ht-degree: 95%
+source-wordcount: '3581'
+ht-degree: 94%
 
 ---
 
@@ -21,16 +21,26 @@ Para obter atualizações de manutenção anteriores a 2023, consulte [Atualiza�
 
 ## Atualizações em maio de 2023
 
++++**Atualização de manutenção em 22 de maio de 2023**
+
+**Não é possível ajustar o tamanho do texto descritivo**
+
+_Formulários personalizados_
+
+Quando o designer de formulário personalizado foi lançado na versão beta, a funcionalidade para ajustar o tamanho do texto descritivo não estava disponível. Esse problema foi corrigido e os usuários agora podem ajustar o tamanho do texto descritivo.
+
++++
+
 +++**Atualização de manutenção em 18 de maio de 2023**
 
-**O relatório não classifica corretamente ao classificar por campo personalizado**
+**O relatório não é classificado corretamente ao classificar por campo personalizado**
 
 _Relatórios_
-Quando um usuário executa um relatório de tarefa, o relatório parece classificar corretamente quando está carregando, mas quando ele termina de carregar o usuário vê que o relatório não está classificado corretamente.
+Quando um usuário executa um relatório de tarefa, ele parece classificar corretamente quando está carregando, mas quando termina o carregamento, o usuário vê que o relatório não está classificado corretamente.
 
 Isso parece ocorrer se todas as seguintes circunstâncias forem atendidas:
 
-* O relatório é um relatório de tarefa
+* O relatório é de tarefa
 * O relatório é classificado por um campo personalizado
 * O relatório tem um agrupamento aplicado
 
@@ -44,7 +54,7 @@ _Provas_
 
 Quando um usuário visualiza uma prova no [!UICONTROL Visualizador de prova] e alterna para outra versão, a lista suspensa da versão é desativada e o usuário não consegue voltar para a versão original que estava visualizando ou para outra versão da prova.
 
-**[!DNL Workfront]Tempo limite de pesquisa**
+**[!DNL Workfront]A pesquisa expira**
 
 _Pesquisar_
 
@@ -56,13 +66,13 @@ Esse problema também afeta a funcionalidade do módulo [!DNL Workfront Fusion] 
 
 +++**[!DNL Adobe Workfront Fusion]Atualização de manutenção em 11 de maio de 2023**
 
-**Erros de tempo limite em[!DNL Workfront Fusion]**
+**Erros de tempo limite no[!DNL Workfront Fusion]**
 
 _Adobe Workfront Fusion_
 
 Quando um cenário está em execução, pode ocorrer um erro de tempo limite. As informações do módulo com o erro não chegam ao destino.
 
-**[!DNL Workfront]Tempo limite de pesquisa**
+**[!DNL Workfront]A pesquisa expira**
 
 _Pesquisar_
 
@@ -78,7 +88,7 @@ Esse problema também afeta a funcionalidade do módulo [!DNL Workfront Fusion] 
 
 _Quadros_
 
-Agora é possível usar a tarefa existente do Workfront e os filtros de problemas ao configurar a coluna de entrada de um quadro. No entanto, os filtros de coluna de entrada existentes agora são somente leitura no painel de configuração. Os filtros existentes ainda são aplicados à coluna de entrada, mas você deve recriar os filtros se quiser editá-los.
+Agora é possível usar filtros de tarefas e problemas do Workfront existentes ao configurar a coluna entrada para um quadro. No entanto, os filtros da coluna de entrada existentes agora são somente leitura no painel de configuração. Os filtros existentes ainda são aplicados à coluna de entrada, mas você deve recriar os filtros se desejar editá-los.
 
 +++
 
