@@ -1,12 +1,12 @@
 ---
-title: 'Provas: o estágio da prova não é ativado quando o prazo do estágio anterior é ultrapassado'
-description: Quando uma prova tem vários estágios e uma configuração de estágio Ativar posterior é definida como Quando o prazo de estágio anterior é ultrapassado, esse estágio posterior não é ativado quando o prazo é ultrapassado.
+title: '“Provas: o estágio da prova não é ativado quando o prazo do estágio anterior é ultrapassado”'
+description: Quando uma prova tem vários estágios, e uma configuração de Ativar estágio de um estágio posterior está definida como Quando o prazo do estágio anterior for ultrapassado, esse estágio posterior não é ativado quando o prazo é ultrapassado.
 hidefromtoc: true
 exl-id: c3a16e21-f645-4382-94d8-9836a773132f
 source-git-commit: f95db2a6954809c25c819d99ea3240f48d56d0e9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 60%
+ht-degree: 100%
 
 ---
 
