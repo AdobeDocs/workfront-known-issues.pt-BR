@@ -3,7 +3,7 @@ title: '“Projetos: erro ao usar a exibição de Marco”'
 description: “Quando um usuário visualiza uma lista de projetos e tenta usar a exibição de Marco, a exibição não é carregada e um erro é exibido.”
 hidefromtoc: true
 source-git-commit: f95db2a6954809c25c819d99ea3240f48d56d0e9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
 ht-degree: 100%
 
