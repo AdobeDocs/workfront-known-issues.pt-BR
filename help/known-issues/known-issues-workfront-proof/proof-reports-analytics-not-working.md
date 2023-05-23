@@ -1,12 +1,12 @@
 ---
-title: "Workfront Proof: A guia Relatórios não é mais compatível"
-description: A funcionalidade Relatórios de prova do Workfront não é mais compatível. Portanto, um usuário que visualizar a guia Relatórios na Prova do Workfront verá dados imprecisos ou não verá dados. Esse é o comportamento esperado. A guia Relatórios será removida em breve.
+title: '“Prova do Workfront: a guia Relatórios não é mais compatível”'
+description: A funcionalidade Relatórios da Prova do Workfront não é mais compatível. Portanto, um usuário que visualizar a guia Relatórios na Prova do Workfront verá dados imprecisos ou não verá dados. Esse é o comportamento esperado. A guia Relatórios será removida em breve.
 hidefromtoc: true
 exl-id: e1daf1df-b07b-4869-a57b-f9ce6d4ecaed
 source-git-commit: b6adcbe778d87635b9e3b9aba96b19c75d9bf528
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '98'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
