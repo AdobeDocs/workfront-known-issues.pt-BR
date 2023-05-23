@@ -1,11 +1,11 @@
 ---
-title: "Balanceador de Carga de Trabalho: Horas redistribuem inesperadamente"
+title: "Balanceador de Carga de Trabalho: Horas redistribuídas inesperadamente"
 description: "Quando as alocações de horas são feitas em tarefas específicas, essas horas podem recalcular e redistribuir inesperadamente. Isso pode ocorrer após a tabulação entre datas ou páginas ou após a atualização da página."
 hidefromtoc: true
 source-git-commit: 94dd70f476ea62a644bad32d8b0627a5ead737c3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
