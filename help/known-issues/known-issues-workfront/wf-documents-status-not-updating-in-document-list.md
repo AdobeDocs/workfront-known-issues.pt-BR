@@ -4,7 +4,7 @@ description: Quando o status de uma prova é alterado, uma lista Documento mostr
 hidefromtoc: true
 exl-id: f5f9b16c-4ec5-4625-b8c6-277fdd080d45
 source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '70'
 ht-degree: 100%
 
