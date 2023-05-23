@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: d0c6f72269cb94bbe309b1bd3f323af83b79353d
 workflow-type: tm+mt
 source-wordcount: '3581'
-ht-degree: 94%
+ht-degree: 97%
 
 ---
 
@@ -40,7 +40,7 @@ Quando um usuário executa um relatório de tarefa, ele parece classificar corre
 
 Isso parece ocorrer se todas as seguintes circunstâncias forem atendidas:
 
-* O relatório é de tarefa
+* O relatório é um relatório de tarefa
 * O relatório é classificado por um campo personalizado
 * O relatório tem um agrupamento aplicado
 
@@ -54,9 +54,9 @@ _Provas_
 
 Quando um usuário visualiza uma prova no [!UICONTROL Visualizador de prova] e alterna para outra versão, a lista suspensa da versão é desativada e o usuário não consegue voltar para a versão original que estava visualizando ou para outra versão da prova.
 
-**[!DNL Workfront]A pesquisa expira**
+A pesquisa do **[!DNL Workfront]atinge o tempo limite**
 
-_Pesquisar_
+_Pesquisa_
 
 A pesquisa do [!DNL Workfront] atinge o tempo limite. A pesquisa pode retornar alguns resultados ou nenhum.
 
@@ -72,9 +72,9 @@ _Adobe Workfront Fusion_
 
 Quando um cenário está em execução, pode ocorrer um erro de tempo limite. As informações do módulo com o erro não chegam ao destino.
 
-**[!DNL Workfront]A pesquisa expira**
+A pesquisa do **[!DNL Workfront]atinge o tempo limite**
 
-_Pesquisar_
+_Pesquisa_
 
 A pesquisa do [!DNL Workfront] atinge o tempo limite. A pesquisa pode retornar alguns resultados ou nenhum.
 
@@ -88,7 +88,7 @@ Esse problema também afeta a funcionalidade do módulo [!DNL Workfront Fusion] 
 
 _Quadros_
 
-Agora é possível usar filtros de tarefas e problemas do Workfront existentes ao configurar a coluna entrada para um quadro. No entanto, os filtros da coluna de entrada existentes agora são somente leitura no painel de configuração. Os filtros existentes ainda são aplicados à coluna de entrada, mas você deve recriar os filtros se desejar editá-los.
+Agora é possível usar a tarefa existente do Workfront e os filtros de problemas ao configurar a coluna de entrada de um quadro. No entanto, os filtros de coluna de entrada existentes agora são somente leitura no painel de configuração. Os filtros existentes ainda são aplicados à coluna de entrada, mas você deve recriar os filtros se quiser editá-los.
 
 +++
 
@@ -249,7 +249,7 @@ _Documentos_
 
 Quando um usuário visualiza o painel [!UICONTROL Resumo] de um documento, seus conteúdos são muito largos para serem visualizados no painel. O painel agora tem uma barra de rolagem horizontal, e o usuário deve rolar a barra horizontalmente para ver o conteúdo do painel [!UICONTROL Resumo]. Isso ocorre porque o nome do arquivo do documento não possui quebra de linha. Esse problema é limitado a arquivos em que o nome do arquivo tenha uma extensão de arquivo HTML.
 
-**Nova versão do [!UICONTROL Visualizador de prova para desktop**]
+**Nova versão do [!UICONTROL Visualizador de prova para desktop]**
 
 _Prova_
 
