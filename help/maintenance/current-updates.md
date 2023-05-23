@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: d0c6f72269cb94bbe309b1bd3f323af83b79353d
+source-git-commit: 844b6e4f47084992fd690ed2ea716b46a4e259dd
 workflow-type: tm+mt
-source-wordcount: '3581'
-ht-degree: 97%
+source-wordcount: '3646'
+ht-degree: 95%
 
 ---
 
@@ -20,6 +20,22 @@ As seguintes atualizações de manutenção foram efetuadas em 2023.
 Para obter atualizações de manutenção anteriores a 2023, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em maio de 2023
+
++++**(Planejado) Atualização de manutenção em 25 de maio de 2023**
+
+**[!UICONTROL Kanban] o quadro fica em branco ao editar cartões**
+
+_Agile_
+
+Quando um usuário altera algo sobre um cartão no [!UICONTROL Kanban] painel, o [!UICONTROL Kanban] placa fica em branco em vez de atualizar com a alteração. Se o usuário atualizar a página manualmente, a variável [!UICONTROL Kanban] retorna, mostrando a alteração correta.
+
+Esse problema foi relatado nas seguintes circunstâncias:
+
+* Edição de um cartão
+* Mover um cartão
+
+
++++
 
 +++**Atualização de manutenção em 22 de maio de 2023**
 
