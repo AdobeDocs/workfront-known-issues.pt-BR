@@ -2,9 +2,9 @@
 title: "Relatórios: o relatório não classifica corretamente ao classificar por qualquer campo"
 description: ""
 hidefromtoc: true
-source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
-workflow-type: ht
-source-wordcount: '77'
+source-git-commit: ef82f9a12925f2fc70a20f91f9278240fcee92fb
+workflow-type: tm+mt
+source-wordcount: '88'
 ht-degree: 100%
 
 ---
@@ -12,6 +12,9 @@ ht-degree: 100%
 
 # Relatórios: o relatório não classifica corretamente ao classificar por qualquer campo
 
+>[!NOTE]
+>
+>Esse problema foi encerrado porque não é um problema.
 
 Quando um usuário executa um relatório de tarefa, o relatório parece classificar corretamente quando está carregando, mas quando ele termina de carregar, o usuário vê que o relatório não está classificado corretamente.
 
