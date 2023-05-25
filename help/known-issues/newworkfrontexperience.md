@@ -3,10 +3,10 @@ title: Problemas conhecidos na nova experiência do [!DNL Adobe Workfront]
 description: Problemas conhecidos reportados da nova experiência do  [!DNL Adobe Workfront]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 003db8164485be5a7542ca1f0814619121b5b8cb
+source-git-commit: 3fecf0bacca07ba0609e8018421385fff60d7e90
 workflow-type: tm+mt
-source-wordcount: '579'
-ht-degree: 95%
+source-wordcount: '570'
+ht-degree: 97%
 
 ---
 
@@ -35,7 +35,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
 | [Formulários personalizados: a lógica de exibição é perdida quando o formulário personalizado é editado no novo designer de formulário (beta)](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md) | 24 de maio de 2023 |
-| [Agile: [!UICONTROL Kanban] o quadro fica em branco ao editar cartões](known-issues-workfront/wf-agile-blank-page-kanban-board.md) | 18 de maio de 2023 |
 | [Tarefas: nenhuma mensagem de erro ao reordenar uma tarefa com o status de [!UICONTROL Aprovação pendente]](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 11 de maio de 2023 |
 | [Balanceador de Carga de Trabalho: horas redistribuídas inesperadamente](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 11 de maio de 2023 |
 | [Provas: as aprovações de prova bloqueadas ainda são mostradas na lista de trabalho](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 4 de maio de 2023 |

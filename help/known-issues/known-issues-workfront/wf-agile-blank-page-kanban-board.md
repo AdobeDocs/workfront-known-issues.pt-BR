@@ -1,20 +1,24 @@
 ---
-title: "Ágil: O quadro kanban fica em branco ao editar cartões"
-description: "Quando um usuário altera algo sobre um cartão no [!UICONTROL Kanban] quadro, o [!UICONTROL Kanban] O quadro fica em branco em vez de atualizar com a alteração. Se o usuário atualizar a página manualmente, a variável [!UICONTROL Kanban] quadro retorna, mostrando a mudança correta."
+title: "Agile: o quadro Kanban fica em branco ao editar cartões"
+description: "Quando um usuário altera algo sobre um cartão no [!UICONTROL Kanban] painel, o [!UICONTROL Kanban] placa fica em branco em vez de atualizar com a alteração. Se o usuário atualizar a página manualmente, a variável [!UICONTROL Kanban] devoluções, mostrando a alteração correta."
 hidefromtoc: true
-source-git-commit: 97538739d474bd79b28362b1f21527d9dbe1486b
+source-git-commit: 3fecf0bacca07ba0609e8018421385fff60d7e90
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 7%
+source-wordcount: '120'
+ht-degree: 11%
 
 ---
 
 
-# Ágil: [!UICONTROL Kanban] O quadro fica em branco ao editar cartões
+# Agile: [!UICONTROL Kanban] o quadro fica em branco ao editar cartões
 
-Quando um usuário altera algo sobre um cartão no [!UICONTROL Kanban] quadro, o [!UICONTROL Kanban] O quadro fica em branco em vez de atualizar com a alteração. Se o usuário atualizar a página manualmente, a variável [!UICONTROL Kanban] quadro retorna, mostrando a alteração correta.
+>[!NOTE]
+>
+>Esse problema foi corrigido em 25 de maio de 2023.
 
-Este fato foi comunicado nas seguintes circunstâncias:
+Quando um usuário altera algo sobre um cartão no [!UICONTROL Kanban] painel, o [!UICONTROL Kanban] placa fica em branco em vez de atualizar com a alteração. Se o usuário atualizar a página manualmente, a variável [!UICONTROL Kanban] retorna, mostrando a alteração correta.
+
+Esse problema foi relatado nas seguintes circunstâncias:
 
 * Edição de um cartão
 * Mover um cartão
