@@ -1,16 +1,16 @@
 ---
-title: "Workfront Proof: erro 500 ao acessar o Workfront Proof por meio da API ou do Workfront Fusion"
-description: "Quando um usuário acessa a ação getAllProofs da API de prova, o servidor do Workfront Proof retorna a mensagem: Erro interno 500 do servidor"
+title: '“Prova do Workfront: erro 500 ao acessar a prova do Workfront por meio da API ou do Workfront Fusion”'
+description: '“Quando um usuário acessa a ação getAllProofs da API de prova, o servidor de prova do Workfront retorna a mensagem: ‘Erro interno 500 do servidor’”'
 hidefromtoc: true
 source-git-commit: ef82f9a12925f2fc70a20f91f9278240fcee92fb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '102'
-ht-degree: 31%
+ht-degree: 100%
 
 ---
 
 
-# [!DNL Workfront Proof]: erro 500 ao acessar [!DNL Workfront Proof] por API ou [!DNL Workfront Fusion]
+# [!DNL Workfront Proof]: erro 500 ao acessar o [!DNL Workfront Proof] por meio da API ou do [!DNL Workfront Fusion]
 
 >[!NOTE]
 >
@@ -18,11 +18,11 @@ ht-degree: 31%
 
 <!--This article is on Proof and Fusion TOCs-->
 
-Quando um usuário acessa o [!DNL Workfront Proof] API [!UICONTROL `getAllProofs`] , o servidor retornará a seguinte mensagem:
+Quando um usuário acessa a ação [!UICONTROL `getAllProofs`] da API do [!DNL Workfront Proof], o servidor retorna a seguinte mensagem:
 
-[!UICONTROL Erro interno de servidor 500]
+[!UICONTROL Erro interno 500 do servidor]
 
-Porque [!DNL Workfront Fusion] usa o [!DNL Workfront Proof] API para [!DNL Workfront Proof] , esse erro pode ser retornado a um módulo, interrompendo um cenário.
+Visto que o [!DNL Workfront Fusion] usa a API do [!DNL Workfront Proof] para módulos do [!DNL Workfront Proof], esse erro pode ser retornado em um módulo, interrompendo um cenário.
 
 _Relatado pela primeira vez em 28 de abril de 2023._
 
