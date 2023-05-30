@@ -3,7 +3,7 @@ title: '“Relatórios: o relatório não classifica corretamente por campo pers
 description: “Quando um usuário executa um relatório de tarefa, o relatório parece classificar corretamente quando está carregando, mas quando ele termina de carregar, o usuário vê que o relatório não está classificado corretamente.
 hidefromtoc: true
 source-git-commit: d781ab9f0204cf65f67583a90d9aaaa3bc9db303
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '127'
 ht-degree: 100%
 
