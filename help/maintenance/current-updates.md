@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 844b6e4f47084992fd690ed2ea716b46a4e259dd
+source-git-commit: 2919ae11be238227242de8a5863f19ebd6099f92
 workflow-type: tm+mt
-source-wordcount: '3646'
-ht-degree: 99%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -19,9 +19,27 @@ As seguintes atualizações de manutenção foram efetuadas em 2023.
 
 Para obter atualizações de manutenção anteriores a 2023, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
+## Atualizações em junho de 2023
+
++++**(Planejado) Atualização de manutenção em 1 de junho de 2023**
+
+**Nenhuma mensagem de erro ao reordenar a tarefa em [!UICONTROL Aprovação pendente] status**
+
+_Tarefas_
+
+Quando um usuário tenta reordenar uma tarefa com o status [!UICONTROL Aprovação pendente] em uma lista de tarefas, a tarefa parece se mover na lista de tarefas. Após a atualização, o usuário vê que o item não foi movido. O item não pode ser movido porque está sob o status [!UICONTROL Aprovação pendente], mas não há uma mensagem informando ao usuário que o item não pode se mover, o que pode causar confusão.
+
+**Nenhuma mensagem de erro ao mover a tarefa predecessora na tarefa dependente**
+
+_Tarefas_
+
+Quando um usuário tenta reordenar uma tarefa com o status [!UICONTROL Aprovação pendente] em uma lista de tarefas, a tarefa parece se mover na lista de tarefas. Após a atualização, o usuário vê que o item não foi movido. O item não pode ser movido porque uma tarefa predecessora não pode ser movida sob uma tarefa para a qual ela é predecessora, mas não há nenhuma mensagem informando ao usuário que o item não pode ser movido, o que pode causar confusão.
+
++++
+
 ## Atualizações em maio de 2023
 
-+++**(Planejado) Atualização de manutenção em 25 de maio de 2023**
++++**Atualização de manutenção em 25 de maio de 2023**
 
 o quadro do **[!UICONTROL Kanban] fica em branco ao editar cartões**
 
