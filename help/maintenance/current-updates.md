@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 844b6e4f47084992fd690ed2ea716b46a4e259dd
 workflow-type: tm+mt
 source-wordcount: '3646'
-ht-degree: 95%
+ht-degree: 99%
 
 ---
 
@@ -23,16 +23,16 @@ Para obter atualizações de manutenção anteriores a 2023, consulte [Atualiza�
 
 +++**(Planejado) Atualização de manutenção em 25 de maio de 2023**
 
-**[!UICONTROL Kanban] o quadro fica em branco ao editar cartões**
+o quadro do **[!UICONTROL Kanban] fica em branco ao editar cartões**
 
 _Agile_
 
-Quando um usuário altera algo sobre um cartão no [!UICONTROL Kanban] painel, o [!UICONTROL Kanban] placa fica em branco em vez de atualizar com a alteração. Se o usuário atualizar a página manualmente, a variável [!UICONTROL Kanban] retorna, mostrando a alteração correta.
+Quando um usuário altera um detalhe de um cartão no quadro do [!UICONTROL Kanban], o quadro fica em branco em vez de registrar a alteração. Se o usuário atualiza a página manualmente, o quadro do [!UICONTROL Kanban] reaparece e mostra a alteração correta.
 
 Esse problema foi relatado nas seguintes circunstâncias:
 
 * Edição de um cartão
-* Mover um cartão
+* Movimentação de um cartão
 
 
 +++
@@ -43,16 +43,16 @@ Esse problema foi relatado nas seguintes circunstâncias:
 
 _Formulários personalizados_
 
-Quando o designer de formulário personalizado foi lançado na versão beta, a funcionalidade para ajustar o tamanho do texto descritivo não estava disponível. Esse problema foi corrigido e os usuários agora podem ajustar o tamanho do texto descritivo.
+Quando o designer de formulários personalizados foi lançado na versão beta, a funcionalidade para ajustar o tamanho do texto descritivo não estava disponível. Esse problema foi corrigido e os usuários agora podem ajustar o tamanho do texto descritivo.
 
 +++
 
 +++**Atualização de manutenção em 18 de maio de 2023**
 
-**O relatório não é classificado corretamente ao classificar por campo personalizado**
+**O relatório não classifica corretamente por campo personalizado**
 
 _Relatórios_
-Quando um usuário executa um relatório de tarefa, ele parece classificar corretamente quando está carregando, mas quando termina o carregamento, o usuário vê que o relatório não está classificado corretamente.
+Quando um usuário executa um relatório de tarefa, o relatório parece classificar corretamente durante o carregamento, mas ao término do processo, o relatório não está classificado corretamente.
 
 Isso parece ocorrer se todas as seguintes circunstâncias forem atendidas:
 

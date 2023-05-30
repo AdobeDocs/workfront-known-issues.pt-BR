@@ -4,7 +4,7 @@ user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 source-git-commit: 003db8164485be5a7542ca1f0814619121b5b8cb
 workflow-type: tm+mt
 source-wordcount: '1217'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 96%
    + [Problemas conhecidos no [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
       + [Formulários personalizados: a lógica de exibição é perdida quando o formulário personalizado é editado no novo designer de formulário (beta)](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md)
-      + [Agile: [!UICONTROL Kanban] o quadro fica em branco ao editar cartões](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
+      + [Agile: o quadro do [!UICONTROL Kanban] fica em branco ao editar cartões](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
       + [Relatórios: o relatório não classifica corretamente ao classificar por qualquer campo](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
       + [Balanceador de Carga de Trabalho: Horas redistribuídas inesperadamente](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
       + [Formulários personalizados: erro “[!UICONTROL Ops!]” ao configurar um campo calculado](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
@@ -37,7 +37,7 @@ ht-degree: 96%
       + [Projetos: os status personalizados do [!UICONTROL grupo inicial] não estão disponíveis ao criar um projeto a partir de um modelo](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
       + [Provas: não é possível usar a ferramenta Polyline ao fazer um comentário em uma prova](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md)
       + [Provas: a ferramenta de medição não aceita pontos decimais](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
-      + [Pesquisa: a pesquisa do  [!DNL Workfront]  atinge o tempo limite](known-issues-workfront/wf-search-search-times-out.md)
+      + [Pesquisa: a pesquisa do  [!DNL Workfront] atinge o tempo limite](known-issues-workfront/wf-search-search-times-out.md)
       + [Provas: não é possível alternar a versão de prova ao visualizar a prova](known-issues-workfront/wf-proofs-cannot-switch-version.md)
       + [Provas: os menus suspensos não são abertos quando um usuário é adicionado a uma prova](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md)
       + [Provas: o usuário é desativado no fluxo de trabalho de prova e recebe a mensagem “[!UICONTROL Acesso não permitido]” ao acessar a prova](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)
@@ -56,7 +56,7 @@ ht-degree: 96%
       + [Projetos: o campo personalizado está ausente quando o problema é convertido em projeto](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md)
       + [Provas: não é possível adicionar um usuário ou grupo ao fluxo de trabalho de prova](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md)
       + [Provas: as funções de prova foram alteradas para [!UICONTROL Somente leitura]](known-issues-workfront/wf-proof-roles-set-to-read-only.md)
-      + [Integrações: erro ao fazer logon no  [!DNL Workfront]  a partir do  [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
+      + [Integrações: erro ao fazer logon no  [!DNL Workfront] a partir do [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
       + [Projetos: erro 504 no cabeçalho do projeto](known-issues-workfront/wf-projects-504-error-in-project-header.md)
       + [[!UICONTROL Quadros]: não é possível adicionar cartões quando um agrupamento é aplicado](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
       + [Usuários: o nível de acesso não é atribuído ao reativar o usuário](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md)
@@ -95,7 +95,7 @@ ht-degree: 96%
       + [[!UICONTROL Configuração]: as listas carregam lentamente na [!UICONTROL Configuração]](known-issues-workfront/wf-setup-lists-load-slowly.md)
       + [Tarefas: as horas não são salvas ao inserir horas no painel [!UICONTROL Resumo da tarefa]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
       + [Provas: o campo [!UICONTROL Estágios de prova ativos] está em branco](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md)
-      + [[!DNL Workfront]: problemas ao enviar um caso de suporte do  [!DNL Workfront]  na Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md)
+      + [[!DNL Workfront]: problemas ao enviar um caso de suporte do [!DNL Workfront] na Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md)
       + [Painéis: os gráficos de relatório exibidos em um painel usam cores diferentes das exibidas no relatório](known-issues-workfront/wf-dashboard-reports-wrong-color.md)
       + [Agile: problemas ao mover cartões no quadro Agile](known-issues-workfront/wf-agile-issues-moving-cards.md)
       + [Página inicial: a terminologia personalizada não é aplicada à área da página inicial](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md)
@@ -125,7 +125,7 @@ ht-degree: 96%
 + [!DNL Workfront Proof] {#proof}
    + [Problemas conhecidos no [!DNL Workfront Proof]](workfrontproof.md)
    + Problemas atuais no [!DNL Workfront Proof] {#proof-current}
-      + [[!DNL Workfront Proof]: erro 500 ao acessar [!DNL Workfront Proof] por API ou [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)
+      + [[!DNL Workfront Proof]: erro 500 ao acessar o [!DNL Workfront Proof] por meio da API ou do [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)
       + [[!DNL Workfront Proof]: a pesquisa não retorna resultados](known-issues-workfront-proof/proof-search-returns-no-results.md)
       + [Provas: a caixa de opções de texto mostra “textAnnotations”](known-issues-workfront-proof/proof-text-shows-textannotation.md)
       + [[!DNL Workfront Proof]: as listas não são classificadas corretamente](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
@@ -151,14 +151,14 @@ ht-degree: 96%
    + [Problemas conhecidos no Workfront Fusion](workfrontfusion.md)
    + Problemas atuais no [!DNL Workfront Fusion] {#fusion-current}
       + [[!DNL Workfront Fusion]: os emails de notificação não estão sendo enviados](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
-      + [[!DNL Workfront Fusion]: as execuções ficam paralisadas ou atrasadas](known-issues-workfront-fusion/fusion-stuck-executions.md)
+      + [[!DNL Workfront Fusion]: as execuções estão paralisadas ou atrasadas](known-issues-workfront-fusion/fusion-stuck-executions.md)
       + [[!DNL Workfront Fusion]: o histórico de execução de cenários não exibe todo o histórico](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)
       + [[!DNL Adobe Workfront Fusion]: erros de tempo limite no Workfront Fusion](known-issues-workfront-fusion/fusion-timeout-errors.md)
       + [[!DNL Adobe Workfront Fusion]: erros 404 em módulos do Workfront](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
       + [[!DNL Workfront Fusion]: erro ao visualizar um erro em um histórico de execução de cenário](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
       + [[!DNL Workfront Fusion]: o módulo  [!DNL Workfront]  > [!UICONTROL Chamada de API personalizada] retorna o erro 404 ou 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: erro “Falha ao verificar a conexão”](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
-      + [[!DNL Workfront Fusion]: o módulo  [!DNL Fusion]  retorna o erro 404 sem mais informações](known-issues-workfront-fusion/fusion-404-error-no-description.md)
+      + [[!DNL Workfront Fusion]: o módulo  [!DNL Fusion] retorna o erro 404 sem mais informações](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [Os links de ajuda no aplicativo do [!DNL Workfront Fusion] não abrem páginas de ajuda específicas](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + [!UICONTROL Adobe Workfront Goals] {#goals}

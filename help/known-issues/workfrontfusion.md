@@ -6,7 +6,7 @@ exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 source-git-commit: 62628913e03cf9548d75a544e5ec4c7f846a52dd
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 89%
+ht-degree: 95%
 
 ---
 
@@ -24,7 +24,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: as execuções ficam paralisadas ou atrasadas](known-issues-workfront-fusion/fusion-stuck-executions.md) | 25 de maio de 2023 |
+| [[!DNL Workfront Fusion]: as execuções estão paralisadas ou atrasadas](known-issues-workfront-fusion/fusion-stuck-executions.md) | 25 de maio de 2023 |
 
 {style="table-layout:auto"}
 
@@ -45,7 +45,7 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Proof]: 500 error when accessing [!DNL Workfront Proof] por API ou [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 25 de maio de 2023 |
+| [[!DNL Workfront Proof]: 500 error when accessing [!DNL Workfront Proof]  por meio da API ou do  [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 25 de maio de 2023 |
 | [[!DNL Workfront Fusion]: erro “Falha ao verificar a conexão”](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md) | 29 de setembro de 2022 |
 | O módulo [[!DNL Workfront Fusion]: [!DNL Fusion]  retorna o erro 404 sem mais informações](known-issues-workfront-fusion/fusion-404-error-no-description.md) | 9 de setembro de 2022 |
 

@@ -3,7 +3,7 @@ title: '“Prova do Workfront: erro 500 ao acessar a prova do Workfront por meio
 description: '“Quando um usuário acessa a ação getAllProofs da API de prova, o servidor de prova do Workfront retorna a mensagem: ‘Erro interno 500 do servidor’”'
 hidefromtoc: true
 source-git-commit: ef82f9a12925f2fc70a20f91f9278240fcee92fb
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 100%
 
