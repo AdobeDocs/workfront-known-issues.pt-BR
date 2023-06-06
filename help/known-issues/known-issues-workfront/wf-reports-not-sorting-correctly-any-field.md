@@ -3,7 +3,7 @@ title: "Relatórios: o relatório não classifica corretamente ao classificar po
 description: ""
 hidefromtoc: true
 source-git-commit: ef82f9a12925f2fc70a20f91f9278240fcee92fb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
 ht-degree: 100%
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Esse problema foi encerrado porque não é um problema.
+>Essa questão foi encerrada porque não é um problema.
 
 Quando um usuário executa um relatório de tarefa, o relatório parece classificar corretamente quando está carregando, mas quando ele termina de carregar, o usuário vê que o relatório não está classificado corretamente.
 
