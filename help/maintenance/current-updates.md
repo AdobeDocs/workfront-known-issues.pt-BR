@@ -41,9 +41,9 @@ Quando um usuário tenta reordenar uma tarefa com o status [!UICONTROL Aprovaç�
 
 +++**Atualização de manutenção em 25 de maio de 2023**
 
-o quadro do **[!UICONTROL Kanban] fica em branco ao editar cartões**
+O quadro do **[!UICONTROL Kanban] fica em branco ao editar cartões**
 
-_Agile_
+_Ágil_
 
 Quando um usuário altera um detalhe de um cartão no quadro do [!UICONTROL Kanban], o quadro fica em branco em vez de registrar a alteração. Se o usuário atualiza a página manualmente, o quadro do [!UICONTROL Kanban] reaparece e mostra a alteração correta.
 
@@ -156,7 +156,7 @@ Agora é possível editar a imagem anexada a um comentário ao editar um coment�
 
 +++**[!DNL Adobe Workfront Fusion]Atualização de manutenção em 25 de abril de 2023**
 
- Os links de ajuda no aplicativo do **[!DNL Fusion]não abrem páginas de ajuda específicas**
+Os links de ajuda no aplicativo do **[!DNL Fusion]não abrem páginas de ajuda específicas**
 
 _[!DNL Workfront Fusion]_
 

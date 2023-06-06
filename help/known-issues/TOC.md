@@ -4,7 +4,7 @@ user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 source-git-commit: 003db8164485be5a7542ca1f0814619121b5b8cb
 workflow-type: tm+mt
 source-wordcount: '1217'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -44,7 +44,7 @@ ht-degree: 98%
       + [Documentos: problemas com a lista de documentos](known-issues-workfront/wf-documents-list-missing-elements.md)
       + [Provas: o estágio da prova não é ativado quando o prazo do estágio anterior é ultrapassado](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md)
       + [Usuários: o nível de acesso é alterado pelo sistema sem registro da alteração](known-issues-workfront/wf-users-access-level-is-changed.md)
-      + [Documentos: erro 404 ao acessar um documento vinculado a partir do  [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md)
+      + [Documentos: erro 404 ao acessar um documento vinculado a partir do [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md)
       + [Documentos: as opções das [!UICONTROL Atividades de prova] levam à página de logon](known-issues-workfront/wf-documents-taken-to-login-screen.md)
       + [Atualizações: a atualização feita em nome de um usuário é vinculada diretamente ao usuário](known-issues-workfront/wf-updates-update-made-in-behalf-shows-as-from-user.md)
       + [Filtros: o filtro não é aplicado quando a página é atualizada](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md)
@@ -156,7 +156,7 @@ ht-degree: 98%
       + [[!DNL Adobe Workfront Fusion]: erros de tempo limite no Workfront Fusion](known-issues-workfront-fusion/fusion-timeout-errors.md)
       + [[!DNL Adobe Workfront Fusion]: erros 404 em módulos do Workfront](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
       + [[!DNL Workfront Fusion]: erro ao visualizar um erro em um histórico de execução de cenário](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
-      + [[!DNL Workfront Fusion]: o módulo  [!DNL Workfront]  > [!UICONTROL Chamada de API personalizada] retorna o erro 404 ou 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]: o módulo [!DNL Workfront] >[!UICONTROL Chamada de API personalizada] retorna o erro 404 ou 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: erro “Falha ao verificar a conexão”](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: o módulo  [!DNL Fusion] retorna o erro 404 sem mais informações](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [Os links de ajuda no aplicativo do [!DNL Workfront Fusion] não abrem páginas de ajuda específicas](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
