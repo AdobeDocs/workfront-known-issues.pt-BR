@@ -3,9 +3,9 @@ title: '“Calendários: problemas com o calendário de folga”'
 description: Problemas relacionados ao calendário de folga foram relatados.
 exl-id: 242b3f9a-2ee2-4e76-bbfa-46576ebaa5d9
 hidefromtoc: true
-source-git-commit: de7f66f7acba1a0ac32a1257b2e643a767eae7fb
-workflow-type: ht
-source-wordcount: '116'
+source-git-commit: cdf229505b05676fddbe2aae07769768c415daa8
+workflow-type: tm+mt
+source-wordcount: '94'
 ht-degree: 100%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->A equipe do produto está avaliando a resolução do problema, que pode exigir melhorias do produto. As melhorias do produto são comunicadas nos Anúncios do produto e não nas Atualizações de manutenção.
+>Esse problema foi corrigido em 6 de junho de 2023.
 
 Os seguintes problemas estão sendo relatados em relação ao calendário de [!UICONTROL Folga]:
 

@@ -3,9 +3,9 @@ title: Problemas conhecidos na nova experiência do [!DNL Adobe Workfront]
 description: Problemas conhecidos reportados da nova experiência do  [!DNL Adobe Workfront]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 3c0433fb5c690346ccd474ec72c27ace056abd03
+source-git-commit: cdf229505b05676fddbe2aae07769768c415daa8
 workflow-type: tm+mt
-source-wordcount: '548'
+source-wordcount: '541'
 ht-degree: 100%
 
 ---
@@ -71,7 +71,6 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 | [Aprovações: a delegação de aprovação é definida com o número incorreto de dias](known-issues-workfront/wf-approval-delegation-incorrect-number-of-days.md) | 20 de abril de 2022 |
 | [[!UICONTROL Página inicial]: a opção Nova tarefa mostra usuários desativados no campo [!UICONTROL Atribuir a]](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md) | 1 de outubro de 2021 |
 | [Atualizações: o nome da equipe não aparece em @mention](known-issues-workfront/wf-updates-team-name-not-in-mention.md) | 1 de outubro de 2021 |
-| [Calendários: problemas com o calendário de [!UICONTROL Folga]](known-issues-workfront/wf-calendars-issue-time-off.md) | 25 de junho de 2021 |
 | [Agile: discrepância em [!UICONTROL Pontos concluídos] de uma iteração](known-issues-workfront/wf-agile-discrepancy-in-completed-points.md) | 22 de junho de 2021 |
 | [[!UICONTROL Página inicial]: o comportamento do botão [!UICONTROL Responder na prova] é inconsistente](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 21 de junho de 2021 |
 | [Notificações por email: a configuração “[!UICONTROL Estou atribuído a um problema]” é exibida](known-issues-workfront/wf-email-notif-im-assigned-to-issue-displaying.md) | 2 de junho de 2021 |
