@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
-source-git-commit: 22b645ee68e1735e4b3c91d0a88e2e2855c982c4
+source-git-commit: 2ef839479364e7692f04ddcc84cbbc40466b2521
 workflow-type: tm+mt
-source-wordcount: '1221'
-ht-degree: 99%
+source-wordcount: '1230'
+ht-degree: 98%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Provas: as provas são criadas lentamente no ambiente de Pré-visualização](known-issues-workfront/wf-proofs-in-preview-created-slowly.md)
       + [Formulários personalizados: a lógica de exibição é perdida quando o formulário personalizado é editado no novo designer de formulário (beta)](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md)
       + [Agile: o quadro do [!UICONTROL Kanban] fica em branco ao editar cartões](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
       + [Relatórios: o relatório não classifica corretamente ao classificar por qualquer campo](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
