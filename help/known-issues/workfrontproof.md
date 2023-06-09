@@ -3,10 +3,10 @@ title: Problemas conhecidos no [!DNL Adobe Workfront Proof]
 description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 2ef839479364e7692f04ddcc84cbbc40466b2521
+source-git-commit: 150b29e6b3a839be808d4fab2faaee78502b8070
 workflow-type: tm+mt
-source-wordcount: '284'
-ht-degree: 96%
+source-wordcount: '294'
+ht-degree: 93%
 
 ---
 
@@ -44,6 +44,7 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Provas: as provas são criadas lentamente no ambiente de Pré-visualização](known-issues-workfront-proof/proof-dependency-rules-multichoice.md) | 9 de junho de 2023 |
 | [Provas: as provas são criadas lentamente no ambiente de Pré-visualização](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 8 de junho de 2023 |
 | [[!DNL Workfront Proof]: 500 error when accessing [!DNL Workfront Proof]  por meio da API ou do  [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 25 de maio de 2023 |
 | [Documentos: as opções das [!UICONTROL Atividades de prova] levam à página de logon](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 21 de abril de 2023, 2023 |
