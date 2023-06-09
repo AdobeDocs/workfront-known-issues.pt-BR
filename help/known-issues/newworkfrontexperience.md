@@ -3,10 +3,10 @@ title: Problemas conhecidos na nova experiência do [!DNL Adobe Workfront]
 description: Problemas conhecidos reportados da nova experiência do  [!DNL Adobe Workfront]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 2ef839479364e7692f04ddcc84cbbc40466b2521
+source-git-commit: bc59c3734bdb06698aa426dadd6671bc4d1739b2
 workflow-type: tm+mt
-source-wordcount: '551'
-ht-degree: 98%
+source-wordcount: '568'
+ht-degree: 95%
 
 ---
 
@@ -24,7 +24,8 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| Nenhum(a) |  |
+| [Relatórios: &quot;[!UICONTROL Ops]&quot;erro ao visualizar o relatório de matriz](known-issues-workfront/wf-reports-error-matrix-report.md) | 9 de junho de 2023 |
+| [Provas: as provas são criadas lentamente no ambiente de Pré-visualização](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md) | 9 de junho de 2023 |
 
 {style="table-layout:auto"}
 
