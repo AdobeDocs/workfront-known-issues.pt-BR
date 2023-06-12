@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: ac52149aa600405065d677c2b1f0e893844b3b46
 workflow-type: tm+mt
 source-wordcount: '3889'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -21,13 +21,13 @@ Para obter atualizações de manutenção anteriores a 2023, consulte [Atualiza�
 
 ## Atualizações em junho de 2023
 
-+++** Atualização de manutenção em 8 de junho de 2023**
++++**Atualização de manutenção em 8 de junho de 2023**
 
 Esta atualização inclui apenas correções de erros menores ou menos importantes. O suporte do [!DNL Workfront] enviará uma notificação quando um problema enviado for corrigido.
 
 +++
 
-+++**[!DNL Adobe Workfront Fusion] Atualização de manutenção em 8 de junho de 2023**
++++**[!DNL Adobe Workfront Fusion]Atualização de manutenção em 8 de junho de 2023**
 
 [!DNL Fusion] implantou uma correção que impede a remoção das conexões de um usuário quando ele é removido ou desativado na [!UICONTROL Adobe Admin Console].
 
@@ -35,9 +35,9 @@ Esta atualização inclui apenas correções de erros menores ou menos important
 
 +++
 
-+++** Atualização de manutenção em 1 de junho de 2023**
++++**Atualização de manutenção em 1 de junho de 2023**
 
-**Nenhuma mensagem de erro ao reordenar a tarefa em [!UICONTROL Aprovação pendente] status**
+**Nenhuma mensagem de erro ao reordenar tarefa com o status [!UICONTROL Aprovação pendente]**
 
 _Tarefas_
 
@@ -47,7 +47,7 @@ Quando um usuário tenta reordenar uma tarefa com o status [!UICONTROL Aprovaç�
 
 _Tarefas_
 
-Quando um usuário tenta reordenar uma tarefa com o status [!UICONTROL Aprovação pendente] em uma lista de tarefas, a tarefa parece se mover na lista de tarefas. Após a atualização, o usuário vê que o item não foi movido. O item não pode ser movido porque uma tarefa predecessora não pode ser movida sob uma tarefa para a qual ela é predecessora, mas não há nenhuma mensagem informando ao usuário que o item não pode ser movido, o que pode causar confusão.
+Quando um usuário tenta reordenar uma tarefa com o status [!UICONTROL Aprovação pendente] em uma lista de tarefas, a tarefa parece se mover na lista de tarefas. Após a atualização, o usuário vê que o item não foi movido. O item não pode ser movido porque uma tarefa predecessora não pode ser movida sob uma tarefa para a qual ela é predecessora, mas não há nenhuma mensagem informando o usuário que o item não pode ser movido, o que pode causar confusão.
 
 +++
 
