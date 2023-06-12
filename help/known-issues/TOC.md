@@ -1,9 +1,9 @@
 ---
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
-source-git-commit: c28d7e157d8abb140c79503c91ce2a049fa3c7b6
+source-git-commit: e684a574f9db0ec511bbc323676e7b99650abca9
 workflow-type: tm+mt
-source-wordcount: '1255'
+source-wordcount: '1264'
 ht-degree: 96%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [[!UICONTROL Início]: os itens não aparecem no [!UICONTROL Lista de trabalho da página inicial]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)
       + [Relatórios: &quot;[!UICONTROL Ops]&quot;erro ao visualizar o relatório de matriz](known-issues-workfront/wf-reports-error-matrix-report.md)
       + [Provas: as provas são criadas lentamente no ambiente de Pré-visualização](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)
       + [Provas: as provas são criadas lentamente no ambiente de Pré-visualização](known-issues-workfront/wf-proofs-in-preview-created-slowly.md)

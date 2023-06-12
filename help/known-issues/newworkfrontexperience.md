@@ -3,10 +3,10 @@ title: Problemas conhecidos na nova experiência do [!DNL Adobe Workfront]
 description: Problemas conhecidos reportados da nova experiência do  [!DNL Adobe Workfront]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: bc59c3734bdb06698aa426dadd6671bc4d1739b2
+source-git-commit: e684a574f9db0ec511bbc323676e7b99650abca9
 workflow-type: tm+mt
-source-wordcount: '568'
-ht-degree: 95%
+source-wordcount: '578'
+ht-degree: 93%
 
 ---
 
@@ -24,6 +24,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Início]: os itens não aparecem no [!UICONTROL Lista de trabalho da página inicial]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 12 de junho de 2023 |
 | [Relatórios: &quot;[!UICONTROL Ops]&quot;erro ao visualizar o relatório de matriz](known-issues-workfront/wf-reports-error-matrix-report.md) | 9 de junho de 2023 |
 | [Provas: as provas são criadas lentamente no ambiente de Pré-visualização](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md) | 9 de junho de 2023 |
 
