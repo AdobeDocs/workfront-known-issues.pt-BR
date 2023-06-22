@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: b8552cb4de3b5372b5b18d5891b490f22b9d803d
 workflow-type: tm+mt
 source-wordcount: '3912'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -37,7 +37,7 @@ Esta atualização contém apenas correções de erros pequenos ou menos importa
 
 O [!DNL Fusion] implantou uma correção que impede a remoção das conexões de um usuário quando ele for removido ou desativado no [!UICONTROL Adobe Admin Console].
 
-[!DNL Fusion] os administradores de equipe ainda podem remover conexões desnecessárias do [!UICONTROL Conexões] página em [!DNL Fusion].
+Os administradores de equipe do [!DNL Fusion] ainda podem remover conexões desnecessárias da página [!UICONTROL Conexões] no [!DNL Fusion].
 
 +++
 
