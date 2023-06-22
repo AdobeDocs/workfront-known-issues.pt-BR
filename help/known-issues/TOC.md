@@ -2,9 +2,9 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 source-git-commit: e684a574f9db0ec511bbc323676e7b99650abca9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1264'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -16,10 +16,10 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
-      + [[!UICONTROL Início]: os itens não aparecem no [!UICONTROL Lista de trabalho da página inicial]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)
-      + [Relatórios: &quot;[!UICONTROL Ops]&quot;erro ao visualizar o relatório de matriz](known-issues-workfront/wf-reports-error-matrix-report.md)
-      + [Provas: as provas são criadas lentamente no ambiente de Pré-visualização](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)
-      + [Provas: as provas são criadas lentamente no ambiente de Pré-visualização](known-issues-workfront/wf-proofs-in-preview-created-slowly.md)
+      + [[!UICONTROL Página inicial]: os itens não aparecem na [!UICONTROL lista de trabalho da página inicial]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)
+      + [Relatórios: um erro “[!UICONTROL Ops.]” ocorre ao visualizar o relatório de matriz](known-issues-workfront/wf-reports-error-matrix-report.md)
+      + [Provas: as provas são criadas lentamente no ambiente Visualização](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)
+      + [Provas: as provas são criadas lentamente no ambiente Visualização](known-issues-workfront/wf-proofs-in-preview-created-slowly.md)
       + [Formulários personalizados: a lógica de exibição é perdida quando o formulário personalizado é editado no novo designer de formulário (beta)](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md)
       + [Agile: o quadro do [!UICONTROL Kanban] fica em branco ao editar cartões](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
       + [Relatórios: o relatório não classifica corretamente ao classificar por qualquer campo](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
@@ -129,7 +129,7 @@ ht-degree: 96%
 + [!DNL Workfront Proof] {#proof}
    + [Problemas conhecidos no [!DNL Workfront Proof]](workfrontproof.md)
    + Problemas atuais no [!DNL Workfront Proof] {#proof-current}
-      + [Provas: as provas são criadas lentamente no ambiente de Pré-visualização](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
+      + [Provas: as provas são criadas lentamente no ambiente Visualização](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
       + [[!DNL Workfront Proof]: erro 500 ao acessar o [!DNL Workfront Proof] por meio da API ou do [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)
       + [[!DNL Workfront Proof]: a pesquisa não retorna resultados](known-issues-workfront-proof/proof-search-returns-no-results.md)
       + [Provas: a caixa de opções de texto mostra “textAnnotations”](known-issues-workfront-proof/proof-text-shows-textannotation.md)
@@ -155,7 +155,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problemas conhecidos no Workfront Fusion](workfrontfusion.md)
    + Problemas atuais no [!DNL Workfront Fusion] {#fusion-current}
-      + [[!DNL Workfront Fusion]: &quot;[!UICONTROL não é possível executar UPDATE]Erro &quot;](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
+      + [[!DNL Workfront Fusion]: erro “[!UICONTROL não foi possível executar ATUALIZAR]”](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
       + [[!DNL Workfront Fusion]: os emails de notificação não estão sendo enviados](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
       + [[!DNL Workfront Fusion]: as execuções estão paralisadas ou atrasadas](known-issues-workfront-fusion/fusion-stuck-executions.md)
       + [[!DNL Workfront Fusion]: o histórico de execução de cenários não exibe todo o histórico](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)
