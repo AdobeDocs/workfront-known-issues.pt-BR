@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: b8552cb4de3b5372b5b18d5891b490f22b9d803d
+source-git-commit: 4c62a437106b67c45b3bb0f8adcb41c7c50e5500
 workflow-type: tm+mt
-source-wordcount: '3912'
-ht-degree: 100%
+source-wordcount: '4010'
+ht-degree: 99%
 
 ---
 
@@ -20,6 +20,26 @@ As seguintes atualizações de manutenção foram efetuadas em 2023.
 Para obter atualizações de manutenção anteriores a 2023, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em junho de 2023
+
++++**Atualização de manutenção em 22 de junho de 2023**
+
+**&quot;[!UICONTROL Ops]&quot;erro ao visualizar o relatório de matriz**
+
+_Relatórios_
+
+Quando um usuário visualiza um relatório de matriz, ele verá o seguinte erro:
+
+“[!UICONTROL Ops! Um erro inesperado aconteceu. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.]”
+
+Esse problema foi relatado quando o relatório está classificado por data e a opção “[!UICONTROL Mostrar semanas sem resultados]” está habilitada.
+
+**As datas são exibidas incorretamente nos relatórios de matriz**
+
+_Relatórios_
+
+Quando um gráfico ou relatório de matriz é agrupado por data, as datas próximas aos limites do agrupamento podem aparecer no agrupamento correto, no agrupamento anterior/seguinte ou em ambos.
+
++++
 
 +++**Atualização de manutenção em 15 de junho de 2023**
 
