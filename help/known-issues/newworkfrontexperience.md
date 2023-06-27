@@ -3,10 +3,10 @@ title: Problemas conhecidos na nova experiência do [!DNL Adobe Workfront]
 description: Problemas conhecidos reportados da nova experiência do  [!DNL Adobe Workfront]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 72b2ac2890d27494949a6892a800d9c7534fc2d1
+source-git-commit: 5b0020fd4acbd34dc179b8e80e27b1adac63a16e
 workflow-type: tm+mt
-source-wordcount: '586'
-ht-degree: 96%
+source-wordcount: '604'
+ht-degree: 93%
 
 ---
 
@@ -24,6 +24,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Projetos/tarefas/problemas: a linha do tempo não é recalculada](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md) | 27 de junho de 2023 |
 | [[!UICONTROL Página inicial]: os itens não aparecem na [!UICONTROL lista de trabalho da página inicial]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 12 de junho de 2023 |
 
 {style="table-layout:auto"}
@@ -34,6 +35,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Filtros: &quot;[!UICONTROL Ativar todo o sistema]&quot; e &quot;[!UICONTROL Exibir em todo o sistema]&quot; representam funcionalidades diferentes](known-issues-workfront/wf-filters-enable-system-wide.md) | 27 de junho de 2023 |
 | [Relatórios: o relatório de utilização não carrega](known-issues-workfront/wf-reports-utilization-report-does-not-load.md) | 26 de junho de 2023 |
 | [Provas: as opções de aprovação não aparecem no [!UICONTROL Visualizador de provas]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 26 de junho de 2023 |
 | [Folhas de horas: erros ao registrar horas em uma folha de horas](known-issues-workfront/wf-timesheets-error-when-saving-hours.md) | 26 de junho de 2023 |

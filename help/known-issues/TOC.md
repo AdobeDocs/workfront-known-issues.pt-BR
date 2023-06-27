@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
-source-git-commit: 72b2ac2890d27494949a6892a800d9c7534fc2d1
+source-git-commit: 5b0020fd4acbd34dc179b8e80e27b1adac63a16e
 workflow-type: tm+mt
-source-wordcount: '1287'
-ht-degree: 98%
+source-wordcount: '1303'
+ht-degree: 97%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Projetos/tarefas/problemas: a linha do tempo não é recalculada](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md)
+      + [Filtros: &quot;[!UICONTROL Ativar todo o sistema]&quot; e &quot;[!UICONTROL Exibir em todo o sistema]&quot; representam funcionalidades diferentes](known-issues-workfront/wf-filters-enable-system-wide.md)
       + [Relatórios: o relatório de utilização não carrega](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)
       + [Provas: as opções de aprovação não aparecem no [!UICONTROL Visualizador de provas]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
       + [Folhas de horas: erros ao registrar horas em uma folha de horas](known-issues-workfront/wf-timesheets-error-when-saving-hours.md)
