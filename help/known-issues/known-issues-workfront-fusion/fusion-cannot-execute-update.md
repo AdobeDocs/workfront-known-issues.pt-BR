@@ -2,15 +2,19 @@
 title: '“Workfront Fusion: erro não foi possível executar ATUALIZAR”'
 description: '“Falha na execução de cenário com o erro: não é possível executar ATUALIZAR em uma transação de somente leitura.”'
 hidefromtoc: true
-source-git-commit: 22b645ee68e1735e4b3c91d0a88e2e2855c982c4
-workflow-type: ht
-source-wordcount: '54'
+source-git-commit: 9a14f4aaeeac02632e63b77451da61c173de6f7b
+workflow-type: tm+mt
+source-wordcount: '60'
 ht-degree: 100%
 
 ---
 
 
 # [!DNL Workfront Fusion]: erro “[!UICONTROL não foi possível executar ATUALIZAR]”
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em 14 de junho de 2023.
 
 Falha na execução de um cenário com o seguinte erro:
 

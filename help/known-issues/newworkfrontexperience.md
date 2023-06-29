@@ -3,10 +3,10 @@ title: Problemas conhecidos na nova experiência do [!DNL Adobe Workfront]
 description: Problemas conhecidos reportados da nova experiência do  [!DNL Adobe Workfront]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 040d45f467161a5c6609b21da38094499bd7fec6
+source-git-commit: 9a14f4aaeeac02632e63b77451da61c173de6f7b
 workflow-type: tm+mt
-source-wordcount: '607'
-ht-degree: 92%
+source-wordcount: '581'
+ht-degree: 93%
 
 ---
 
@@ -39,8 +39,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | [Filtros: &quot;[!UICONTROL Ativar todo o sistema]&quot; e &quot;[!UICONTROL Exibir em todo o sistema]&quot; representam funcionalidades diferentes](known-issues-workfront/wf-filters-enable-system-wide.md) | 27 de junho de 2023 |
 | [Relatórios: o relatório de utilização não carrega](known-issues-workfront/wf-reports-utilization-report-does-not-load.md) | 26 de junho de 2023 |
 | [Provas: as opções de aprovação não aparecem no [!UICONTROL Visualizador de provas]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 26 de junho de 2023 |
-| [Folhas de horas: erros ao registrar horas em uma folha de horas](known-issues-workfront/wf-timesheets-error-when-saving-hours.md) | 26 de junho de 2023 |
-| [Formulários personalizados: a lógica de exibição é perdida quando o formulário personalizado é editado no novo designer de formulário (beta)](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md) | 24 de maio de 2023 |
 | [Balanceador de Carga de Trabalho: horas redistribuídas inesperadamente](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 11 de maio de 2023 |
 | [Provas: as aprovações de prova bloqueadas ainda são mostradas na lista de trabalho](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 4 de maio de 2023 |
 | [Projetos: os status personalizados do [!UICONTROL grupo inicial] não estão disponíveis ao criar um projeto a partir de um modelo](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 de março de 2023 |
