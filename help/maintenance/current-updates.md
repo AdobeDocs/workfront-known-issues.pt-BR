@@ -29,7 +29,7 @@ Esta atualização contém apenas correções de erros pequenos ou menos importa
 
 +++**Atualização de manutenção em 22 de junho de 2023**
 
-**&quot;[!UICONTROL Ops]&quot;erro ao visualizar o relatório de matriz**
+**Erro “[!UICONTROL Ops]” ao visualizar um relatório de matriz**
 
 _Relatórios_
 
@@ -43,7 +43,7 @@ Esse problema foi relatado quando o relatório está classificado por data e a o
 
 _Relatórios_
 
-Quando um gráfico ou relatório de matriz é agrupado por data, as datas próximas aos limites do agrupamento podem aparecer no agrupamento correto, no agrupamento anterior/seguinte ou em ambos.
+Quando um gráfico ou relatório de matriz é agrupado por data, as datas próximas aos limites do agrupamento podem aparecer tanto no agrupamento correto, quanto no agrupamento anterior/seguinte ou em ambos.
 
 +++
 
@@ -91,7 +91,7 @@ O quadro do **[!UICONTROL Kanban] fica em branco ao editar cartões**
 
 _Ágil_
 
-Quando um usuário altera um detalhe de um cartão no quadro do [!UICONTROL Kanban], o quadro fica em branco em vez de registrar a alteração. Se o usuário atualiza a página manualmente, o quadro do [!UICONTROL Kanban] reaparece e mostra a alteração correta.
+Quando um usuário altera um detalhe de um cartão no quadro do [!UICONTROL Kanban] , o quadro fica em branco em vez de registrar a alteração. Se o usuário atualiza a página manualmente, o quadro do [!UICONTROL Kanban] reaparece e mostra a alteração correta.
 
 Esse problema foi relatado nas seguintes circunstâncias:
 
