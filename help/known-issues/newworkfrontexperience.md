@@ -4,9 +4,9 @@ description: Problemas conhecidos reportados da nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 9a14f4aaeeac02632e63b77451da61c173de6f7b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '581'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -36,9 +36,9 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Filtros: &quot;[!UICONTROL Ativar todo o sistema]&quot; e &quot;[!UICONTROL Exibir em todo o sistema]&quot; representam funcionalidades diferentes](known-issues-workfront/wf-filters-enable-system-wide.md) | 27 de junho de 2023 |
-| [Relatórios: o relatório de utilização não carrega](known-issues-workfront/wf-reports-utilization-report-does-not-load.md) | 26 de junho de 2023 |
-| [Provas: as opções de aprovação não aparecem no [!UICONTROL Visualizador de provas]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 26 de junho de 2023 |
+| [Filtros: as opções “[!UICONTROL Habilitar em todo o sistema]” e “[!UICONTROL Exibir em todo o sistema]” representam funcionalidades diferentes](known-issues-workfront/wf-filters-enable-system-wide.md) | 27 de junho de 2023 |
+| [Relatórios: o relatório de utilização não é carregado](known-issues-workfront/wf-reports-utilization-report-does-not-load.md) | 26 de junho de 2023 |
+| [Provas: as opções de aprovação não aparecem no [!UICONTROL Visualizador de prova]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 26 de junho de 2023 |
 | [Balanceador de Carga de Trabalho: horas redistribuídas inesperadamente](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 11 de maio de 2023 |
 | [Provas: as aprovações de prova bloqueadas ainda são mostradas na lista de trabalho](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 4 de maio de 2023 |
 | [Projetos: os status personalizados do [!UICONTROL grupo inicial] não estão disponíveis ao criar um projeto a partir de um modelo](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 de março de 2023 |
@@ -61,7 +61,7 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 | [Documentos: problemas com a lista de documentos](known-issues-workfront/wf-documents-list-missing-elements.md) | 23 de março de 2023 |
 | [Documentos: as permissões não são herdadas quando um documento é movido para um novo projeto](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 7 de março de 2023 |
 | [[!UICONTROL Página inicial]: provas concluídas presas na [!UICONTROL Lista de trabalho]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 de janeiro de 2023 |
-| [Provas: o status da prova não é atualizado nas listas [!UICONTROL Documento]](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5 de dezembro de 2022 |
+| [Provas: o status da prova não é atualizado nas listas [!UICONTROL Documento] ](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5 de dezembro de 2022 |
 | [Tarefas: as horas não são salvas ao inserir horas no painel [!UICONTROL Resumo da tarefa]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2 de dezembro de 2022 |
 | [Formulários personalizados: formulários personalizados entre objetos exigem acesso de [!UICONTROL Gerenciar] ou [!UICONTROL Editar] para editar campos](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md) | 21 de novembro de 2022 |
 | [API: não é possível classificar por campos dinâmicos](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 31 de outubro de 2022 |
@@ -71,9 +71,9 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 | [Painéis: os gráficos de relatório exibidos em um painel usam cores diferentes das exibidas no relatório](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | 5 de agosto de 2022 |
 | [[!UICONTROL Página inicial]: a terminologia personalizada não é aplicada à área da página inicial](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md) | 3 de junho de 2022 |
 | [Agile: não é possível editar campos a partir de formulários personalizados em cartões](known-issues-workfront/wf-agile-cannot-edit-fields-custom-cards.md) | 11 de maio de 2022 |
-| [Agile: problemas ao mover cartões no quadro [!UICONTROL Agile]](known-issues-workfront/wf-agile-issues-moving-cards.md) | 27 de abril de 2022 |
+| [Agile: problemas ao mover cartões no quadro [!UICONTROL Agile] ](known-issues-workfront/wf-agile-issues-moving-cards.md) | 27 de abril de 2022 |
 | [Aprovações: a delegação de aprovação é definida com o número incorreto de dias](known-issues-workfront/wf-approval-delegation-incorrect-number-of-days.md) | 20 de abril de 2022 |
-| [[!UICONTROL Página inicial]: a opção Nova tarefa mostra usuários desativados no campo [!UICONTROL Atribuir a]](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md) | 1 de outubro de 2021 |
+| [[!UICONTROL Página inicial]: a opção Nova tarefa mostra usuários desativados no campo [!UICONTROL Atribuir a] ](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md) | 1 de outubro de 2021 |
 | [Atualizações: o nome da equipe não aparece em @mention](known-issues-workfront/wf-updates-team-name-not-in-mention.md) | 1 de outubro de 2021 |
 | [Agile: discrepância em [!UICONTROL Pontos concluídos] de uma iteração](known-issues-workfront/wf-agile-discrepancy-in-completed-points.md) | 22 de junho de 2021 |
 | [[!UICONTROL Página inicial]: o comportamento do botão [!UICONTROL Responder na prova] é inconsistente](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 21 de junho de 2021 |
