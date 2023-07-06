@@ -2,9 +2,9 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 source-git-commit: f15168bdb9a7ae0f3b675cf44cfe4cfbf47fd313
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1309'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -18,10 +18,10 @@ ht-degree: 96%
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
       + [Quadros: a barra de rolagem horizontal não está presente](known-issues-workfront/wf-board-no-scrollbar.md)
       + [Projetos/tarefas/problemas: a linha do tempo não é recalculada](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md)
-      + [Filtros: &quot;[!UICONTROL Ativar todo o sistema]&quot; e &quot;[!UICONTROL Exibir em todo o sistema]&quot; representam funcionalidades diferentes](known-issues-workfront/wf-filters-enable-system-wide.md)
-      + [Relatórios: o relatório de utilização não carrega](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)
-      + [Provas: as opções de aprovação não aparecem no [!UICONTROL Visualizador de provas]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
-      + [Folhas de horas: erros ao registrar horas em uma folha de horas](known-issues-workfront/wf-timesheets-error-when-saving-hours.md)
+      + [Filtros: as opções “[!UICONTROL Habilitar em todo o sistema]” e “[!UICONTROL Exibir em todo o sistema]” representam funcionalidades diferentes](known-issues-workfront/wf-filters-enable-system-wide.md)
+      + [Relatórios: o relatório de utilização não é carregado](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)
+      + [Provas: as opções de aprovação não aparecem no [!UICONTROL Visualizador de prova]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
+      + [Folhas de horas: erros ao registrar as horas em uma folha de horas](known-issues-workfront/wf-timesheets-error-when-saving-hours.md)
       + [[!UICONTROL Página inicial]: os itens não aparecem na [!UICONTROL lista de trabalho da página inicial]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)
       + [Relatórios: um erro “[!UICONTROL Ops.]” ocorre ao visualizar o relatório de matriz](known-issues-workfront/wf-reports-error-matrix-report.md)
       + [Provas: as provas são criadas lentamente no ambiente Visualização](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)
@@ -47,7 +47,7 @@ ht-degree: 96%
       + [Projetos: os status personalizados do [!UICONTROL grupo inicial] não estão disponíveis ao criar um projeto a partir de um modelo](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
       + [Provas: não é possível usar a ferramenta Polyline ao fazer um comentário em uma prova](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md)
       + [Provas: a ferramenta de medição não aceita pontos decimais](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
-      + [Pesquisa: a pesquisa do  [!DNL Workfront] atinge o tempo limite](known-issues-workfront/wf-search-search-times-out.md)
+      + [Pesquisa: a pesquisa do [!DNL Workfront] atinge o tempo limite](known-issues-workfront/wf-search-search-times-out.md)
       + [Provas: não é possível alternar a versão de prova ao visualizar a prova](known-issues-workfront/wf-proofs-cannot-switch-version.md)
       + [Provas: os menus suspensos não são abertos quando um usuário é adicionado a uma prova](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md)
       + [Provas: o usuário é desativado no fluxo de trabalho de prova e recebe a mensagem “[!UICONTROL Acesso não permitido]” ao acessar a prova](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)
