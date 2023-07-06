@@ -1,25 +1,25 @@
 ---
-title: "Folhas de horas: erros ao registrar horas em uma folha de horas"
-description: "Quando um usuário tenta registrar horas em uma tarefa em sua folha de horas, as horas não são salvas e o usuário vê mensagens de erro."
+title: '“Folhas de horas: erros ao registrar as horas em uma folha de horas”'
+description: “Quando um usuário tenta registrar as horas de uma tarefa em sua folha de horas, as horas não são salvas, e algumas mensagens de erro são exibidas.”
 hidefromtoc: true
 source-git-commit: 9a14f4aaeeac02632e63b77451da61c173de6f7b
 workflow-type: tm+mt
 source-wordcount: '107'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
 
-# Folhas de horas: erros ao registrar horas em uma folha de horas
+# Folhas de horas: erros ao registrar as horas em uma folha de horas
 
 >[!NOTE]
 >
 >Esse problema foi corrigido em 29 de junho de 2023.
 
-Quando um usuário tenta registrar horas em uma tarefa em sua folha de horas, as horas não são salvas e o usuário vê as seguintes mensagens:
+Quando um usuário tenta registrar as horas de uma tarefa em sua folha de horas, as horas não são salvas, e as seguintes mensagens são exibidas:
 
-* Mensagem na parte inferior da tela: &quot;[!UICONTROL Suas alterações recentes não foram salvas. Atualize a página para visualizar as últimas alterações salvas.]&quot;
-* Mensagem pop-up no canto superior direito: &quot;[!UICONTROL Não é possível invocar &quot;java.util.List.stream()&quot; porque &quot;hourList&quot; é nulo]&quot;
+* Mensagem na parte inferior da tela: “[!UICONTROL Suas alterações recentes não foram salvas. Atualize a página para exibir as últimas alterações salvas.]”
+* Mensagem pop-up no canto superior direito: “[!UICONTROL Não foi possível chamar &#39;java.util.List.stream()&#39; porque &#39;hourList&#39; é nulo]”
 
 _Relatado pela primeira vez em 23 de junho de 2023._
 
