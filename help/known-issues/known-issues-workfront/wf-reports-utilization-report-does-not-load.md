@@ -1,18 +1,18 @@
 ---
-title: "Relatórios: o relatório de utilização não carrega"
-description: "Quando um cliente tenta visualizar um relatório de utilização, o usuário vê um indicador de carregamento giratório, mas o relatório não carrega. O relatório retornou um erro 500, mas o usuário não vê nenhuma indicação de que o relatório falhou."
+title: '“Relatórios: o relatório de utilização não é carregado”'
+description: “Quando um cliente tenta visualizar um relatório de utilização, um ícone giratório de carregamento é exibido, mas o relatório não é carregado. O relatório retorna um erro 500, mas nenhuma indicação é exibida sobre a falha do relatório.”
 hidefromtoc: true
 source-git-commit: 72b2ac2890d27494949a6892a800d9c7534fc2d1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# Relatórios: o relatório de utilização não carrega
+# Relatórios: o relatório de utilização não é carregado
 
-Quando um cliente tenta visualizar um relatório de utilização, o usuário vê um indicador de carregamento giratório, mas o relatório não carrega. O relatório retornou um erro 500, mas o usuário não vê nenhuma indicação de que o relatório falhou.
+Quando um cliente tenta visualizar um relatório de utilização, um ícone giratório de carregamento é exibido, mas o relatório não é carregado. O relatório retorna um erro 500, mas nenhuma indicação é exibida sobre a falha do relatório.
 
 _Relatado pela primeira vez em 1 de maio de 2023._
 
