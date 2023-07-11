@@ -2,10 +2,10 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 3d5489cd6a5474d4a53800f7bea1475aa8ddc482
-workflow-type: ht
-source-wordcount: '4035'
-ht-degree: 100%
+source-git-commit: ddda3e0d0f00d935e8be5789b41f7e05b91299d6
+workflow-type: tm+mt
+source-wordcount: '4193'
+ht-degree: 98%
 
 ---
 
@@ -18,6 +18,38 @@ As seguintes atualizações de manutenção foram efetuadas em 2023.
 >Essas atualizações também incluem outras correções de erros menores ou menos importantes. O suporte do [!DNL Workfront] enviará uma notificação quando um problema enviado for corrigido.
 
 Para obter atualizações de manutenção anteriores a 2023, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
+
+## Atualizações em julho de 2023
+
++++**Atualização de manutenção em 13 de julho de 2023**
+
+**A linha do tempo não recalcula**
+
+_Projetos / Tarefas / Problemas_
+
+Quando ocorre um evento que deveria acionar um cálculo de linha do tempo, ela não é recalculada. Isso afeta os recálculos que ocorrem após alterações, bem como os recálculos programados. Isso pode afetar a precisão do Balanceador de carga de trabalho.
+
+**Aprovações de prova bloqueadas ainda são exibidas na Lista de trabalho**
+
+_Provas_
+
+As aprovações de prova que ultrapassaram seu prazo e foram bloqueadas ainda são mostradas na Lista de trabalho da página inicial do aprovador, em vez de serem removidas da lista quando o prazo acabou.
+
+**O relatório de utilização não carrega**
+
+_Relatórios_
+
+Quando um cliente tenta visualizar um relatório de utilização, um ícone giratório de carregamento é exibido, mas o relatório não é carregado. O relatório retorna um erro 500, mas nenhuma indicação é exibida sobre a falha do relatório.
+
+**A página Editar usuário está em branco**
+
+<!--no article-->
+
+_Usuários_
+
+Quando um usuário tenta editar outro usuário, a página Editar usuário fica em branco e o usuário não consegue editar o outro usuário.
+
++++
 
 ## Atualizações em junho de 2023
 
