@@ -3,7 +3,7 @@ title: '“Workfront Fusion: erro não foi possível executar ATUALIZAR”'
 description: '“Falha na execução de cenário com o erro: não é possível executar ATUALIZAR em uma transação de somente leitura.”'
 hidefromtoc: true
 source-git-commit: 9a14f4aaeeac02632e63b77451da61c173de6f7b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '60'
 ht-degree: 100%
 
