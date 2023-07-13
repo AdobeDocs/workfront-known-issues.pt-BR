@@ -2,9 +2,9 @@
 title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 45e4dc8ef13db59dd9f578c63f190d0249bc7def
+source-git-commit: 7fd6a2604bf2e5b9e4bb69b1e3f242ebf761f180
 workflow-type: tm+mt
-source-wordcount: '4227'
+source-wordcount: '4193'
 ht-degree: 98%
 
 ---
@@ -48,12 +48,6 @@ Quando um cliente tenta visualizar um relatório de utilização, um ícone gira
 _Usuários_
 
 Quando um usuário tenta editar outro usuário, a página Editar usuário fica em branco e o usuário não consegue editar o outro usuário.
-
-**Horas redistribuídas inesperadamente**
-
-_Balanceador de carga de trabalho_
-
-Quando são feitas alocações de horas em tarefas específicas, essas horas podem ser recalculadas e redistribuídas inesperadamente. Isso pode ocorrer após a tabulação entre datas ou páginas ou após a atualização da página.
 
 +++
 
