@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 52db6449599843d31e6fcb6e0b664801fbf978a5
 workflow-type: tm+mt
 source-wordcount: '4259'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -33,25 +33,25 @@ Agora, ao definir Horas planejadas em uma nova tarefa pai recorrente com uma [!U
 
 +++**Atualização de manutenção em 13 de julho de 2023**
 
-**A linha do tempo não recalcula**
+**A linha do tempo não é recalculada**
 
 _Projetos / Tarefas / Problemas_
 
 Quando ocorre um evento que deveria acionar um cálculo de linha do tempo, ela não é recalculada. Isso afeta os recálculos que ocorrem após alterações, bem como os recálculos programados. Isso pode afetar a precisão do Balanceador de carga de trabalho.
 
-**Aprovações de prova bloqueadas ainda são exibidas na Lista de trabalho**
+**As aprovações de prova bloqueadas ainda são mostradas na Lista de trabalho**
 
 _Provas_
 
 As aprovações de prova que ultrapassaram seu prazo e foram bloqueadas ainda são mostradas na Lista de trabalho da página inicial do aprovador, em vez de serem removidas da lista quando o prazo acabou.
 
-**O relatório de utilização não carrega**
+**O relatório de utilização não é carregado**
 
 _Relatórios_
 
 Quando um cliente tenta visualizar um relatório de utilização, um ícone giratório de carregamento é exibido, mas o relatório não é carregado. O relatório retorna um erro 500, mas nenhuma indicação é exibida sobre a falha do relatório.
 
-**A página Editar usuário está em branco**
+**A página Editar usuário fica em branco**
 
 <!--no article-->
 
