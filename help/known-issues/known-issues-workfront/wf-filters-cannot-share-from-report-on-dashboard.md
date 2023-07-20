@@ -3,7 +3,8 @@ title: '“Filtros: não é possível compartilhar um filtro de um relatório em
 description: Quando um usuário visualiza um relatório em um painel e tenta compartilhar um filtro desse relatório, ele não consegue compartilhar o filtro. Ao clicar nos três pontos, o painel vai para o próximo relatório e, quando o usuário rola de volta para o relatório desejado, a opção Compartilhar não está disponível.
 hidefromtoc: true
 exl-id: 50c3f5c8-f4ba-4447-bfc8-5cdd56cc43b0
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
+feature: Reports and Dashboards
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 100%

@@ -2,9 +2,10 @@
 title: '“Calendário: as tarefas não são exibidas”'
 description: Quando um usuário tem um relatório de lista e um relatório de calendário com os mesmos filtros, ele vê que algumas tarefas são exibidas no relatório de lista, mas não são exibidas no relatório de calendário.
 exl-id: 1c606629-0db5-4096-af13-5e637a16ea7c
+feature: Reports and Dashboards
 hidefromtoc: true
-source-git-commit: c452fe0fe206a741dab40d6a121ebf6bace675fe
-workflow-type: ht
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 100%
 

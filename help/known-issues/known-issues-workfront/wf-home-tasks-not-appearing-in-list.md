@@ -1,9 +1,10 @@
 ---
 title: '“Página inicial: os itens não aparecem na lista de trabalho da página inicial”'
 description: “Quando um usuário visualiza a sua lista de trabalho da página inicial, itens que deveriam aparecer na lista não estão presentes. Por exemplo, um usuário pode ir para um projeto e ver que tarefas lhe foram atribuídas, mas essas tarefas não aparecem em sua lista de trabalho da página inicial.”
+feature: Get Started with Workfront
 hidefromtoc: true
-source-git-commit: e684a574f9db0ec511bbc323676e7b99650abca9
-workflow-type: ht
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
+workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 100%
 

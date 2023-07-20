@@ -3,8 +3,9 @@ title: '“Página inicial: a terminologia personalizada não é aplicada à ár
 description: A área da página inicial exibe nomes padrão para objetos em vez da terminologia definida pela organização. Esse problema foi relatado em várias áreas.
 exl-id: d15afc61-25f7-4fd8-9f9a-db94ed392082
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: ht
+feature: Get Started with Workfront
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
+workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 100%
 

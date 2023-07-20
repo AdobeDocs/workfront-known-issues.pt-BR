@@ -1,10 +1,11 @@
 ---
 title: '“Notificações por email: a configuração Estou atribuído a um problema é exibida”'
 description: Na área [!UICONTROL Configuração], a configuração de Notificações por email “Estou atribuído a um problema” é exibida para usuários com licenças de Revisão e Solicitação. Essa configuração não está disponível para esses tipos de licença e ativar a configuração não aciona notificações por email para esse evento.
+feature: Updates and Notifications
 exl-id: 2b8843e3-5f56-4a25-ba5f-2a8a503a1950
 hidefromtoc: true
-source-git-commit: 6620357eb577a1a4da9e244a7d880054798f4654
-workflow-type: ht
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
+workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 100%
 

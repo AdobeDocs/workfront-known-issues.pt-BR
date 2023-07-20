@@ -2,8 +2,9 @@
 title: '“Documentos: problemas com a lista de documentos”'
 description: Este artigo descreve problemas recentes que foram relatados em relação à lista de documentos.
 hidefromtoc: true
+feature: Digital Content and Documents
 exl-id: 39bc9972-7c9a-4a00-8b00-9670e502fed1
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 100%

@@ -1,8 +1,9 @@
 ---
 title: "Integrações de documentos: não é possível visualizar todas as pastas no OneDrive"
 description: "Quando um usuário tenta acessar um documento por meio da integração do OneDrive no Workfront, ele não pode ver todas as pastas do OneDrive e não pode acessar documentos nas pastas ausentes."
+feature: Digital Content and Documents
 hidefromtoc: true
-source-git-commit: c9922bb751562c56aae4c049732ee18e280026f3
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 27%

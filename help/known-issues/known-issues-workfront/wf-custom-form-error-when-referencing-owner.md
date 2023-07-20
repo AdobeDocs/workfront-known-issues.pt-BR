@@ -2,9 +2,10 @@
 title: '“Formulários personalizados: mensagem de expressão personalizada inválida ao fazer referência ao proprietário em um campo calculado”'
 description: '“Quando um usuário adiciona um campo calculado a um formulário personalizado em nível de problema e tenta adicionar qualquer referência a um proprietário (como “ownerID”), o campo não é salvo e o usuário vê a seguinte mensagem: esta expressão de cliente é inválida. Tente novamente.”'
 hidefromtoc: true
+feature: Custom Forms
 exl-id: 254f1fae-0784-4332-99a1-cc1895c50896
-source-git-commit: d6935a9ad66633d64083f227def3b027349645b1
-workflow-type: ht
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 100%
 

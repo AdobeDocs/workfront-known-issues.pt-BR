@@ -2,9 +2,10 @@
 title: '“Calendários: a instrução de filtro OU exclui a regra de filtro”'
 description: Quando um usuário configura um relatório de calendário para obter tarefas com base em uma seleção de campo personalizada e adiciona uma instrução OU, os objetos que atendem aos critérios da regra de filtro na primeira seção são excluídos dos resultados.
 exl-id: d08d0a53-28c0-48bb-be89-701900b0f221
+feature: Reports and Dashboards
 hidefromtoc: true
-source-git-commit: d122c128b926167a00c7149cb88392b618486876
-workflow-type: ht
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 100%
 

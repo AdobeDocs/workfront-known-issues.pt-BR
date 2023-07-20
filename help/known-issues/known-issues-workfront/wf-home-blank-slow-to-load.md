@@ -2,7 +2,8 @@
 title: "Página inicial: a Lista de trabalho da página inicial está em branco/é lenta para carregar"
 description: "Quando um usuário tenta visualizar a Lista de trabalho da página inicial, a página fica em branco por um tempo estendido enquanto a página é carregada. O carregamento pode levar vários minutos, durante os quais a Lista de trabalho fica em branco."
 hidefromtoc: true
-source-git-commit: 69a7b0a82ac5a13a851ed7f2b889ff0758d60e17
+feature: Get Started with Workfront
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 5%

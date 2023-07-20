@@ -1,14 +1,15 @@
 ---
 title: '“Documentos: erro de página inexistente ao abrir ou baixar um documento”'
-description: “Quando um usuário tenta abrir ou baixar um documento no Workfront, ele não consegue abri-lo ou baixá-lo e vê um erro”
+description: Ao tentar abrir ou baixar um documento no Workfront, o usuário não consegue abri-lo ou baixá-lo e vê um erro
 hidefromtoc: true
-source-git-commit: d03db6c677e340e01629a962fec8b2690af8460d
-workflow-type: ht
+feature: Digital Content and Documents
+exl-id: 8d25c1a4-bd9d-48cf-8ebe-a9ff49335173
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 100%
+ht-degree: 74%
 
 ---
-
 
 # Documentos: erro “Essa página não existe” ao abrir ou baixar um documento
 

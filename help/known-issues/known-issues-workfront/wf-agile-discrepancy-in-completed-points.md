@@ -2,9 +2,10 @@
 title: '“Agile: discrepância em pontos concluídos de uma iteração''”'
 description: O número exibido de Pontos concluídos no Storyboard às vezes não corresponde ao número real de pontos concluídos para as histórias em uma iteração
 exl-id: 65696b39-e2ab-409e-8bd3-811f399f4622
+feature: Agile
 hidefromtoc: true
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: ht
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 100%
 

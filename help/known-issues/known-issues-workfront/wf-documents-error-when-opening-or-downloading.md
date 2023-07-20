@@ -1,14 +1,15 @@
 ---
-title: '“Documentos: erro de resposta inválida ao abrir ou baixar um documento”'
-description: “Quando um usuário tenta abrir ou baixar um documento no Workfront, ele não consegue abri-lo ou baixá-lo e vê um erro”
+title: "Documentos: erro de resposta inválida ao abrir ou baixar um documento"
+description: Ao tentar abrir ou baixar um documento no Workfront, o usuário não consegue abri-lo ou baixá-lo e vê um erro
 hidefromtoc: true
-source-git-commit: 43cc7a54a32f68460118de9d8ad93b472bd77c75
-workflow-type: ht
+feature: Digital Content and Documents
+exl-id: fdce1208-17fa-4fd0-b164-467545061ed3
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 100%
+ht-degree: 66%
 
 ---
-
 
 # Documentos: erro “Resposta inválida” ao abrir ou baixar um documento
 
@@ -27,4 +28,3 @@ Quando um usuário tenta abrir ou baixar um documento no Workfront, ele não con
 Outro usuário pode baixar e encaminhar o documento.
 
 _Relatado pela primeira vez em 23 de janeiro de 2023._
-

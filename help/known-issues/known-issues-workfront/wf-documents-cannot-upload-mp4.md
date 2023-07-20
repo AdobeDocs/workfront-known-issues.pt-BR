@@ -1,9 +1,10 @@
 ---
 title: '“Documentos: não é possível carregar o arquivo MP4”'
 description: “Quando um usuário tenta fazer upload de um MP4, o arquivo não é carregado e o usuário vê a mensagem de erro Falha ao fazer upload do arquivo.”
+feature: Digital Content and Documents
 hidefromtoc: true
-source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
-workflow-type: ht
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 100%
 
