@@ -1,10 +1,11 @@
 ---
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
-source-git-commit: c9922bb751562c56aae4c049732ee18e280026f3
+role: User
+source-git-commit: 9020228b1e68a5f40b20b2dcd4f70413a99bba82
 workflow-type: tm+mt
-source-wordcount: '1335'
-ht-degree: 98%
+source-wordcount: '1352'
+ht-degree: 97%
 
 ---
 
@@ -16,6 +17,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Provas: as provas não são exibidas nos relatórios como aprovadas](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
+      + [Provas: mensagem &quot;Sem imagem&quot; ao clicar em prova](known-issues-workfront/wf-proofs-no-image-on-comment.md)
       + [Integrações de documentos: não é possível visualizar todas as pastas em [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)
       + [[!UICONTROL Início]: [!UICONTROL Lista de trabalho da página inicial] está em branco/é lento para carregar](known-issues-workfront/wf-home-blank-slow-to-load.md)
       + [Configuração: não foi possível editar o Custo/Hora ou o Faturamento/Hora da função de trabalho](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md)

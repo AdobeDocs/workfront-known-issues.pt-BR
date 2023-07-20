@@ -3,10 +3,10 @@ title: Problemas conhecidos no [!DNL Adobe Workfront Proof]
 description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 7fd6a2604bf2e5b9e4bb69b1e3f242ebf761f180
-workflow-type: ht
-source-wordcount: '294'
-ht-degree: 100%
+source-git-commit: 9020228b1e68a5f40b20b2dcd4f70413a99bba82
+workflow-type: tm+mt
+source-wordcount: '312'
+ht-degree: 94%
 
 ---
 
@@ -24,7 +24,8 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| Nenhum(a) |  |
+| [Provas: as provas não são exibidas nos relatórios como aprovadas](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 20 de julho de 2023 |
+| [Provas: mensagem &quot;Sem imagem&quot; ao clicar em prova](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 20 de julho de 2023 |
 
 {style="table-layout:auto"}
 
