@@ -4,10 +4,10 @@ description: Problemas conhecidos reportados da nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3d2c392fdb9cdf2eb7ea46cd4444895bc45a5b7d
+source-git-commit: c21b660817890195de853e32a3eefdcf1d473c05
 workflow-type: tm+mt
-source-wordcount: '625'
-ht-degree: 91%
+source-wordcount: '626'
+ht-degree: 92%
 
 ---
 
@@ -29,9 +29,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | [Projetos/Problemas: o projeto não resolve corretamente o problema](known-issues-workfront/wf-projects-resolving-issue.md) | 21 de julho de 2023 |
 | [Provas: as provas não são exibidas nos relatórios como aprovadas](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 20 de julho de 2023 |
 | [Provas: mensagem &quot;Sem imagem&quot; ao clicar em prova](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 20 de julho de 2023 |
-| [[!UICONTROL Início]: [!UICONTROL Lista de trabalho da página inicial] está em branco/é lento para carregar](known-issues-workfront/wf-home-blank-slow-to-load.md) | 18 de julho de 2023 |
 | [Quadros: a barra de rolagem horizontal não está presente](known-issues-workfront/wf-board-no-scrollbar.md) | 28 de junho de 2023 |
-| [[!UICONTROL Página inicial]: os itens não aparecem na [!UICONTROL lista de trabalho da página inicial]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 12 de junho de 2023 |
 
 {style="table-layout:auto"}
 
@@ -41,10 +39,11 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Configuração: não é possível editar o Custo/Hora ou o Faturamento/Hora da função de trabalho](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md) | 10 de julho de 2023 |
+| [Documentos: arquivos EPS não suportados no momento](known-issues-workfront/wf-documents-not-supporting-eps.md) | 21 de julho de 2023 |
+| [Provas: as aprovações de prova bloqueadas ainda são mostradas na lista de trabalho](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 21 de julho de 2023 |
+| [[!UICONTROL Página inicial]: os itens não aparecem na [!UICONTROL lista de trabalho da página inicial]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 21 de julho de 2023 |
 | [Filtros: as opções “[!UICONTROL Habilitar em todo o sistema]” e “[!UICONTROL Exibir em todo o sistema]” representam funcionalidades diferentes](known-issues-workfront/wf-filters-enable-system-wide.md) | 27 de junho de 2023 |
 | [Provas: as opções de aprovação não aparecem no [!UICONTROL Visualizador de prova]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 26 de junho de 2023 |
-| [Balanceador de Carga de Trabalho: horas redistribuídas inesperadamente](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 11 de maio de 2023 |
 | [Projetos: os status personalizados do [!UICONTROL grupo inicial] não estão disponíveis ao criar um projeto a partir de um modelo](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 de março de 2023 |
 | Caso de suporte do [[!DNL Workfront]: Issues submitting a [!DNL Workfront] caso na Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 de agosto de 2022 |
 
@@ -56,6 +55,7 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Configuração: não é possível editar o Custo/Hora ou o Faturamento/Hora da função de trabalho](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md) | 21 de julho de 2023 |
 | [[!UICONTROL Configuração]: não é possível exportar logs de auditoria](known-issues-workfront/wf-setup-cannot-export-audit-logs.md) | 20 de julho de 2023 |
 | [Integrações de documentos: não é possível visualizar todas as pastas em [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md) | 18 de julho de 2023 |
 | [Provas: as provas são criadas lentamente no ambiente Visualização](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 8 de junho de 2023 |

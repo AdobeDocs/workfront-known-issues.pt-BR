@@ -3,15 +3,19 @@ title: "Balanceador de Carga de Trabalho: Horas redistribuídas inesperadamente"
 description: "Quando as alocações de horas são feitas em tarefas específicas, essas horas podem recalcular e redistribuir inesperadamente. Isso pode ocorrer após a tabulação entre datas ou páginas ou após a atualização da página."
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+source-git-commit: c21b660817890195de853e32a3eefdcf1d473c05
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '78'
 ht-degree: 100%
 
 ---
 
 
 # Balanceador de Carga de Trabalho: Horas redistribuídas inesperadamente
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em 17 de julho de 2023.
 
 Quando as alocações de horas são feitas em tarefas específicas, essas horas podem ser recalculadas e redistribuídas inesperadamente. Isso pode ocorrer após a tabulação entre datas ou páginas ou após a atualização da página.
 

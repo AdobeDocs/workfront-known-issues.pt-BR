@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 3d2c392fdb9cdf2eb7ea46cd4444895bc45a5b7d
+source-git-commit: c21b660817890195de853e32a3eefdcf1d473c05
 workflow-type: tm+mt
-source-wordcount: '1370'
-ht-degree: 96%
+source-wordcount: '1376'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Documentos: arquivos EPS não suportados no momento](known-issues-workfront/wf-documents-not-supporting-eps.md)
       + [Documentos: erro XML ao baixar](known-issues-workfront/wf-documents-xml-error-when-downloading.md)
       + [Projetos/Problemas: o projeto não resolve corretamente o problema](known-issues-workfront/wf-projects-resolving-issue.md)
       + [[!UICONTROL Configuração]: não é possível exportar logs de auditoria](known-issues-workfront/wf-setup-cannot-export-audit-logs.md)

@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 3d2c392fdb9cdf2eb7ea46cd4444895bc45a5b7d
+source-git-commit: c21b660817890195de853e32a3eefdcf1d473c05
 workflow-type: tm+mt
-source-wordcount: '318'
-ht-degree: 93%
+source-wordcount: '335'
+ht-degree: 91%
 
 ---
 
@@ -37,6 +37,8 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documentos: arquivos EPS não suportados no momento](known-issues-workfront/wf-documents-not-supporting-eps.md) | 21 de julho de 2023 |
+| [Provas: as aprovações de prova bloqueadas ainda são mostradas na lista de trabalho](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 21 de julho de 2023 |
 | [Provas: as opções de aprovação não aparecem no [!UICONTROL Visualizador de prova]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 26 de junho de 2023 |
 
 {style="table-layout:auto"}
