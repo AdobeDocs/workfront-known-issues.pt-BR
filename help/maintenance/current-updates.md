@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+source-git-commit: 3d2c392fdb9cdf2eb7ea46cd4444895bc45a5b7d
 workflow-type: tm+mt
-source-wordcount: '4258'
-ht-degree: 98%
+source-wordcount: '4218'
+ht-degree: 100%
 
 ---
 
@@ -24,11 +24,7 @@ Para obter atualizações de manutenção anteriores a 2023, consulte [Atualiza�
 
 +++**Atualização de manutenção em 20 de julho de 2023**
 
-**Definir horas planejadas em tarefas recorrentes secundárias com [!UICONTROL Simples] tipo de duração sem atribuições**
-
-_Tarefas_
-
-Agora, ao definir Horas planejadas em uma nova tarefa pai recorrente com uma [!UICONTROL Simples] Tipo de duração e sem atribuições, as horas também são adicionadas às recorrências individuais. Antes dessa alteração, as horas não eram salvas para as recorrências quando as tarefas pai eram desatribuídas.
+Esta atualização contém apenas correções de erros pequenos ou menos importantes. O suporte do [!DNL Workfront] enviará uma notificação quando um problema enviado por você for corrigido.
 
 +++
 
