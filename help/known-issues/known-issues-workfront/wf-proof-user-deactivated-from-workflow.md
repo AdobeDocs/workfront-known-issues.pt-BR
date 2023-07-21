@@ -3,8 +3,9 @@ title: '“Provas: o usuário é desativado do fluxo de trabalho de prova e rece
 description: Quando um usuário tenta acessar uma prova em que foi atribuído a um fluxo de trabalho, ele vê uma mensagem de Acesso não permitido.
 hidefromtoc: true
 exl-id: af7d70af-3d4c-40a8-a8c4-429f38e62d34
-source-git-commit: f95db2a6954809c25c819d99ea3240f48d56d0e9
-workflow-type: ht
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 100%
 

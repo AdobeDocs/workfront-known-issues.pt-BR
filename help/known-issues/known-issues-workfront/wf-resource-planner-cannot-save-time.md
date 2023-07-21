@@ -3,8 +3,9 @@ title: 'Planejador de recursos: não é possível salvar após a adição de tem
 description: Quando um usuário no [!UICONTROL Planejador de recursos] adiciona tempo e, em seguida, tenta salvar, o botão [!UICONTROL Salvar] não responde. Se o usuário clicar em [!UICONTROL Cancelar], eles verão uma mensagem sobre alterações não salvas.
 hidefromtoc: true
 exl-id: a5e2aefb-e1f6-48dc-9fe8-e03c0c157274
-source-git-commit: b0f3e9f359165f6d0900bbdb4ba5fa57cf43cffb
-workflow-type: ht
+feature: Resource Management
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 100%
 

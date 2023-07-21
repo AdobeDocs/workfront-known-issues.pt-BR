@@ -1,14 +1,15 @@
 ---
-title: '“Atualizações: a atualização feita em nome de um usuário é vinculada diretamente ao usuário”'
-description: “Quando um administrador está conectado como usuário e faz um comentário, esse comentário é vinculado diretamente ao usuário, e não ao administrador em nome do usuário.”
+title: 'Atualizações: a atualização feita em nome de um usuário é vinculada diretamente ao usuário'
+description: Quando um administrador está conectado como um usuário e faz um comentário, esse comentário é vinculado diretamente ao usuário, e não ao administrador em nome do usuário.
 hidefromtoc: true
-source-git-commit: b03ef9d21bfe75bea3a2df6b2420490c6ce22050
-workflow-type: ht
+exl-id: b094dc2d-5cd8-4d48-9793-386256db7b4c
+feature: Updates and Notifications
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 100%
 
 ---
-
 
 # Atualizações: a atualização feita em nome de um usuário é vinculada diretamente ao usuário
 
@@ -19,4 +20,3 @@ ht-degree: 100%
 Quando um administrador está conectado como um usuário e faz um comentário, esse comentário é vinculado diretamente ao usuário, e não ao administrador em nome do usuário.
 
 _Reportado pela primeira vez em 1 de março de 2023._
-

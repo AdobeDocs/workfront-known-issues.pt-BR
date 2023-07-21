@@ -2,8 +2,9 @@
 title: '“Folhas de horas: erros ao registrar as horas em uma folha de horas”'
 description: “Quando um usuário tenta registrar as horas de uma tarefa em sua folha de horas, as horas não são salvas, e algumas mensagens de erro são exibidas.”
 hidefromtoc: true
-source-git-commit: 9a14f4aaeeac02632e63b77451da61c173de6f7b
-workflow-type: ht
+feature: Timesheets
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 100%
 

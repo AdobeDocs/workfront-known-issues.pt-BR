@@ -2,8 +2,9 @@
 title: '“Relatórios: o relatório não classifica corretamente por campo personalizado'
 description: “Quando um usuário executa um relatório de tarefa, o relatório parece classificar corretamente quando está carregando, mas quando ele termina de carregar, o usuário vê que o relatório não está classificado corretamente.
 hidefromtoc: true
-source-git-commit: d781ab9f0204cf65f67583a90d9aaaa3bc9db303
-workflow-type: ht
+feature: Reports and Dashboards
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 100%
 

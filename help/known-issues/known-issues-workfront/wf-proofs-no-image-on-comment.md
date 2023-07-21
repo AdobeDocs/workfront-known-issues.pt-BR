@@ -2,7 +2,8 @@
 title: "Provas: mensagem de ausência de imagem ao clicar em prova"
 description: "Quando um usuário no Visualizador de provas de desktop clica em um comentário, a imagem associada ao comentário não abre e o usuário vê uma mensagem."
 hidefromtoc: true
-source-git-commit: 79ebbfd795616da4431fcbcca7676e03b5e2d927
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 4%

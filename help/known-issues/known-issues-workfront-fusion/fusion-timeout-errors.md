@@ -3,8 +3,9 @@ title: 'Adobe Workfront Fusion: erros de tempo limite no Workfront Fusion'
 description: Quando um cenário está em execução, pode ocorrer um erro de tempo limite. As informações do módulo com o erro não chegam ao destino.
 hidefromtoc: true
 exl-id: 2bc0db8e-73bd-449b-9025-369c8c62dcc5
-source-git-commit: 94dd70f476ea62a644bad32d8b0627a5ead737c3
-workflow-type: ht
+feature: Workfront Fusion
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 100%
 

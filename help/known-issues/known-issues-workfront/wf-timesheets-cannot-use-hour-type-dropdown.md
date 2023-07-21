@@ -3,8 +3,9 @@ title: 'Folhas de horas: a lista suspensa Tipo de hora não abre'
 description: Quando um usuário tenta abrir a lista suspensa Tipo de hora em uma folha de horas, a tela pisca, mas a lista suspensa não abre. Isso ocorre quando o monitor está definido com uma resolução incomum ou quando o zoom da janela do navegador não está definido em 100%.
 hidefromtoc: true
 exl-id: 50660f78-b963-4eb9-b95f-3fdc129d9ecb
-source-git-commit: a9e0c0cc9bd1d69b22fcf9ef755a715d37ba658d
-workflow-type: ht
+feature: Timesheets
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 100%
 

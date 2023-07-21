@@ -3,8 +3,9 @@ title: 'Usuários: o nível de acesso é alterado pelo sistema sem registro da a
 description: O nível de acesso de um usuário pode ser alterado imprevisivelmente pelo sistema. Quando isso ocorre, não há atualização visível e a alteração não aparece no log de auditoria.
 hidefromtoc: true
 exl-id: 273781aa-1770-4ac0-ac09-32e0b97dc922
-source-git-commit: a9e0c0cc9bd1d69b22fcf9ef755a715d37ba658d
-workflow-type: ht
+feature: People Teams and Groups
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 100%
 

@@ -3,8 +3,9 @@ title: '“Atualizações: o nome da equipe não aparece em @mention”'
 description: Quando um usuário na nova experiência do [!DNL Adobe Workfront] tenta marcar uma equipe em uma atualização e o nome da equipe tem várias palavras (por exemplo, “Nome da equipe”), ela não é notificada e não aparece no campo Para. Se o nome da equipe for inserido no campo [!UICONTROL Notificar], ela não é notificada conforme esperado, apenas parte do nome aparece no hiperlink da atualização.
 exl-id: 3e06e1aa-f98d-45dd-b467-ac30dbfa4ede
 hidefromtoc: true
-source-git-commit: b02ad4aa856642d9b9849a6a8e0d9c94e4748970
-workflow-type: ht
+feature: Updates and Notifications
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 100%
 

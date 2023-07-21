@@ -2,9 +2,10 @@
 title: 'Folhas de hora: o filtro não continua aplicado quando a página é atualizada'
 description: Quando um usuário está visualizando uma lista de folhas de hora usando um filtro e atualiza ou sai da página e volta, o filtro não permanece aplicado. O filtro aparece selecionado na lista de filtros.
 hidefromtoc: true
+feature: Timesheets
 exl-id: 4ec51957-448a-42ac-8c19-dbdc221901b8
-source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
-workflow-type: ht
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 100%
 

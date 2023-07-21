@@ -3,8 +3,9 @@ title: Os links de ajuda do aplicativo Fusion não abrem páginas de ajuda espec
 description: Os links de ajuda no [!DNL Workfront Fusion] não abrem as páginas de ajuda desejadas. Em vez disso, todos os links de ajuda do Fusion abrem a página inicial da documentação do Workfront. Nessa landing page, você pode pesquisar as informações necessárias.
 hidefromtoc: true
 exl-id: 3775d0c6-6bca-4727-b03e-4a0659cb3267
-source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
-workflow-type: ht
+feature: Workfront Fusion
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 100%
 

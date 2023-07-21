@@ -1,8 +1,10 @@
 ---
 title: Atualizações de manutenção do Workfront  em 2022
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
-source-git-commit: afd6b707f0d9df2887b66bf09e67d1edcac680b3
-workflow-type: ht
+exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
+feature: Get Started with Workfront
+source-git-commit: 6f245f70ca00bef3db833a891cc4c7d822761c37
+workflow-type: tm+mt
 source-wordcount: '16739'
 ht-degree: 100%
 
@@ -247,7 +249,7 @@ Os seguintes problemas foram relatados em relação a tarefas adicionadas a uma 
 * Algumas subtarefas de uma tarefa adicionada a uma iteração não aparecem na página [!UICONTROL Iteração].
 * Quando um usuário tenta adicionar uma tarefa ausente à iteração, ela não é adicionada e o usuário vê a seguinte mensagem:
 
-   “[!UICONTROL ocorreu o seguinte erro: não foi possível mover nenhum dos itens selecionados, porque não estão atribuídos a uma Equipe Ágil ou não são itens de Equipe Ágil]”
+  “[!UICONTROL ocorreu o seguinte erro: não foi possível mover nenhum dos itens selecionados, porque não estão atribuídos a uma Equipe Ágil ou não são itens de Equipe Ágil]”
 
 **tarefas atribuídas por meio da edição em massa não aparecem na lista de pendências da equipe**
 

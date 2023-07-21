@@ -2,8 +2,9 @@
 title: '“Provas: as opções de aprovação não aparecem no Visualizador de prova”'
 description: “Quando um usuário tenta aprovar uma prova no Visualizador de prova para desktop logo após a solicitação da aprovação, as opções de aprovação não são exibidas, o que impede a aprovação da prova. As opções de aprovação são exibidas várias horas após a solicitação da aprovação.”
 hidefromtoc: true
-source-git-commit: 72b2ac2890d27494949a6892a800d9c7534fc2d1
-workflow-type: ht
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 100%
 

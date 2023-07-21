@@ -1,14 +1,15 @@
 ---
-title: '“Tarefas: não é possível alterar a Data de conclusão planejada de uma tarefa”'
-description: “Quando um usuário tenta alterar a Data de conclusão planejada de uma tarefa, o campo fica sem resposta. ”
+title: 'Tarefas: não é possível alterar a Data de conclusão planejada de uma tarefa'
+description: '''Quando um usuário tenta alterar a Data de conclusão planejada de uma tarefa, o campo fica sem resposta. ”'
 hidefromtoc: true
-source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
-workflow-type: ht
+exl-id: a65d7c71-cc27-4f44-8f96-3c56b83910ac
+feature: Tasks
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 100%
 
 ---
-
 
 # Tarefas: Não é possível alterar a [!UICONTROL Data de conclusão planejada] de uma tarefa
 
@@ -31,4 +32,3 @@ Siga um destes procedimentos:
 * Altere a [!UICONTROL Data de conclusão planejada] em linha na lista de tarefas.
 
 _Reportado pela primeira vez em 11 de outubro de 2022._
-

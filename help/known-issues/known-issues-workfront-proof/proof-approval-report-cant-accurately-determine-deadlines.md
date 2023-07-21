@@ -3,8 +3,9 @@ title: '“Provas: o relatório de aprovação de prova não determina com preci
 description: Quando um usuário cria um relatório [!UICONTROL Aprovação de prova] que contém as datas do prazo da prova, as datas exibidas no relatório estão incorretas, o que resulta em erros de cálculo e informações imprecisas nos resultados.
 exl-id: 1f636a74-9522-4f2b-8e91-4f0facf1cdbc
 hidefromtoc: true
-source-git-commit: b6adcbe778d87635b9e3b9aba96b19c75d9bf528
-workflow-type: ht
+feature: Workfront Proof
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 100%
 

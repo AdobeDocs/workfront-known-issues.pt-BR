@@ -2,8 +2,9 @@
 title: '“Configuração: não foi possível editar o Custo/Hora ou o Faturamento/Hora da função de trabalho”'
 description: “Quando alguém está editando uma função de trabalho e tenta editar os campos Custo/Hora ou Faturamento/Hora, os campos ficam em branco e não podem ser editados.”
 hidefromtoc: true
-source-git-commit: f532612231727185f457a86250e1e80ce519cc63
-workflow-type: ht
+feature: System Setup and Administration
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 100%
 
