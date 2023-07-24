@@ -4,7 +4,7 @@ description: “Quando um usuário tenta registrar as horas de uma tarefa em sua
 hidefromtoc: true
 feature: Timesheets
 source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
 ht-degree: 100%
 
