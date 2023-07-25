@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3d2c392fdb9cdf2eb7ea46cd4444895bc45a5b7d
+source-git-commit: eba288c8fdd9e08c29b419e7e76d85719ff732c3
 workflow-type: tm+mt
-source-wordcount: '4218'
-ht-degree: 100%
+source-wordcount: '4304'
+ht-degree: 99%
 
 ---
 
@@ -21,6 +21,16 @@ As seguintes atualizações de manutenção foram efetuadas em 2023.
 Para obter atualizações de manutenção anteriores a 2023, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em julho de 2023
+
++++**(Planejado) Atualização de manutenção em 27 de julho de 2023**
+
+**&quot;[!UICONTROL Ativar todo o sistema]&quot; e &quot;[!UICONTROL Exibir em todo o sistema]&quot; representam funcionalidades diferentes**
+
+_Filtros_
+
+Se um usuário compartilhar um filtro e habilitar a opção “[!UICONTROL Exibir em todo o sistema]”, o filtro será compartilhado com cada usuário no sistema. No entanto, se um administrador visualizar esse filtro na [!UICONTROL Configuração], verá que ele é exibido como “[!UICONTROL falso]” na coluna “[!UICONTROL Visível para todo o sistema]”. Para tornar esse filtro um padrão do sistema, o administrador deve habilitar a opção “[!UICONTROL Habilitar em todo o sistema]” na [!UICONTROL Configuração]. Isso pode causar confusão devido à similaridade dos termos.
+
++++
 
 +++**Atualização de manutenção em 20 de julho de 2023**
 
