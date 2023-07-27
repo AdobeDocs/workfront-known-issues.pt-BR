@@ -4,10 +4,10 @@ description: Problemas conhecidos reportados da nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8cc9f5313f20b38afc618f2c657995715b4d4f09
+source-git-commit: a87ecf052ae1949f636b43c5a84de20df430e0b3
 workflow-type: tm+mt
-source-wordcount: '636'
-ht-degree: 92%
+source-wordcount: '647'
+ht-degree: 90%
 
 ---
 
@@ -25,6 +25,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Tarefas/problemas: o usuário atribuído não recebe acesso ao objeto](known-issues-workfront/wf-access-assigned-user-not-getting-access.md) | 27 de julho de 2023 |
 | [Documentos: as aprovações de documentos não aparecem no [!UICONTROL Aprovações] área](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25 de julho de 2023 |
 | [Documentos: erro XML ao baixar](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 21 de julho de 2023 |
 | [Projetos/Problemas: o projeto não resolve corretamente o problema](known-issues-workfront/wf-projects-resolving-issue.md) | 21 de julho de 2023 |
