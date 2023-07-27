@@ -3,10 +3,10 @@ title: "Documentos: erro XML ao baixar"
 description: "Quando um usuário tenta baixar um documento, ele não é baixado e o usuário vê uma página com uma mensagem seguida por um texto XML."
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 3d2c392fdb9cdf2eb7ea46cd4444895bc45a5b7d
+source-git-commit: 882402acd54423e20d28c2294f5aeeae9fc8fa9a
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 4%
+source-wordcount: '100'
+ht-degree: 10%
 
 ---
 
@@ -14,6 +14,10 @@ ht-degree: 4%
 # Documentos: erro XML ao baixar
 
 <!--WF, WFP TOCs-->
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em 21 de julho de 2023.
 
 Quando um usuário tenta baixar um documento, ele não é baixado e o usuário vê uma página com a seguinte mensagem seguida por um texto XML.
 
