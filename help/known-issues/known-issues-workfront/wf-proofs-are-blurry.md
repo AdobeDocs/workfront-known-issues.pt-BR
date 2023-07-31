@@ -1,17 +1,17 @@
 ---
-title: As provas são exibidas com menos clareza que a imagem original
-description: Quando um usuário cria uma prova e, em seguida, visualiza essa prova no visualizador de Prova, ela parece menos clara (mais turva) do que a imagem original.
+title: As provas são exibidas com menos clareza do que a imagem original
+description: Quando um usuário cria uma prova e, em seguida, visualiza-a no visualizador de Prova, ela parece menos clara (mais embaçada) do que a imagem original.
 hidefromtoc: true
 exl-id: b9ab4de1-7e89-4577-8fd5-7c87855dea86
 feature: Digital Content and Documents
 source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
-# Provas: as provas são exibidas no Visualizador de prova com menos clareza que a imagem original
+# Provas: as provas são exibidas no Visualizador de prova com menos clareza do que a imagem original
 
 <!--This is on both the WF and WFP TOCs-->
 
