@@ -1,17 +1,17 @@
 ---
-title: "Problemas: a navegação à esquerda exibe (0) problemas quando há problemas"
-description: Quando um usuário está visualizando uma tarefa onde há problemas, a navegação à esquerda da tarefa exibe (0) na área Problemas, indicando que não há problemas. Se o usuário visualizar a área Problemas da tarefa, verá os problemas.
+title: '“Problemas: o painel de navegação esquerdo exibe (0) problemas mesmo quando há problemas”'
+description: Quando um usuário visualiza uma tarefa na qual problemas existem, o painel de navegação esquerdo da tarefa exibe (0) na área Problemas, indicando que não há problemas. Se o usuário visualizar a área Problemas da tarefa, verá os problemas.
 hidefromtoc: true
 exl-id: 96fd8e29-3184-4423-bf6e-dbe2f9d8e154
 feature: Tasks
 source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
-ht-degree: 72%
+ht-degree: 100%
 
 ---
 
-# Problemas: a navegação à esquerda exibe “(0)” problemas quando há problemas
+# Problemas: O painel de navegação esquerdo exibe “(0)” problemas mesmo quando há problemas
 
 >[!NOTE]
 >
