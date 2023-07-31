@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: 882402acd54423e20d28c2294f5aeeae9fc8fa9a
 workflow-type: tm+mt
 source-wordcount: '332'
-ht-degree: 92%
+ht-degree: 97%
 
 ---
 
@@ -27,7 +27,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | -----------------------------------------------------------------| ----------------- |
 | [Documentos: as aprovações de documentos não aparecem no [!UICONTROL Aprovações] área](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25 de julho de 2023 |
 | [Provas: as provas não são exibidas nos relatórios como aprovadas](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 20 de julho de 2023 |
-| [Provas: mensagem &quot;Sem imagem&quot; ao clicar em prova](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 20 de julho de 2023 |
+| [Provas: a mensagem “Sem imagem” é exibida ao clicar em uma prova](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 20 de julho de 2023 |
 
 {style="table-layout:auto"}
 
@@ -37,7 +37,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Provas: as aprovações de prova bloqueadas ainda são mostradas na Lista de trabalho](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 21 de julho de 2023 |
+| [Provas: as aprovações de prova bloqueadas ainda são mostradas na lista de trabalho](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 21 de julho de 2023 |
 | [Provas: as opções de aprovação não aparecem no [!UICONTROL Visualizador de prova]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 26 de junho de 2023 |
 
 {style="table-layout:auto"}

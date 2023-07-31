@@ -5,7 +5,7 @@ role: User
 source-git-commit: acb47f82aed4e45286be006d9106278802e38d6d
 workflow-type: tm+mt
 source-wordcount: '1001'
-ht-degree: 93%
+ht-degree: 97%
 
 ---
 
@@ -19,12 +19,12 @@ ht-degree: 93%
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
       + [Tarefas/problemas: o usuário atribuído não recebe acesso ao objeto](known-issues-workfront/wf-access-assigned-user-not-getting-access.md)
       + [Documentos: as aprovações de documentos não aparecem no [!UICONTROL Aprovações] área](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
-      + [Documentos: arquivos EPS não suportados no momento](known-issues-workfront/wf-documents-not-supporting-eps.md)
-      + [Documentos: erro XML ao baixar](known-issues-workfront/wf-documents-xml-error-when-downloading.md)
-      + [Projetos/Problemas: o projeto não resolve corretamente o problema](known-issues-workfront/wf-projects-resolving-issue.md)
+      + [Documentos: arquivos EPS não são compatíveis atualmente](known-issues-workfront/wf-documents-not-supporting-eps.md)
+      + [Documentos: erro de XML ao baixar](known-issues-workfront/wf-documents-xml-error-when-downloading.md)
+      + [Projetos/problemas: o projeto não resolve corretamente o problema](known-issues-workfront/wf-projects-resolving-issue.md)
       + [[!UICONTROL Configuração]: não é possível exportar logs de auditoria](known-issues-workfront/wf-setup-cannot-export-audit-logs.md)
       + [Provas: as provas não são exibidas nos relatórios como aprovadas](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
-      + [Provas: mensagem &quot;Sem imagem&quot; ao clicar em prova](known-issues-workfront/wf-proofs-no-image-on-comment.md)
+      + [Provas: mensagem “Sem imagem” é exibida ao clicar em uma prova](known-issues-workfront/wf-proofs-no-image-on-comment.md)
       + [Integrações de documentos: não é possível visualizar todas as pastas no  [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)
       + [[!UICONTROL Página inicial]: [!UICONTROL a Lista de trabalho da página inicial] está em branco/está lenta para carregar](known-issues-workfront/wf-home-blank-slow-to-load.md)
       + [Configuração: não foi possível editar o Custo/Hora ou o Faturamento/Hora da função de trabalho](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md)

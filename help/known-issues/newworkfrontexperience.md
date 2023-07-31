@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 882402acd54423e20d28c2294f5aeeae9fc8fa9a
 workflow-type: tm+mt
 source-wordcount: '615'
-ht-degree: 93%
+ht-degree: 96%
 
 ---
 
@@ -27,7 +27,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | -----------------------------------------------------------------| ----------------- |
 | [Tarefas/problemas: o usuário atribuído não recebe acesso ao objeto](known-issues-workfront/wf-access-assigned-user-not-getting-access.md) | 27 de julho de 2023 |
 | [Documentos: as aprovações de documentos não aparecem no [!UICONTROL Aprovações] área](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25 de julho de 2023 |
-| s | [Provas: mensagem &quot;Sem imagem&quot; ao clicar em prova](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 20 de julho de 2023 |
+| s | [Provas: a mensagem “Sem imagem” é exibida ao clicar em uma prova](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 20 de julho de 2023 |
 | [Quadros: a barra de rolagem horizontal não está presente](known-issues-workfront/wf-board-no-scrollbar.md) | 28 de junho de 2023 |
 
 {style="table-layout:auto"}
@@ -38,7 +38,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Projetos/Problemas: o projeto não resolve corretamente o problema](known-issues-workfront/wf-projects-resolving-issue.md) | 27 de julho de 2023 |
+| [Projetos/problemas: o projeto não resolve corretamente o problema](known-issues-workfront/wf-projects-resolving-issue.md) | 27 de julho de 2023 |
 | [Provas: as aprovações de prova bloqueadas ainda são mostradas na lista de trabalho](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 21 de julho de 2023 |
 | [[!UICONTROL Página inicial]: os itens não aparecem na [!UICONTROL lista de trabalho da página inicial]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 21 de julho de 2023 |
 | [Provas: as opções de aprovação não aparecem no [!UICONTROL Visualizador de prova]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 26 de junho de 2023 |
