@@ -1,13 +1,13 @@
 ---
-title: 'Documentos: erro ao fazer upload de um arquivo grande'
-description: Quando um usuário tenta fazer upload de um arquivo grande (mais de 25 MB), o arquivo não é carregado e o usuário vê o erro Falha ao fazer upload do arquivo.
+title: '“Documentos: erro ao fazer upload de um arquivo grande”'
+description: Quando um usuário tenta fazer upload de um arquivo grande (mais de 25 MB), o upload não é realizado e o erro “Falha ao fazer upload do arquivo” é exibido.
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 6887a0a1-4f0b-4c91-b20f-664dd5f94470
 source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
-ht-degree: 69%
+ht-degree: 100%
 
 ---
 
