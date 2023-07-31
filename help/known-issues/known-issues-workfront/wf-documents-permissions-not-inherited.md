@@ -1,17 +1,17 @@
 ---
-title: 'Documentos: as permissões de documento não são herdadas quando o problema principal é convertido em um projeto'
-description: Quando os documentos são anexados a um problema e um usuário converte o problema em um projeto, os documentos do novo projeto não têm as permissões herdadas que deveriam ter.
+title: '“Documentos: as permissões de documento não são herdadas quando o elemento principal é convertido em um projeto”'
+description: Quando os documentos são anexados a um elemento e um usuário converte o elemento em um projeto, os documentos do novo projeto não têm as permissões herdadas que deveriam ter.
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 1ed99151-a492-4f5a-8c82-f8ad23c3db35
 source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
 ht-degree: 100%
 
 ---
 
-# Documentos: as permissões de documento não são herdadas quando o problema principal é convertido em um projeto
+# Documentos: as permissões de documento não são herdadas quando o elemento principal é convertido em um projeto
 
 >[!NOTE]
 >
