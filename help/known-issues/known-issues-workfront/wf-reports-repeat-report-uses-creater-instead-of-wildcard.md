@@ -1,13 +1,13 @@
 ---
-title: "Relatórios: os relatórios usam o criador de relatórios em vez do curinga $$USERID"
-description: Quando um relatório é uma entrega repetida e inclui o curinga $$USERID, o relatório é executado usando o criador do relatório em vez do curinga. Isso ocorre somente com a entrega repetida. O relatório funciona conforme esperado ao ser executado manualmente ou usando a opção Enviar imediatamente.
+title: '“Relatórios: os relatórios usam o criador de relatórios em vez do curinga $$USERID”'
+description: Quando um relatório é uma entrega repetida e inclui o curinga $$USERID, o relatório é executado usando o criador de relatórios em vez do curinga. Isso ocorre somente com entregas repetidas. O relatório funciona conforme esperado ao ser executado manualmente ou usando a opção Enviar imediatamente.
 hidefromtoc: true
 exl-id: d46cdb4a-5aba-4225-a440-30f45d59a7e4
 feature: Reports and Dashboards
 source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '117'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
