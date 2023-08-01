@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e2c846da9bd52f1232b41c81c8876cbfc4060f4d
+source-git-commit: 188e8a34947a51e62116e2a166aeeedaa5dc71c8
 workflow-type: tm+mt
-source-wordcount: '4410'
-ht-degree: 98%
+source-wordcount: '4451'
+ht-degree: 97%
 
 ---
 
@@ -20,9 +20,9 @@ As seguintes atualizações de manutenção foram efetuadas em 2023.
 
 Para obter atualizações de manutenção anteriores a 2023, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
-## Atualizações em julho de 2023
+## Atualizações em agosto de 2023
 
-+++**(Planejado) Atualização de manutenção em 27 de julho de 2023**
++++**(Planejado) Atualização de manutenção em 3 de agosto de 2023**
 
 **O projeto não resolve corretamente o problema**
 
@@ -45,6 +45,12 @@ Esse problema foi relatado para usuários no EMEA.
 ## Atualizações em julho de 2023
 
 +++**Atualização de manutenção em 27 de julho de 2023**
+
+**Itens de tags e listas de verificação que não funcionam corretamente na exibição do quadro do projeto**
+
+_Quadros_
+
+Os itens de tags e listas de verificação foram removidos da exibição de quadro dos projetos, pois não fazem parte das tarefas do Workfront e não podem ser compartilhados entre usuários.
 
 **&quot;[!UICONTROL Ativar todo o sistema]&quot; e &quot;[!UICONTROL Exibir em todo o sistema]&quot; representam funcionalidades diferentes**
 
