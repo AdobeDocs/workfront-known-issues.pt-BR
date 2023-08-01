@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: a87ecf052ae1949f636b43c5a84de20df430e0b3
+source-git-commit: e2c846da9bd52f1232b41c81c8876cbfc4060f4d
 workflow-type: tm+mt
-source-wordcount: '4303'
-ht-degree: 99%
+source-wordcount: '4410'
+ht-degree: 98%
 
 ---
 
@@ -19,6 +19,28 @@ As seguintes atualizações de manutenção foram efetuadas em 2023.
 >Essas atualizações também incluem outras correções de erros menores ou menos importantes. O suporte do [!DNL Workfront] enviará uma notificação quando um problema enviado for corrigido.
 
 Para obter atualizações de manutenção anteriores a 2023, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
+
+## Atualizações em julho de 2023
+
++++**(Planejado) Atualização de manutenção em 27 de julho de 2023**
+
+**O projeto não resolve corretamente o problema**
+
+_Projetos / Problemas_
+
+Quando um usuário altera o status de um projeto que é objeto da resolução de um problema, o status do problema é alterado para um status que não corresponde à mesma chave do status do projeto.
+
+**Erro em relatórios de matriz**
+
+_Relatórios_
+
+Quando um usuário tenta visualizar um relatório de matriz, ele não é carregado e o usuário vê o seguinte erro:
+
+“[!UICONTROL Ops! Um erro inesperado aconteceu. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.]”
+
+Esse problema foi relatado para usuários no EMEA.
+
++++
 
 ## Atualizações em julho de 2023
 
