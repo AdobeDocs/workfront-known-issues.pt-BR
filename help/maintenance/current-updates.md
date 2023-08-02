@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 188e8a34947a51e62116e2a166aeeedaa5dc71c8
+source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
 workflow-type: tm+mt
-source-wordcount: '4451'
-ht-degree: 97%
+source-wordcount: '4509'
+ht-degree: 96%
 
 ---
 
@@ -23,6 +23,24 @@ Para obter atualizações de manutenção anteriores a 2023, consulte [Atualiza�
 ## Atualizações em agosto de 2023
 
 +++**(Planejado) Atualização de manutenção em 3 de agosto de 2023**
+
+**Dificuldade em localizar itens na coluna de entrada**
+
+_Quadros_
+
+A coluna Entrada em um quadro era anteriormente classificada pela prioridade definida em tarefas e problemas, o que dificultava a localização de itens específicos.
+
+A ordenação padrão agora é a seguinte:
+
+Tarefas:
+
+* Ordem principal: Nome do projeto
+* Ordem secundária: estrutura de detalhamento de trabalho
+
+Problemas
+
+* Ordem principal: Nome do projeto
+* Ordem secundária: número de referência
 
 **O projeto não resolve corretamente o problema**
 

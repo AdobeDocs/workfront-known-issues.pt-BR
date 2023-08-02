@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 882402acd54423e20d28c2294f5aeeae9fc8fa9a
+source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
 workflow-type: tm+mt
-source-wordcount: '332'
-ht-degree: 97%
+source-wordcount: '360'
+ht-degree: 90%
 
 ---
 
@@ -25,6 +25,9 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Provas: a prova aprovada permanece no aprovador [!UICONTROL Lista de trabalho da página inicial]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) | 2 de agosto de 2023 |
+| [Provas: exibições de prova com o corte superior](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2 de agosto de 2023 |
+| [Provas: não é possível selecionar texto em listas ou marcadores](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 2 de agosto de 2023 |
 | [Documentos: as aprovações de documentos não aparecem no [!UICONTROL Aprovações] área](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25 de julho de 2023 |
 | [Provas: as provas não são exibidas nos relatórios como aprovadas](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 20 de julho de 2023 |
 | [Provas: a mensagem “Sem imagem” é exibida ao clicar em uma prova](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 20 de julho de 2023 |

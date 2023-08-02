@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: acb47f82aed4e45286be006d9106278802e38d6d
+source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
 workflow-type: tm+mt
-source-wordcount: '1001'
-ht-degree: 97%
+source-wordcount: '1046'
+ht-degree: 93%
 
 ---
 
@@ -17,6 +17,11 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Provas: criar uma nova versão de prova exclui todas as versões da prova](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md)
+      + [Provas: a prova aprovada permanece no aprovador [!UICONTROL Lista de trabalho da página inicial]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md)
+      + [Provas: exibições de prova com o corte superior](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md)
+      + [Página inicial: não é possível excluir [!UICONTROL Lista de afazeres] item em novo [!UICONTROL Início] experiência](known-issues-workfront/wf-home-cannot-delete-todo.md)
+      + [Provas: não é possível selecionar texto em listas ou marcadores](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md)
       + [Tarefas/problemas: o usuário atribuído não recebe acesso ao objeto](known-issues-workfront/wf-access-assigned-user-not-getting-access.md)
       + [Documentos: as aprovações de documentos não aparecem no [!UICONTROL Aprovações] área](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
       + [Documentos: arquivos EPS não são compatíveis atualmente](known-issues-workfront/wf-documents-not-supporting-eps.md)
