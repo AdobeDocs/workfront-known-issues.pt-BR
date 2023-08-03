@@ -3,15 +3,19 @@ title: '“Provas: as opções de aprovação não aparecem no Visualizador de p
 description: “Quando um usuário tenta aprovar uma prova no Visualizador de prova para desktop logo após a solicitação da aprovação, as opções de aprovação não são exibidas, o que impede a aprovação da prova. As opções de aprovação são exibidas várias horas após a solicitação da aprovação.”
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
-workflow-type: ht
-source-wordcount: '118'
+source-git-commit: 30e6cd6459cd070bd4246cccc3af11556d676911
+workflow-type: tm+mt
+source-wordcount: '129'
 ht-degree: 100%
 
 ---
 
 
 # Provas: as opções de aprovação não aparecem no [!UICONTROL Visualizador de prova]
+
+>[!NOTE]
+>
+>Esse problema foi encerrado porque não pôde ser reproduzido.
 
 Quando um usuário tenta aprovar uma prova no [!UICONTROL Visualizador de prova para desktop] logo após a solicitação da aprovação, as opções de aprovação não são exibidas, o que impede a aprovação da prova. As opções de aprovação são exibidas várias horas após a solicitação da aprovação.
 
