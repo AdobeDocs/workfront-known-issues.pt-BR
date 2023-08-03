@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Fusion]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 36860fdb7880db3891aab46fbbeb604c54b2aa2c
+source-git-commit: 13999f5de48f612de2a75d179d2c3af0c6727607
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 99%
+source-wordcount: '138'
+ht-degree: 89%
 
 ---
 
@@ -25,7 +25,8 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| Nenhum(a) |  |
+| [[!DNL Workfront Fusion]: módulo de suspensão que causa travamento de cenários](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md) | 3 de agosto de 2023 |
+| [[!DNL Workfront Fusion]: falha no cenário com &quot;[!UICONTROL leia ECONNRESET]Erro &quot;](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md) | 3 de agosto de 2023 |
 
 {style="table-layout:auto"}
 
