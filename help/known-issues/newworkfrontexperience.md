@@ -4,10 +4,10 @@ description: Problemas conhecidos reportados da nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 30e6cd6459cd070bd4246cccc3af11556d676911
+source-git-commit: 2ef5603364a5c5789b1e85f48d065564a361a43a
 workflow-type: tm+mt
-source-wordcount: '650'
-ht-degree: 88%
+source-wordcount: '661'
+ht-degree: 86%
 
 ---
 
@@ -40,6 +40,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Projetos: o projeto fixado não exibe informações em algumas colunas](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md) | 4 de agosto de 2023 |
 | [Provas: a mensagem “Sem imagem” é exibida ao clicar em uma prova](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 3 de agosto de 2023 |
 | [Provas: não é possível ajustar marcações de prova](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 3 de agosto de 2023 |
 | [Provas: criar uma nova versão de prova exclui todas as versões da prova](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md) | 2 de agosto de 2023 |
