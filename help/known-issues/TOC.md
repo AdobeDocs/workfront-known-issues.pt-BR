@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 2ef5603364a5c5789b1e85f48d065564a361a43a
+source-git-commit: 1f039e819f8a65af18d2dbc24b95b85607b947be
 workflow-type: tm+mt
-source-wordcount: '1078'
-ht-degree: 90%
+source-wordcount: '1084'
+ht-degree: 89%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 90%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Quadros: problemas ao carregar um quadro](known-issues-workfront/wf-boards-issues-with-loading.md)
       + [Projetos: o projeto fixado não exibe informações em algumas colunas](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md)
       + [Provas: não é possível ajustar marcações de prova](known-issues-workfront/wf-proof-markup-tools-not-working.md)
       + [Provas: provas não são geradas](known-issues-workfront/wf-proofs-fail-to-generate.md)
