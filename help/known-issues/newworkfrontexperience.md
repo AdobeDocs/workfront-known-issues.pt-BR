@@ -4,10 +4,10 @@ description: Problemas conhecidos reportados da nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: db6932ca0c0a9108dfa326a71cb46ecb9af71779
+source-git-commit: 60bfb4f3d7183b2e5110d896a3668991718fbb01
 workflow-type: tm+mt
-source-wordcount: '680'
-ht-degree: 86%
+source-wordcount: '703'
+ht-degree: 84%
 
 ---
 
@@ -25,6 +25,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Relatórios: problemas ao carregar relatórios de matriz](known-issues-workfront/wf-reports-matrix-report-not-loading.md) | 8 de agosto de 2023 |
 | [Quadros: problemas ao carregar um quadro](known-issues-workfront/wf-boards-issues-with-loading.md) | 7 de agosto de 2023 |
 | [Provas: provas não são geradas](known-issues-workfront/wf-proofs-fail-to-generate.md) | 3 de agosto de 2023 |
 | [Provas: a prova aprovada permanece no aprovador [!UICONTROL Lista de trabalho da página inicial]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) | 2 de agosto de 2023 |
@@ -41,6 +42,8 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Provas: sobreposição de texto em uma prova](known-issues-workfront/wf-proofs-overlapping-text.md) | 8 de agosto de 2023 |
+| [Provas: &quot;[!UICONTROL Desativar notificações por email de prova]A configuração &quot; é exibida de forma imprecisa](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 8 de agosto de 2023 |
 | [Projetos: não é possível navegar para um projeto com um URL que use [!UICONTROL ID de referência]](known-issues-workfront/wf-projects-unable-to-construct-url.md) | 8 de agosto de 2023 |
 | [Projetos: o projeto fixado não exibe informações em algumas colunas](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md) | 4 de agosto de 2023 |
 | [Provas: a mensagem “Sem imagem” é exibida ao clicar em uma prova](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 3 de agosto de 2023 |
