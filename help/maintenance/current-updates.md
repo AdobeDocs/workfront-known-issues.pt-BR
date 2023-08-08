@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f2ac5034ba97c996e84b94caac80d7686a924c36
+source-git-commit: db6932ca0c0a9108dfa326a71cb46ecb9af71779
 workflow-type: tm+mt
-source-wordcount: '4508'
-ht-degree: 96%
+source-wordcount: '4657'
+ht-degree: 94%
 
 ---
 
@@ -21,6 +21,32 @@ As seguintes atualizações de manutenção foram efetuadas em 2023.
 Para obter atualizações de manutenção anteriores a 2023, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em agosto de 2023
+
++++**(Planejado) Atualização de manutenção em 10 de agosto de 2023**
+
+**Não é possível excluir [!UICONTROL Lista de afazeres] item em novo [!UICONTROL Início] experiência**
+
+_Página inicial_
+
+Quando um usuário no novo [!UICONTROL Início] A experiência do tenta excluir um item da variável [!UICONTROL Lista de afazeres] , o item não é excluído e o usuário vê o seguinte erro:
+
+&quot;[!UICONTROL Ocorreu um problema ao remover a tarefa. Tente novamente em breve.]&quot;
+
+Isso pode ocorrer quando há horas registradas no [!UICONTROL Lista de afazeres] item.
+
+**O projeto fixado não exibe informações em algumas colunas**
+
+_Projetos_
+
+Quando um usuário navega para um projeto fixado usando o pino, as listas de objetos (como a lista de tarefas) podem exibir colunas em branco. Por exemplo, uma variável [!UICONTROL Atribuições] pode não exibir atribuições, mesmo que as atribuições tenham sido feitas.
+
+**Módulo de suspensão que causa o travamento de cenários**
+
+_[!DNL Workfront Fusion]_
+
+A variável [!UICONTROL Ferramentas] > [!UICONTROL Hibernar] em um cenário pode fazer com que a execução de um cenário trave. Essas execuções mostram um status de Em execução no [!UICONTROL Histórico do cenário]e não terminam.
+
++++
 
 +++**Atualização de manutenção em 3 de agosto de 2023**
 
@@ -70,7 +96,7 @@ _Quadros_
 
 Os itens de tags e listas de verificação foram removidos da exibição de quadro dos projetos, pois não fazem parte das tarefas do Workfront e não podem ser compartilhados entre usuários.
 
-**&quot;[!UICONTROL Ativar todo o sistema]&quot; e &quot;[!UICONTROL Exibir em todo o sistema]&quot; representam funcionalidades diferentes**
+**“[!UICONTROL Habilitar em todo o sistema]” e “[!UICONTROL Visualizar em todo o sistema]” representam funcionalidades diferentes**
 
 _Filtros_
 
