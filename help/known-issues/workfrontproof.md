@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: 30e6cd6459cd070bd4246cccc3af11556d676911
 workflow-type: tm+mt
 source-wordcount: '362'
-ht-degree: 86%
+ht-degree: 89%
 
 ---
 
@@ -29,7 +29,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | [Provas: a prova aprovada permanece no aprovador [!UICONTROL Lista de trabalho da página inicial]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) | 2 de agosto de 2023 |
 | [Provas: exibições de prova com o corte superior](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2 de agosto de 2023 |
 | [Provas: não é possível selecionar texto em listas ou marcadores](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 2 de agosto de 2023 |
-| [Documentos: as aprovações de documentos não aparecem no [!UICONTROL Aprovações] área](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25 de julho de 2023 |
+| [Documentos: aprovações de documentos não aparecem na área [!UICONTROL Aprovações]](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25 de julho de 2023 |
 | [Provas: as provas não são exibidas nos relatórios como aprovadas](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 20 de julho de 2023 |
 
 {style="table-layout:auto"}

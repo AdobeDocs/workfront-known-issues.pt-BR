@@ -5,7 +5,7 @@ role: User
 source-git-commit: 1f039e819f8a65af18d2dbc24b95b85607b947be
 workflow-type: tm+mt
 source-wordcount: '1084'
-ht-degree: 89%
+ht-degree: 92%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 89%
       + [Página inicial: não é possível excluir [!UICONTROL Lista de afazeres] item em novo [!UICONTROL Início] experiência](known-issues-workfront/wf-home-cannot-delete-todo.md)
       + [Provas: não é possível selecionar texto em listas ou marcadores](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md)
       + [Tarefas/problemas: o usuário atribuído não recebe acesso ao objeto](known-issues-workfront/wf-access-assigned-user-not-getting-access.md)
-      + [Documentos: as aprovações de documentos não aparecem no [!UICONTROL Aprovações] área](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
+      + [Documentos: aprovações de documentos não aparecem na área [!UICONTROL Aprovações]](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
       + [Documentos: arquivos EPS não são compatíveis atualmente](known-issues-workfront/wf-documents-not-supporting-eps.md)
       + [Documentos: erro de XML ao baixar](known-issues-workfront/wf-documents-xml-error-when-downloading.md)
       + [Projetos/problemas: o projeto não resolve corretamente o problema](known-issues-workfront/wf-projects-resolving-issue.md)
@@ -80,7 +80,7 @@ ht-degree: 89%
       + [Documentos: as permissões de documento não são herdadas quando o problema principal é convertido em um projeto](known-issues-workfront/wf-documents-permissions-not-inherited.md)
       + [Relatórios: o relatório usa o criador de relatórios em vez do curinga “$$[!UICONTROL USERID]”](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md)
       + [Integrações: não é possível abrir o  [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md)
-      + [Provas: o status da prova não é atualizado nas listas [!UICONTROL Documento]](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)
+      + [Provas: o status da prova não é atualizado nas listas de [!UICONTROL Documentos]](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)
       + [Formulários personalizados: formulários personalizados entre objetos exigem acesso de [!UICONTROL Gerenciar] ou [!UICONTROL Editar] para editar campos](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
       + [Provas: as provas são exibidas no Visualizador de prova com menos clareza que a imagem original](known-issues-workfront/wf-proofs-are-blurry.md)
       + [Provas: o resumo de impressão não mostra a miniatura da imagem](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
@@ -123,7 +123,7 @@ ht-degree: 89%
       + [[!DNL Workfront Proof]: erro 500 ao acessar o [!DNL Workfront Proof] por meio da API ou do [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)
       + [[!DNL Workfront Proof]: a pesquisa não retorna resultados](known-issues-workfront-proof/proof-search-returns-no-results.md)
       + [[!DNL Workfront Proof]: as listas não são classificadas corretamente](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
-      + [[!DNL Workfront Proof]: a área de [!UICONTROL Relatórios] não é mais compatível](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
+      + [[!DNL Workfront Proof]: a área [!UICONTROL Relatórios] não é mais compatível](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
       + [Provas: o usuário não recebe um email ao ser marcado em um comentário de prova](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
       + [Provas: nova etapa criada porque o prazo não pode corresponder ao prazo final da etapa existente](known-issues-workfront-proof/proof-new-stage-created.md)
       + [[!DNL Workfront Proof] API: erro “[!UICONTROL Corpo não é um XML válido]”](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
@@ -143,7 +143,7 @@ ht-degree: 89%
    + Problemas atuais no [!DNL Workfront Fusion] {#fusion-current}
       + [[!DNL Workfront Fusion]: módulo de suspensão que causa travamento de cenários](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
       + [[!DNL Workfront Fusion]: falha no cenário com &quot;[!UICONTROL leia ECONNRESET]Erro &quot;](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
-      + [[!DNL Workfront Fusion]: não é possível inserir valor em [!DNL Workfront] > [!UICONTROL Assistir a eventos] filtro](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
+      + [[!DNL Workfront Fusion]: não é possível inserir valor no filtro  [!DNL Workfront]  > [!UICONTROL Watch Events]](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
       + [[!DNL Workfront Fusion]: erro “[!UICONTROL não foi possível executar ATUALIZAR]”](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
       + [[!DNL Workfront Fusion]: os emails de notificação não estão sendo enviados](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
       + [[!DNL Workfront Fusion]: as execuções estão paralisadas ou atrasadas](known-issues-workfront-fusion/fusion-stuck-executions.md)

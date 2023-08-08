@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 1f039e819f8a65af18d2dbc24b95b85607b947be
 workflow-type: tm+mt
 source-wordcount: '668'
-ht-degree: 85%
+ht-degree: 88%
 
 ---
 
@@ -31,7 +31,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | [Provas: exibições de prova com o corte superior](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2 de agosto de 2023 |
 | [Provas: não é possível selecionar texto em listas ou marcadores](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 2 de agosto de 2023 |
 | [Tarefas/problemas: o usuário atribuído não recebe acesso ao objeto](known-issues-workfront/wf-access-assigned-user-not-getting-access.md) | 27 de julho de 2023 |
-| [Documentos: as aprovações de documentos não aparecem no [!UICONTROL Aprovações] área](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25 de julho de 2023 |
+| [Documentos: aprovações de documentos não aparecem na área [!UICONTROL Aprovações]](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25 de julho de 2023 |
 
 {style="table-layout:auto"}
 
