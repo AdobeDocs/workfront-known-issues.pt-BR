@@ -3,15 +3,19 @@ title: '“Workfront Fusion: não é possível inserir valor no filtro em Workfr
 description: “Quando um usuário está configurando um Módulo do  [!DNL Workfront]  >  [!DNL Watch Events]  e o operador está definido como [!UICONTROL Igual a], a caixa de texto para inserir um valor não está presente.”
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: 36860fdb7880db3891aab46fbbeb604c54b2aa2c
-workflow-type: ht
-source-wordcount: '78'
+source-git-commit: 8a9db3e9d8972497fa979cc8c2fb488d3a33118a
+workflow-type: tm+mt
+source-wordcount: '84'
 ht-degree: 100%
 
 ---
 
 
 # [!DNL Workfront Fusion]: não é possível inserir valor no filtro [!DNL Workfront] > [!UICONTROL Watch Events]
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em 10 de agosto de 2023.
 
 Quando um usuário está configurando um módulo [!DNL Workfront] > [!DNL Watch Events] e o operador está definido como “[!UICONTROL Igual a]”, a caixa de texto para inserir um valor não está presente.
 
