@@ -3,15 +3,19 @@ title: "Página inicial: não é possível excluir a tarefa na nova experiência
 description: "Quando um usuário na nova experiência da Página inicial tenta excluir um item do widget Tarefa pendente, o item não é excluído e o usuário vê um erro."
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
+source-git-commit: 3676106501c4b2a54e1aa2716b8f68bb7977e27b
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '107'
 ht-degree: 14%
 
 ---
 
 
 # Página inicial: não é possível excluir [!UICONTROL Lista de afazeres] item em novo [!UICONTROL Início] experiência
+
+>[!NOTE]
+>
+>Esse problema foi resolvido em 10 de agosto de 2023.
 
 Quando um usuário no novo [!UICONTROL Início] A experiência do tenta excluir um item da variável [!UICONTROL Lista de afazeres] , o item não é excluído e o usuário vê o seguinte erro:
 

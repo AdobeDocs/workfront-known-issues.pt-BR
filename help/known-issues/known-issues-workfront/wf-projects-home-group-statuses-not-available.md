@@ -4,14 +4,18 @@ description: “”
 hidefromtoc: true
 exl-id: 26fa9eea-962f-447c-8811-0c7e36568bc4
 feature: Projects
-source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
-workflow-type: ht
-source-wordcount: '91'
+source-git-commit: 3676106501c4b2a54e1aa2716b8f68bb7977e27b
+workflow-type: tm+mt
+source-wordcount: '97'
 ht-degree: 100%
 
 ---
 
 # Projetos: os status personalizados do [!UICONTROL grupo inicial] não estão disponíveis ao criar um projeto a partir de um modelo
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em 10 de agosto de 2023.
 
 Quando um usuário cria um projeto a partir de um modelo e o modelo não tem nenhum grupo associado a ele, os status personalizados associados ao [!UICONTROL grupo inicial] do usuário não estão disponíveis na lista suspensa [!UICONTROL Status] da interface “[!UICONTROL Criar projeto]”.
 
