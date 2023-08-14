@@ -4,7 +4,7 @@ description: “Quando um usuário altera o status de um projeto que é objeto d
 hidefromtoc: true
 feature: Projects
 source-git-commit: f2ac5034ba97c996e84b94caac80d7686a924c36
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '112'
 ht-degree: 100%
 
