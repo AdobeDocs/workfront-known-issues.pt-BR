@@ -1,12 +1,12 @@
 ---
-title: "Quadros: problemas ao carregar um quadro"
-description: "Quando um usuário tenta carregar um quadro, podem ocorrer problemas."
+title: '“Quadros: problemas ao carregar um quadro”'
+description: “Quando um usuário tenta carregar um quadro, podem ocorrer problemas.”
 hidefromtoc: true
 feature: Agile
 source-git-commit: 1f039e819f8a65af18d2dbc24b95b85607b947be
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '70'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
@@ -15,10 +15,10 @@ ht-degree: 5%
 
 Quando um usuário tenta carregar um quadro, uma das situações a seguir pode ocorrer:
 
-* A placa carrega muito lentamente
+* O quadro carrega muito lentamente
 * O quadro não é carregado e o usuário vê uma mensagem de erro
 
-Esse problema parece estar limitado aos painéis que estão nos fluxos de trabalho.
+Esse problema parece limitado aos quadros que estão nos fluxos de trabalho.
 
-_Reportado pela primeira vez em 28 de julho de 2023._
+_Relatado pela primeira vez em 28 de julho de 2023._
 
