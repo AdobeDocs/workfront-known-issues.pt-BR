@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: db6932ca0c0a9108dfa326a71cb46ecb9af71779
 workflow-type: tm+mt
 source-wordcount: '4657'
-ht-degree: 94%
+ht-degree: 99%
 
 ---
 
@@ -28,23 +28,23 @@ Para obter atualizações de manutenção anteriores a 2023, consulte [Atualiza�
 
 _Página inicial_
 
-Quando um usuário no novo [!UICONTROL Início] A experiência do tenta excluir um item da variável [!UICONTROL Lista de afazeres] , o item não é excluído e o usuário vê o seguinte erro:
+Quando um usuário na experiência da nova [!UICONTROL Página inicial] tenta excluir um item do dispositivo [!UICONTROL Tarefa], o item não é excluído e o seguinte erro é exibido:
 
-&quot;[!UICONTROL Ocorreu um problema ao remover a tarefa. Tente novamente em breve.]&quot;
+“[!UICONTROL Ocorreu um problema ao remover a tarefa. Tente novamente em breve.]”
 
-Isso pode ocorrer quando há horas registradas no [!UICONTROL Lista de afazeres] item.
+Isso pode ocorrer quando há horas registradas no item [!UICONTROL Tarefa].
 
 **O projeto fixado não exibe informações em algumas colunas**
 
 _Projetos_
 
-Quando um usuário navega para um projeto fixado usando o pino, as listas de objetos (como a lista de tarefas) podem exibir colunas em branco. Por exemplo, uma variável [!UICONTROL Atribuições] pode não exibir atribuições, mesmo que as atribuições tenham sido feitas.
+Quando um usuário navega para um projeto fixado usando o pino, as listas de objetos (como a lista de tarefas) podem exibir colunas em branco. Por exemplo, a coluna [!UICONTROL Atribuições] pode não exibir nenhuma atribuição, mesmo que as atribuições tenham sido feitas.
 
-**Módulo de suspensão que causa o travamento de cenários**
+**módulo de suspensão causa travamento de cenários**
 
 _[!DNL Workfront Fusion]_
 
-A variável [!UICONTROL Ferramentas] > [!UICONTROL Hibernar] em um cenário pode fazer com que a execução de um cenário trave. Essas execuções mostram um status de Em execução no [!UICONTROL Histórico do cenário]e não terminam.
+O módulo [!UICONTROL Ferramentas] > [!UICONTROL Suspender] em um cenário pode fazer com que sua execução trave. Essas execuções mostram um status de Em execução no [!UICONTROL Histórico do cenário] e não são concluídas.
 
 +++
 
@@ -54,35 +54,35 @@ A variável [!UICONTROL Ferramentas] > [!UICONTROL Hibernar] em um cenário pode
 
 _Quadros_
 
-A coluna Entrada em um quadro era anteriormente classificada pela prioridade definida em tarefas e problemas, o que dificultava a localização de itens específicos.
+A coluna de entrada em um quadro era anteriormente classificada pela prioridade definida em tarefas e problemas, o que dificultava a localização de itens específicos.
 
-A ordenação padrão agora é a seguinte:
+A ordem padrão agora é a seguinte:
 
 Tarefas:
 
-* Ordem principal: Nome do projeto
-* Ordem secundária: estrutura de detalhamento de trabalho
+* Ordem principal: nome do projeto
+* Ordem secundária: estrutura do detalhamento do trabalho
 
 Problemas
 
-* Ordem principal: Nome do projeto
+* Ordem principal: nome do projeto
 * Ordem secundária: número de referência
 
-**O projeto não resolve corretamente o problema**
+**O projeto não soluciona corretamente o problema**
 
 _Projetos / Problemas_
 
 Quando um usuário altera o status de um projeto que é objeto da resolução de um problema, o status do problema é alterado para um status que não corresponde à mesma chave do status do projeto.
 
-**Erro em relatórios de matriz**
+**Erro “Ops” em relatórios de matriz**
 
 _Relatórios_
 
-Quando um usuário tenta visualizar um relatório de matriz, ele não é carregado e o usuário vê o seguinte erro:
+Quando um usuário tenta visualizar um relatório de matriz, o relatório não carrega e o seguinte erro é exibido:
 
 “[!UICONTROL Ops! Um erro inesperado aconteceu. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.]”
 
-Esse problema foi relatado para usuários no EMEA.
+Esse problema foi relatado em usuários na região da Europa, Oriente Médio e África (EMEA).
 
 +++
 
@@ -90,11 +90,11 @@ Esse problema foi relatado para usuários no EMEA.
 
 +++**Atualização de manutenção em 27 de julho de 2023**
 
-**Itens de tags e listas de verificação que não funcionam corretamente na exibição do quadro do projeto**
+**Itens de tags e lista de verificação não funcionam corretamente na visualização do quadro do projeto**
 
 _Quadros_
 
-Os itens de tags e listas de verificação foram removidos da exibição de quadro dos projetos, pois não fazem parte das tarefas do Workfront e não podem ser compartilhados entre usuários.
+Os itens de tags e lista de verificação foram removidos da visualização do quadro dos projetos, pois não fazem parte das tarefas do Workfront e não podem ser compartilhados entre usuários.
 
 **“[!UICONTROL Habilitar em todo o sistema]” e “[!UICONTROL Visualizar em todo o sistema]” representam funcionalidades diferentes**
 
