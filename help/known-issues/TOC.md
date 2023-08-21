@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 8e69a8c5339012df5d7f83096476f6d4a45ae4e2
+source-git-commit: 1c3330160603619726529e903e917653bda64f93
 workflow-type: tm+mt
-source-wordcount: '1147'
-ht-degree: 94%
+source-wordcount: '1163'
+ht-degree: 98%
 
 ---
 
@@ -17,13 +17,15 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
-      + [Provas: as cores da prova são exibidas de forma imprecisa](known-issues-workfront/wf-proof-inaccurate-colors.md)
-      + [[!UICONTROL Início]: &quot;[!UICONTROL Menções]Widget &quot; em novo [!UICONTROL Início] não está limitado a mensagens nas quais o usuário está marcado](known-issues-workfront/wf-home-mentions-widget-new-home.md)
-      + [[!UICONTROL Balanceador de carga de trabalho]: [!UICONTROL Horas Totais] não corresponde à soma de [!UICONTROL Horas planejadas]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
+      + [[!UICONTROL Planejador de recursos]: o Planejador não carrega quando o filtro é aplicado](known-issues-workfront/wf-resource-planning-cannot-load.md)
+      + [Provas: não é possível criar prova do PDF](known-issues-workfront/wf-proofs-cannot-generate-from-PDF.md)
+      + [Provas: as cores da prova são exibidas incorretamente](known-issues-workfront/wf-proof-inaccurate-colors.md)
+      + [[!UICONTROL Página inicial]: o dispositivo “[!UICONTROL Menções]” na nova [!UICONTROL página inicial] não está limitado a mensagens em que o usuário esteja marcado](known-issues-workfront/wf-home-mentions-widget-new-home.md)
+      + [[!UICONTROL Balanceador de carga de trabalho]: o [!UICONTROL Total de horas] não corresponde à soma das [!UICONTROL Horas planejadas]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
       + [Relatórios: problemas ao carregar relatórios de matriz](known-issues-workfront/wf-reports-matrix-report-not-loading.md)
-      + [Provas: sobreposição de texto em uma prova](known-issues-workfront/wf-proofs-overlapping-text.md)
-      + [Provas: &quot;[!UICONTROL Desativar notificações por email de prova]A configuração &quot; é exibida de forma imprecisa](known-issues-workfront/wf-proofs-disable-email-inaccurate.md)
-      + [Projetos: não é possível navegar para um projeto com um URL que use [!UICONTROL ID de referência]](known-issues-workfront/wf-projects-unable-to-construct-url.md)
+      + [Provas: texto sobreposto em uma prova](known-issues-workfront/wf-proofs-overlapping-text.md)
+      + [Provas: a configuração “[!UICONTROL Desabilitar notificações de email de prova]” é exibida incorretamente](known-issues-workfront/wf-proofs-disable-email-inaccurate.md)
+      + [Projetos: não é possível acessar o projeto com um URL que usa uma [!UICONTROL ID de referência]](known-issues-workfront/wf-projects-unable-to-construct-url.md)
       + [Quadros: problemas ao carregar um quadro](known-issues-workfront/wf-boards-issues-with-loading.md)
       + [Projetos: o projeto fixado não exibe informações em algumas colunas](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md)
       + [Provas: não é possível ajustar marcações de prova](known-issues-workfront/wf-proof-markup-tools-not-working.md)
