@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: db6932ca0c0a9108dfa326a71cb46ecb9af71779
+source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
 workflow-type: tm+mt
-source-wordcount: '4657'
-ht-degree: 99%
+source-wordcount: '4799'
+ht-degree: 97%
 
 ---
 
@@ -22,7 +22,29 @@ Para obter atualizações de manutenção anteriores a 2023, consulte [Atualiza�
 
 ## Atualizações em agosto de 2023
 
-+++**(Planejado) Atualização de manutenção em 10 de agosto de 2023**
++++**Atualização de manutenção em 17 de agosto de 2023**
+
+**Não é possível navegar até o projeto com URL que usa [!UICONTROL ID de referência]**
+
+_Projetos_
+
+Quando um usuário tenta navegar para um projeto usando um URL que inclui um [!UICONTROL ID de referência] são redirecionados para uma página com uma mensagem de erro. Navegar para uma tarefa usando um URL com um [!UICONTROL ID de referência] funciona conforme o esperado.
+
+**&quot;[!UICONTROL Desativar notificações por email de prova]A configuração &quot; é exibida de forma imprecisa**
+
+_Provas_
+
+Quando um usuário exibe configurações de prova no [!DNL Workfront], o &quot;[!UICONTROL Desativar notificações por email de prova]&quot;A caixa de seleção não exibe precisamente a configuração atual correta. Quando a caixa estiver marcada, indicando que as notificações por email de prova estão desativadas, as notificações são realmente ativadas. O oposto também é verdadeiro.
+
+**Não é possível ajustar marcações de prova**
+
+_Provas_
+
+Quando um usuário faz um comentário no visualizador de prova, realiza uma marcação e clica fora, ele não consegue mais ajustar a marcação.
+
++++
+
++++**Atualização de manutenção em 10 de agosto de 2023**
 
 **Não é possível excluir [!UICONTROL Lista de afazeres] item em novo [!UICONTROL Início] experiência**
 

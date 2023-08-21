@@ -4,10 +4,10 @@ description: Problemas conhecidos reportados da nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8a9db3e9d8972497fa979cc8c2fb488d3a33118a
+source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
 workflow-type: tm+mt
-source-wordcount: '723'
-ht-degree: 91%
+source-wordcount: '696'
+ht-degree: 93%
 
 ---
 
@@ -47,10 +47,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | [Provas: não é possível selecionar texto em listas ou marcadores](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 10 de agosto de 2023 |
 | [Documentos: aprovações de documentos não aparecem na área [!UICONTROL Aprovações]](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 10 de agosto de 2023 |
 | [Provas: sobreposição de texto em uma prova](known-issues-workfront/wf-proofs-overlapping-text.md) | 8 de agosto de 2023 |
-| [Provas: &quot;[!UICONTROL Desativar notificações por email de prova]A configuração &quot; é exibida de forma imprecisa](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 8 de agosto de 2023 |
-| [Projetos: não é possível navegar para um projeto com um URL que use [!UICONTROL ID de referência]](known-issues-workfront/wf-projects-unable-to-construct-url.md) | 8 de agosto de 2023 |
 | [Provas: a mensagem “Sem imagem” é exibida ao clicar em uma prova](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 3 de agosto de 2023 |
-| [Provas: não é possível ajustar marcações de prova](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 3 de agosto de 2023 |
 | [Provas: criar uma nova versão de uma prova exclui todas as versões dela](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md) | 2 de agosto de 2023 |
 | [Projetos: os status personalizados do [!UICONTROL grupo inicial] não estão disponíveis ao criar um projeto a partir de um modelo](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 de março de 2023 |
 | Caso de suporte do [[!DNL Workfront]: Issues submitting a [!DNL Workfront] caso na Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 de agosto de 2022 |
