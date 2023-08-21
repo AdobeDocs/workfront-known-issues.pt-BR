@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 6037b25a9882626499ff8abd5b4975e97c907dcb
+source-git-commit: 8d14d8195c42a226a454882e20d1ff7fabd91410
 workflow-type: tm+mt
-source-wordcount: '1157'
-ht-degree: 99%
+source-wordcount: '1163'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Provas: não é possível criar prova do PDF](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md)
       + [[!UICONTROL Planejador de recursos]: o Planejador não carrega quando o filtro é aplicado](known-issues-workfront/wf-resource-planning-cannot-load.md)
       + [Provas: as cores da prova são exibidas incorretamente](known-issues-workfront/wf-proof-inaccurate-colors.md)
       + [[!UICONTROL Página inicial]: o dispositivo “[!UICONTROL Menções]” na nova [!UICONTROL página inicial] não está limitado a mensagens em que o usuário esteja marcado](known-issues-workfront/wf-home-mentions-widget-new-home.md)
