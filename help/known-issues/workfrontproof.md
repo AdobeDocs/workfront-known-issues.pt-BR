@@ -4,9 +4,9 @@ description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 8d14d8195c42a226a454882e20d1ff7fabd91410
+source-git-commit: 4ef7d7b4287ded00084c521f6e1130c3b549f3c4
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '368'
 ht-degree: 98%
 
 ---
@@ -25,7 +25,6 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Provas: as cores da prova são exibidas incorretamente](known-issues-workfront/wf-proof-inaccurate-colors.md) | 10 de agosto de 2023 |
 | [Provas: provas não são geradas](known-issues-workfront/wf-proofs-fail-to-generate.md) | 3 de agosto de 2023 |
 | [Documentos: aprovações de documentos não aparecem na área [!UICONTROL Aprovações]](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25 de julho de 2023 |
 
@@ -37,14 +36,13 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Provas: as cores da prova são exibidas incorretamente](known-issues-workfront/wf-proof-inaccurate-colors.md) | 22 de agosto de 2023 |
 | [Provas: não é possível criar prova do PDF](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md) | 21 de agosto de 2023 |
 | [Provas: provas são exibidas com a parte superior cortada](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 10 de agosto de 2023 |
-| [Provas: provas aprovadas permanecem na [!UICONTROL lista de trabalho da página inicial]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) do aprovador | 10 de agosto de 2023 |
 | [Provas: provas não são geradas](known-issues-workfront/wf-proofs-fail-to-generate.md) | 10 de agosto de 2023 |
 | [Provas: não é possível selecionar texto em listas ou marcadores](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 10 de agosto de 2023 |
 | [Provas: texto sobreposto em uma prova](known-issues-workfront/wf-proofs-overlapping-text.md) | 8 de agosto de 2023 |
 | [Provas: a configuração “[!UICONTROL Desabilitar notificações de email de prova]” é exibida incorretamente](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 8 de agosto de 2023 |
-| [Provas: a mensagem “Sem imagem” é exibida ao clicar em uma prova](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 3 de agosto de 2023 |
 | [Provas: não é possível ajustar marcações de prova](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 3 de agosto de 2023 |
 
 {style="table-layout:auto"}

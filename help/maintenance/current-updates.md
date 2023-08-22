@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
+source-git-commit: 4ef7d7b4287ded00084c521f6e1130c3b549f3c4
 workflow-type: tm+mt
-source-wordcount: '4799'
-ht-degree: 97%
+source-wordcount: '4918'
+ht-degree: 99%
 
 ---
 
@@ -22,19 +22,35 @@ Para obter atualizações de manutenção anteriores a 2023, consulte [Atualiza�
 
 ## Atualizações em agosto de 2023
 
++++**(Planejado) Atualização de manutenção em 24 de agosto de 2023**
+
+**Não é possível selecionar texto em listas ou marcadores**
+
+_Provas_
+
+Quando um usuário visualiza uma prova no visualizador de prova e tenta selecionar o texto que está em uma lista ou em um marcador, a ferramenta de seleção de texto não funciona e o texto não pode ser selecionado.
+
+**Criar uma nova versão de prova exclui todas as versões da prova**
+
+_Provas_
+
+Quando se cria uma prova de um documento, a prova é criada. No entanto, se você criar outra versão da prova, tanto a versão antiga quanto a nova serão excluídas. Existe uma opção [!UICONTROL Criar prova] no documento original e as versões da prova podem ser encontradas na área [!UICONTROL Lixeira] da área [!UICONTROL Prova] no [!DNL Workfront].
+
++++
+
 +++**Atualização de manutenção em 17 de agosto de 2023**
 
 **Não é possível navegar até o projeto com URL que usa [!UICONTROL ID de referência]**
 
 _Projetos_
 
-Quando um usuário tenta navegar para um projeto usando um URL que inclui um [!UICONTROL ID de referência] são redirecionados para uma página com uma mensagem de erro. Navegar para uma tarefa usando um URL com um [!UICONTROL ID de referência] funciona conforme o esperado.
+Ao tentar acessar um projeto usando um URL que inclui um número de [!UICONTROL ID de referência], o usuário é redirecionado para uma página com uma mensagem de erro. Acessar uma tarefa usando um URI com uma [!UICONTROL ID de referência] funciona conforme o esperado.
 
 **&quot;[!UICONTROL Desativar notificações por email de prova]A configuração &quot; é exibida de forma imprecisa**
 
 _Provas_
 
-Quando um usuário exibe configurações de prova no [!DNL Workfront], o &quot;[!UICONTROL Desativar notificações por email de prova]&quot;A caixa de seleção não exibe precisamente a configuração atual correta. Quando a caixa estiver marcada, indicando que as notificações por email de prova estão desativadas, as notificações são realmente ativadas. O oposto também é verdadeiro.
+Ao visualizar as configurações de uma prova no [!DNL Workfront], a caixa de seleção “[!UICONTROL Desabilitar notificações de email de prova]” não exibe a configuração atual corretamente. Ao marcar a caixa, o que deveria desabilitar as notificações de email de prova, as notificações são habilitadas. O oposto também é verdadeiro.
 
 **Não é possível ajustar marcações de prova**
 
@@ -46,7 +62,7 @@ Quando um usuário faz um comentário no visualizador de prova, realiza uma marc
 
 +++**Atualização de manutenção em 10 de agosto de 2023**
 
-**Não é possível excluir [!UICONTROL Lista de afazeres] item em novo [!UICONTROL Início] experiência**
+**Não é possível excluir o item [!UICONTROL Tarefa] na experiência da nova [!UICONTROL página inicial]**
 
 _Página inicial_
 
@@ -62,7 +78,7 @@ _Projetos_
 
 Quando um usuário navega para um projeto fixado usando o pino, as listas de objetos (como a lista de tarefas) podem exibir colunas em branco. Por exemplo, a coluna [!UICONTROL Atribuições] pode não exibir nenhuma atribuição, mesmo que as atribuições tenham sido feitas.
 
-**módulo de suspensão causa travamento de cenários**
+**Módulo de suspensão causa travamento de cenários**
 
 _[!DNL Workfront Fusion]_
 
