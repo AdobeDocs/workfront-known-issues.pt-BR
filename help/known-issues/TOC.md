@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 045e2bd200aa2fffaf2e763a73eb8729517be197
+source-git-commit: 97bb61f9fe3e5455e245a377bc805292b7fb6b21
 workflow-type: tm+mt
-source-wordcount: '1171'
-ht-degree: 97%
+source-wordcount: '1183'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [[!UICONTROL Início]: os filtros não se aplicam aos widgets no novo [!UICONTROL Início] experiência](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md)
       + [Modelos de layout: modelos de layout que causam inconsistências nos relatórios](known-issues-workfront/wf-layout-templates-classic.md)
       + [Provas: não é possível criar prova do PDF](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md)
       + [[!UICONTROL Planejador de recursos]: o Planejador não carrega quando o filtro é aplicado](known-issues-workfront/wf-resource-planning-cannot-load.md)
