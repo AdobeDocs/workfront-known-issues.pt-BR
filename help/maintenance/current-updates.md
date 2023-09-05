@@ -4,9 +4,9 @@ description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: e229c944f8e428080fb30ff852455d37e5eef56b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '5068'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -24,13 +24,13 @@ Para obter atualizações de manutenção anteriores a 2023, consulte [Atualiza�
 
 +++**(Planejado) Atualização de manutenção em 31 de agosto de 2023**
 
-**Os filtros não se aplicam a widgets no novo [!UICONTROL Início] experiência**
+**Os filtros não se aplicam aos dispositivos na experiência da nova [!UICONTROL Página inicial]**
 
 _[!UICONTROL Página inicial]_
 
-Quando um usuário aplica um filtro a um widget no novo [!UICONTROL Início] experiência, o widget mostra itens que devem ser excluídos pelo filtro.
+Quando alguém tenta aplicar um filtro a um dispositivo na experiência da nova [!UICONTROL Página inicial], o dispositivo ainda mostra itens que deveriam ter sido excluídos pelo filtro.
 
-Esse problema foi relatado no ambiente sandbox personalizada. Os mesmos widgets nos ambientes de Pré-visualização e Produção filtram conforme esperado.
+Esse problema foi relatado no ambiente Sandbox personalizado. Os mesmos dispositivos nos ambientes Visualização e Produção filtram conforme o esperado.
 
 **Problemas ao carregar relatórios de matriz**
 
@@ -41,13 +41,13 @@ Ao tentar carregar um relatório de matriz como um gráfico, uma das seguintes s
 * Algumas informações no relatório não são carregadas
 * O relatório exibe o erro “[!UICONTROL Não foi possível carregar o conteúdo do servidor]”
 
-**O planejador não carrega quando o filtro é aplicado**
+**O planejador não carrega quando um filtro está aplicado**
 
 _[!UICONTROL Planejamento de recursos]_
 
-Quando um usuário tenta carregar o [!UICONTROL Planejador de recursos], o planejador não é carregado e o usuário vê a seguinte mensagem de erro:
+Quando uma pessoa tenta carregar o [!UICONTROL Planejador de recursos], ele não é carregado e a seguinte mensagem de erro é exibida:
 
-&quot;[!UICONTROL Ocorreu o seguinte erro: Algo deu errado ao se conectar ao serviço WorkPerDay]&quot;
+“[!UICONTROL Ocorreu o seguinte erro: Algo deu errado ao conectar ao serviço WorkPerDay]”
 
 +++
 
@@ -57,9 +57,9 @@ Quando um usuário tenta carregar o [!UICONTROL Planejador de recursos], o plane
 
 _Provas_
 
-Quando um usuário visualiza uma prova no visualizador de prova e tenta selecionar o texto que está em uma lista ou em um marcador, a ferramenta de seleção de texto não funciona e o texto não pode ser selecionado.
+Quando uma pessoa visualiza uma prova no visualizador de prova e tenta selecionar o texto que está em uma lista ou em um marcador, a ferramenta de seleção de texto não funciona e o texto não pode ser selecionado.
 
-**Criar uma nova versão de prova exclui todas as versões da prova**
+**Criar uma nova versão de uma prova exclui todas as versões dela**
 
 _Provas_
 
@@ -69,13 +69,13 @@ Quando se cria uma prova de um documento, a prova é criada. No entanto, se voc�
 
 +++**Atualização de manutenção em 17 de agosto de 2023**
 
-**Não é possível navegar até o projeto com URL que usa [!UICONTROL ID de referência]**
+**Não é possível navegar para um projeto com um URL que usa uma [!UICONTROL ID de referência]**
 
 _Projetos_
 
 Ao tentar acessar um projeto usando um URL que inclui um número de [!UICONTROL ID de referência], o usuário é redirecionado para uma página com uma mensagem de erro. Acessar uma tarefa usando um URI com uma [!UICONTROL ID de referência] funciona conforme o esperado.
 
-**&quot;[!UICONTROL Desativar notificações por email de prova]A configuração &quot; é exibida de forma imprecisa**
+**A configuração “[!UICONTROL Desabilitar notificações de email de prova]” é exibida incorretamente**
 
 _Provas_
 
@@ -85,7 +85,7 @@ Ao visualizar as configurações de uma prova no [!DNL Workfront], a caixa de se
 
 _Provas_
 
-Quando um usuário faz um comentário no visualizador de prova, realiza uma marcação e clica fora, ele não consegue mais ajustar a marcação.
+Quando uma pessoa faz um comentário no visualizador de prova, realiza uma marcação e clica fora, ela não consegue mais ajustar a marcação.
 
 +++
 
