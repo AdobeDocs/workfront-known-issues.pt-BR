@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 97bb61f9fe3e5455e245a377bc805292b7fb6b21
+source-git-commit: 938d1692208c857b9e7e57666df9f95dd3e44559
 workflow-type: tm+mt
-source-wordcount: '1183'
-ht-degree: 96%
+source-wordcount: '1242'
+ht-degree: 95%
 
 ---
 
@@ -17,10 +17,16 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
-      + [[!UICONTROL Início]: os filtros não se aplicam aos widgets no novo [!UICONTROL Início] experiência](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md)
-      + [Modelos de layout: modelos de layout que causam inconsistências nos relatórios](known-issues-workfront/wf-layout-templates-classic.md)
-      + [Provas: não é possível criar prova do PDF](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md)
-      + [[!UICONTROL Planejador de recursos]: o Planejador não carrega quando o filtro é aplicado](known-issues-workfront/wf-resource-planning-cannot-load.md)
+      + [[!UICONTROL Início]: Novo [!UICONTROL Início] a visualização do widget não mostra o nome correto do objeto](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
+      + [[!UICONTROL Início]: [!UICONTROL Solicitações] O widget não exibe todas as equipes atribuídas](known-issues-workfront/wf-home-request-shows-one-team.md)
+      + [Formulários personalizados: não é possível excluir um campo personalizado](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md)
+      + [[!UICONTROL Início]: a funcionalidade de pesquisa não está funcionando no antigo [!UICONTROL Lista de trabalho da página inicial]](known-issues-workfront/wf-home-search-not-working-legacy.md)
+      + [Provas: a formatação do texto na prova estática não corresponde à formatação no site](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md)
+      + [Projetos: o projeto está em branco quando carregado do novo [!UICONTROL Início] experiência](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md)
+      + [[!UICONTROL Página inicial]: os filtros não se aplicam aos dispositivos na experiência da nova [!UICONTROL Página inicial]](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md)
+      + [Modelos de layout: modelos de layout causam inconsistências nos relatórios](known-issues-workfront/wf-layout-templates-classic.md)
+      + [Provas: não é possível criar prova a partir de um PDF](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md)
+      + [[!UICONTROL Planejador de recursos]: o Planejador não carrega quando um filtro está aplicado](known-issues-workfront/wf-resource-planning-cannot-load.md)
       + [Provas: as cores da prova são exibidas incorretamente](known-issues-workfront/wf-proof-inaccurate-colors.md)
       + [[!UICONTROL Página inicial]: o dispositivo “[!UICONTROL Menções]” na nova [!UICONTROL página inicial] não está limitado a mensagens em que o usuário esteja marcado](known-issues-workfront/wf-home-mentions-widget-new-home.md)
       + [[!UICONTROL Balanceador de carga de trabalho]: o [!UICONTROL Total de horas] não corresponde à soma das [!UICONTROL Horas planejadas]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)

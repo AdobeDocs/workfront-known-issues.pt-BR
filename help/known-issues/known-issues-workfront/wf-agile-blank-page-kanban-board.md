@@ -3,8 +3,8 @@ title: '“Agile: o quadro do Kanban fica em branco ao editar cartões”'
 description: “Quando um usuário altera um detalhe de um cartão no quadro do [!UICONTROL Kanban][!UICONTROL ], o quadro fica em branco em vez de registrar a alteração. Se o usuário atualiza a página manualmente, o quadro do [!UICONTROL Kanban] reaparece e mostra a alteração correta.”
 feature: Agile
 hidefromtoc: true
-source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
-workflow-type: ht
+source-git-commit: ec999273c30f4d0fad244f1977a50af1e68b5638
+workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 100%
 
@@ -29,4 +29,7 @@ Esse problema foi relatado nas seguintes circunstâncias:
 Atualize a página.
 
 _Relatado pela primeira vez em 14 de maio de 2023._
+
+
+
 

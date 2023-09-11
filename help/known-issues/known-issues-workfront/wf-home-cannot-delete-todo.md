@@ -3,9 +3,9 @@ title: '“Página inicial: não é possível excluir tarefas na experiência da
 description: “Quando um usuário na experiência da nova Página inicial tenta excluir um item do dispositivo Tarefa, o item não é excluído e um erro é exibido.”
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 4ef7d7b4287ded00084c521f6e1130c3b549f3c4
+source-git-commit: 676171730de5c12a7a19e4311d756529aaa3b73a
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '107'
 ht-degree: 100%
 
 ---
@@ -13,11 +13,9 @@ ht-degree: 100%
 
 # Página inicial: não é possível excluir itens de [!UICONTROL Tarefas] na experiência da nova [!UICONTROL Página inicial] 
 
-<!--
 >[!NOTE]
 >
->This issue was resolved on August 10, 2023.
--->
+>Esse problema foi resolvido em 6 de setembro de 2023.
 
 Quando um usuário na experiência da nova [!UICONTROL Página inicial] tenta excluir um item do dispositivo [!UICONTROL Tarefa], o item não é excluído e o seguinte erro é exibido:
 

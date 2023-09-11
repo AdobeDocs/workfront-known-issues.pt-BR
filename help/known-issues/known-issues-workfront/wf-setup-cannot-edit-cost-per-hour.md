@@ -3,9 +3,9 @@ title: '“Configuração: não foi possível editar o Custo/Hora ou o Faturamen
 description: “Quando alguém está editando uma função de trabalho e tenta editar os campos Custo/Hora ou Faturamento/Hora, os campos ficam em branco e não podem ser editados.”
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: c21b660817890195de853e32a3eefdcf1d473c05
-workflow-type: ht
-source-wordcount: '121'
+source-git-commit: ae8e1dab69ba6ef16ea7dc056345f140b80ebc9e
+workflow-type: tm+mt
+source-wordcount: '99'
 ht-degree: 100%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->A equipe do produto está avaliando a resolução do problema, que pode exigir melhorias do produto. As melhorias do produto são comunicadas nos Anúncios do produto e não nas Atualizações de manutenção.
+>Esse problema foi corrigido em 24 de agosto de 2023
 
 Quando alguém está editando uma função de trabalho e tenta editar os campos Custo/Hora ou Faturamento/Hora, os campos ficam em branco e não podem ser editados.
 

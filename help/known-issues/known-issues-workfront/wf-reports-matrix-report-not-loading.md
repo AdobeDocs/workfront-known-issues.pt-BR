@@ -3,15 +3,19 @@ title: '“Relatórios: problemas ao carregar relatórios de matriz”'
 description: “Ao tentar carregar um relatório de matriz como um gráfico, alguns problemas podem ocorrer.”
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 60bfb4f3d7183b2e5110d896a3668991718fbb01
-workflow-type: ht
-source-wordcount: '74'
+source-git-commit: 4f4099aaa7ba74d43f5d6a052bbc35d43ff0bb98
+workflow-type: tm+mt
+source-wordcount: '80'
 ht-degree: 100%
 
 ---
 
 
 # Relatórios: problemas ao carregar relatórios de matriz
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em 31 de agosto de 2023.
 
 Ao tentar carregar um relatório de matriz como um gráfico, uma das seguintes situações pode ocorrer:
 
