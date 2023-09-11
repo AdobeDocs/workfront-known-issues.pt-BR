@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e229c944f8e428080fb30ff852455d37e5eef56b
-workflow-type: ht
-source-wordcount: '5068'
-ht-degree: 100%
+source-git-commit: ea865862f3e81214f2ab27e0c651f30ceeb1f89f
+workflow-type: tm+mt
+source-wordcount: '5189'
+ht-degree: 98%
 
 ---
 
@@ -20,9 +20,35 @@ As seguintes atualizações de manutenção foram efetuadas em 2023.
 
 Para obter atualizações de manutenção anteriores a 2023, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
+## Atualizações em setembro de 2023
+
++++**Atualização de manutenção em 11 de setembro de 2023**&#39;
+
+**As tarefas pessoais não são exibidas em folhas de horas**
+
+_Folhas de horas_
+
+Por padrão, as tarefas pessoais não são mais exibidas na folha de horas. As tarefas pessoais são exibidas na folha de horas quando são fixadas ou têm horas registradas. Antes dessa alteração, as tarefas pessoais eram exibidas em folhas de horas por padrão.
+
++++
+
++++**Atualização de manutenção em 7 de setembro de 2023**
+
+**O projeto está em branco quando carregado do novo [!UICONTROL Início] experiência**
+
+_Projetos_
+
+Quando um usuário clica em um projeto a partir de sua [!UICONTROL Início] na nova experiência do Início, não é possível carregar a página do projeto.
+
+Isso ocorre quando o usuário fez logon como outro usuário e, em seguida, fez logoff como o outro usuário e retornou aos seus próprios [!UICONTROL Início] página.
+
++++
+
+**Os filtros não se aplicam aos dispositivos na experiência da nova [!UICONTROL Página inicial]**
+
 ## Atualizações em agosto de 2023
 
-+++**(Planejado) Atualização de manutenção em 31 de agosto de 2023**
++++**Atualização de manutenção em 31 de agosto de 2023**
 
 **Os filtros não se aplicam aos dispositivos na experiência da nova [!UICONTROL Página inicial]**
 
