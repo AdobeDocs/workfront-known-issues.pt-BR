@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 94acc80b555e5e8e3660cde321291686410c002c
+source-git-commit: bbb231090314a54754d43a3956544a9063dfd88a
 workflow-type: tm+mt
-source-wordcount: '5189'
-ht-degree: 98%
+source-wordcount: '5290'
+ht-degree: 97%
 
 ---
 
@@ -21,6 +21,28 @@ As seguintes atualizações de manutenção foram efetuadas em 2023.
 Para obter atualizações de manutenção anteriores a 2023, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em setembro de 2023
+
++++**(Planejado) Atualização de manutenção em 14 de setembro de 2023**
+
+**&quot;[!UICONTROL Sem fábrica]&quot;erro ao adicionar um documento**
+
+_Documentos_
+
+Quando um usuário tenta adicionar um documento de uma fonte externa, [!DNL Workfront] O não pode acessar a origem e o usuário vê o seguinte erro:
+
+&quot;[!UICONTROL Ocorreu o seguinte erro: Nenhuma fábrica encontrada para o tipo de autenticação nulo]&quot;
+
+**Erro “Ops” em relatórios de matriz**
+
+_Relatórios_
+
+Quando um usuário tenta visualizar um relatório de matriz, o relatório não carrega e o seguinte erro é exibido:
+
+“[!UICONTROL Ops! Um erro inesperado aconteceu. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.]”
+
+Isso ocorre ao agrupar um relatório por intervalos de datas.
+
++++
 
 +++**Atualização de manutenção em 11 de setembro de 2023**
 
