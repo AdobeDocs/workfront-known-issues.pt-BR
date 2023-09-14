@@ -3,9 +3,9 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: bbb231090314a54754d43a3956544a9063dfd88a
+source-git-commit: 4adc896e53b46ea6dfcb99f3050c5bfe275de72c
 workflow-type: tm+mt
-source-wordcount: '5290'
+source-wordcount: '5289'
 ht-degree: 97%
 
 ---
@@ -22,7 +22,7 @@ Para obter atualizações de manutenção anteriores a 2023, consulte [Atualiza�
 
 ## Atualizações em setembro de 2023
 
-+++**(Planejado) Atualização de manutenção em 14 de setembro de 2023**
++++**Atualização de manutenção em 14 de setembro de 2023**
 
 **&quot;[!UICONTROL Sem fábrica]&quot;erro ao adicionar um documento**
 
