@@ -4,10 +4,10 @@ description: Problemas conhecidos reportados da nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9cc11511730a2088460274def57f5d54defa4579
+source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
 workflow-type: tm+mt
-source-wordcount: '648'
-ht-degree: 91%
+source-wordcount: '709'
+ht-degree: 84%
 
 ---
 
@@ -25,6 +25,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Filtros: botões rotulados como &quot;[!UICONTROL OBSOLETO]&quot; ao compartilhar um filtro](known-issues-workfront/wf-filters-buttons-display-as-deprecated.md) | 15 de setembro de 2023 |
 | [[!UICONTROL Início]: [!UICONTROL Solicitações] O widget não exibe todas as equipes atribuídas](known-issues-workfront/wf-home-request-shows-one-team.md) | 7 de setembro de 2023 |
 | [Projetos: o projeto está em branco quando carregado do novo [!UICONTROL Início] experiência](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md) | 1 de setembro de 2023 |
 | [[!UICONTROL Página inicial]: o dispositivo “[!UICONTROL Menções]” na nova [!UICONTROL página inicial] não está limitado a mensagens em que o usuário esteja marcado](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 10 de agosto de 2023 |
@@ -37,6 +38,11 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documentos: não é possível mover o documento para uma pasta diferente](known-issues-workfront/wf-documents-cannot-move-to-folder.md) | 15 de setembro de 2023 |
+| [Provas: as provas aparecem dessaturadas ou cortadas](known-issues-workfront/wf-proofs-desaturated-and-cropped.md) | 15 de setembro de 2023 |
+| [Atualizações: os comentários feitos na nova experiência de comentários não estão visíveis na experiência herdada](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 15 de setembro de 2023 |
+| [Quadros: não é possível atribuir usuário em um quadro em um fluxo de trabalho](known-issues-workfront/wf-boards-cannot-add-user-to-workstream-board.md) | 15 de setembro de 2023 |
+| [Atualizações: o comentário é exibido como enviado do usuário incorreto](known-issues-workfront/wf-updates-comment-displays-as-wrong-user.md) | 15 de setembro de 2023 |
 | [Documentos: erro de XML ao baixar](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 14 de setembro de 2023 |
 | [Provas: a formatação do texto na prova estática não corresponde à formatação no site](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 14 de setembro de 2023 |
 | [[!UICONTROL Planejador de recursos]: o Planejador não carrega quando um filtro está aplicado](known-issues-workfront/wf-resource-planning-cannot-load.md) | 7 de setembro de 2023 |

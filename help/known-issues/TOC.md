@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 938d1692208c857b9e7e57666df9f95dd3e44559
+source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
 workflow-type: tm+mt
-source-wordcount: '1242'
-ht-degree: 95%
+source-wordcount: '1297'
+ht-degree: 91%
 
 ---
 
@@ -17,6 +17,12 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Documentos: não é possível mover o documento para uma pasta diferente](known-issues-workfront/wf-documents-cannot-move-to-folder.md)
+      + [Provas: as provas aparecem dessaturadas ou cortadas](known-issues-workfront/wf-proofs-desaturated-and-cropped.md)
+      + [Atualizações: os comentários feitos na nova experiência de comentários não estão visíveis na experiência herdada](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md)
+      + [Atualizações: o comentário é exibido como enviado do usuário incorreto](known-issues-workfront/wf-updates-comment-displays-as-wrong-user.md)
+      + [Quadros: não é possível atribuir usuário em um quadro em um fluxo de trabalho](known-issues-workfront/wf-boards-cannot-add-user-to-workstream-board.md)
+      + [Filtros: botões rotulados como &quot;[!UICONTROL OBSOLETO]&quot; ao compartilhar um filtro](known-issues-workfront/wf-filters-buttons-display-as-deprecated.md)
       + [[!UICONTROL Início]: Novo [!UICONTROL Início] a visualização do widget não mostra o nome correto do objeto](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
       + [[!UICONTROL Início]: [!UICONTROL Solicitações] O widget não exibe todas as equipes atribuídas](known-issues-workfront/wf-home-request-shows-one-team.md)
       + [Formulários personalizados: não é possível excluir um campo personalizado](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md)
