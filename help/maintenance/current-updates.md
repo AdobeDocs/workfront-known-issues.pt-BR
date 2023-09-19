@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 4adc896e53b46ea6dfcb99f3050c5bfe275de72c
+source-git-commit: 2abcb617a2462f5e2a3231b35b0153add23d6969
 workflow-type: tm+mt
-source-wordcount: '5289'
-ht-degree: 97%
+source-wordcount: '5601'
+ht-degree: 93%
 
 ---
 
@@ -21,6 +21,63 @@ As seguintes atualizações de manutenção foram efetuadas em 2023.
 Para obter atualizações de manutenção anteriores a 2023, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em setembro de 2023
+
++++**(Planejado) Atualização de manutenção em 21 de setembro de 2023**
+
+**Não é possível atribuir usuário em um quadro em um fluxo de trabalho**
+
+_Quadros_
+
+Quando um usuário tenta atribuir outro usuário a uma tarefa de um quadro que faz parte de um fluxo de trabalho e começa a digitar o nome do usuário, ele não é exibido na lista suspensa de usuários disponíveis. Isso ocorre mesmo quando o usuário está ativo e é membro do painel e do workflow.
+
+O usuário também pode notar que os usuários desativados aparecem no menu suspenso.
+
+**Os formulários personalizados são carregados lentamente**
+
+_Formulários personalizados_
+
+Quando um usuário tenta carregar um formulário personalizado, ele é carregado lentamente.
+
+**Não é possível mover o documento para uma pasta diferente**
+
+_Documentos_
+
+Quando um usuário move um documento para uma pasta de objetos, não é possível mover o objeto para uma pasta diferente.
+
+**Erro XML ao baixar**
+
+_Documentos_
+
+Quando um usuário tenta baixar um documento, ele não é baixado e uma página com a seguinte mensagem seguida por um texto XML é exibida.
+
+“[!UICONTROL O arquivo XML não parece ter nenhuma informação de estilo associada a ele. A árvore de documentos está abaixo.]”
+
+**Não é possível baixar documentos de ambientes de Pré-visualização/Sandbox**
+
+_Documentos_
+
+Quando um usuário tenta baixar um documento de um ambiente diferente da produção, o documento não é baixado e o usuário vê o seguinte erro:
+
+“[!UICONTROL Ops! Um erro inesperado aconteceu. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.]”
+
+**Provas aparecem dessaturadas ou cortadas**
+
+_Provas_
+
+Os seguintes problemas foram relatados ao criar uma prova de um URL.
+
+* A prova parece dessaturada ou lavada.
+* A prova está cortada.
+
+Isso pode dificultar as decisões de prova, pois a prova não é representada com precisão.
+
+**As provas demoram muito para serem geradas**
+
+_Provas_
+
+Quando um usuário tenta gerar uma prova, ela demora muito para ser gerada. A geração da prova pode levar vários dias.
+
++++
 
 +++**Atualização de manutenção em 14 de setembro de 2023**
 
