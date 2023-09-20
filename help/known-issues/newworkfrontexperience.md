@@ -4,10 +4,10 @@ description: Problemas conhecidos reportados da nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: a9f4736853dbc1b6dcc03127998775f823429f1e
+source-git-commit: 98ee543f0a4711a0361bcb4ffe1a664a64e4044d
 workflow-type: tm+mt
-source-wordcount: '738'
-ht-degree: 81%
+source-wordcount: '744'
+ht-degree: 80%
 
 ---
 
@@ -40,6 +40,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront]: a página de objeto não tem elementos](known-issues-workfront/wf-workfront-work-item-missing-elements.md) | 20 de setembro de 2023 |
 | [Provas: provas demoram muito para serem geradas](known-issues-workfront/wf-proofs-proof-takes-days-to-generate.md) | 18 de setembro de 2023 |
 | [Documentos: não é possível mover o documento para uma pasta diferente](known-issues-workfront/wf-documents-cannot-move-to-folder.md) | 15 de setembro de 2023 |
 | [Provas: as provas aparecem dessaturadas ou cortadas](known-issues-workfront/wf-proofs-desaturated-and-cropped.md) | 15 de setembro de 2023 |
