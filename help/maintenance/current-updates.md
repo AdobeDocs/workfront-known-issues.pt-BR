@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 2abcb617a2462f5e2a3231b35b0153add23d6969
 workflow-type: tm+mt
 source-wordcount: '5601'
-ht-degree: 93%
+ht-degree: 94%
 
 ---
 
@@ -113,13 +113,13 @@ Por padrão, as tarefas pessoais não são mais exibidas na folha de horas. As t
 
 +++**Atualização de manutenção em 7 de setembro de 2023**
 
-**O projeto está em branco quando carregado do novo [!UICONTROL Início] experiência**
+**O projeto fica em branco quando carregado a partir da experiência da nova [!UICONTROL Página inicial]**
 
 _Projetos_
 
-Quando um usuário clica em um projeto a partir de sua [!UICONTROL Início] na nova experiência do Início, não é possível carregar a página do projeto.
+Quando alguém clica em um projeto na sua página [!UICONTROL Inicial] na experiência da nova Página inicial, a página do projeto não carrega.
 
-Isso ocorre quando o usuário fez logon como outro usuário e, em seguida, fez logoff como o outro usuário e retornou aos seus próprios [!UICONTROL Início] página.
+Isso ocorre quando a pessoa faz logon como outro usuário e, em seguida, sai dessa conta e retorna à sua própria página [!UICONTROL Inicial].
 
 +++
 

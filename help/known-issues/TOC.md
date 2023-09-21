@@ -5,7 +5,7 @@ role: User
 source-git-commit: 98ee543f0a4711a0361bcb4ffe1a664a64e4044d
 workflow-type: tm+mt
 source-wordcount: '1342'
-ht-degree: 88%
+ht-degree: 92%
 
 ---
 
@@ -27,12 +27,12 @@ ht-degree: 88%
       + [Atualizações: o comentário é exibido como enviado do usuário incorreto](known-issues-workfront/wf-updates-comment-displays-as-wrong-user.md)
       + [Quadros: não é possível atribuir usuário em um quadro em um fluxo de trabalho](known-issues-workfront/wf-boards-cannot-add-user-to-workstream-board.md)
       + [Filtros: botões rotulados como &quot;[!UICONTROL OBSOLETO]&quot; ao compartilhar um filtro](known-issues-workfront/wf-filters-buttons-display-as-deprecated.md)
-      + [[!UICONTROL Início]: Novo [!UICONTROL Início] a visualização do widget não mostra o nome correto do objeto](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
-      + [[!UICONTROL Início]: [!UICONTROL Solicitações] O widget não exibe todas as equipes atribuídas](known-issues-workfront/wf-home-request-shows-one-team.md)
-      + [Formulários personalizados: não é possível excluir um campo personalizado](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md)
-      + [[!UICONTROL Início]: a funcionalidade de pesquisa não está funcionando no antigo [!UICONTROL Lista de trabalho da página inicial]](known-issues-workfront/wf-home-search-not-working-legacy.md)
-      + [Provas: a formatação do texto na prova estática não corresponde à formatação no site](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md)
-      + [Projetos: o projeto está em branco quando carregado do novo [!UICONTROL Início] experiência](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md)
+      + [[!UICONTROL Página inicial]: a visualização de dispositivos na nova [!UICONTROL Página inicial] não exibe o nome correto do objeto](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
+      + [[!UICONTROL Página inicial]: o dispositivo [!UICONTROL Solicitações] não exibe todas as equipes atribuídas](known-issues-workfront/wf-home-request-shows-one-team.md)
+      + [Formulários personalizados: não é possível excluir campos personalizados](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md)
+      + [[!UICONTROL Página inicial]: a funcionalidade de pesquisa não está funcionando na [!UICONTROL Lista de trabalho da página inicial] herdada](known-issues-workfront/wf-home-search-not-working-legacy.md)
+      + [Provas: a formatação do texto em provas estáticas não corresponde à formatação no site](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md)
+      + [Projetos: o projeto fica em branco quando carregado a partir da experiência da nova [!UICONTROL Página inicial]](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md)
       + [[!UICONTROL Página inicial]: os filtros não se aplicam aos dispositivos na experiência da nova [!UICONTROL Página inicial]](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md)
       + [Modelos de layout: modelos de layout causam inconsistências nos relatórios](known-issues-workfront/wf-layout-templates-classic.md)
       + [Provas: não é possível criar prova a partir de um PDF](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md)
