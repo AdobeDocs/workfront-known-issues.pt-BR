@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: a9f4736853dbc1b6dcc03127998775f823429f1e
+source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
 workflow-type: tm+mt
-source-wordcount: '379'
-ht-degree: 87%
+source-wordcount: '349'
+ht-degree: 92%
 
 ---
 
@@ -35,10 +35,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Provas: provas demoram muito para serem geradas](known-issues-workfront/wf-proofs-proof-takes-days-to-generate.md) | 18 de setembro de 2023 |
-| [Documentos: não é possível mover o documento para uma pasta diferente](known-issues-workfront/wf-documents-cannot-move-to-folder.md) | 15 de setembro de 2023 |
-| [Provas: as provas aparecem dessaturadas ou cortadas](known-issues-workfront/wf-proofs-desaturated-and-cropped.md) | 15 de setembro de 2023 |
-| [Documentos: erro de XML ao baixar](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 14 de setembro de 2023 |
 | [Provas: a formatação do texto em provas estáticas não corresponde à formatação no site](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 14 de setembro de 2023 |
 | [Provas: a configuração “[!UICONTROL Desabilitar notificações de email de prova]” é exibida incorretamente](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 8 de agosto de 2023 |
 | [Provas: não é possível ajustar marcações de prova](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 3 de agosto de 2023 |

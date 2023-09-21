@@ -3,15 +3,19 @@ title: "Documentos: não é possível mover o documento para uma pasta diferente
 description: "Quando um usuário move um documento para uma pasta de objetos, ele não pode mover o objeto para uma pasta diferente."
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
+source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 6%
+source-wordcount: '87'
+ht-degree: 12%
 
 ---
 
 
 # Documentos: não é possível mover o documento para uma pasta diferente
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em 30 de setembro de 2023.
 
 Quando um usuário move um documento para uma pasta de objetos, não é possível mover o objeto para uma pasta diferente.
 

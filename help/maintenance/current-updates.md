@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2abcb617a2462f5e2a3231b35b0153add23d6969
+source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
 workflow-type: tm+mt
-source-wordcount: '5601'
-ht-degree: 94%
+source-wordcount: '5631'
+ht-degree: 93%
 
 ---
 
@@ -22,7 +22,7 @@ Para obter atualizações de manutenção anteriores a 2023, consulte [Atualiza�
 
 ## Atualizações em setembro de 2023
 
-+++**(Planejado) Atualização de manutenção em 21 de setembro de 2023**
++++**Atualização de manutenção em 21 de setembro de 2023**
 
 **Não é possível atribuir usuário em um quadro em um fluxo de trabalho**
 
@@ -31,6 +31,12 @@ _Quadros_
 Quando um usuário tenta atribuir outro usuário a uma tarefa de um quadro que faz parte de um fluxo de trabalho e começa a digitar o nome do usuário, ele não é exibido na lista suspensa de usuários disponíveis. Isso ocorre mesmo quando o usuário está ativo e é membro do painel e do workflow.
 
 O usuário também pode notar que os usuários desativados aparecem no menu suspenso.
+
+**Não é possível excluir o item da lista de verificação**
+
+_Quadros_
+
+Quando um usuário tenta excluir um item da lista de verificação de um cartão em um quadro, a variável [!UICONTROL Excluir] O botão não responde e o item não é excluído.
 
 **Os formulários personalizados são carregados lentamente**
 
