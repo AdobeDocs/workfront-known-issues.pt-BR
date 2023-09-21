@@ -1,25 +1,25 @@
 ---
-title: "Projetos: o projeto está em branco quando carregado do novo [!UICONTROL Início] experiência"
-description: "Quando um usuário clica em um projeto a partir de sua [!UICONTROL Início] na nova experiência da Página inicial, não é possível carregar a página do projeto."
+title: '“Projetos: o projeto fica em branco quando carregado a partir da experiência da nova [!UICONTROL Página inicial]”'
+description: “Quando alguém clica em um projeto na sua página [!UICONTROL Inicial] na experiência da nova Página inicial, a página do projeto não carrega.”
 hidefromtoc: true
 feature: Projects
 source-git-commit: 676171730de5c12a7a19e4311d756529aaa3b73a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
-ht-degree: 13%
+ht-degree: 100%
 
 ---
 
 
-# Projetos: o projeto está em branco quando carregado do novo [!UICONTROL Início] experiência
+# Projetos: o projeto fica em branco quando carregado a partir da experiência da nova [!UICONTROL Página inicial]
 
 >[!NOTE]
 >
 >Esse problema foi corrigido em 7 de setembro de 2023.
 
-Quando um usuário clica em um projeto a partir de sua [!UICONTROL Início] na nova experiência do Início, não é possível carregar a página do projeto.
+Quando alguém clica em um projeto na sua página [!UICONTROL Inicial] na experiência da nova Página inicial, a página do projeto não carrega.
 
-Isso ocorre quando o usuário fez logon como outro usuário e, em seguida, fez logoff como o outro usuário e retornou aos seus próprios [!UICONTROL Início] página.
+Isso ocorre quando a pessoa faz logon como outro usuário e, em seguida, sai dessa conta e retorna à sua própria página [!UICONTROL Inicial].
 
 **Solução alternativa**
 

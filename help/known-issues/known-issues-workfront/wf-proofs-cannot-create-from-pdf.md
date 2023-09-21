@@ -4,7 +4,7 @@ description: “Quando se tenta criar uma prova a partir de um PDF, a prova não
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: ae8e1dab69ba6ef16ea7dc056345f140b80ebc9e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
 ht-degree: 100%
 
