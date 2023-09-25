@@ -3,15 +3,21 @@ title: '“Página inicial: o dispositivo Menções na nova página inicial não
 description: “Ao visualizar o dispositivo Menções na nova experiência da página inicial, o usuário vê comentários nos quais não está marcado ou não foi mencionado.”
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 8e69a8c5339012df5d7f83096476f6d4a45ae4e2
-workflow-type: ht
-source-wordcount: '122'
+source-git-commit: aed1f7049a3b8e08327888f34c2cf682a9d598ba
+workflow-type: tm+mt
+source-wordcount: '133'
 ht-degree: 100%
 
 ---
 
 
 # [!UICONTROL Página inicial]: o dispositivo “[!UICONTROL Menções]” na nova [!UICONTROL página inicial] não está limitado a mensagens em que o usuário esteja marcado
+
+<!--Requested article, won't fix-->
+
+>[!NOTE]
+>
+>Este problema foi encerrado porque o botão está funcionando conforme projetado.
 
 Ao visualizar o dispositivo “[!UICONTROL Menções]” na nova experiência da [!UICONTROL página inicial], o usuário vê comentários nos quais não está marcado ou não foi mencionado. O dispositivo inclui comentários nos quais:
 
