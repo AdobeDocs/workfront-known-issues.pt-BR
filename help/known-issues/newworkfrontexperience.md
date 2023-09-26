@@ -4,10 +4,10 @@ description: Problemas conhecidos reportados da nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: aed1f7049a3b8e08327888f34c2cf682a9d598ba
+source-git-commit: 917038bf522f2115c1078a96206ed0a0554cdd6a
 workflow-type: tm+mt
-source-wordcount: '626'
-ht-degree: 95%
+source-wordcount: '644'
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Quadros: a barra de rolagem horizontal não está presente](known-issues-workfront/wf-board-no-scrollbar.md) | 26 de setembro de 2023 |
 | [[!UICONTROL Página inicial]: o dispositivo [!UICONTROL Solicitações] não exibe todas as equipes atribuídas](known-issues-workfront/wf-home-request-shows-one-team.md) | 7 de setembro de 2023 |
 
 {style="table-layout:auto"}
@@ -35,6 +36,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Balanceador de carga de trabalho: o usuário é exibido como superalocado devido à capacidade imprecisa](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 26 de setembro de 2023 |
 | [Prova: comentário extra em branco ao fazer um comentário em uma prova](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 19 de setembro de 2023 |
 | [[!DNL Workfront]: a página de objeto não tem elementos](known-issues-workfront/wf-workfront-work-item-missing-elements.md) | 20 de setembro de 2023 |
 | [Atualizações: os comentários feitos na nova experiência de comentários não estão visíveis na experiência herdada](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 15 de setembro de 2023 |
