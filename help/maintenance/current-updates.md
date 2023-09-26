@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
+source-git-commit: f7d0e60769397fbd7e946476f3b84220720bb047
 workflow-type: tm+mt
-source-wordcount: '5631'
-ht-degree: 93%
+source-wordcount: '5776'
+ht-degree: 91%
 
 ---
 
@@ -21,6 +21,32 @@ As seguintes atualizações de manutenção foram efetuadas em 2023.
 Para obter atualizações de manutenção anteriores a 2023, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em setembro de 2023
+
++++**(Planejado) Atualização de manutenção em 28 de setembro de 2023**
+
+**Não é possível excluir o campo personalizado**
+
+_Formulários personalizados_
+
+Quando uma pessoa tenta excluir um campo personalizado, não consegue excluí-lo e vê a mensagem: “[!UICONTROL Erro no banco de dados devido à violação de restrição]”.
+
+**Comentários feitos na nova experiência de comentários não estão visíveis na experiência herdada**
+
+_Atualizações_
+
+Quando um usuário faz um comentário na nova experiência de comentários e esse comentário aparece na área Comentários da nova experiência, o mesmo comentário pode não aparecer na experiência de comentários herdada. Isso pode fazer com que os usuários que usam a experiência herdada percam comentários.
+
+**A página de objeto não tem elementos**
+
+_Workfront_
+
+Quando um usuário navega para uma seção personalizada em um objeto no [!DNL Workfront]No entanto, a página que é carregada pode não ter alguns elementos. Esses elementos podem incluir:
+
+* O painel de navegação esquerdo
+* O nome do objeto ao qual a seção personalizada pertence
+* Campos e informações no cabeçalho
+
++++
 
 +++**Atualização de manutenção em 21 de setembro de 2023**
 
