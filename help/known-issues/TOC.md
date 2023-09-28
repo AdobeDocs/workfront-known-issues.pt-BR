@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: fa52023b015488a05b0f8b2b09bf3e07f1edf1ed
+source-git-commit: e1d9736c45250c347965cc52edd43755d5b76809
 workflow-type: tm+mt
-source-wordcount: '1358'
-ht-degree: 91%
+source-wordcount: '1384'
+ht-degree: 89%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 91%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Integrações de documentos: erro ao arrastar um ativo para uma pasta em uma integração do Experience Manager Assets](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md)
+      + [Usuários: mensagem de erro exibida incorretamente ao lembrar o usuário de se registrar](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md)
       + [Compartilhamento: erro ao compartilhar um objeto](known-issues-workfront/wf-sharing-user-cannot-share-object.md)
       + [Balanceador de carga de trabalho: o usuário é exibido como superalocado devido à capacidade imprecisa](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md)
       + [[!DNL Workfront]: a página de objeto não tem elementos](known-issues-workfront/wf-workfront-work-item-missing-elements.md)
