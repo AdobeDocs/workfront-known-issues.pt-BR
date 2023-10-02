@@ -4,10 +4,10 @@ description: Problemas conhecidos reportados da nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 6facca06aba9eeb16ecb2a79142c22265dbafea2
+source-git-commit: bd007abf526c98f00562e520afc34a17b1df653d
 workflow-type: tm+mt
-source-wordcount: '676'
-ht-degree: 89%
+source-wordcount: '686'
+ht-degree: 88%
 
 ---
 
@@ -40,6 +40,8 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Placas: a placa carrega lentamente](known-issues-workfront/wf-boards-board-loads-slowly.md) | 2 de outubro de 2023 |
+| [Quadros: não é possível mover cartões](known-issues-workfront/wf-boards-can-not-move-cards.md) | 2 de outubro de 2023 |
 | [Usuários: mensagem de erro exibida incorretamente ao lembrar o usuário de se registrar](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md) | 28 de setembro de 2023 |
 | [[!UICONTROL Planejador de recursos]: o Planejador não carrega quando um filtro está aplicado](known-issues-workfront/wf-resource-planning-cannot-load.md) | 28 de setembro de 2023 |
 | [Balanceador de carga de trabalho: o usuário é exibido como superalocado devido à capacidade imprecisa](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 26 de setembro de 2023 |
