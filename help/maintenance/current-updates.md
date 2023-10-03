@@ -3,9 +3,9 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
+source-git-commit: bb14df1c2326830d02c7db71b5affeb92651fd19
 workflow-type: tm+mt
-source-wordcount: '5802'
+source-wordcount: '5791'
 ht-degree: 91%
 
 ---
@@ -166,8 +166,6 @@ Quando alguém clica em um projeto na sua página [!UICONTROL Inicial] na experi
 Isso ocorre quando a pessoa faz logon como outro usuário e, em seguida, sai dessa conta e retorna à sua própria página [!UICONTROL Inicial].
 
 +++
-
-**Os filtros não se aplicam aos dispositivos na experiência da nova [!UICONTROL Página inicial]**
 
 ## Atualizações em agosto de 2023
 
