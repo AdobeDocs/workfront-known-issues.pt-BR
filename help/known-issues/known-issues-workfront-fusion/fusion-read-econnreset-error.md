@@ -1,17 +1,21 @@
 ---
-title: '“Workfront Fusion: falha no cenário com o erro read ECONNRESET”'
-description: “Pode haver uma falha intermitente em um cenário. Quando um usuário visualiza a execução do cenário com falha, vê mensagens de erro que mencionam read ECONNRESET”
+title: "Workfront Fusion: o cenário falha com o erro ECONNRESET de leitura"
+description: Pode haver uma falha intermitente em um cenário. Quando um usuário visualiza a execução do cenário de falha, ele vê mensagens de erro que mencionam ECONNRESET lido
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: 13999f5de48f612de2a75d179d2c3af0c6727607
-workflow-type: ht
-source-wordcount: '94'
-ht-degree: 100%
+exl-id: e1140018-d308-422d-9019-ae5be7e147b2
+source-git-commit: 79ffdc10539219598ce2cc888c319414806c1054
+workflow-type: tm+mt
+source-wordcount: '100'
+ht-degree: 74%
 
 ---
 
-
 # [!DNL Workfront Fusion]: falha no cenário com o erro “[!UICONTROL read ECONNRESET]”
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em 2 de outubro de 2023.
 
 Pode haver uma falha intermitente em um cenário. Quando um usuário visualiza a execução do cenário com falha, vê as seguintes mensagens:
 
@@ -23,4 +27,3 @@ Pode haver uma falha intermitente em um cenário. Quando um usuário visualiza a
 Tente a execução novamente.
 
 _Relatado pela primeira vez em 31 de julho de 2023._
-
