@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: bb14df1c2326830d02c7db71b5affeb92651fd19
+source-git-commit: f55aca778701e1319eaa7a7eb6ce8f3d0cd2b8c5
 workflow-type: tm+mt
-source-wordcount: '5791'
-ht-degree: 91%
+source-wordcount: '5929'
+ht-degree: 89%
 
 ---
 
@@ -22,7 +22,37 @@ Para obter atualizações de manutenção anteriores a 2023, consulte [Atualiza�
 
 ## Atualizações em outubro de 2023
 
-+++**(Planejado) Atualização de manutenção em 5 de outubro de 2023**
++++**Atualização de manutenção em 5 de outubro de 2023**
+
+**O quadro carrega lentamente**
+
+_Quadros_
+
+Quando um usuário carrega um quadro, o quadro é carregado muito lentamente. Isso pode ocorrer mesmo se a placa tiver um pequeno número de cartões.
+
+Cartões arquivados, mesmo se não exibidos, estavam afetando o tempo de carregamento da placa.
+
+**Não é possível mover cartões entre colunas**
+
+_Quadros_
+
+Quando um usuário tenta mover um cartão em um quadro, o cartão não se move. Isso ocorre nas seguintes circunstâncias:
+
+* Arrastar e soltar
+* Opção Mover no cartão
+* Editar o cartão
+
+**Não é possível mover cartões para fora da coluna entrada**
+
+_Quadros_
+
+O usuário pode arrastar um cartão para fora da coluna de entrada para outra coluna no quadro, mas os cartões subsequentes não podem ser movidos para fora da coluna de entrada.
+
+**Agrupar por afeta o desempenho da placa**
+
+_Quadros_
+
+Quando o usuário tenta agrupar os cartões por responsáveis ou tags, o desempenho do painel fica muito lento.
 
 **Os emails de lembrete automático não estão sendo enviados**
 
