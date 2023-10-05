@@ -2,9 +2,9 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
+source-git-commit: 3148dfe741ca27262b947e3123fd7fb2df1b3556
 workflow-type: tm+mt
-source-wordcount: '1452'
+source-wordcount: '1460'
 ht-degree: 85%
 
 ---
@@ -182,6 +182,7 @@ ht-degree: 85%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problemas conhecidos no Workfront Fusion](workfrontfusion.md)
    + Problemas atuais no [!DNL Workfront Fusion] {#fusion-current}
+      + [[!DNL Workfront Fusion]: erro ao enviar convite com [!DNL Workfront] > [!UICONTROL Ações diversas] módulo](known-issues-workfront-fusion/fusion-send-invite-error.md)
       + [[!DNL Workfront Fusion]: módulo de suspensão causa travamento de cenários](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
       + [[!DNL Workfront Fusion]: falha no cenário com o erro “[!UICONTROL read ECONNRESET]”](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
       + [[!DNL Workfront Fusion]: não é possível inserir valor no filtro  [!DNL Workfront]  > [!UICONTROL Watch Events]](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
