@@ -4,10 +4,10 @@ description: Problemas conhecidos reportados da nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3148dfe741ca27262b947e3123fd7fb2df1b3556
+source-git-commit: ff8e4ea2511374bac1d4f4724de933d76495d579
 workflow-type: tm+mt
-source-wordcount: '704'
-ht-degree: 84%
+source-wordcount: '725'
+ht-degree: 83%
 
 ---
 
@@ -25,6 +25,8 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Balanceador de carga de trabalho]: o [!UICONTROL Total de horas] não corresponde à soma das [!UICONTROL Horas planejadas]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 6 de outubro de 2023 |
+| [Relatórios: atualizações privadas são exibidas em campos de expressão de valor](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | 6 de outubro de 2023 |
 | [[!DNL Workfront Fusion]: Error when sending invite with [!DNL Workfront] > [!UICONTROL Misc actions] módulo](known-issues-workfront-fusion/fusion-send-invite-error.md) | 5 de outubro de 2023 |
 | [Provas: erro ao compartilhar prova do link de email](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 3 de outubro de 2023 |
 | [Logon: erro exibido ao redefinir a senha, embora a ação tenha sido bem-sucedida](known-issues-workfront/wf-login-whoops-resetting-password.md) | 3 de outubro de 2023 |
