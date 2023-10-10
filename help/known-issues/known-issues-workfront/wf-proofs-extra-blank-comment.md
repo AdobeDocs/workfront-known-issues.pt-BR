@@ -1,12 +1,12 @@
 ---
-title: "Prova: comentário extra em branco ao fazer um comentário em uma prova"
-description: "Quando um usuário faz um comentário em uma prova, a prova também produz outro comentário, que está em branco."
+title: '“Prova: comentário extra em branco ao fazer um comentário em uma prova”'
+description: “Ao fazer um comentário em uma prova, um outro comentário em branco é criado.”
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: a9f4736853dbc1b6dcc03127998775f823429f1e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
@@ -15,8 +15,8 @@ ht-degree: 5%
 
 <!--WF, WFP TOCs-->
 
-Quando um usuário faz um comentário em uma prova, a prova também produz outro comentário, que está em branco.
+Ao fazer um comentário em uma prova, um outro comentário em branco é criado.
 
 Esse problema foi relatado em provas de vídeo.
 
-_Reportado pela primeira vez em 14 de setembro de 2023._
+_Relatado pela primeira vez em 14 de setembro de 2023._

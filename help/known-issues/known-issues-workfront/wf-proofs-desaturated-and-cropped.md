@@ -1,17 +1,17 @@
 ---
-title: "Provas: as provas aparecem dessaturadas ou cortadas"
-description: "Esses problemas foram relatados ao criar uma prova de um URL."
+title: '“Provas: as provas parecem dessaturadas ou cortadas”'
+description: “Esses problemas foram relatados ao criar uma prova de um URL.”
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '73'
-ht-degree: 13%
+ht-degree: 100%
 
 ---
 
 
-# Provas: as provas aparecem dessaturadas ou cortadas
+# Provas: as provas parecem dessaturadas ou cortadas
 
 >[!NOTE]
 >
@@ -19,9 +19,9 @@ ht-degree: 13%
 
 Os seguintes problemas foram relatados ao criar uma prova de um URL.
 
-* A prova parece dessaturada ou lavada.
+* A prova parece dessaturada ou desbotada.
 * A prova está cortada.
 
-Isso pode dificultar as decisões de prova, pois a prova não é representada com precisão.
+Isso pode dificultar as decisões da prova, pois a prova não é representada com precisão.
 
 _Relatado pela primeira vez em 24 de agosto de 2023._

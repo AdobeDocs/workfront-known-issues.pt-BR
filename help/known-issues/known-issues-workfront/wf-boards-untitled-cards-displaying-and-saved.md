@@ -1,25 +1,25 @@
 ---
-title: "Quadros: cartões sem título são exibidos e exibidos no backlog"
-description: "Quando um usuário tenta abrir um cartão, ele é exibido com o nome Campos sem título e em branco. Após alguns instantes, os detalhes desejados do cartão poderão ser preenchidos ou o cartão poderá permanecer em branco. Além disso, essas placas sem título podem ser salvas no backlog da placa, causando confusão."
+title: '“Quadros: cartões sem título são exibidos e aparecem na lista de pendências”'
+description: “Quando uma pessoa tenta abrir um cartão, o cartão é exibido com o nome Sem título e com os campos em branco. Após um momento, os detalhes do cartão desejado podem aparecer ou ele pode permanecer em branco. Além disso, esses cartões sem título podem ser salvos na lista de pendências do quadro, causando confusão.”
 hidefromtoc: true
 feature: Agile
 source-git-commit: aed1f7049a3b8e08327888f34c2cf682a9d598ba
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '133'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
 
-# Quadros: cartões sem título são exibidos e exibidos no backlog
+# Quadros: cartões sem título são exibidos e aparecem na lista de pendências
 
 >[!NOTE]
 >
 >Esse problema foi corrigido em 21 de setembro de 2023.
 
-Quando um usuário tenta abrir um cartão, ele é exibido com o nome &quot;Sem título&quot; e campos em branco. Após alguns instantes, os detalhes desejados do cartão poderão ser preenchidos ou o cartão poderá permanecer em branco.
+Quando uma pessoa tenta abrir um cartão, o cartão é exibido com o nome Sem título e com os campos em branco. Após um momento, os detalhes do cartão desejado podem aparecer ou ele pode permanecer em branco.
 
-Além disso, essas placas sem título podem ser salvas no backlog da placa, causando confusão.
+Além disso, esses cartões sem título podem ser salvos na lista de pendências do quadro, causando confusão.
 
 **Solução alternativa**
 

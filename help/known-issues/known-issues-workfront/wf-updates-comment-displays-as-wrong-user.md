@@ -1,23 +1,23 @@
 ---
-title: "Atualizações: o comentário é exibido como enviado do usuário incorreto"
-description: "Quando um usuário faz um comentário, ele é exibido como publicado por um usuário diferente."
+title: '“Atualizações: comentários são exibidos como enviados por um usuário incorreto”'
+description: “Quando uma pessoa faz um comentário, ele é exibido como se publicado por um usuário diferente.”
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 534ea87f86e27f0211c8ce12e266dc1310af5501
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '71'
-ht-degree: 15%
+ht-degree: 100%
 
 ---
 
 
-# Atualizações: o comentário é exibido como enviado do usuário incorreto
+# Atualizações: comentários são exibidos como enviados por um usuário incorreto
 
 >[!NOTE]
 >
 >Esse problema foi corrigido em 14 de setembro de 2023.
 
-Quando um usuário faz um comentário, ele é exibido como publicado por um usuário diferente.
+Quando uma pessoa faz um comentário, ele é exibido como se publicado por um usuário diferente.
 
 Esse problema foi relatado na nova experiência de comentários.
 
@@ -25,4 +25,4 @@ Esse problema foi relatado na nova experiência de comentários.
 
 A solução alternativa é inserida aqui
 
-_Relatado pela primeira vez em 1 de setembro de 2023._
+_Relatado pela primeira vez em 1º de setembro de 2023._

@@ -1,12 +1,12 @@
 ---
-title: "Documentos: não é possível mover o documento para uma pasta diferente"
-description: "Quando um usuário move um documento para uma pasta de objetos, ele não pode mover o objeto para uma pasta diferente."
+title: '“Documentos: não é possível mover o documento para uma pasta diferente”'
+description: “Ao mover um documento para uma pasta de objetos, não é possível mover o objeto para uma pasta diferente.”
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 12%
+ht-degree: 100%
 
 ---
 
@@ -17,10 +17,10 @@ ht-degree: 12%
 >
 >Esse problema foi corrigido em 30 de setembro de 2023.
 
-Quando um usuário move um documento para uma pasta de objetos, não é possível mover o objeto para uma pasta diferente.
+Ao mover um documento para uma pasta de objetos, não é possível mover o objeto para uma pasta diferente.
 
 **Solução alternativa:**
 
-Use a opção Mover para para para mover o documento para o objeto pai e, em seguida, mova-o para a pasta correta.
+Use a opção “Mover para” e mova o documento para o objeto principal; em seguida, mova-o para a pasta correta.
 
 _Relatado pela primeira vez em 31 de agosto de 2023._

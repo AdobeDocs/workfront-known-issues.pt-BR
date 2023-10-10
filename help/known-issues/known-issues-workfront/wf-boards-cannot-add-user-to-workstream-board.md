@@ -1,24 +1,24 @@
 ---
-title: "Quadros: não é possível atribuir usuário em um quadro em um fluxo de trabalho"
-description: "Quando um usuário tenta atribuir outro usuário a uma tarefa de um quadro que faz parte de um fluxo de trabalho e começa a digitar o nome do usuário, ele não é exibido na lista suspensa de usuários disponíveis. Isso ocorre mesmo quando o usuário está ativo e é membro do painel e do workflow."
+title: '“Quadros: não é possível atribuir usuários a um quadro no fluxo de trabalho”'
+description: “Ao tentar atribuir usuários a uma tarefa de um quadro que faz parte de um fluxo de trabalho e começar a digitar o nome, o usuário não é exibido na lista suspensa de usuários disponíveis. Isso ocorre mesmo quando o usuário está ativo e é membro do quadro e do fluxo de trabalho.”
 hidefromtoc: true
 feature: Agile
 source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '156'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
 
-# Quadros: não é possível atribuir usuário em um quadro em um fluxo de trabalho
+# Quadros: não é possível atribuir usuários a um quadro no fluxo de trabalho
 
 >[!NOTE]
 >
 >Esse problema foi corrigido em 21 de setembro de 2023.
 
-Quando um usuário tenta atribuir outro usuário a uma tarefa de um quadro que faz parte de um fluxo de trabalho e começa a digitar o nome do usuário, ele não é exibido na lista suspensa de usuários disponíveis. Isso ocorre mesmo quando o usuário está ativo e é membro do painel e do workflow.
+Ao tentar atribuir usuários a uma tarefa de um quadro que faz parte de um fluxo de trabalho e começar a digitar o nome, o usuário não é exibido na lista suspensa de usuários disponíveis. Isso ocorre mesmo quando o usuário está ativo e é membro do quadro e do fluxo de trabalho.
 
-O usuário também pode notar que os usuários desativados aparecem no menu suspenso.
+Também é possível observar que os usuários desativados são exibidos no menu suspenso.
 
 _Relatado pela primeira vez em 7 de setembro de 2023._

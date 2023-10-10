@@ -1,10 +1,10 @@
 ---
 title: '“Quadros: a barra de rolagem horizontal não está presente”'
-description: “Quando um usuário visualiza um quadro e tenta rolar a tela horizontalmente, a barra de rolagem não está presente, o que impede a realização da operação.”
+description: “Quando uma pessoa visualiza um quadro e tenta rolar a tela horizontalmente, a barra de rolagem não está presente, impedindo a rolagem.”
 feature: Agile
 hidefromtoc: true
 source-git-commit: 917038bf522f2115c1078a96206ed0a0554cdd6a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 <!--Reopened Sept 26, 2023-->
 
-Quando um usuário visualiza um quadro e tenta rolar a tela horizontalmente, a barra de rolagem não está presente, o que impede a realização da operação.
+Quando uma pessoa visualiza um quadro e tenta rolar a tela horizontalmente, a barra de rolagem não está presente, impedindo a rolagem.
 
 **Solução alternativa**
 
