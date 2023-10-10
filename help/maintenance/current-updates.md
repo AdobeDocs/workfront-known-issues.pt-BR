@@ -1,12 +1,12 @@
 ---
 title: Atualizações de manutenção do Workfront
-description: Atualizações de manutenção do [!DNL Adobe Workfront]
+description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: f55aca778701e1319eaa7a7eb6ce8f3d0cd2b8c5
 workflow-type: tm+mt
 source-wordcount: '5929'
-ht-degree: 89%
+ht-degree: 97%
 
 ---
 
@@ -16,7 +16,7 @@ As seguintes atualizações de manutenção foram efetuadas em 2023.
 
 >[!NOTE]
 >
->Essas atualizações também incluem outras correções de erros menores ou menos importantes. O suporte do [!DNL Workfront] enviará uma notificação quando um problema enviado for corrigido.
+>Essas atualizações também incluem outras correções de erros menores ou menos importantes. O suporte do [!DNL Workfront] enviará uma notificação quando um problema enviado por você for corrigido.
 
 Para obter atualizações de manutenção anteriores a 2023, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
@@ -76,13 +76,13 @@ Quando uma pessoa tenta excluir um campo personalizado, não consegue excluí-lo
 
 _Atualizações_
 
-Quando um usuário faz um comentário na nova experiência de comentários e esse comentário aparece na área Comentários da nova experiência, o mesmo comentário pode não aparecer na experiência de comentários herdada. Isso pode fazer com que os usuários que usam a experiência herdada percam comentários.
+Os comentários feitos na nova experiência são exibidos na área Comentários, porém, o mesmo comentário pode não aparecer na experiência herdada. Isso pode fazer com que usuários da experiência herdada percam alguns comentários.
 
-**A página de objeto não tem elementos**
+**Faltam elementos na página do objeto**
 
 _Workfront_
 
-Quando um usuário navega para uma seção personalizada em um objeto no [!DNL Workfront]No entanto, a página que é carregada pode não ter alguns elementos. Esses elementos podem incluir:
+Quando uma pessoa navega para uma seção personalizada em um objeto no [!DNL Workfront], a página que é carregada pode não ter alguns elementos. Esses elementos podem incluir:
 
 * O painel de navegação esquerdo
 * O nome do objeto ao qual a seção personalizada pertence
@@ -92,84 +92,84 @@ Quando um usuário navega para uma seção personalizada em um objeto no [!DNL W
 
 +++**Atualização de manutenção em 21 de setembro de 2023**
 
-**Não é possível atribuir usuário em um quadro em um fluxo de trabalho**
+**Não é possível atribuir um usuário em um quadro no fluxo de trabalho**
 
 _Quadros_
 
-Quando um usuário tenta atribuir outro usuário a uma tarefa de um quadro que faz parte de um fluxo de trabalho e começa a digitar o nome do usuário, ele não é exibido na lista suspensa de usuários disponíveis. Isso ocorre mesmo quando o usuário está ativo e é membro do painel e do workflow.
+Ao tentar atribuir usuários a uma tarefa de um quadro que faz parte de um fluxo de trabalho e começar a digitar o nome, o usuário não é exibido na lista suspensa de usuários disponíveis. Isso ocorre mesmo quando o usuário está ativo e é membro do quadro e do fluxo de trabalho.
 
-O usuário também pode notar que os usuários desativados aparecem no menu suspenso.
+Também é possível observar que os usuários desativados são exibidos no menu suspenso.
 
-**Não é possível excluir o item da lista de verificação**
+**Não é possível excluir um item da lista de verificação**
 
 _Quadros_
 
-Quando um usuário tenta excluir um item da lista de verificação de um cartão em um quadro, a variável [!UICONTROL Excluir] O botão não responde e o item não é excluído.
+Quando uma pessoa tenta excluir um item da lista de verificação de um cartão em um quadro, o botão [!UICONTROL Excluir] não responde e o item não é excluído.
 
 **Os formulários personalizados são carregados lentamente**
 
 _Formulários personalizados_
 
-Quando um usuário tenta carregar um formulário personalizado, ele é carregado lentamente.
+Quando uma pessoa tenta carregar um formulário personalizado, o formulário é carregado lentamente.
 
-**Não é possível mover o documento para uma pasta diferente**
-
-_Documentos_
-
-Quando um usuário move um documento para uma pasta de objetos, não é possível mover o objeto para uma pasta diferente.
-
-**Erro XML ao baixar**
+**Não é possível mover um documento para uma pasta diferente**
 
 _Documentos_
 
-Quando um usuário tenta baixar um documento, ele não é baixado e uma página com a seguinte mensagem seguida por um texto XML é exibida.
+Ao mover um documento para uma pasta de objetos, não é possível mover o objeto para uma pasta diferente.
 
-“[!UICONTROL O arquivo XML não parece ter nenhuma informação de estilo associada a ele. A árvore de documentos está abaixo.]”
-
-**Não é possível baixar documentos de ambientes de Pré-visualização/Sandbox**
+**Erro de XML ao baixar**
 
 _Documentos_
 
-Quando um usuário tenta baixar um documento de um ambiente diferente da produção, o documento não é baixado e o usuário vê o seguinte erro:
+Quando uma pessoa tenta baixar um documento, ele não é baixado e uma página com a seguinte mensagem seguida por um texto XML é exibida.
 
-“[!UICONTROL Ops! Um erro inesperado aconteceu. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.]”
+“[!UICONTROL O arquivo XML não parece ter informações de estilo associadas a ele. Veja a árvore de documentos abaixo.]”
 
-**Provas aparecem dessaturadas ou cortadas**
+**Não é possível baixar documentos de ambientes de Visualização / Sandbox**
+
+_Documentos_
+
+Quando uma pessoa tenta baixar um documento de um ambiente distinto da produção, ele não é baixado e o seguinte erro é exibido:
+
+“[!UICONTROL Ops! Algo deu errado. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.]”
+
+**As provas parecem dessaturadas ou cortadas**
 
 _Provas_
 
 Os seguintes problemas foram relatados ao criar uma prova de um URL.
 
-* A prova parece dessaturada ou lavada.
+* A prova parece dessaturada ou desbotada.
 * A prova está cortada.
 
-Isso pode dificultar as decisões de prova, pois a prova não é representada com precisão.
+Isso pode dificultar as decisões da prova, pois a prova não é representada com precisão.
 
 **As provas demoram muito para serem geradas**
 
 _Provas_
 
-Quando um usuário tenta gerar uma prova, ela demora muito para ser gerada. A geração da prova pode levar vários dias.
+Quando uma pessoa tenta gerar uma prova, ela demora muito para ser gerada. A geração da prova pode levar vários dias.
 
 +++
 
 +++**Atualização de manutenção em 14 de setembro de 2023**
 
-**&quot;[!UICONTROL Sem fábrica]&quot;erro ao adicionar um documento**
+**Erro “[!UICONTROL Sem fábrica]” ao adicionar um documento**
 
 _Documentos_
 
-Quando um usuário tenta adicionar um documento de uma fonte externa, [!DNL Workfront] O não pode acessar a origem e o usuário vê o seguinte erro:
+Quando uma pessoa tenta adicionar um documento de uma fonte externa, o [!DNL Workfront] não consegue acessar a origem e o seguinte erro é exibido:
 
-&quot;[!UICONTROL Ocorreu o seguinte erro: Nenhuma fábrica encontrada para o tipo de autenticação nulo]&quot;
+“[!UICONTROL Ocorreu o seguinte erro: Nenhuma fábrica encontrada para o tipo de autenticação nulo]”
 
 **Erro “Ops” em relatórios de matriz**
 
 _Relatórios_
 
-Quando um usuário tenta visualizar um relatório de matriz, o relatório não carrega e o seguinte erro é exibido:
+Ao tentar visualizar um relatório de matriz, o relatório não carrega e o seguinte erro é exibido:
 
-“[!UICONTROL Ops! Um erro inesperado aconteceu. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.]”
+“[!UICONTROL Ops! Algo deu errado. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.]”
 
 Isso ocorre ao agrupar um relatório por intervalos de datas.
 
@@ -177,21 +177,21 @@ Isso ocorre ao agrupar um relatório por intervalos de datas.
 
 +++**Atualização de manutenção em 11 de setembro de 2023**
 
-**As tarefas pessoais não são exibidas em folhas de horas**
+**As tarefas pessoais não são exibidas nas folhas de horas**
 
 _Folhas de horas_
 
-Por padrão, as tarefas pessoais não são mais exibidas na folha de horas. As tarefas pessoais são exibidas na folha de horas quando são fixadas ou têm horas registradas. Antes dessa alteração, as tarefas pessoais eram exibidas em folhas de horas por padrão.
+As tarefas pessoais não são mais exibidas por padrão na folha de horas. As tarefas pessoais serão exibidas na folha de horas quando forem fixadas ou possuírem horas registradas. Antes dessa alteração, as tarefas pessoais eram exibidas nas folhas de horas por padrão.
 
 +++
 
 +++**Atualização de manutenção em 7 de setembro de 2023**
 
-**O projeto fica em branco quando carregado a partir da experiência da nova [!UICONTROL Página inicial]**
+**O projeto fica em branco quando carregado a partir da nova experiência da [!UICONTROL Página inicial]**
 
 _Projetos_
 
-Quando alguém clica em um projeto na sua página [!UICONTROL Inicial] na experiência da nova Página inicial, a página do projeto não carrega.
+Ao clicar em um projeto na nova experiência da [!UICONTROL Página inicial], a página do projeto não carrega.
 
 Isso ocorre quando a pessoa faz logon como outro usuário e, em seguida, sai dessa conta e retorna à sua própria página [!UICONTROL Inicial].
 
@@ -205,9 +205,9 @@ Isso ocorre quando a pessoa faz logon como outro usuário e, em seguida, sai des
 
 _[!UICONTROL Página inicial]_
 
-Quando alguém tenta aplicar um filtro a um dispositivo na experiência da nova [!UICONTROL Página inicial], o dispositivo ainda mostra itens que deveriam ter sido excluídos pelo filtro.
+Ao tentar aplicar um filtro a um dispositivo na experiência da nova [!UICONTROL Página inicial], o dispositivo mostra itens que deveriam ter sido excluídos pelo filtro.
 
-Esse problema foi relatado no ambiente Sandbox personalizado. Os mesmos dispositivos nos ambientes Visualização e Produção filtram conforme o esperado.
+Esse problema foi relatado no ambiente de Sandbox personalizada. Os mesmos dispositivos filtram conforme o esperado nos ambientes Visualização e Produção.
 
 **Problemas ao carregar relatórios de matriz**
 
@@ -220,11 +220,11 @@ Ao tentar carregar um relatório de matriz como um gráfico, uma das seguintes s
 
 **O planejador não carrega quando um filtro está aplicado**
 
-_[!UICONTROL Planejamento de recursos]_
+_[!UICONTROL Planejador de recursos]_
 
-Quando uma pessoa tenta carregar o [!UICONTROL Planejador de recursos], ele não é carregado e a seguinte mensagem de erro é exibida:
+Não é possível carregar o [!UICONTROL Planejador de recursos] e a seguinte mensagem de erro é exibida:
 
-“[!UICONTROL Ocorreu o seguinte erro: Algo deu errado ao conectar ao serviço WorkPerDay]”
+“[!UICONTROL Erro: algo deu errado ao conectar ao serviço WorkPerDay]”
 
 +++
 
@@ -234,19 +234,19 @@ Quando uma pessoa tenta carregar o [!UICONTROL Planejador de recursos], ele não
 
 _Provas_
 
-Quando uma pessoa visualiza uma prova no visualizador de prova e tenta selecionar o texto que está em uma lista ou em um marcador, a ferramenta de seleção de texto não funciona e o texto não pode ser selecionado.
+Ao visualizar uma prova no visualizador de prova e tentar selecionar o texto que está em uma lista ou em um marcador, a ferramenta de seleção de texto não funciona e o texto não é selecionado.
 
 **Criar uma nova versão de uma prova exclui todas as versões dela**
 
 _Provas_
 
-Quando se cria uma prova de um documento, a prova é criada. No entanto, se você criar outra versão da prova, tanto a versão antiga quanto a nova serão excluídas. Existe uma opção [!UICONTROL Criar prova] no documento original e as versões da prova podem ser encontradas na área [!UICONTROL Lixeira] da área [!UICONTROL Prova] no [!DNL Workfront].
+Ao criar uma prova de um documento, o processo ocorre conforme o esperado. No entanto, ao criar outra versão da prova, tanto a versão antiga quanto a nova são excluídas. Existe uma opção [!UICONTROL Criar prova] no documento original e as versões da prova podem ser encontradas na [!UICONTROL Lixeira] da área [!UICONTROL Prova] no [!DNL Workfront].
 
 +++
 
 +++**Atualização de manutenção em 17 de agosto de 2023**
 
-**Não é possível navegar para um projeto com um URL que usa uma [!UICONTROL ID de referência]**
+**Não é possível acessar um projeto com um URL que usa uma [!UICONTROL ID de referência]**
 
 _Projetos_
 
@@ -262,7 +262,7 @@ Ao visualizar as configurações de uma prova no [!DNL Workfront], a caixa de se
 
 _Provas_
 
-Quando uma pessoa faz um comentário no visualizador de prova, realiza uma marcação e clica fora, ela não consegue mais ajustar a marcação.
+Ao fazer um comentário no visualizador de prova, realizar uma marcação e clicar fora dela, não é mais possível ajustar a marcação.
 
 +++
 
@@ -272,9 +272,9 @@ Quando uma pessoa faz um comentário no visualizador de prova, realiza uma marca
 
 _Página inicial_
 
-Quando um usuário na experiência da nova [!UICONTROL Página inicial] tenta excluir um item do dispositivo [!UICONTROL Tarefa], o item não é excluído e o seguinte erro é exibido:
+Ao utilizar a experiência da nova [!UICONTROL Página inicial] e tentar excluir um item do dispositivo [!UICONTROL Tarefa], o item não é excluído e o seguinte erro é exibido:
 
-“[!UICONTROL Ocorreu um problema ao remover a tarefa. Tente novamente em breve.]”
+“[!UICONTROL Erro ao remover a tarefa. Tente novamente mais tarde.]”
 
 Isso pode ocorrer quando há horas registradas no item [!UICONTROL Tarefa].
 
@@ -282,13 +282,13 @@ Isso pode ocorrer quando há horas registradas no item [!UICONTROL Tarefa].
 
 _Projetos_
 
-Quando um usuário navega para um projeto fixado usando o pino, as listas de objetos (como a lista de tarefas) podem exibir colunas em branco. Por exemplo, a coluna [!UICONTROL Atribuições] pode não exibir nenhuma atribuição, mesmo que as atribuições tenham sido feitas.
+Ao acessar um projeto fixado com um marcador, as listas de objetos (como a lista de tarefas) podem exibir colunas em branco. Por exemplo, a coluna [!UICONTROL Atribuições] pode não exibir atribuições, mesmo que elas tenham sido feitas.
 
 **Módulo de suspensão causa travamento de cenários**
 
 _[!DNL Workfront Fusion]_
 
-O módulo [!UICONTROL Ferramentas] > [!UICONTROL Suspender] em um cenário pode fazer com que sua execução trave. Essas execuções mostram um status de Em execução no [!UICONTROL Histórico do cenário] e não são concluídas.
+O módulo [!UICONTROL Ferramentas] > [!UICONTROL Suspender] pode travar a execução de um cenário. Essas execuções mostram um status de Em execução no [!UICONTROL Histórico do cenário] e não são concluídas.
 
 +++
 
@@ -316,17 +316,17 @@ Problemas
 
 _Projetos / Problemas_
 
-Quando um usuário altera o status de um projeto que é objeto da resolução de um problema, o status do problema é alterado para um status que não corresponde à mesma chave do status do projeto.
+Ao alterar o status de um projeto que é objeto da resolução de um problema, o status do problema é alterado para um que não corresponde à mesma chave do status do projeto.
 
 **Erro “Ops” em relatórios de matriz**
 
 _Relatórios_
 
-Quando um usuário tenta visualizar um relatório de matriz, o relatório não carrega e o seguinte erro é exibido:
+Ao tentar visualizar um relatório de matriz, o relatório não carrega e o seguinte erro é exibido:
 
-“[!UICONTROL Ops! Um erro inesperado aconteceu. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.]”
+“[!UICONTROL Ops! Algo deu errado. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.]”
 
-Esse problema foi relatado em usuários na região da Europa, Oriente Médio e África (EMEA).
+Esse problema foi relatado por usuários na região da Europa, Oriente Médio e África (EMEA).
 
 +++
 
@@ -334,17 +334,17 @@ Esse problema foi relatado em usuários na região da Europa, Oriente Médio e �
 
 +++**Atualização de manutenção em 27 de julho de 2023**
 
-**Itens de tags e lista de verificação não funcionam corretamente na visualização do quadro do projeto**
+**As tags e itens de listas de verificação não funcionam corretamente na visualização do quadro do projeto**
 
 _Quadros_
 
-Os itens de tags e lista de verificação foram removidos da visualização do quadro dos projetos, pois não fazem parte das tarefas do Workfront e não podem ser compartilhados entre usuários.
+As tags e itens de listas de verificação foram removidos da visualização do quadro dos projetos, pois não fazem parte das tarefas do Workfront e não podem ser compartilhados entre usuários.
 
-**“[!UICONTROL Habilitar em todo o sistema]” e “[!UICONTROL Visualizar em todo o sistema]” representam funcionalidades diferentes**
+**“[!UICONTROL Habilitar em todo o sistema]” e “[!UICONTROL Exibir em todo o sistema]” apresentam funcionalidades diferentes**
 
 _Filtros_
 
-Se um usuário compartilhar um filtro e habilitar a opção “[!UICONTROL Exibir em todo o sistema]”, o filtro será compartilhado com cada usuário no sistema. No entanto, se um administrador visualizar esse filtro na [!UICONTROL Configuração], verá que ele é exibido como “[!UICONTROL falso]” na coluna “[!UICONTROL Visível para todo o sistema]”. Para tornar esse filtro um padrão do sistema, o administrador deve habilitar a opção “[!UICONTROL Habilitar em todo o sistema]” na [!UICONTROL Configuração]. Isso pode causar confusão devido à similaridade dos termos.
+Ao compartilhar um filtro e habilitar a opção “[!UICONTROL Exibir em todo o sistema]”, o filtro é compartilhado com cada usuário no sistema. No entanto, se um(a) admin visualizar esse filtro na [!UICONTROL Configuração], verá que ele é exibido como “[!UICONTROL falso]” na coluna “[!UICONTROL Visível para todo o sistema]”. Para tornar esse filtro um padrão do sistema, o administrador deve habilitar a opção “[!UICONTROL Habilitar em todo o sistema]” na [!UICONTROL Configuração]. Isso pode causar confusão devido à similaridade dos termos.
 
 +++
 
@@ -360,7 +360,7 @@ Esta atualização contém apenas correções de erros pequenos ou menos importa
 
 _Projetos / Tarefas / Problemas_
 
-Quando ocorre um evento que deveria acionar um cálculo de linha do tempo, ela não é recalculada. Isso afeta os recálculos que ocorrem após alterações, bem como os recálculos programados. Isso pode afetar a precisão do Balanceador de carga de trabalho.
+Quando ocorre um evento que deveria acionar um cálculo da linha do tempo, ela não é recalculada. Isso afeta os recálculos que ocorrem após alterações, bem como os recálculos programados. Isso pode afetar a precisão do Balanceador de carga de trabalho.
 
 **As aprovações de prova bloqueadas ainda são mostradas na Lista de trabalho**
 
@@ -380,7 +380,7 @@ Quando um cliente tenta visualizar um relatório de utilização, um ícone gira
 
 _Usuários_
 
-Quando um usuário tenta editar outro usuário, a página Editar usuário fica em branco e o usuário não consegue editar o outro usuário.
+Quando uma pessoa tenta editar um usuário(a), a página Editar usuário fica em branco e ela não consegue editar o usuário(a).
 
 +++
 
@@ -398,9 +398,9 @@ Esta atualização contém apenas correções de erros pequenos ou menos importa
 
 _Relatórios_
 
-Quando um usuário visualiza um relatório de matriz, ele verá o seguinte erro:
+Quando uma pessoa visualiza um relatório de matriz, ele verá o seguinte erro:
 
-“[!UICONTROL Ops! Um erro inesperado aconteceu. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.]”
+“[!UICONTROL Ops! Algo deu errado. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.]”
 
 Esse problema foi relatado quando o relatório está classificado por data e a opção “[!UICONTROL Mostrar semanas sem resultados]” está habilitada.
 
@@ -424,7 +424,7 @@ Esta atualização contém apenas correções de erros pequenos ou menos importa
 
 +++
 
-+++**[!DNL Adobe Workfront Fusion]Atualização de manutenção em 8 de junho de 2023**
++++Atualização de manutenção do **[!DNL Adobe Workfront Fusion]em 8 de junho de 2023**
 
 O [!DNL Fusion] implantou uma correção que impede a remoção das conexões de um usuário quando ele for removido ou desativado no [!UICONTROL Adobe Admin Console].
 
@@ -432,19 +432,19 @@ Os administradores de equipe do [!DNL Fusion] ainda podem remover conexões desn
 
 +++
 
-+++**Atualização de manutenção em 1 de junho de 2023**
++++**Atualização de manutenção em 1° de junho de 2023**
 
-**Nenhuma mensagem de erro ao reordenar tarefa com o status [!UICONTROL Aprovação pendente]**
-
-_Tarefas_
-
-Quando um usuário tenta reordenar uma tarefa com o status [!UICONTROL Aprovação pendente] em uma lista de tarefas, a tarefa parece se mover na lista de tarefas. Após a atualização, o usuário vê que o item não foi movido. O item não pode ser movido porque está sob o status [!UICONTROL Aprovação pendente], mas não há uma mensagem informando ao usuário que o item não pode se mover, o que pode causar confusão.
-
-**Nenhuma mensagem de erro ao mover a tarefa predecessora na tarefa dependente**
+**Nenhuma mensagem de erro ao reordenar uma tarefa com o status [!UICONTROL Aprovação pendente]**
 
 _Tarefas_
 
-Quando um usuário tenta reordenar uma tarefa com o status [!UICONTROL Aprovação pendente] em uma lista de tarefas, a tarefa parece se mover na lista de tarefas. Após a atualização, o usuário vê que o item não foi movido. O item não pode ser movido porque uma tarefa predecessora não pode ser movida sob uma tarefa para a qual ela é predecessora, mas não há nenhuma mensagem informando o usuário que o item não pode ser movido, o que pode causar confusão.
+Quando uma pessoa tenta reordenar uma tarefa com o status [!UICONTROL Aprovação pendente] em uma lista de tarefas, ela parece se mover na lista. Após a atualização, é possível ver que o item não é movido. O item não pode ser movido porque está sob o status [!UICONTROL Aprovação pendente], mas não há uma mensagem que informe isso ao usuário, o que pode causar confusão.
+
+**Nenhuma mensagem de erro ao mover a tarefa predecessora sob uma tarefa dependente**
+
+_Tarefas_
+
+Quando uma pessoa tenta reordenar uma tarefa com o status [!UICONTROL Aprovação pendente] em uma lista de tarefas, ela parece se mover na lista. Após a atualização, é possível ver que o item não foi movido. O item não pode ser movido porque uma tarefa predecessora não pode ser movida sob uma tarefa na qual ela atua como predecessora, mas não há uma mensagem que informe isso ao usuário, o que pode causar confusão.
 
 +++
 
@@ -456,12 +456,12 @@ O quadro do **[!UICONTROL Kanban] fica em branco ao editar cartões**
 
 _Ágil_
 
-Quando um usuário altera um detalhe de um cartão no quadro do [!UICONTROL Kanban] , o quadro fica em branco em vez de registrar a alteração. Se o usuário atualiza a página manualmente, o quadro do [!UICONTROL Kanban] reaparece e mostra a alteração correta.
+Ao alterar um detalhe de um cartão no quadro do [!UICONTROL Kanban], o quadro fica em branco em vez de registrar a alteração. Se a página for atualizada manualmente, o quadro do [!UICONTROL Kanban] reaparece e mostra a alteração correta.
 
-Esse problema foi relatado nas seguintes circunstâncias:
+Esse problema foi relatado ao:
 
-* Edição de um cartão
-* Movimentação de um cartão
+* Editar um cartão
+* Mover um cartão
 
 
 +++
@@ -472,7 +472,7 @@ Esse problema foi relatado nas seguintes circunstâncias:
 
 _Formulários personalizados_
 
-Quando o designer de formulários personalizados foi lançado na versão beta, a funcionalidade para ajustar o tamanho do texto descritivo não estava disponível. Esse problema foi corrigido e os usuários agora podem ajustar o tamanho do texto descritivo.
+Quando o designer de formulários personalizados foi lançado na versão beta, a funcionalidade para ajustar o tamanho do texto descritivo não estava disponível. Esse problema foi corrigido e agora é possível ajustar o tamanho do texto descritivo.
 
 +++
 
@@ -481,7 +481,7 @@ Quando o designer de formulários personalizados foi lançado na versão beta, a
 **O relatório não classifica corretamente por campo personalizado**
 
 _Relatórios_
-Quando um usuário executa um relatório de tarefa, o relatório parece classificar corretamente durante o carregamento, mas ao término do processo, o relatório não está classificado corretamente.
+Ao executar um relatório de tarefa, o relatório parece classificar corretamente durante o carregamento, mas ao término do processo, o relatório não está classificado corretamente.
 
 Isso parece ocorrer se todas as seguintes circunstâncias forem atendidas:
 
@@ -493,11 +493,11 @@ Isso parece ocorrer se todas as seguintes circunstâncias forem atendidas:
 
 +++**Atualização de manutenção em 11 de maio de 2023**
 
-**Não é possível alternar a versão da prova ao visualizar a prova**
+**Não é possível alternar a versão da prova ao visualizar provas**
 
 _Provas_
 
-Quando um usuário visualiza uma prova no [!UICONTROL Visualizador de prova] e alterna para outra versão, a lista suspensa da versão é desativada e o usuário não consegue voltar para a versão original que estava visualizando ou para outra versão da prova.
+Ao visualizar uma prova no [!UICONTROL Visualizador de prova] e alternar para outra versão, a lista suspensa de versões é desabilitada e não é possível retornar à versão original que se estava visualizando ou para outra versão da prova.
 
 A pesquisa do **[!DNL Workfront]atinge o tempo limite**
 
@@ -509,13 +509,13 @@ Esse problema também afeta a funcionalidade do módulo [!DNL Workfront Fusion] 
 
 +++
 
-+++**[!DNL Adobe Workfront Fusion]Atualização de manutenção em 11 de maio de 2023**
++++Atualização de manutenção do **[!DNL Adobe Workfront Fusion]em 11 de maio de 2023**
 
 **Erros de tempo limite no[!DNL Workfront Fusion]**
 
 _Adobe Workfront Fusion_
 
-Quando um cenário está em execução, pode ocorrer um erro de tempo limite. As informações do módulo com o erro não chegam ao destino.
+Quando um cenário está em execução, pode ocorrer um erro de tempo limite. As informações do módulo com erro não chegam ao destino.
 
 A pesquisa do **[!DNL Workfront]atinge o tempo limite**
 
@@ -533,7 +533,7 @@ Esse problema também afeta a funcionalidade do módulo [!DNL Workfront Fusion] 
 
 _Quadros_
 
-Agora é possível usar a tarefa existente do Workfront e os filtros de problemas ao configurar a coluna de entrada de um quadro. No entanto, os filtros de coluna de entrada existentes agora são somente leitura no painel de configuração. Os filtros existentes ainda são aplicados à coluna de entrada, mas você deve recriar os filtros se quiser editá-los.
+Agora é possível usar a tarefa existente do Workfront e os filtros de problemas ao configurar a coluna de entrada de um quadro. No entanto, os filtros de coluna de entrada existentes agora são somente leitura no painel de configuração. Os filtros existentes ainda são aplicados à coluna de entrada, mas é preciso recriar os filtros para poder editá-los.
 
 +++
 
@@ -543,7 +543,7 @@ Agora é possível usar a tarefa existente do Workfront e os filtros de problema
 
 _Modelos_
 
-Quando um usuário tenta selecionar um modelo no menu Ações (três pontos), a lista de modelos desaparece quando o usuário move seu mouse para a lista, impossibilitando a seleção de um modelo. Isso ocorre porque a barra de rolagem está entre o menu e a lista de modelos, e o mouse alterna o foco para a barra de rolagem à medida que se move para a lista de modelos.
+Ao tentar selecionar um modelo no menu Ações (três pontos), a lista de modelos desaparece quando o mouse é movido para a lista, impossibilitando a seleção de um modelo. Isso ocorre porque a barra de rolagem está entre o menu e a lista de modelos, e o mouse alterna o foco para a barra de rolagem à medida que se move para a lista de modelos.
 
 +++
 
@@ -555,23 +555,23 @@ Quando um usuário tenta selecionar um modelo no menu Ações (três pontos), a 
 
 _Provas_
 
-Quando um usuário visualiza uma prova no [!UICONTROL Visualizador de prova] e alterna para outra prova, o botão de alternância para de responder. O usuário não consegue voltar para a prova original que estava visualizando ou para outra prova.
+Ao visualizar uma prova no [!UICONTROL Visualizador de prova] e alternar para outra prova, o botão de alternância para de responder. Não é possível retornar à prova original que se estava visualizando ou para outra prova.
 
 **Editar imagens anexadas ao editar um comentário**
 
 _Atualizações_
 
-Agora é possível editar a imagem anexada a um comentário ao editar um comentário. Isso está disponível na seção Atualizações das Metas do Workfront e na seção de problemas ao habilitar a experiência beta de comentários.
+Agora é possível editar a imagem anexada a um comentário ao editar o comentário. Isso está disponível na seção Atualizações das Metas do Workfront e na seção de problemas ao habilitar a experiência beta de comentários.
 
 +++
 
-+++**[!DNL Adobe Workfront Fusion]Atualização de manutenção em 25 de abril de 2023**
++++Atualização de manutenção do **[!DNL Adobe Workfront Fusion]em 25 de abril de 2023**
 
-Os links de ajuda no aplicativo do **[!DNL Fusion]não abrem páginas de ajuda específicas**
+Os links de ajuda no aplicativo do **[!DNL Fusion]não abrem as respectivas páginas de ajuda**
 
 _[!DNL Workfront Fusion]_
 
-Quando um usuário visualiza uma prova no [!UICONTROL Visualizador de prova] e alterna para outra prova, o botão de alternância para de responder. O usuário não consegue voltar para a prova original que estava visualizando ou para outra prova.
+Ao visualizar uma prova no [!UICONTROL Visualizador de prova] e alternar para outra prova, o botão de alternância para de responder. Não é possível retornar à prova original que se estava visualizando ou para outra prova.
 
 +++
 
@@ -581,7 +581,7 @@ Quando um usuário visualiza uma prova no [!UICONTROL Visualizador de prova] e a
 
 _Formulários personalizados_
 
-Campos suspensos personalizados que foram habilitados como campos de seleção múltipla podem exibir os seguintes problemas:
+Campos suspensos personalizados que foram habilitados como campos de seleção múltipla podem apresentar os seguintes problemas:
 
 * O botão “+[!UICONTROL Adicionar]” não está presente quando o formulário não está no modo de edição.
 * Campos sem valor mostram uma opção “--[!UICONTROL sem rótulo]--”.
@@ -590,39 +590,39 @@ Campos suspensos personalizados que foram habilitados como campos de seleção m
 
 _Provas_
 
-Quando um usuário visualiza uma prova no Visualizador de prova e tenta fazer um comentário usando a ferramenta Polyline, a ferramenta não marca a prova.
+Ao visualizar uma prova no Visualizador de prova e tentar fazer um comentário usando a ferramenta Polyline, a ferramenta não marca a prova.
 
 **A caixa de opções de texto mostra “textAnnotations”**
 
 _Provas_
 
-Quando um usuário visualiza uma prova, começa a adicionar um comentário e abre a ferramenta de texto, a palavra “textAnnotation” aparece ao lado das opções na ferramenta. A ferramenta de texto ainda funciona conforme o esperado, e “textAnnotation” desaparece após o comentário ser publicado.
+Ao visualizar uma prova, começar a adicionar um comentário e abrir a ferramenta de texto, a palavra “textAnnotation” aparece ao lado das opções na ferramenta. A ferramenta de texto ainda funciona conforme o esperado, e “textAnnotation” desaparece após o comentário ser publicado.
 
-**Manter imagens como rascunho ao sair de uma seção Atualização de metas ou de uma seção Atualização de problemas na experiência beta de comentários**
+**Manter imagens como rascunho ao sair de uma seção de atualização de metas ou de problemas na experiência beta de comentários**
 
 >[!NOTE]
 >
->Esse recurso teve uma pré-visualização lançada em 19 de abril de 2023 e foi enviado para produção em 20 de abril de 2023.
+>Uma pré-visualização desse recurso foi lançada em 19 de abril de 2023 e disponibilizada no ambiente de produção em 20 de abril de 2023.
 
 _Atualizações_
 
-Agora, ao sair da página Atualizações enquanto estiver no meio da composição de uma mensagem na qual uma imagem foi anexada, a mensagem e a imagem serão preservadas quando você voltar. Antes desta atualização, comentários não enviados eram preservados, mas não as imagens. Isso está disponível na seção Atualizações de metas e na de problemas ao habilitar a experiência beta de comentários.
+Agora, ao sair da página Atualizações durante o processo de composição de uma mensagem com uma imagen anexada, a mensagem e a imagem estarão preservadas quando você voltar. Antes desta atualização, os comentários não enviados eram preservados, mas não as imagens. Isso está disponível na seção Atualizações de metas e problemas ao habilitar a experiência beta de comentários.
 
 **Atualizações em tempo real e comentários excluídos na seção Atualizações**
 
 >[!NOTE]
 >
->Esse recurso teve uma pré-visualização lançada em 19 de abril de 2023 e foi enviado para produção em 20 de abril de 2023.
+>Uma pré-visualização desse recurso foi lançada em 19 de abril de 2023 e disponibilizada no ambiente de produção em 20 de abril de 2023.
 
 _Atualizações_
 
-Agora, quando alguém adiciona um comentário ou resposta ou exclui um comentário da área Atualizações, você pode ver o novo comentário ou uma indicação de que o comentário foi removido em tempo real, sem atraso. Isso está disponível na seção Atualizações de metas e na de problemas ao habilitar a experiência beta de comentários.
+Agora, ao adicionar um comentário ou resposta, ou excluir um comentário da área Atualizações, é possível ver o novo comentário ou uma indicação de que o comentário foi removido em tempo real, sem atraso. Isso está disponível na seção Atualizações de metas e problemas ao habilitar a experiência beta de comentários.
 
 **Nível de acesso alterado pelo sistema sem registro da alteração**
 
 _Usuários_
 
-O nível de acesso de um usuário pode ser alterado imprevisivelmente pelo sistema. Quando isso ocorre, não há atualização visível e a alteração não aparece no log de auditoria.
+O nível de acesso de um usuário pode ser alterado pelo sistema sem avisos. Quando isso ocorre, não há uma atualização visível e a alteração não aparece no log de auditoria.
 
 +++
 
@@ -632,7 +632,7 @@ O nível de acesso de um usuário pode ser alterado imprevisivelmente pelo siste
 
 _Atualizações_
 
-Adicionamos um banner de notificação na seção [!UICONTROL Atualizações] para informar aos usuários quando houver comentários novos em um item que pode estar fora da área visível na tela. Esta atualização está atualmente disponível na seção [!UICONTROL Atualizações] de metas e na de problemas quando a nova experiência beta de comentário tiver sido habilitada para problemas.
+Adicionamos um banner de notificação na seção [!UICONTROL Atualizações] para informar quando houver comentários novos em um item que pode estar fora da área visível na tela. Esta atualização está atualmente disponível na seção [!UICONTROL Atualizações] de metas e na de problemas quando a nova experiência beta de comentário tiver sido habilitada para problemas.
 
 +++
 
@@ -642,23 +642,23 @@ Adicionamos um banner de notificação na seção [!UICONTROL Atualizações] pa
 
 _Solicitações_
 
-Quando um usuário visualiza uma lista de solicitações com um filtro aplicado, a lista inclui solicitações que o filtro deveria excluir.
+Quando uma pessoa visualiza uma lista de solicitações com um filtro aplicado, a lista inclui solicitações que o filtro deveria excluir.
 
 **Não é possível selecionar o [!UICONTROL Tipo de hora padrão] ou [!UICONTROL Tipos de hora disponíveis]**
 
 _Usuários_
 
-Quando um administrador edita um usuário e tenta selecionar um [!UICONTROL Tipo de hora padrão] ou [!UICONTROL Tipo de hora disponível], os menus suspensos desses campos são desabilitados e não é possível selecionar os tipos de hora.
+Quando um administrador edita um usuário e tenta selecionar um [!UICONTROL Tipo de hora padrão] ou [!UICONTROL Tipo de hora disponível], os menus suspensos desses campos ficam desabilitados e não é possível selecionar os tipos de hora.
 
 +++
 
 +++**Atualização de manutenção em 6 de abril de 2023**
 
-**Os menus suspensos não são abertos quando um usuário é adicionado a uma prova**
+**Os menus suspensos não são abertos quando um(a) usuário(a) é adicionado a uma prova**
 
 _Provas_
 
-Quando um usuário adiciona outro usuário a uma prova no [!UICONTROL Visualizador de prova], os menus suspensos “[!UICONTROL Função de prova]” e “[!UICONTROL Alertas por email]” não podem ser abertos. O usuário não consegue atribuir uma função de prova ou alerta de email. Isso pode ocorrer ao adicionar um usuário por meio de um comentário ou ao compartilhar a prova com o usuário.
+Quando uma pessoa adiciona um usuário a uma prova no [!UICONTROL Visualizador de prova], os menus suspensos “[!UICONTROL Função de prova]” e “[!UICONTROL Alertas por email]” não podem ser abertos. O(a) usuário(a) não consegue atribuir uma função de prova ou alerta de email. Isso pode ocorrer ao adicionar um usuário por meio de um comentário ou ao compartilhar a prova com o usuário.
 
 +++
 
@@ -666,23 +666,23 @@ Quando um usuário adiciona outro usuário a uma prova no [!UICONTROL Visualizad
 
 +++**Atualização de manutenção em 30 de março de 2023**
 
-**Não é possível alternar a versão da prova ao visualizar a prova**
+**Não é possível alternar a versão da prova ao visualizar provas**
 
 _Provas_
 
-Quando um usuário visualiza uma prova no [!UICONTROL Visualizador de prova] e alterna para outra versão, a lista suspensa da versão é desativada e o usuário não consegue voltar para a versão original que estava visualizando ou para outra versão da prova.
+Quando uma pessoa visualiza uma prova no [!UICONTROL Visualizador de prova] e alterna para outra versão, a lista suspensa de versões fica desativada, impedindo de voltar para a versão original que estava visualizando ou para outra versão da prova.
 
 **Erro 504 ao exportar relatórios**
 
 _Relatórios_
 
-Quando um usuário tenta exportar um relatório com um número alto de itens, ele vê um erro 504 e não consegue exportar o relatório.
+Quando uma pessoa tenta exportar um relatório com um número elevado de itens, um erro 504 lhe é exibido e ela não consegue exportá-lo.
 
-**A atualização feita em nome de um usuário é vinculada diretamente ao usuário**
+**Uma atualização feita em nome de um usuário é vinculada diretamente a ele**
 
 _Atualizações_
 
-Quando um administrador está conectado como um usuário e faz um comentário, esse comentário é vinculado diretamente ao usuário, e não ao administrador em nome do usuário.
+Quando um administrador está conectado como um usuário e faz um comentário, esse é vinculado diretamente ao usuário, e não ao administrador em nome do usuário.
 
 +++
 
@@ -692,7 +692,7 @@ O conteúdo do painel **[!UICONTROL Resumo] é muito largo para o painel**
 
 _Documentos_
 
-Quando um usuário visualiza o painel [!UICONTROL Resumo] de um documento, seus conteúdos são muito largos para serem visualizados no painel. O painel agora tem uma barra de rolagem horizontal, e o usuário deve rolar a barra horizontalmente para ver o conteúdo do painel [!UICONTROL Resumo]. Isso ocorre porque o nome do arquivo do documento não possui quebra de linha. Esse problema é limitado a arquivos em que o nome do arquivo tenha uma extensão de arquivo HTML.
+Quando uma pessoa visualiza o painel [!UICONTROL Resumo] de um documento, seus conteúdos são muito largos para serem visualizados no painel. O painel agora tem uma barra de rolagem horizontal e é necessário rolar essa barra para ver o conteúdo do painel [!UICONTROL Resumo]. Isso ocorre porque o nome do arquivo do documento não possui quebra de linha. Esse problema é limitado a arquivos em que o nome do arquivo tenha uma extensão de arquivo HTML.
 
 **Nova versão do [!UICONTROL Visualizador de prova para desktop]**
 
@@ -700,9 +700,9 @@ _Prova_
 
 Para corrigir um problema de comentário no [!UICONTROL Visualizador de prova para desktop], implantamos uma nova versão do visualizador.
 
-Os usuários que já tiverem o [!UICONTROL Visualizador de prova para desktop] instalado receberão esta atualização automaticamente.
+As pessoas que já tiverem o [!UICONTROL Visualizador de prova para desktop] instalado receberão esta atualização automaticamente.
 
-Os usuários também podem baixar manualmente a versão mais recente. Para obter mais informações, consulte [Instalar o [!UICONTROL Visualizador de prova para desktop]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=pt-BR).
+Também é possível baixar manualmente a versão mais recente. Para obter mais informações, consulte [Instalar o [!UICONTROL Visualizador de prova para desktop]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=pt-BR).
 
 * Versão anterior: 2.1.22
 * Nova versão: 2.1.23
@@ -721,13 +721,13 @@ Ao copiar um cartão ad hoc (os cartões conectados não podem ser copiados), os
 
 _Projetos_
 
-Quando um usuário converte um problema em um projeto usando um modelo, um campo personalizado que estava no problema não é exibido no projeto. Esse problema afeta somente usuários não administradores.
+Quando uma pessoa converte um problema em um projeto usando um modelo, um campo personalizado que estava no problema não é exibido no projeto. Esse problema afeta somente usuários não administradores.
 
 **Mensagens personalizadas não aparecem nas notificações por email**
 
 _Provas_
 
-Quando um usuário compartilha uma prova e adiciona uma mensagem personalizada, ela não é exibida no email de notificação do destinatário. O assunto é o nome da prova e a mensagem não aparece no email.
+Ao compartilhar uma prova e adicionar uma mensagem personalizada, a mensagem não é exibida no email de notificação do destinatário. O assunto é o nome da prova e a mensagem não aparece no email.
 
 +++
 
@@ -737,13 +737,13 @@ Quando um usuário compartilha uma prova e adiciona uma mensagem personalizada, 
 
 _Usuários_
 
-Quando um usuário está reativando um usuário desativado e tenta atribuir a ele um nível de acesso na janela [!UICONTROL Reativar usuário], a lista suspensa de nível de acesso não é preenchida conforme o usuário digita e ele não consegue selecionar um nível de acesso. Se o usuário digitar no nível de acesso e salvar, esse nível de acesso não será atribuído ao usuário reativado.
+Ao reativar um usuário que estava desativado e tentar atribuir a ele(a) um nível de acesso na janela [!UICONTROL Reativar usuário], a lista suspensa de nível de acesso não é preenchida conforme o usuário digita e não é possível selecionar um nível de acesso. Se você digitar o nível de acesso e salvar, esse nível de acesso não será atribuído ao usuário reativado.
 
 **Salve o rascunho de um comentário na área [!DNL Goals]**
 
 _[!DNL Workfront Goals]_
 
-Agora, quando sair da página [!UICONTROL Atualizações] de uma meta enquanto durante a composição de uma mensagem, a mensagem será preservada para quando você retornar. Antes desta atualização, o comentário não enviado teria sido excluído.
+Agora, ao sair da página [!UICONTROL Atualizações] de uma meta durante o processo de composição de uma mensagem, a mensagem estará preservada quando você retornar. Antes desta atualização, o comentário não enviado era excluído.
 
 +++
 
@@ -753,22 +753,22 @@ Agora, quando sair da página [!UICONTROL Atualizações] de uma meta enquanto d
 
 _Quadros_
 
-Quando um usuário está visualizando um quadro com um agrupamento aplicado e tenta adicionar um cartão, ele só pode digitar o nome do cartão. O restante dos campos do cartão está desativado, incluindo o botão [!UICONTROL Salvar].
+Ao visualizar um quadro com um agrupamento aplicado e tentar adicionar um cartão, só é possível digitar o nome do cartão. O restante dos campos do cartão está desabilitado, incluindo o botão [!UICONTROL Salvar].
 
-Se o usuário altera o agrupamento para [!UICONTROL Nenhum], o problema permanece. O usuário deve alterar o agrupamento para [!UICONTROL Nenhum] e atualizar a página para que a funcionalidade de adicionar um cartão seja restaurada.
+Se o agrupamento for alterado para [!UICONTROL Nenhum], o problema permanece. É necessário alterar o agrupamento para [!UICONTROL Nenhum] e atualizar a página para que a funcionalidade de adicionar um cartão seja restaurada.
 
 **Os cartões conectados não são adicionados às colunas com base no status**
 
 _Quadros_
 
-Mesmo que as políticas de coluna sejam aplicadas para o status, os novos cartões conectados aparecem na coluna mais à esquerda, e não na coluna que corresponde a seu status.
+Mesmo que as políticas de coluna sejam aplicadas para o status, os novos cartões conectados aparecem na coluna mais à esquerda, e não na coluna que corresponde ao status.
 
 
-**Vincular a um comentário redireciona para a página [!UICONTROL Detalhes]**
+**O link de um comentário redireciona para a página [!UICONTROL Detalhes]**
 
 _Atualizações_
 
-Quando um usuário clica em um link para um comentário em um objeto no Workfront, o fluxo de atualização é carregado brevemente e, em seguida, é redirecionado para a área [!UICONTROL Detalhes] do objeto. Isso pode ocorrer se o usuário clicar no link de um email ou colar o link em seu navegador.
+Ao clicar em um link de um comentário em um objeto no Workfront, o fluxo de atualização é carregado brevemente e, em seguida, há um redirecionamento para a área [!UICONTROL Detalhes] do objeto. Isso pode ocorrer ao clicar no link de um email ou colar o link no navegador.
 
 Atualmente, isso afeta apenas objetos de Documento.
 
@@ -776,7 +776,7 @@ Atualmente, isso afeta apenas objetos de Documento.
 
 _[!UICONTROL Prova do Workfront]_
 
-Quando um usuário tenta carregar a página Resumo de impressão, ela parece estar sendo carregada, mas o processo nunca é concluído.
+Ao tentar carregar a página Resumo de impressão, ela parece estar sendo carregada, mas o processo nunca é concluído.
 
 +++
 
@@ -784,19 +784,19 @@ Quando um usuário tenta carregar a página Resumo de impressão, ela parece est
 
 +++**Atualização de manutenção em 23 de fevereiro de 2023**
 
-**Vincular a um comentário redireciona para a página [!UICONTROL Detalhes]**
+**O link de um comentário redireciona para a página [!UICONTROL Detalhes]**
 
 _Atualizações_
 
-Quando um usuário clica em um link para um comentário em um objeto no Workfront, o fluxo de atualização é carregado brevemente e, em seguida, é redirecionado para a área [!UICONTROL Detalhes] do objeto. Isso pode ocorrer se o usuário clicar no link de um email ou colar o link em seu navegador.
+Ao clicar em um link de um comentário em um objeto no Workfront, o fluxo de atualização é carregado brevemente e, em seguida, há um redirecionamento para a área [!UICONTROL Detalhes] do objeto. Isso pode ocorrer ao clicar no link de um email ou colar o link no navegador.
 
 Atualmente, isso afeta apenas objetos de Documento.
 
-**O usuário não consegue editar suas próprias configurações de notificação**
+**Não é possível editar configurações pessoais de notificação**
 
 _Usuários_
 
-Quando um usuário com uma licença [!UICONTROL Trabalhador] tenta editar suas próprias configurações de notificação, as opções de [!UICONTROL Notificações] não ficam visíveis na janela [!UICONTROL Editar] e o usuário não consegue editar as configurações.
+Quando um usuário com uma licença de [!UICONTROL Trabalhador] tenta editar suas próprias configurações de notificação, as opções de [!UICONTROL Notificações] não são exibidas na janela [!UICONTROL Editar] e não é possível editar as configurações.
 
 +++
 
@@ -824,11 +824,11 @@ A desativação programada de um usuário não ocorre ao chegar a data e hora pr
 
 +++**Atualização de manutenção em 9 de fevereiro de 2023**
 
-Adição do campo **[!UICONTROL Story Points] a listas de tarefas e problemas e relatórios**
+Adição do campo **[!UICONTROL Pontos da história] a listas de tarefas e problemas e relatórios**
 
 _Relatórios_
 
-O campo [!UICONTROL Story Points] agora está disponível para adicionar a listas e relatórios para tarefas ou problemas. É um campo de formulário gratuito editável que não está vinculado a horas planejadas ou atribuições de equipe.
+O campo [!UICONTROL Pontos da história] agora está disponível para adicionar a listas e relatórios para tarefas ou problemas. É um campo de formulário editável e gratuito que não está vinculado a horas planejadas ou atribuições de equipe.
 
 +++
 
@@ -838,7 +838,7 @@ O campo [!UICONTROL Story Points] agora está disponível para adicionar a lista
 
 _Quadros_
 
-A coluna de entrada em um quadro agora inclui um botão **[!UICONTROL Adicionar um filtro]** quando a coluna estiver vazia e nenhum filtro tiver sido criado. O botão abre a área de configuração, onde você pode adicionar filtros para trazer tarefas e problemas para a coluna de entrada.
+A coluna de entrada em um quadro agora inclui um botão **[!UICONTROL Adicionar um filtro]** quando a coluna estiver vazia e nenhum filtro tiver sido criado. O botão abre a área de configuração, onde é possível adicionar filtros para trazer tarefas e problemas para a coluna de entrada.
 
 +++
 
@@ -848,13 +848,13 @@ O ícone **[!UICONTROL Quadros] aparece no [!UICONTROL Menu principal] por padr�
 
 _Quadros_
 
-O ícone [!UICONTROL Quadros] agora aparece no [!UICONTROL Menu principal] para usuários que não têm um modelo de layout. Os quadros também são incluídos no Menu principal por padrão em qualquer novo modelo de layout criado. Os modelos de layout existentes não foram alterados.
+O ícone [!UICONTROL Quadros] agora aparece no [!UICONTROL Menu principal] para quem não têm um modelo de layout. Os quadros também são incluídos no Menu principal por padrão em qualquer novo modelo de layout criado. Os modelos de layout existentes não foram alterados.
 
 **Não é possível salvar modelos de email**
 
 _Configuração_
 
-Quando um usuário tenta criar ou editar um modelo de email, o botão [!UICONTROL Salvar] não responde e não é possível salvar o modelo.
+Quando uma pessoa tenta criar ou editar um modelo de email, o botão [!UICONTROL Salvar] não responde e não é possível salvá-lo.
 
 +++
 
@@ -868,7 +868,7 @@ _Folhas de horas_
 
 Introduzimos os seguintes atalhos de teclado para as seguintes ações executadas com frequência em uma folha de horas:
 
-* Adicionar linha (Cmd+Option++/Ctrl+Option+)
+* Adicionar linha (Cmd+Option++/Ctrl+Option++)
 * Excluir linha (Cmd+Option+-/Ctrl+Option+-)
 * Fixar ou desafixar um item de trabalho (Option+P/Option+P)
 * Abrir comentário (Shift+F2/Shift+F2)
@@ -876,7 +876,7 @@ Introduzimos os seguintes atalhos de teclado para as seguintes ações executada
 * Expandir (Shift+Option+Seta para cima/Shift+Alt+Seta para cima)
 * Recolher (Shift+Option+Seta para baixo/Shift+Alt+Seta para baixo)
 
-A área onde essas ações são executadas deve ser realçada para que sejam aplicadas.
+A área onde essas ações serão executadas precisa estar realçada para que sejam aplicadas.
 
 **Novos ícones de informações para folhas de horas, perfis de folha de horas e preferências de folha de horas**
 
@@ -897,11 +897,11 @@ Observe que a funcionalidade dessas configurações não foi alterada e somente 
 
 +++**Atualização de manutenção em 26 de janeiro de 2023**
 
-**Erro ao enviar solicitação do [!DNL Outlook]**
+**Erro ao enviar solicitação a partir do [!DNL Outlook]**
 
 _Integrações_
 
-Quando um usuário tenta enviar uma solicitação com anexos de um email do [!DNL Outlook], um ou mais anexos não são carregados e o usuário vê o seguinte erro:
+Quando uma pessoa tenta enviar uma solicitação com anexos a partir de um email do [!DNL Outlook], um ou mais anexos não são enviados e o seguinte erro é exibido:
 
 “[!UICONTROL Ocorreu o seguinte erro: o arquivo com o identificador xxxx não existe.]”
 
@@ -911,18 +911,18 @@ Isso ocorre somente quando uma atribuição é feita para a nova solicitação, 
 
 _Prova_
 
-Para corrigir um problema de congelamento no Visualizador de prova para desktop, implantamos uma nova versão do visualizador. Os usuários que já tiverem o Visualizador de prova para desktop instalado receberão esta atualização automaticamente.
+Para corrigir um problema de congelamento no Visualizador de prova para desktop, implantamos uma nova versão do visualizador. As pessoas que já tiverem o Visualizador de prova para desktop instalado receberão esta atualização automaticamente.
 
 Os usuários também podem baixar manualmente a versão mais recente. Para obter mais informações, consulte [Instalar o Visualizador de prova para desktop](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=pt-BR).
 
 * Versão anterior: 2.1.19
 * Nova versão: 2.1.20
 
-**O usuário não pode editar sua própria configuração de usuário**
+**Não é possível editar configurações pessoais**
 
 _Usuários_
 
-Quando um usuário que possui uma licença de Trabalho, Revisão ou Solicitação tenta editar suas próprias configurações de usuário, a janela pop-up é aberta em branco e o usuário não consegue fazer edições. Para sair da janela pop-up, o usuário precisa atualizar a página.
+Quando um usuário que possui uma licença de Trabalho, Revisão ou Solicitação tenta editar suas próprias configurações, a janela pop-up é aberta em branco e não permite fazer edições. Para sair da janela pop-up, é necessário atualizar a página.
 
 +++
 
@@ -932,17 +932,17 @@ Quando um usuário que possui uma licença de Trabalho, Revisão ou Solicitaçã
 
 _Quadros_
 
-Quando o recurso da coluna de entrada foi lançado para Quadros, os filtros de configuração da coluna de entrada só podiam ser vistos pela pessoa que os criou. Agora, o criador pode compartilhar os filtros com outros usuários ou equipes.
+Quando o recurso da coluna de entrada foi lançado para Quadros, os filtros de configuração da coluna de entrada só podiam ser vistos pela pessoa que os criou. Agora, o(a) criador(a) pode compartilhar os filtros com outros usuários ou equipes.
 
-**A funcionalidade de pino está disponível no menu [!UICONTROL Mais]**
+**A funcionalidade Fixar está disponível no menu [!UICONTROL Mais]**
 
 _Navegação_
 
-Os seguintes recursos agora estão disponíveis no menu [!UICONTROL Mais] dos marcadores, no ambiente de produção:
+Os seguintes recursos para marcadores agora estão disponíveis no menu [!UICONTROL Mais] do ambiente de produção:
 
-* Renomear pinos
-* Reorganização de pinos no menu [!UICONTROL Mais]
-* Mover um pino para fora do menu [!UICONTROL Mais] (ao fazer isso, o último pino na barra de navegação superior é movido para o menu [!UICONTROL Mais])
+* Renomear marcadores
+* Reorganização de marcadores no menu [!UICONTROL Mais]
+* Ao mover um marcador para fora do menu [!UICONTROL Mais], o último marcador na barra de navegação superior é movido para o menu [!UICONTROL Mais]
 
 +++
 
@@ -952,17 +952,17 @@ Os seguintes recursos agora estão disponíveis no menu [!UICONTROL Mais] dos ma
 
 _Formulários personalizados_
 
-Quando um usuário usa um curinga, como \$$TODAY ou $$NOW, juntamente com um modificador (como “-30d”) em um campo personalizado, o validador não aceita o curinga como válido. Curingas sem modificadores são vistos como válidos.
+Ao utilizar um curinga, como \$$TODAY ou $$NOW, juntamente com um modificador (como “-30d”) em um campo personalizado, o validador não aceita o curinga como válido. Curingas sem modificadores são vistos como válidos.
 
 O **[!UICONTROL Balanceador de carga de trabalho] mostra horas não associadas a um projeto/tarefa/problema**
 
 _[!UICONTROL Balanceador de carga de trabalho]_
 
-Ao visualizar o [!UICONTROL Balanceador de carga de trabalho], o usuário vê horas registradas para um usuário que não estão associadas a nenhum projeto, tarefa ou problema, e que não estão registradas como horas [!UICONTROL Gerais]. Essas horas podem ser exibidas somente na visualização de 4 ou 6 semanas.
+Ao consultar o [!UICONTROL Balanceador de carga de trabalho], é possível ver horas registradas para um usuário que não estão associadas a nenhum projeto, tarefa ou problema, e que não estão registradas como horas [!UICONTROL Gerais]. Essas horas são exibidas somente na visualização de 4 ou 6 semanas.
 
 +++
 
-+++Atualização de manutenção do **[!DNL Adobe Workfront Fusion] (Hot Fix) em 12 de janeiro de 2023**
++++Atualização de manutenção do **[!DNL Adobe Workfront Fusion] (hot fix) em 12 de janeiro de 2023**
 
 **Erros 404 em módulos do [!DNL Workfront]**
 
@@ -970,86 +970,86 @@ _Workfront Fusion_
 
 Quando um cenário é executado, um módulo do [!DNL Workfront] retorna um erro 404.
 
-Esse problema foi relatado os seguintes módulos:
+Esse problema foi relatado nos seguintes módulos:
 
 * [!UICONTROL Ler um registro]
 
 +++
 
-+++**Atualização de manutenção (Hot Fix) em 12 de janeiro de 2023**
++++**Atualização de manutenção (hot fix) em 12 de janeiro de 2023**
 
 **Erro “[!UICONTROL Ops!]” ao configurar um campo calculado**
 
 _Formulários personalizados_
 
-Quando um usuário cria ou edita um campo calculado em um formulário personalizado e inclui um campo personalizado na expressão do campo calculado, a expressão é considerada inválida. O botão [!UICONTROL Salvar] está desativado e o usuário não consegue sair do campo personalizado. Além disso, o usuário vê a seguinte mensagem abaixo do campo:
+Ao criar ou editar um campo calculado em um formulário personalizado e incluir um campo personalizado na expressão do campo calculado, a expressão é considerada inválida. O botão [!UICONTROL Salvar] é desabilitado e não é possível sair do campo personalizado. Além disso, a seguinte mensagem é exibida abaixo do campo:
 
-“[!UICONTROL Ops! Um erro inesperado aconteceu. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.]”
+“[!UICONTROL Ops! Algo deu errado. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.]”
 
-Remover o campo personalizado da expressão permite que o usuário salve e navegue para fora do campo.
+Remover o campo personalizado da expressão permite salvar e sair do campo.
 
 **Não é possível definir níveis de acesso**
 
 _Usuários_
 
-Quando um usuário tenta alterar o nível de acesso de outro usuário, os níveis de acesso ficam esmaecidos e não é possível alterá-los. Isso ocorre mesmo quando o usuário que está tentando realizar a alteração é um administrador do sistema.
+Ao tentar alterar o nível de acesso de outro usuário, os níveis de acesso ficam esmaecidos e não é possível alterá-los. Isso ocorre mesmo quando a pessoa que está tentando realizar a alteração é um(a) admin do sistema.
 
 +++
 
 +++**Atualização de manutenção em 12 de janeiro de 2023**
 
-**Ctrl+F ou Cmd+F não funciona como esperado em campos suspensos**
+**Os comandos Ctrl+F ou Cmd+F não funcionam como esperado em campos suspensos**
 
 _Formulários personalizados_
 
-Quando um usuário está preenchendo um formulário personalizado e pesquisa uma lista suspensa usando Ctrl+F ou Cmd+F e, em seguida, tenta passar para a próxima instância dessa pesquisa, a lista suspensa retorna ao topo da lista em vez de pular para a próxima instância da pesquisa. Isso ocorre quando uma lista suspensa é definida para permitir várias seleções.
+Durante o preenchimento de um formulário personalizado, se você realizar uma pesquisa em uma lista suspensa usando Ctrl+F ou Cmd+F e, em seguida, tentar pular para a próxima instância dessa pesquisa, a lista suspensa retornará ao topo da lista. Isso ocorre quando uma lista suspensa é definida para permitir várias seleções.
 
 A tela **[!UICONTROL Editar relatório] está em branco**
 
 _Relatórios_
 
-Quando um usuário está visualizando um relatório e tenta editá-lo, ele é direcionado a uma tela em branco e não consegue editar o relatório.
+Ao visualizar um relatório e tentar editá-lo, uma tela em branco é exibida e não é possível editar o relatório.
 
 **As tarefas recuadas não permanecem recuadas**
 
 _Tarefas_
 
-Quando um usuário exibe uma lista de tarefas e recua uma tarefa, a tarefa retorna imediatamente ao seu estado original (recuado).
+Ao visualizar uma lista de tarefas e recuar uma tarefa, ela retorna imediatamente ao seu estado original (recuado à esquerda).
 
 +++
 
 +++**Atualização de manutenção em 5 de janeiro de 2023**
 
-**A funcionalidade de pino está disponível no menu [!UICONTROL Mais]**
+**A funcionalidade Fixar está disponível no menu [!UICONTROL Mais]**
 
 _Navegação_
 
-Os seguintes recursos agora estão disponíveis no menu [!UICONTROL Mais] para pinos, somente no ambiente de visualização:
+Os seguintes recursos para marcadores agora estão disponíveis no menu [!UICONTROL Mais], apenas no ambiente de visualização:
 
-* Renomear pinos
-* Reorganização de pinos no menu [!UICONTROL Mais]
-* Mover um pino para fora do menu [!UICONTROL Mais] (ao fazer isso, o último pino na barra de navegação superior é movido para o menu [!UICONTROL Mais])
+* Renomear marcadores
+* Reorganização de marcadores no menu [!UICONTROL Mais]
+* Ao mover um marcador para fora do menu [!UICONTROL Mais], o último marcador na barra de navegação superior é movido para o menu [!UICONTROL Mais]
 
-**Remoção da limitação do Grupo do projeto ao adicionar usuários à equipe do projeto**
+**Remoção da limitação do grupo do projeto ao adicionar usuários à equipe do projeto**
 
 _Equipes_
 
-Removemos a limitação que exigia que os usuários que precisam ser adicionados a uma equipe de projeto estivessem no Grupo associado ao projeto. Agora, você pode adicionar qualquer usuário ativo a uma equipe de projeto, independentemente dos grupos aos quais ele pertence.
+Removemos a limitação que exigia que os usuários adicionados a uma equipe de projeto estivessem no grupo associado ao projeto. Agora, é possível adicionar qualquer usuário ativo a uma equipe de projeto, independentemente dos grupos aos quais ele(a) pertence.
 
-**Novos ícones de informações para folhas de horas, perfis de folha de horas e preferências de folha de horas**
+**Novos ícones de informações, perfis e preferências para a folha de horas**
 
 >[!NOTE]
 >
->Essa atualização foi lançada no ambiente de Visualização em 3 de novembro de 2022 e agora está disponível na Produção
+>Essa atualização foi lançada no ambiente de visualização em 3 de novembro de 2022 e agora está disponível na produção
 
 _Workfront_
 
 Adicionamos vários ícones de informações às seguintes configurações:
 
-* Caixa de seleção “Pode editar horas” ao criar ou editar uma folha de horas ou um perfil de folha de horas para indicar que, quando ativado, os aprovadores também podem enviar, reabrir ou editar a folha de horas, a menos que o administrador restrinja essas ações na área Preferências da folha de horas da Configuração.
-* “Restringir a edição da folha de horas a proprietários e administradores” na área Folha de horas e preferências de hora da configuração para indicar que, quando desativado, os usuários a seguir também podem editar as folhas de horas: usuários com acesso administrativo a folhas de horas, aprovadores de folha de horas com permissão para editar hora e gerentes de proprietários de folha de horas.
+* A caixa de seleção “Permitir edição de horas” ao criar ou editar uma folha de horas ou um perfil de folha de horas para indicar que (quando habilitada) aprovadores(as) também podem enviar, reabrir ou editar a folha de horas, a menos que um(a) admin restrinja essas ações na área Preferências da configuração da folha de horas.
+* A opção “Restringir a edição da folha de horas a proprietários(as) e admins” na folha de horas e nas Preferências de hora da área de configuração para indicar que (quando habilitada) os usuários a seguir também podem editar as folhas de horas: usuários com acesso administrativo a folhas de horas, aprovadores(as) de folha de horas com permissão para editar horas e gerentes de proprietários(as) de folha de horas.
 
-Observe que a funcionalidade dessas configurações não foi alterada e somente os ícones de informações foram adicionados para esclarecer o escopo das configurações.
+Observe que a funcionalidade dessas configurações não foi alterada e os ícones de informações só foram adicionados para esclarecer o escopo das configurações.
 
 +++
 
@@ -1057,5 +1057,5 @@ Observe que a funcionalidade dessas configurações não foi alterada e somente 
 
 Informações sobre atualizações de manutenção anteriores estão disponíveis aqui:
 
-* [[!DNL Workfront] Arquivo de atualizações de manutenção - 2022](2022-updates.md)
-* [[!DNL Workfront] Arquivo de atualizações de manutenção - 2021](2021-updates.md)
+* [Arquivo de atualizações de manutenção do [!DNL Workfront] - 2022](2022-updates.md)
+* [Arquivo de atualizações de manutenção do [!DNL Workfront] - 2021](2021-updates.md)

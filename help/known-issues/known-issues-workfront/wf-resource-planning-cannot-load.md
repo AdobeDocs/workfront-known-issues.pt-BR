@@ -1,6 +1,6 @@
 ---
 title: '“Planejador de recursos: o planejador não carrega quando um filtro está aplicado”'
-description: “Quando uma pessoa tenta carregar o Planejador de recursos, ele não é carregado e uma mensagem de erro é exibida.”
+description: “Não é possível carregar o Planejador de recursos e uma mensagem de erro é exibida.”
 hidefromtoc: true
 feature: Resource Management
 source-git-commit: 79ffdc10539219598ce2cc888c319414806c1054
@@ -11,15 +11,15 @@ ht-degree: 100%
 ---
 
 
-# [!UICONTROL Planejador de recursos]: o Planejador não carrega quando um filtro está aplicado
+# [!UICONTROL Planejador de recursos]: o planejador não carrega quando um filtro está aplicado
 
 >[!NOTE]
 >
 >Esse problema foi corrigido em 21 de setembro de 2023.
 
-Quando uma pessoa tenta carregar o [!UICONTROL Planejador de recursos], ele não é carregado e a seguinte mensagem de erro é exibida:
+Não é possível carregar o [!UICONTROL Planejador de recursos] e a seguinte mensagem de erro é exibida:
 
-“[!UICONTROL Ocorreu o seguinte erro: Algo deu errado ao conectar ao serviço WorkPerDay]”
+“[!UICONTROL Erro: algo deu errado ao conectar ao serviço WorkPerDay]”
 
 _Relatado pela primeira vez em 2 de agosto de 2023._
 

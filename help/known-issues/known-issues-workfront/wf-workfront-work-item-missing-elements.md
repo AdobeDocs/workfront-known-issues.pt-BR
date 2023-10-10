@@ -1,23 +1,23 @@
 ---
-title: "[!DNL Workfront]: a página do objeto não contém elementos"
-description: "Quando um usuário navega para uma seção personalizada em um objeto no [!DNL Workfront], a página que é carregada pode não ter alguns elementos."
+title: '“[!DNL Workfront]: elementos ausentes na página do objeto”'
+description: “Ao navegar para uma seção personalizada de um objeto no  [!DNL Workfront], alguns elementos podem estar ausentes na página carregada.”
 hidefromtoc: true
 feature: Get Started with Workfront
 source-git-commit: e39436a5aad5dbfe58386dc770babc2ed39f678b
 workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 18%
+ht-degree: 100%
 
 ---
 
 
-# [!DNL Workfront]: a página de objeto não tem elementos
+# [!DNL Workfront]: elementos ausentes na página do objeto
 
 >[!NOTE]
 >
 >Esse problema foi corrigido em 28 de setembro de 2023.
 
-Quando um usuário navega para uma seção personalizada em um objeto no [!DNL Workfront]No entanto, a página que é carregada pode não ter alguns elementos. Esses elementos podem incluir:
+Ao navegar para uma seção personalizada de um objeto no [!DNL Workfront], alguns elementos podem estar ausentes na página carregada. Esses elementos podem incluir:
 
 * O painel de navegação esquerdo
 * O nome do objeto ao qual a seção personalizada pertence
@@ -27,7 +27,7 @@ Quando um usuário navega para uma seção personalizada em um objeto no [!DNL W
 
 Siga um destes procedimentos:
 
-* Recarregar a página
+* Recarregue a página
 * Navegue até a página no [!DNL Workfront]
 
 _Relatado pela primeira vez em 6 de setembro de 2023._
