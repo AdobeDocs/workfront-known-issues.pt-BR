@@ -2,9 +2,9 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 23be4edfa0efdf1fb4f469f762723187f5e4c08d
+source-git-commit: 6d93e05a72b92c41865f14c0991938685c8d8d58
 workflow-type: tm+mt
-source-wordcount: '1488'
+source-wordcount: '1494'
 ht-degree: 90%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 90%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Folhas de horas: a tarefa pessoal aparece na folha de horas](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md)
       + [Provas: não é possível gerar a prova](known-issues-workfront/wf-proofs-cannot-generate-proof.md)
       + [Provas: provas concluídas permanecem em [!UICONTROL Aguardando minha aprovação] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
       + [Provas: não é possível criar uma nova versão de uma prova](known-issues-workfront/wf-proofs-cannot-create-new-version.md)

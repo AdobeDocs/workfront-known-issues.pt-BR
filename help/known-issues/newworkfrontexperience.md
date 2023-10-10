@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 23be4edfa0efdf1fb4f469f762723187f5e4c08d
+source-git-commit: 6d93e05a72b92c41865f14c0991938685c8d8d58
 workflow-type: tm+mt
-source-wordcount: '749'
-ht-degree: 83%
+source-wordcount: '756'
+ht-degree: 82%
 
 ---
 
@@ -46,6 +46,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Folhas de horas: a tarefa pessoal aparece na folha de horas](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 10 de outubro de 2023 |
 | [Provas: não é possível gerar a prova](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 9 de outubro de 2023 |
 | [Balanceador de carga de trabalho: as alterações manuais de hora não são precisas após a atualização da página](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 3 de outubro de 2023 |
 | [Página inicial: as tarefas delegadas não são compartilhadas e não aparecem na Lista de trabalho da página inicial](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 3 de outubro de 2023 |
