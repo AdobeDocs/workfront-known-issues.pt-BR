@@ -3,9 +3,9 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 6d93e05a72b92c41865f14c0991938685c8d8d58
+source-git-commit: e15a384697a60f4f6b909ebb44749cf554e6f9c4
 workflow-type: tm+mt
-source-wordcount: '6044'
+source-wordcount: '6083'
 ht-degree: 95%
 
 ---
@@ -22,7 +22,13 @@ Para obter atualizações de manutenção anteriores a 2023, consulte [Atualiza�
 
 ## Atualizações em outubro de 2023
 
-+++**(Planejado) Atualização de manutenção em 12 de outubro de 2023**
++++**Atualização de manutenção em 12 de outubro de 2023**
+
+**Fluxos de trabalho removidos para contas que não os usam**
+
+_Quadros_
+
+Para contas que nunca criaram um fluxo de trabalho no aplicativo Quadros, a área Fluxos de trabalho foi removida do painel Quadros. As contas que usam fluxos de trabalho ainda têm acesso a elas.
 
 **Campos calculados não retêm valor quando o problema é convertido em tarefa**
 
