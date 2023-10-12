@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 392bc185c5549300b05299751af260df1d161009
+source-git-commit: c4656bcfbaa69fffae814aa83c2212223f032778
 workflow-type: tm+mt
-source-wordcount: '1508'
-ht-degree: 89%
+source-wordcount: '1328'
+ht-degree: 88%
 
 ---
 
@@ -87,39 +87,23 @@ ht-degree: 89%
       + [Filtros: as opções “[!UICONTROL Habilitar em todo o sistema]” e “[!UICONTROL Exibir em todo o sistema]” apresentam funcionalidades diferentes](known-issues-workfront/wf-filters-enable-system-wide.md)
       + [Relatórios: o relatório de utilização não é carregado](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)
       + [Provas: as opções de aprovação não aparecem no [!UICONTROL Visualizador de prova]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
-      + [Folhas de horas: erros ao registrar as horas em uma folha de horas](known-issues-workfront/wf-timesheets-error-when-saving-hours.md)
       + [[!UICONTROL Página inicial]: itens não aparecem na [!UICONTROL lista de trabalho da página inicial]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)
-      + [Relatórios: um erro “[!UICONTROL Ops.]” ocorre ao visualizar o relatório de matriz](known-issues-workfront/wf-reports-error-matrix-report.md)
-      + [Provas: as provas são criadas lentamente no ambiente Visualização](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)
-      + [Provas: as provas são criadas lentamente no ambiente Visualização](known-issues-workfront/wf-proofs-in-preview-created-slowly.md)
-      + [Formulários personalizados: a lógica de exibição é perdida quando o formulário personalizado é editado no novo designer de formulário (beta)](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md)
-      + [Ágil: o quadro do [!UICONTROL Kanban] fica em branco ao editar cartões](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
+      + [Provas: as provas são criadas lentamente no ambiente de visualização](known-issues-workfront/wf-proofs-in-preview-created-slowly.md)
       + [Relatórios: o relatório não classifica corretamente ao classificar por qualquer campo](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
       + [Balanceador de carga de trabalho: as horas são redistribuídas inesperadamente](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
       + [Formulários personalizados: erro “[!UICONTROL Ops!]” ao configurar um campo calculado](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
-      + [Relatórios: a classificação por cabeçalho de coluna reverte para a classificação anterior](known-issues-workfront/wf-reports-sorting-not-applied.md)
-      + [Projetos: erro ao usar a exibição de [!UICONTROL Marco]](known-issues-workfront/wf-projects-error-in-milestone-view.md)
-      + [Tarefas: nenhuma mensagem de erro ao reordenar uma tarefa com o status de [!UICONTROL Aprovação pendente]](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
-      + [Folhas de hora: o filtro não permanece aplicado quando a página é atualizada](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)
       + [Provas: as aprovações de prova bloqueadas ainda são mostradas na Lista de trabalho](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
       + [Provas: a guia [!UICONTROL Atividade de prova] abre a guia [!UICONTROL Detalhes da prova]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
-      + [Modelos: não é possível selecionar um modelo em [!UICONTROL Modelos favoritos]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
       + [Filtros: não é possível compartilhar um filtro de um relatório em um painel](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)
       + [Projetos: os status personalizados do [!UICONTROL Grupo inicial] não estão disponíveis ao criar um projeto a partir de um modelo](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
       + [Provas: a ferramenta de medição não aceita separadores decimais](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
-      + [Pesquisa: a pesquisa do  [!DNL Workfront]  atinge o tempo limite](known-issues-workfront/wf-search-search-times-out.md)
-      + [Provas: não é possível alternar a versão da prova ao visualizar uma prova](known-issues-workfront/wf-proofs-cannot-switch-version.md)
-      + [Provas: a pessoa é desativada no fluxo de trabalho de prova e recebe a mensagem “[!UICONTROL Acesso não permitido]” ao acessar a prova](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)
       + [Documentos: problemas com a lista de documentos](known-issues-workfront/wf-documents-list-missing-elements.md)
-      + [Provas: o estágio da prova não é ativado quando o prazo do estágio anterior é ultrapassado](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md)
       + [Documentos: erro 404 ao acessar um documento vinculado no  [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md)
       + [Documentos: as opções das [!UICONTROL Atividades de prova] levam à página de logon](known-issues-workfront/wf-documents-taken-to-login-screen.md)
-      + [Filtros: o filtro não é aplicado quando a página é atualizada](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md)
       + [[!UICONTROL Balanceador de carga de trabalho]: as horas não se ajustam para levar em conta os horários de folga da pessoa](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + [[!UICONTROL Atualizações]: não é possível registrar as horas do dia atual na área [!UICONTROL Atualizações]](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)
       + [Documentos: as permissões não são herdadas quando um documento é movido para um novo projeto](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)
       + [Balanceador de carga de trabalho: resultados imprecisos ao usar vários filtros de uma só vez](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
-      + [Projetos: o projeto convertido a partir do problema não herda permissões do portfólio ou do programa](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md)
       + [Documentos: erro ao fazer upload de um arquivo grande](known-issues-workfront/wf-documents-large-uploads-fail.md)
       + [Documentos: não é possível adicionar documentos do  [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
       + [Documentos: as permissões de documento não são herdadas quando o problema principal é convertido em um projeto](known-issues-workfront/wf-documents-permissions-not-inherited.md)
@@ -144,7 +128,6 @@ ht-degree: 89%
       + [[!UICONTROL Página inicial]: problemas de resumo na [!UICONTROL página inicial] ao usar navegadores que não sejam o  [!DNL Chrome]](known-issues-workfront/wf-home-summary-issues-when-not-using-chrome.md)
       + [[!UICONTROL Página inicial]: a opção Nova tarefa mostra usuários desativados no campo [!UICONTROL Atribuir a]](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md)
       + [Atualizações: o nome da equipe não aparece em @mention](known-issues-workfront/wf-updates-team-name-not-in-mention.md)
-      + [Calendários: problemas com o calendário de [!UICONTROL Folga]](known-issues-workfront/wf-calendars-issue-time-off.md)
       + [Ágil: discrepância em [!UICONTROL pontos concluídos] de uma iteração](known-issues-workfront/wf-agile-discrepancy-in-completed-points.md)
       + [Notificações por email: a configuração “[!UICONTROL Estou atribuído a um problema]” é exibida](known-issues-workfront/wf-email-notif-im-assigned-to-issue-displaying.md)
       + [Notificações por email: o usuário não é direcionado ao thread de comentários](known-issues-workfront/wf-email-notif-user-not-directed-to-thread.md)
@@ -168,7 +151,6 @@ ht-degree: 89%
       + [Prova do Workfront: os dados de pesquisa nem sempre são precisos](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)
       + [Provas: as provas são criadas lentamente no ambiente de visualização](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
       + [[!DNL Workfront Proof]: erro 500 ao acessar o  [!DNL Workfront Proof]  por meio da API ou do  [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)
-      + [[!DNL Workfront Proof]: a pesquisa não retorna resultados](known-issues-workfront-proof/proof-search-returns-no-results.md)
       + [[!DNL Workfront Proof]: as listas não são classificadas corretamente](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
       + [[!DNL Workfront Proof]: a área [!UICONTROL Relatórios] não é mais compatível](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
       + [Provas: o usuário não recebe um email ao ser marcado em um comentário de prova](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
@@ -192,10 +174,6 @@ ht-degree: 89%
       + [[!DNL Workfront Fusion]: módulo de suspensão causa travamento de cenários](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
       + [[!DNL Workfront Fusion]: falha no cenário com o erro “[!UICONTROL read ECONNRESET]”](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
       + [[!DNL Workfront Fusion]: não é possível inserir um valor no filtro  [!DNL Workfront]  > [!UICONTROL Observar eventos]](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
-      + [[!DNL Workfront Fusion]: erro “[!UICONTROL Não foi possível executar o comando ATUALIZAR]”](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
-      + [[!DNL Workfront Fusion]: os emails de notificação não estão sendo enviados](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
-      + [[!DNL Workfront Fusion]: as execuções estão paralisadas ou atrasadas](known-issues-workfront-fusion/fusion-stuck-executions.md)
-      + [[!DNL Adobe Workfront Fusion]: erros de tempo limite no Workfront Fusion](known-issues-workfront-fusion/fusion-timeout-errors.md)
       + [[!DNL Workfront Fusion]: o módulo  [!DNL Workfront]  > [!UICONTROL Chamada de API personalizada] retorna o erro 404 ou 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: erro “Falha ao verificar a conexão”](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: o módulo  [!DNL Fusion]  retorna o erro 404 sem mais informações](known-issues-workfront-fusion/fusion-404-error-no-description.md)
