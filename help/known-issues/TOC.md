@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: c4656bcfbaa69fffae814aa83c2212223f032778
+source-git-commit: 7d6e95c610ea991695e553b065f3b0847f4125e0
 workflow-type: tm+mt
-source-wordcount: '1328'
-ht-degree: 88%
+source-wordcount: '1335'
+ht-degree: 87%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 88%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Provas: [!UICONTROL Atividade de prova] A guia não abre](known-issues-workfront/wf-proof-activities-tab-not-working.md)
       + [Tarefas: [!UICONTROL Horas planejadas] são realocados quando um usuário adicional é atribuído a uma tarefa](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md)
       + [Folhas de horas: a tarefa pessoal aparece na folha de horas](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md)
       + [Provas: não é possível gerar a prova](known-issues-workfront/wf-proofs-cannot-generate-proof.md)
