@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e15a384697a60f4f6b909ebb44749cf554e6f9c4
+source-git-commit: c4f48d5eee70b0cdcd913466f4ca25b1bc75d5ae
 workflow-type: tm+mt
-source-wordcount: '6083'
-ht-degree: 95%
+source-wordcount: '6211'
+ht-degree: 93%
 
 ---
 
@@ -21,6 +21,30 @@ As seguintes atualizações de manutenção foram efetuadas em 2023.
 Para obter atualizações de manutenção anteriores a 2023, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em outubro de 2023
+
++++**(Planejado) Atualização de manutenção em 19 de outubro de 2023**
+
+Os usuários não são notificados sobre respostas em uma thread de comentários
+
+_Notificações_
+
+Quando um usuário responde a um comentário, outros usuários que devem receber notificações para a resposta não os recebem. Alguns usuários podem receber a notificação, enquanto outros não.
+
+**Comentário extra em branco ao fazer um comentário em uma prova**
+
+_Provas_
+
+Ao fazer um comentário em uma prova, um outro comentário em branco é criado.
+
+Esse problema foi relatado em provas de vídeo.
+
+**[!UICONTROL Horas planejadas] são realocados quando um usuário adicional é atribuído a uma tarefa**
+
+_Tarefas_
+
+Quando um usuário é atribuído a uma tarefa que tenha [!UICONTROL Horas planejadas] alocado a outros atribuídos na tarefa, o nome da tarefa [!UICONTROL Horas planejadas] são distribuídos uniformemente para todos os atribuídos na tarefa.
+
++++
 
 +++**Atualização de manutenção em 12 de outubro de 2023**
 
