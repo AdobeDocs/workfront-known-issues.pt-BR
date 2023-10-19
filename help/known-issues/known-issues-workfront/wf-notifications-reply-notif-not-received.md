@@ -3,15 +3,19 @@ title: "Notificações: os usuários não são notificados sobre respostas em um
 description: "Quando um usuário responde a um comentário, outros usuários que devem receber notificações para a resposta não os recebem. Alguns usuários podem receber a notificação, enquanto outros não."
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: f3b70e2fa79597e9d9c9dea463a7ca19af0a3020
+source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 4%
+source-wordcount: '92'
+ht-degree: 10%
 
 ---
 
 
 # Notificações: os usuários não são notificados sobre respostas em uma thread de comentários
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em 19 de outubro de 2023.
 
 Quando um usuário responde a um comentário, outros usuários que devem receber notificações para a resposta não os recebem. Alguns usuários podem receber a notificação, enquanto outros não.
 

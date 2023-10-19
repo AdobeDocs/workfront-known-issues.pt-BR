@@ -3,15 +3,19 @@ title: "Atualizações: excluído é exibido como nome de usuário nas atualiza�
 description: "Quando um usuário que está conectado como outro usuário converte um problema em uma tarefa e o problema é atribuído a uma equipe, as atualizações do sistema mostram Excluído como o usuário que solicitou que a equipe trabalhasse na tarefa."
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: c176d4192b0248250cf1afa6e9c09ba88ac12942
+source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 3%
+source-wordcount: '135'
+ht-degree: 8%
 
 ---
 
 
 # Atualizações: &quot;[!UICONTROL Excluído]&quot;é exibido como nome de usuário nas atualizações do sistema quando o problema é convertido em tarefa
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em 19 de outubro de 2023.
 
 Quando um usuário que está conectado como outro usuário converte um problema em uma tarefa e o problema é atribuído a uma equipe, as atualizações do sistema mostram &quot;[!UICONTROL Excluído]&quot; como o usuário que solicitou que a equipe trabalhasse na tarefa.
 

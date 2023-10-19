@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: c4f48d5eee70b0cdcd913466f4ca25b1bc75d5ae
+source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
 workflow-type: tm+mt
-source-wordcount: '6211'
-ht-degree: 93%
+source-wordcount: '6298'
+ht-degree: 92%
 
 ---
 
@@ -38,11 +38,23 @@ Ao fazer um comentário em uma prova, um outro comentário em branco é criado.
 
 Esse problema foi relatado em provas de vídeo.
 
+**[!UICONTROL Atividade de prova] A guia não abre**
+
+_Provas_
+
+Quando um usuário está visualizando uma prova e clica no ícone [!UICONTROL Atividade de prova] guia, ela retornará o usuário à guia [!UICONTROL Detalhes da prova] guia.
+
 **[!UICONTROL Horas planejadas] são realocados quando um usuário adicional é atribuído a uma tarefa**
 
 _Tarefas_
 
 Quando um usuário é atribuído a uma tarefa que tenha [!UICONTROL Horas planejadas] alocado a outros atribuídos na tarefa, o nome da tarefa [!UICONTROL Horas planejadas] são distribuídos uniformemente para todos os atribuídos na tarefa.
+
+**&quot;[!UICONTROL Excluído]&quot;é exibido como nome de usuário nas atualizações do sistema quando o problema é convertido em tarefa**
+
+_Atualizações_
+
+Quando um usuário que está conectado como outro usuário converte um problema em uma tarefa e o problema é atribuído a uma equipe, as atualizações do sistema mostram &quot;[!UICONTROL Excluído]&quot; como o usuário que solicitou que a equipe trabalhasse na tarefa.
 
 +++
 
