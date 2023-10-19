@@ -1,17 +1,21 @@
 ---
-title: "Workfront Fusion: erro ao enviar convite com o módulo Workfront > Ações diversas"
-description: "Quando um cenário do Fusion executa um [!DNL Workfront] > [!UICONTROL Ações diversas] que está definido para a ação sendInvitationEmail, o módulo retorna um erro."
+title: "Workfront Fusion: erro ao enviar convite com o módulo de ações diversas do Workfront &gt;"
+description: Quando um cenário do Fusion executa um [!DNL Workfront] &gt; [!UICONTROL Ações diversas] que está definido para a ação sendInvitationEmail, o módulo retorna um erro.
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: 3148dfe741ca27262b947e3123fd7fb2df1b3556
+exl-id: 67147ca0-1f40-4688-9164-ba492aa78b13
+source-git-commit: aabbd74ae558555e79a3cc1bc96583878cd413b3
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 5%
+source-wordcount: '80'
+ht-degree: 11%
 
 ---
 
-
 # [!DNL Workfront Fusion]: erro ao enviar convite com [!DNL Workfront] > [!UICONTROL Ações diversas] módulo
+
+>[!NOTE]
+>
+>Esse problema foi resolvido.
 
 Quando um [!DNL Fusion] O cenário executa um [!DNL Workfront] > [!UICONTROL Ações diversas] módulo definido como `[!UICONTROL sendInvitationEmail]` , o módulo retornará o seguinte erro:
 

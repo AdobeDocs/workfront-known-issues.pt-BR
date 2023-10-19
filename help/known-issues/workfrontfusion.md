@@ -1,13 +1,13 @@
 ---
-title: Problemas conhecidos no [!DNL Adobe Workfront Fusion]
+title: Problemas conhecidos no  [!DNL Adobe Workfront Fusion]
 description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Fusion]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 3148dfe741ca27262b947e3123fd7fb2df1b3556
+source-git-commit: aabbd74ae558555e79a3cc1bc96583878cd413b3
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 98%
+source-wordcount: '124'
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: Error when sending invite with [!DNL Workfront] > [!UICONTROL Misc actions] módulo](known-issues-workfront-fusion/fusion-send-invite-error.md) | 5 de outubro de 2023 |
+| Nenhum(a) |  |
 
 {style="table-layout:auto"}
 
@@ -42,7 +42,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 ## Sem correção
 
-No momento, as correções para esses problemas não estão no roteiro. Em alguns casos, esses problemas serão corrigidos por novos recursos ou atualizações de recursos.
+No momento, as correções para esses problemas não estão no roteiro. Em alguns casos, esses problemas serão corrigidos por atualizações ou novos recursos.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
