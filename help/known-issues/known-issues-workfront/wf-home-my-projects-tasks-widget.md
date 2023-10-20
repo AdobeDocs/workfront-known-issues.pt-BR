@@ -1,0 +1,21 @@
+---
+title: "Página inicial: projetos e tarefas não são carregados na Página inicial"
+description: "Projetos e tarefas não carregam na Página inicial"
+hidefromtoc: true
+feature: Get Started with Workfront
+source-git-commit: ddbf7c294a044ba84f35cf32bdae6bba09d96600
+workflow-type: tm+mt
+source-wordcount: '63'
+ht-degree: 6%
+
+---
+
+
+# Página inicial: projetos e tarefas que não são carregados na Página inicial
+
+Os seguintes comportamentos foram relatados em relação a projetos e tarefas que carregam na Página inicial:
+
+* Nova experiência da Página inicial: os widgets Meus projetos e Minhas tarefas não são preenchidos.
+* Experiência clássica da página inicial: a Lista de trabalho da página inicial não é preenchida.
+
+_Reportado pela primeira vez em 19 de outubro de 2023._

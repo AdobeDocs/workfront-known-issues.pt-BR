@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 43f1e13d83c1dd56f38e889679455d57677bcfb0
+source-git-commit: ddbf7c294a044ba84f35cf32bdae6bba09d96600
 workflow-type: tm+mt
-source-wordcount: '717'
-ht-degree: 84%
+source-wordcount: '740'
+ht-degree: 82%
 
 ---
 
@@ -25,6 +25,9 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Quadros: a pesquisa não funciona](known-issues-workfront/wf-boards-search-not-working.md) | 20 de outubro de 2023 |
+| [Quadros: os cartões esperados não são exibidos a bordo](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | 20 de outubro de 2023 |
+| [Página inicial: projetos e tarefas que não são carregados na Página inicial](known-issues-workfront/wf-home-my-projects-tasks-widget.md) | 20 de outubro de 2023 |
 | [Documentos: o botão Compartilhar não funciona](known-issues-workfront/wf-documents-share-button-not-working.md) | 19 de outubro de 2023 |
 | [Documentos: &quot;[!UICONTROL Enviar para]A opção &quot; causa página em branco e mensagem de erro](known-issues-workfront/wf-documents-sent-to-goes-blank.md) | 19 de outubro de 2023 |
 | [[!DNL Workfront]: a marca não é aplicada](known-issues-workfront/wf-workfront-branding-not-applied.md) | 13 de outubro de 2023 |

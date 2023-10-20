@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: bbb284cd791d40f1e98ebd5827d3ee7abce261da
+source-git-commit: ddbf7c294a044ba84f35cf32bdae6bba09d96600
 workflow-type: tm+mt
-source-wordcount: '1401'
-ht-degree: 83%
+source-wordcount: '1421'
+ht-degree: 82%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 83%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Quadros: a pesquisa não funciona](known-issues-workfront/wf-boards-search-not-working.md)
+      + [Quadros: os cartões esperados não são exibidos a bordo](known-issues-workfront/wf-boards-expected-cards-not-displaying.md)
+      + [Página inicial: projetos e tarefas que não são carregados na Página inicial](known-issues-workfront/wf-home-my-projects-tasks-widget.md)
       + [Documentos: o botão Compartilhar não funciona](known-issues-workfront/wf-documents-share-button-not-working.md)
       + [Documentos: &quot;[!UICONTROL Enviar para]A opção &quot; causa página em branco e mensagem de erro](known-issues-workfront/wf-documents-sent-to-goes-blank.md)
       + [Atualizações: &quot;[!UICONTROL Excluído]&quot;é exibido como nome de usuário nas atualizações do sistema quando o problema é convertido em tarefa](known-issues-workfront/wf-updates-deleted-requested-team.md)
