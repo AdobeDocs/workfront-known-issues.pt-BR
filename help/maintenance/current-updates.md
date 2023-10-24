@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
+source-git-commit: 19307601e90dec8fc442051f60b600e8e2f58ba1
 workflow-type: tm+mt
-source-wordcount: '6298'
-ht-degree: 92%
+source-wordcount: '6454'
+ht-degree: 90%
 
 ---
 
@@ -22,7 +22,34 @@ Para obter atualizações de manutenção anteriores a 2023, consulte [Atualiza�
 
 ## Atualizações em outubro de 2023
 
-+++**(Planejado) Atualização de manutenção em 19 de outubro de 2023**
++++**(Planejado) Atualização de manutenção em 26 de outubro de 2023**
+
+**A pesquisa não está funcionando**
+
+_Quadros_
+
+Quando um usuário tenta pesquisar quadros, a pesquisa não retorna todos os cartões que atendem aos critérios de pesquisa.
+
+**Não é possível exibir a prova interativa no visualizador da Web**
+
+_Provas_
+
+Quando um usuário tenta visualizar uma prova no visualizador de prova da Web, a prova não é exibida e o usuário vê o seguinte erro:
+
+&quot;[!UICONTROL Parâmetro de consulta Key-Pair-Id ou valor de cookie ausente]&quot;
+
+
+**O usuário é duplicado ao compartilhar uma solicitação**
+
+_Solicitações_
+
+Ao compartilhar uma solicitação, se o nível de acesso de um usuário com o qual a solicitação está sendo compartilhada for modificado, o usuário logo acima desse usuário na lista se tornará esse usuário.
+
+Por exemplo, se a solicitação estiver sendo compartilhada com o Usuário A e o Usuário B, e o acesso do Usuário B for modificado, o Usuário A será alterado para o Usuário B, e agora há dois Usuários B na lista. Além disso, somente o acesso do usuário B superior foi modificado.
+
++++
+
++++**Atualização de manutenção em 19 de outubro de 2023**
 
 Os usuários não são notificados sobre respostas em uma thread de comentários
 
