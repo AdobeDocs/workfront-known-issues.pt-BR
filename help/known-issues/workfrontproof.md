@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: b684aea3ae421aa26b45a54a394a581e14d65e82
+source-git-commit: e24f394c40d48f2aa5b71c8f00c461a1537e4ebe
 workflow-type: tm+mt
-source-wordcount: '364'
-ht-degree: 84%
+source-wordcount: '371'
+ht-degree: 83%
 
 ---
 
@@ -25,6 +25,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Prova do Workfront]: emails e notificações atrasados](known-issues-workfront-proof/proof-delayed-notification.md) | 26 de outubro de 2023 |
 | [Documentos: o botão Compartilhar não funciona](known-issues-workfront/wf-documents-share-button-not-working.md) | 19 de outubro de 2023 |
 | [Documentos: &quot;[!UICONTROL Enviar para]A opção &quot; causa página em branco e mensagem de erro](known-issues-workfront/wf-documents-sent-to-goes-blank.md) | 19 de outubro de 2023 |
 
