@@ -3,15 +3,19 @@ title: "Página inicial: projetos e tarefas não são carregados na Página inic
 description: "Projetos e tarefas não carregam na Página inicial"
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: ddbf7c294a044ba84f35cf32bdae6bba09d96600
+source-git-commit: 97630935e3291c31114232cdd196ee0041a00609
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 6%
+source-wordcount: '69'
+ht-degree: 14%
 
 ---
 
 
 # Página inicial: projetos e tarefas que não são carregados na Página inicial
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em 20 de outubro de 2023.
 
 Os seguintes comportamentos foram relatados em relação a projetos e tarefas que carregam na Página inicial:
 

@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: da113ea4babc7eaeadc80f73aabd45d9482ad620
+source-git-commit: b684aea3ae421aa26b45a54a394a581e14d65e82
 workflow-type: tm+mt
-source-wordcount: '355'
-ht-degree: 87%
+source-wordcount: '364'
+ht-degree: 84%
 
 ---
 
@@ -36,6 +36,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Provas: erro ao compartilhar prova do link de email](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26 de outubro de 2023 |
 | [Provas: provas concluídas permanecem em [!UICONTROL Aguardando minha aprovação] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 19 de outubro de 2023 |
 | [Provas: não é possível gerar a prova](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 19 de outubro de 2023 |
 | [Provas: erro ao compartilhar prova do link de email](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 19 de outubro de 2023 |
@@ -74,4 +75,3 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 | [Documentos: o ícone de fluxo de trabalho de prova não é exibido](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 5 de março de 2021 |
 
 {style="table-layout:auto"}
-

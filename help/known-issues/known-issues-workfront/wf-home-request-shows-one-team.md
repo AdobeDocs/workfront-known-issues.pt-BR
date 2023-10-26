@@ -1,19 +1,22 @@
 ---
-title: '“Página inicial: o dispositivo Solicitações não exibe todas as equipes atribuídas”'
-description: “Quando uma pessoa visualiza o dispositivo Solicitações na experiência da nova Página inicial, as solicitações são exibidas como tendo apenas uma equipe atribuída, mesmo que tenham mais de uma.”
+title: 'Página inicial: o dispositivo Solicitações não exibe todas as equipes atribuídas'
+description: Quando uma pessoa visualiza o dispositivo Solicitações na experiência da nova Página inicial, as solicitações são exibidas como tendo apenas uma equipe atribuída, mesmo que tenham mais de uma.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 938d1692208c857b9e7e57666df9f95dd3e44559
-workflow-type: ht
-source-wordcount: '82'
+exl-id: 464174a6-5b4e-4cea-a00b-db76bb16a04d
+source-git-commit: 97630935e3291c31114232cdd196ee0041a00609
+workflow-type: tm+mt
+source-wordcount: '110'
 ht-degree: 100%
 
 ---
 
-
 # [!UICONTROL Página inicial]: o dispositivo [!UICONTROL Solicitações] não exibe todas as equipes atribuídas
+
+>[!NOTE]
+>
+>A equipe do produto está avaliando a resolução do problema, que pode exigir melhorias do produto. As melhorias do produto são comunicadas nos Anúncios do produto e não nas Atualizações de manutenção.
 
 Quando uma pessoa visualiza o dispositivo [!UICONTROL Solicitações] na experiência da nova [!UICONTROL Página inicial], as solicitações são exibidas como tendo apenas uma equipe atribuída, mesmo que tenham mais de uma.
 
 _Relatado pela primeira vez em 25 de agosto de 2023._
-
