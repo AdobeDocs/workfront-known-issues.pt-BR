@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 19307601e90dec8fc442051f60b600e8e2f58ba1
+source-git-commit: da113ea4babc7eaeadc80f73aabd45d9482ad620
 workflow-type: tm+mt
-source-wordcount: '6454'
-ht-degree: 90%
+source-wordcount: '6537'
+ht-degree: 89%
 
 ---
 
@@ -38,6 +38,13 @@ Quando um usuário tenta visualizar uma prova no visualizador de prova da Web, a
 
 &quot;[!UICONTROL Parâmetro de consulta Key-Pair-Id ou valor de cookie ausente]&quot;
 
+**Não é possível criar uma nova versão de uma prova**
+
+_Provas_
+
+Quando um usuário tenta criar uma nova versão de uma prova, a nova versão não é criada e o usuário vê a seguinte mensagem de erro:
+
+&quot;[!UICONTROL Erro ao gerar a prova]&quot;
 
 **O usuário é duplicado ao compartilhar uma solicitação**
 
@@ -46,6 +53,14 @@ _Solicitações_
 Ao compartilhar uma solicitação, se o nível de acesso de um usuário com o qual a solicitação está sendo compartilhada for modificado, o usuário logo acima desse usuário na lista se tornará esse usuário.
 
 Por exemplo, se a solicitação estiver sendo compartilhada com o Usuário A e o Usuário B, e o acesso do Usuário B for modificado, o Usuário A será alterado para o Usuário B, e agora há dois Usuários B na lista. Além disso, somente o acesso do usuário B superior foi modificado.
+
+**&quot;[!UICONTROL Ops]&quot;erro no cabeçalho da tarefa**
+
+_Tarefas_
+
+Quando um usuário visualiza uma tarefa, o cabeçalho da tarefa não contém informações. Em vez disso, o usuário vê a seguinte mensagem de erro:
+
+“[!UICONTROL Ops! Algo deu errado. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.]”
 
 +++
 
