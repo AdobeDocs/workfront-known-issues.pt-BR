@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: e6c4745b2b35158e5f4a406bdbc8903e1aeb43aa
+source-git-commit: d08d0daaf949f45c829d72811fa46535f1263638
 workflow-type: tm+mt
-source-wordcount: '1461'
-ht-degree: 80%
+source-wordcount: '1484'
+ht-degree: 78%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 80%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Solicitações: moeda personalizada incorreta exibida na página Nova solicitação](known-issues-workfront/wf-requests-custom-currency.md)
+      + [Relatórios: as horas orçadas no relatório de utilização não correspondem às horas orçadas relatadas pela API](known-issues-workfront/wf-reports-incorrect-rpbghr.md)
       + [Painéis: o usuário não pode acessar [!UICONTROL Painéis do Canvas]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md)
       + [Tarefas: &quot;[!UICONTROL Ops]&quot;erro no cabeçalho da tarefa](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md)
       + [Logon: mensagem de erro ao fazer logon](known-issues-workfront/wf-login-error-when-logging-in.md)
