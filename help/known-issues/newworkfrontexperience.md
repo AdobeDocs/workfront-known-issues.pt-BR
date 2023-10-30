@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9e32c28c4428077057a194a2015ea1613a9656a4
+source-git-commit: e6c4745b2b35158e5f4a406bdbc8903e1aeb43aa
 workflow-type: tm+mt
-source-wordcount: '759'
-ht-degree: 79%
+source-wordcount: '766'
+ht-degree: 78%
 
 ---
 
@@ -39,6 +39,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
+| [Painéis: o usuário não pode acessar [!UICONTROL Painéis do Canvas]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md) | 30 de outubro de 2023 |
 | [[!DNL Workfront Proof]: Carimbo de data e hora impreciso ativado [!UICONTROL Resumo da prova]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 27 de outubro de 2023 |
 | [Provas: erro ao compartilhar prova do link de email](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26 de outubro de 2023 |
 | [Documentos: o botão Compartilhar não funciona](known-issues-workfront/wf-documents-share-button-not-working.md) | 26 de outubro de 2023 |

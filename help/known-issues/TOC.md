@@ -2,9 +2,9 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 9e32c28c4428077057a194a2015ea1613a9656a4
+source-git-commit: e6c4745b2b35158e5f4a406bdbc8903e1aeb43aa
 workflow-type: tm+mt
-source-wordcount: '1455'
+source-wordcount: '1461'
 ht-degree: 80%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 80%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Painéis: o usuário não pode acessar [!UICONTROL Painéis do Canvas]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md)
       + [Tarefas: &quot;[!UICONTROL Ops]&quot;erro no cabeçalho da tarefa](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md)
       + [Logon: mensagem de erro ao fazer logon](known-issues-workfront/wf-login-error-when-logging-in.md)
       + [Quadros: a pesquisa não funciona](known-issues-workfront/wf-boards-search-not-working.md)
