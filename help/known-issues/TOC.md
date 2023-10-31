@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: d08d0daaf949f45c829d72811fa46535f1263638
+source-git-commit: fa4fbd97d128930cce0698f789538854a5f9a866
 workflow-type: tm+mt
-source-wordcount: '1484'
-ht-degree: 78%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 78%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [[!UICONTROL Balanceador de carga de trabalho]: [!UICONTROL Balanceador de carga de trabalho] carrega lentamente](known-issues-workfront/wf-workload-balancer-loads-slowly.md)
       + [Solicitações: moeda personalizada incorreta exibida na página Nova solicitação](known-issues-workfront/wf-requests-custom-currency.md)
       + [Relatórios: as horas orçadas no relatório de utilização não correspondem às horas orçadas relatadas pela API](known-issues-workfront/wf-reports-incorrect-rpbghr.md)
       + [Painéis: o usuário não pode acessar [!UICONTROL Painéis do Canvas]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md)
