@@ -3,7 +3,7 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 130c3555bab741a58b06c81a5324b0103756caab
+source-git-commit: 7f35ea55ec3088bc138da2615ebc61c658e1def7
 workflow-type: tm+mt
 source-wordcount: '6638'
 ht-degree: 89%
@@ -24,11 +24,11 @@ Para obter atualizações de manutenção anteriores a 2023, consulte [Atualiza�
 
 +++**(Planejado) Atualização de manutenção em 2 de novembro de 2023**
 
-**As atualizações privadas são exibidas em campos de expressão de valor **
+**Atualizações privadas são exibidas em campos de expressão de valor**
+
 _Relatórios_
 
 Quando um campo de relatório inclui uma expressão de valor que faz referência a uma atualização privada, os usuários que não estão incluídos na atualização privada podem vê-la no relatório.
-
 
 **O usuário é exibido como superalocado devido à capacidade imprecisa**
 
