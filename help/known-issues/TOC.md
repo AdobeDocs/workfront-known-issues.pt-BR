@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: fa4fbd97d128930cce0698f789538854a5f9a866
+source-git-commit: bf9935f1482712d2835e3e9e4a7a9b68275dcf1a
 workflow-type: tm+mt
-source-wordcount: '1490'
-ht-degree: 87%
+source-wordcount: '1507'
+ht-degree: 86%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 87%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Atualizações: comentários anexados às atualizações do sistema não são exibidos](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md)
+      + [Quadros: erro na seção Comentários de um cartão](known-issues-workfront/wf-boards-comment-section-error.md)
       + [[!UICONTROL Balanceador de carga de trabalho]: [!UICONTROL Balanceador de carga de trabalho] carrega lentamente](known-issues-workfront/wf-workload-balancer-loads-slowly.md)
       + [Solicitações: moeda personalizada incorreta exibida na página Nova solicitação](known-issues-workfront/wf-requests-custom-currency.md)
       + [Relatórios: as horas orçadas no relatório de utilização não correspondem às horas orçadas relatadas pela API](known-issues-workfront/wf-reports-incorrect-rpbghr.md)
