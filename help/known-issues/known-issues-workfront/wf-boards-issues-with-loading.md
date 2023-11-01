@@ -1,13 +1,13 @@
 ---
-title: 'Quadros: problemas ao carregar um quadro'
-description: Quando um usuário tenta carregar um quadro do, podem ocorrer problemas.
+title: '“Quadros: problemas ao carregar um quadro”'
+description: Quando uma pessoa tenta carregar um quadro, podem ocorrer problemas.
 hidefromtoc: true
 feature: Agile
 exl-id: 5417ba49-890d-4590-aeae-61a4e8e9fead
 source-git-commit: 4f1175f1139158d310649389f2c99c0335094082
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '100'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 

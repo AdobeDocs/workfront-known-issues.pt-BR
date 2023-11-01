@@ -1,13 +1,13 @@
 ---
-title: 'Formulários personalizados: não é possível excluir campos personalizados'
-description: Quando um usuário tenta excluir um campo personalizado, ele não pode excluí-lo e vê a mensagem Erro no banco de dados devido à violação de restrição.
+title: '“Formulários personalizados: não é possível excluir campos personalizados”'
+description: 'Quando uma pessoa tenta excluir um campo personalizado, não consegue fazê-lo e a seguinte a mensagem é exibida: erro no banco de dados devido à violação de restrição.'
 hidefromtoc: true
 feature: Custom Forms
-exl-id: 3cdd1501-ac22-4e77-a61f-95b2826cc826
-source-git-commit: e39436a5aad5dbfe58386dc770babc2ed39f678b
-workflow-type: tm+mt
+exl-id: 35616468-ba26-47e6-9316-5a50b5e867ba
+source-git-commit: 4f1175f1139158d310649389f2c99c0335094082
+workflow-type: ht
 source-wordcount: '70'
-ht-degree: 65%
+ht-degree: 100%
 
 ---
 

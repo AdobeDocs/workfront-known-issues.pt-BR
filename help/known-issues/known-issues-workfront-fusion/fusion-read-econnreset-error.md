@@ -1,13 +1,13 @@
 ---
-title: "Workfront Fusion: o cenário falha com o erro ECONNRESET de leitura"
-description: Pode haver uma falha intermitente em um cenário. Quando um usuário visualiza a execução do cenário de falha, ele vê mensagens de erro que mencionam ECONNRESET lido
+title: '“Workfront Fusion: falha no cenário com o erro read ECONNRESET”'
+description: Podem haver falhas intermitentes em um cenário. Quando um usuário visualiza a execução do cenário com falha, ele vê mensagens de erro que mencionam read ECONNRESET
 hidefromtoc: true
 feature: Workfront Fusion
 exl-id: e1140018-d308-422d-9019-ae5be7e147b2
 source-git-commit: 79ffdc10539219598ce2cc888c319414806c1054
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '100'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 

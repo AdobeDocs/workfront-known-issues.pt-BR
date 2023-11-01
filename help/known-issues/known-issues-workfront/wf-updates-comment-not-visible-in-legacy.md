@@ -4,9 +4,9 @@ description: “Os comentários feitos na nova experiência são exibidos na ár
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: e39436a5aad5dbfe58386dc770babc2ed39f678b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '126'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
