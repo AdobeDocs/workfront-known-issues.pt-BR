@@ -4,8 +4,8 @@ user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
 source-git-commit: fa4fbd97d128930cce0698f789538854a5f9a866
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1490'
+ht-degree: 87%
 
 ---
 
@@ -36,20 +36,20 @@ ht-degree: 0%
       + [Provas: [!UICONTROL Atividade de prova] A guia não abre](known-issues-workfront/wf-proof-activities-tab-not-working.md)
       + [Tarefas: [!UICONTROL Horas planejadas] são realocados quando um usuário adicional é atribuído a uma tarefa](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md)
       + [Folhas de horas: a tarefa pessoal aparece na folha de horas](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md)
-      + [Provas: não é possível gerar a prova](known-issues-workfront/wf-proofs-cannot-generate-proof.md)
-      + [Provas: provas concluídas permanecem em [!UICONTROL Aguardando minha aprovação] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
+      + [Provas: não é possível gerar prova](known-issues-workfront/wf-proofs-cannot-generate-proof.md)
+      + [Provas: provas concluídas permanecem no dispositivo [!UICONTROL Aguardando minha aprovação]](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
       + [Provas: não é possível criar uma nova versão de uma prova](known-issues-workfront/wf-proofs-cannot-create-new-version.md)
-      + [Relatórios: atualizações privadas são exibidas em campos de expressão de valor](known-issues-workfront/wf-reports-expression-displays-private-comment.md)
-      + [Balanceador de carga de trabalho: as alterações manuais de hora não são precisas após a atualização da página](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md)
+      + [Relatórios: atualizações privadas são exibidas em campos de valueexpression](known-issues-workfront/wf-reports-expression-displays-private-comment.md)
+      + [Balanceador de carga de trabalho: as alterações manuais de horas não são precisas após a atualização da página](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md)
       + [Página inicial: as tarefas delegadas não são compartilhadas e não aparecem na Lista de trabalho da página inicial](known-issues-workfront/wf-home-delegated-tasks-not-shared.md)
       + [Provas: erro ao compartilhar prova do link de email](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md)
-      + [Logon: erro exibido ao redefinir a senha, embora a ação tenha sido bem-sucedida](known-issues-workfront/wf-login-whoops-resetting-password.md)
-      + [Placas: a placa carrega lentamente](known-issues-workfront/wf-boards-board-loads-slowly.md)
+      + [Logon: um erro é exibido ao redefinir a senha, embora a ação tenha sido bem-sucedida](known-issues-workfront/wf-login-whoops-resetting-password.md)
+      + [Quadros: o quadro é carregado lentamente](known-issues-workfront/wf-boards-board-loads-slowly.md)
       + [Quadros: não é possível mover cartões](known-issues-workfront/wf-boards-can-not-move-cards.md)
       + [Quadros: os cartões não mostram a contagem correta dos itens da lista de verificação](known-issues-workfront/wf-boards-checklist-item-count.md)
-      + [Notificações: os emails de Lembrete automático não estão sendo enviados](known-issues-workfront/wf-notifications-overdue-error.md)
+      + [Notificações: os emails de lembrete automático não estão sendo enviados](known-issues-workfront/wf-notifications-overdue-error.md)
       + [Integrações de documentos: erro ao arrastar um ativo para uma pasta em uma integração do Experience Manager Assets](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md)
-      + [Usuários: mensagem de erro exibida incorretamente ao lembrar o usuário de se registrar](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md)
+      + [Usuários: mensagem de erro exibida incorretamente ao lembrar a pessoa de se registrar](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md)
       + [Compartilhamento: erro ao compartilhar um objeto](known-issues-workfront/wf-sharing-user-cannot-share-object.md)
       + [Balanceador de carga de trabalho: o usuário é exibido como superalocado devido à capacidade inadequada](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md)
       + [[!DNL Workfront]: elementos ausentes na página do objeto](known-issues-workfront/wf-workfront-work-item-missing-elements.md)
@@ -191,7 +191,7 @@ ht-degree: 0%
    + [Problemas conhecidos no Workfront Fusion](workfrontfusion.md)
    + Problemas atuais no [!DNL Workfront Fusion] {#fusion-current}
       + [Workfront Fusion: projetos duplicados criados a partir de um único módulo](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + [[!DNL Workfront Fusion]: erro ao enviar convite com [!DNL Workfront] > [!UICONTROL Ações diversas] módulo](known-issues-workfront-fusion/fusion-send-invite-error.md)
+      + [[!DNL Workfront Fusion]: erro ao enviar convite com módulo  [!DNL Workfront] > [!UICONTROL Ações diversas]](known-issues-workfront-fusion/fusion-send-invite-error.md)
       + [[!DNL Workfront Fusion]: módulo de suspensão causa travamento de cenários](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
       + [[!DNL Workfront Fusion]: falha no cenário com o erro “[!UICONTROL read ECONNRESET]”](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
       + [[!DNL Workfront Fusion]: não é possível inserir um valor no filtro  [!DNL Workfront]  > [!UICONTROL Observar eventos]](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)

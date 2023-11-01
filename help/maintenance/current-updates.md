@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 7f35ea55ec3088bc138da2615ebc61c658e1def7
 workflow-type: tm+mt
 source-wordcount: '6638'
-ht-degree: 89%
+ht-degree: 92%
 
 ---
 
@@ -28,7 +28,7 @@ Para obter atualizações de manutenção anteriores a 2023, consulte [Atualiza�
 
 _Relatórios_
 
-Quando um campo de relatório inclui uma expressão de valor que faz referência a uma atualização privada, os usuários que não estão incluídos na atualização privada podem vê-la no relatório.
+Quando um campo de relatório inclui uma valueexpression que faz referência a uma atualização privada, pessoas que não estão incluídas nessa atualização privada podem vê-la no relatório.
 
 **O usuário é exibido como superalocado devido à capacidade imprecisa**
 
@@ -62,9 +62,9 @@ Quando um usuário tenta visualizar uma prova no visualizador de prova da Web, a
 
 _Provas_
 
-Quando um usuário tenta criar uma nova versão de uma prova, a nova versão não é criada e o usuário vê a seguinte mensagem de erro:
+Quando uma pessoa tenta criar uma nova versão de uma prova, a nova versão não é gerada e a seguinte mensagem de erro é exibida:
 
-&quot;[!UICONTROL Erro ao gerar a prova]&quot;
+“[!UICONTROL Erro ao gerar a prova]”
 
 **O usuário é duplicado ao compartilhar uma solicitação**
 
@@ -148,13 +148,13 @@ Quando um usuário altera os filtros em [!UICONTROL Início], o [!UICONTROL Iní
 
 +++**Atualização de manutenção em 5 de outubro de 2023**
 
-**O quadro carrega lentamente**
+**O quadro é carregado lentamente**
 
 _Quadros_
 
-Quando um usuário carrega um quadro, o quadro é carregado muito lentamente. Isso pode ocorrer mesmo se a placa tiver um pequeno número de cartões.
+Quando um usuário carrega um quadro, o quadro é carregado muito lentamente. Isso pode ocorrer mesmo se o quadro tiver um pequeno número de cartões.
 
-Cartões arquivados, mesmo se não exibidos, estavam afetando o tempo de carregamento da placa.
+Cartões arquivados, mesmo quando não eram exibidos, estavam afetando o tempo de carregamento do quadro.
 
 **Não é possível mover cartões entre colunas**
 
@@ -166,17 +166,17 @@ Quando um usuário tenta mover um cartão em um quadro, o cartão não se move. 
 * Opção Mover no cartão
 * Editar o cartão
 
-**Não é possível mover cartões para fora da coluna entrada**
+**Não é possível mover cartões para fora da coluna de entrada**
 
 _Quadros_
 
-O usuário pode arrastar um cartão para fora da coluna de entrada para outra coluna no quadro, mas os cartões subsequentes não podem ser movidos para fora da coluna de entrada.
+O usuário pode arrastar um cartão para fora da coluna de entrada para outra coluna do quadro, mas os cartões subsequentes não podem ser movidos para fora da coluna de entrada.
 
-**Agrupar por afeta o desempenho da placa**
+**A função Agrupar por afeta o desempenho do quadro**
 
 _Quadros_
 
-Quando o usuário tenta agrupar os cartões por responsáveis ou tags, o desempenho do painel fica muito lento.
+Quando uma pessoa tenta agrupar os cartões por responsáveis ou tags, o desempenho do quadro fica muito lento.
 
 **Os emails de lembrete automático não estão sendo enviados**
 

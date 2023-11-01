@@ -6,8 +6,8 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: fa4fbd97d128930cce0698f789538854a5f9a866
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '798'
+ht-degree: 86%
 
 ---
 
@@ -48,14 +48,14 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | [Documentos: o botão Compartilhar não funciona](known-issues-workfront/wf-documents-share-button-not-working.md) | 26 de outubro de 2023 |
 | [Quadros: os cartões esperados não são exibidos a bordo](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | 26 de outubro de 2023 |
 | [Tarefas: &quot;[!UICONTROL Ops]&quot;erro no cabeçalho da tarefa](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 25 de outubro de 2023 |
-| [Provas: provas concluídas permanecem em [!UICONTROL Aguardando minha aprovação] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 19 de outubro de 2023 |
-| [Provas: não é possível gerar a prova](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 19 de outubro de 2023 |
+| [Provas: provas concluídas permanecem no dispositivo [!UICONTROL Aguardando minha aprovação]](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 19 de outubro de 2023 |
+| [Provas: não é possível gerar prova](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 19 de outubro de 2023 |
 | [Provas: não é possível criar uma nova versão de uma prova](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 19 de outubro de 2023 |
 | [Logon: a página de logon redireciona para a página de aterrissagem de logout](known-issues-workfront/wf-login-redirects-to-logout-page.md) | 18 de outubro de 2023 |
-| [[!UICONTROL Balanceador de carga de trabalho]: [!UICONTROL o Total de horas] não corresponde à soma das [!UICONTROL Horas planejadas]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 12 de outubro de 2023 |
-| [Relatórios: atualizações privadas são exibidas em campos de expressão de valor](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | 12 de outubro de 2023 |
+| [[!UICONTROL Balanceador de carga de trabalho]: o [!UICONTROL Total de horas] não corresponde à soma das [!UICONTROL Horas planejadas]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 12 de outubro de 2023 |
+| [Relatórios: atualizações privadas são exibidas em campos de valueexpression](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | 12 de outubro de 2023 |
 | [Folhas de horas: a tarefa pessoal aparece na folha de horas](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 10 de outubro de 2023 |
-| [Balanceador de carga de trabalho: as alterações manuais de hora não são precisas após a atualização da página](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 3 de outubro de 2023 |
+| [Balanceador de carga de trabalho: as alterações manuais de horas não são precisas após a atualização da página](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 3 de outubro de 2023 |
 | [Página inicial: as tarefas delegadas não são compartilhadas e não aparecem na Lista de trabalho da página inicial](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 3 de outubro de 2023 |
 | [Balanceador de carga de trabalho: pessoas são exibidas como superalocadas devido a uma capacidade imprecisa](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 26 de setembro de 2023 |
 | Caso de suporte do [[!DNL Workfront]: Issues submitting a [!DNL Workfront]  na Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 de agosto de 2022 |
