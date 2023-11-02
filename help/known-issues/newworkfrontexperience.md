@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: b1c93c06b2c3a787438aa2a598aada93a04e0c38
+source-git-commit: 744835ec6f1f9af2d536b8f4e3fbc4ef1660fa27
 workflow-type: tm+mt
-source-wordcount: '801'
-ht-degree: 84%
+source-wordcount: '765'
+ht-degree: 85%
 
 ---
 
@@ -30,8 +30,6 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | [[!UICONTROL Prova do Workfront]: emails e notificações atrasados](known-issues-workfront-proof/proof-delayed-notification.md) | 26 de outubro de 2023 |
 | [Workfront Fusion: projetos duplicados criados a partir de um único módulo](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 24 de outubro de 2023 |
 | [Quadros: a pesquisa não funciona](known-issues-workfront/wf-boards-search-not-working.md) | 20 de outubro de 2023 |
-| [Documentos: &quot;[!UICONTROL Enviar para]A opção &quot; causa página em branco e mensagem de erro](known-issues-workfront/wf-documents-sent-to-goes-blank.md) | 19 de outubro de 2023 |
-| [Compartilhamento: erro ao compartilhar um objeto](known-issues-workfront/wf-sharing-user-cannot-share-object.md) | 27 de setembro de 2023 |
 
 {style="table-layout:auto"}
 
@@ -41,7 +39,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
-| [[!UICONTROL Balanceador de carga de trabalho]: [!UICONTROL Balanceador de carga de trabalho] carrega lentamente](known-issues-workfront/wf-workload-balancer-loads-slowly.md) | 31 de outubro de 2023 |
 | [Solicitações: moeda personalizada incorreta exibida na página Nova solicitação](known-issues-workfront/wf-requests-custom-currency.md) | 30 de outubro de 2023 |
 | [Relatórios: as horas orçadas no relatório de utilização não correspondem às horas orçadas relatadas pela API](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 30 de outubro de 2023 |
 | [Painéis: o usuário não pode acessar [!UICONTROL Painéis do Canvas]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md) | 30 de outubro de 2023 |
@@ -56,7 +53,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | [Logon: a página de logon redireciona para a página de aterrissagem de logout](known-issues-workfront/wf-login-redirects-to-logout-page.md) | 18 de outubro de 2023 |
 | [[!UICONTROL Balanceador de carga de trabalho]: o [!UICONTROL Total de horas] não corresponde à soma das [!UICONTROL Horas planejadas]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 12 de outubro de 2023 |
 | [Folhas de horas: a tarefa pessoal aparece na folha de horas](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 10 de outubro de 2023 |
-| [Balanceador de carga de trabalho: as alterações manuais de horas não são precisas após a atualização da página](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 3 de outubro de 2023 |
 | [Página inicial: as tarefas delegadas não são compartilhadas e não aparecem na Lista de trabalho da página inicial](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 3 de outubro de 2023 |
 | [[!DNL Workfront]: problemas ao enviar um caso de suporte do  [!DNL Workfront]  na Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 de agosto de 2022 |
 
