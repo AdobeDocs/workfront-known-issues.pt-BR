@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 25dc6be9ec798c4d75916d093f8e80227c0e17cf
+source-git-commit: 4f656ad6456070d9faa691654386db936ea32362
 workflow-type: tm+mt
-source-wordcount: '372'
-ht-degree: 94%
+source-wordcount: '390'
+ht-degree: 90%
 
 ---
 
@@ -26,7 +26,6 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!UICONTROL Prova do Workfront]: emails e notificações atrasados](known-issues-workfront-proof/proof-delayed-notification.md) | 26 de outubro de 2023 |
-| [Documentos: o botão Compartilhar não funciona](known-issues-workfront/wf-documents-share-button-not-working.md) | 19 de outubro de 2023 |
 
 {style="table-layout:auto"}
 
@@ -36,6 +35,9 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Página inicial: aprovação paralisada [!UICONTROL Aguardando minha aprovação] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 3 de novembro de 2023 |
+| [Provas: problemas com a ativação do estágio](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 3 de novembro de 2023 |
+| [Provas: navegação estrutural ausente ao acessar a prova do link de email](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 de novembro de 2023 |
 | [[!DNL Workfront Proof]: Carimbo de data e hora impreciso ativado [!UICONTROL Resumo da prova]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 27 de outubro de 2023 |
 | [Provas: erro ao compartilhar prova do link de email](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26 de outubro de 2023 |
 | [Provas: provas concluídas permanecem no dispositivo [!UICONTROL Aguardando minha aprovação]](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 19 de outubro de 2023 |

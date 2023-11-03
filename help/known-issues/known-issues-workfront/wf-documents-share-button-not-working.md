@@ -1,17 +1,21 @@
 ---
 title: "Documentos: o botão Compartilhar não funciona"
-description: "Quando um usuário tenta compartilhar um documento na página Detalhes do documento, o botão Compartilhar não responde."
+description: Quando um usuário tenta compartilhar um documento na página Detalhes do documento, o botão Compartilhar não responde.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: bbb284cd791d40f1e98ebd5827d3ee7abce261da
+exl-id: 3838fef2-1e08-4ebd-9b7b-43ce96d75ed6
+source-git-commit: 4f656ad6456070d9faa691654386db936ea32362
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 8%
+source-wordcount: '66'
+ht-degree: 16%
 
 ---
 
-
 # Documentos: o botão Compartilhar não funciona
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em 2 de novembro de 2023.
 
 Quando um usuário tenta compartilhar um documento na página Detalhes do documento, o botão Compartilhar não responde.
 
@@ -19,4 +23,4 @@ Quando um usuário tenta compartilhar um documento na página Detalhes do docume
 
 Compartilhar o documento da lista Documentos.
 
-_Reportado pela primeira vez em 18 de outubro de 2023._
+_Relatado pela primeira vez em 18 de outubro de 2023._

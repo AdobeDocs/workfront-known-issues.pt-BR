@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3a6d56930cb2861c68111c9c960963b71ec213d4
+source-git-commit: 4f656ad6456070d9faa691654386db936ea32362
 workflow-type: tm+mt
-source-wordcount: '775'
-ht-degree: 84%
+source-wordcount: '805'
+ht-degree: 81%
 
 ---
 
@@ -25,6 +25,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Solicitações: os campos são limpos quando um documento é adicionado a uma solicitação](known-issues-workfront/wf-requests-fields-blank-when-doc-added.md) | 3 de novembro de 2023 |
 | [Atualizações: comentários anexados às atualizações do sistema não são exibidos](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md) | 1 de novembro de 2023 |
 | [Quadros: erro na seção Comentários de um cartão](known-issues-workfront/wf-boards-comment-section-error.md) | 1 de novembro de 2023 |
 | [[!UICONTROL Prova do Workfront]: emails e notificações atrasados](known-issues-workfront-proof/proof-delayed-notification.md) | 26 de outubro de 2023 |
@@ -39,13 +40,15 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
+| [Página inicial: aprovação paralisada [!UICONTROL Aguardando minha aprovação] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 3 de novembro de 2023 |
+| [Provas: problemas com a ativação do estágio](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 3 de novembro de 2023 |
+| [Provas: navegação estrutural ausente ao acessar a prova do link de email](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 de novembro de 2023 |
 | [Atualizações: linhas extras no comentário feitas por meio da API ou [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md) | 2 de novembro de 2023 |
 | [Solicitações: moeda personalizada incorreta exibida na página Nova solicitação](known-issues-workfront/wf-requests-custom-currency.md) | 30 de outubro de 2023 |
 | [Relatórios: as horas orçadas no relatório de utilização não correspondem às horas orçadas relatadas pela API](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 30 de outubro de 2023 |
 | [Painéis: o usuário não pode acessar [!UICONTROL Painéis do Canvas]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md) | 30 de outubro de 2023 |
 | [[!DNL Workfront Proof]: Carimbo de data e hora impreciso ativado [!UICONTROL Resumo da prova]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 27 de outubro de 2023 |
 | [Provas: erro ao compartilhar prova do link de email](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26 de outubro de 2023 |
-| [Documentos: o botão Compartilhar não funciona](known-issues-workfront/wf-documents-share-button-not-working.md) | 26 de outubro de 2023 |
 | [Quadros: os cartões esperados não são exibidos a bordo](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | 26 de outubro de 2023 |
 | [Tarefas: &quot;[!UICONTROL Ops]&quot;erro no cabeçalho da tarefa](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 25 de outubro de 2023 |
 | [Provas: provas concluídas permanecem no dispositivo [!UICONTROL Aguardando minha aprovação]](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 19 de outubro de 2023 |
