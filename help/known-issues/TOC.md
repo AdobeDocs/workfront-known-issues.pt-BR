@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: a6d3a340e7452f45cb568ee4383ab7bfb55c5c34
+source-git-commit: 9d06f5922711057d2075bef8653c7241e6464ac7
 workflow-type: tm+mt
-source-wordcount: '1554'
-ht-degree: 84%
+source-wordcount: '1566'
+ht-degree: 83%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 84%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Modelos: as tarefas filho aparecem fora de ordem quando movidas para a tarefa pai](known-issues-workfront/wf-templates-children-tasks-out-of-order.md)
       + [Página inicial: aprovação paralisada [!UICONTROL Aguardando minha aprovação] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)
       + [Provas: problemas com a ativação do estágio](known-issues-workfront/wf-proofs-stage-activation-issues.md)
       + [Provas: navegação estrutural ausente ao acessar a prova do link de email](known-issues-workfront/wf-proofs-breadcrumb-missing.md)

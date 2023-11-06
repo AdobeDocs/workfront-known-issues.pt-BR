@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 4f656ad6456070d9faa691654386db936ea32362
+source-git-commit: 9d06f5922711057d2075bef8653c7241e6464ac7
 workflow-type: tm+mt
-source-wordcount: '805'
-ht-degree: 81%
+source-wordcount: '818'
+ht-degree: 80%
 
 ---
 
@@ -40,6 +40,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
+| [Modelos: as tarefas filho aparecem fora de ordem quando movidas para a tarefa pai](known-issues-workfront/wf-templates-children-tasks-out-of-order.md) | 6 de novembro de 2023 |
 | [Página inicial: aprovação paralisada [!UICONTROL Aguardando minha aprovação] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 3 de novembro de 2023 |
 | [Provas: problemas com a ativação do estágio](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 3 de novembro de 2023 |
 | [Provas: navegação estrutural ausente ao acessar a prova do link de email](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 de novembro de 2023 |
