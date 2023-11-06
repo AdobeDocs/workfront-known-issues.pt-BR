@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9d06f5922711057d2075bef8653c7241e6464ac7
+source-git-commit: 54fda0aa30beb0bfcf9e6359e12f58d03dffac1e
 workflow-type: tm+mt
-source-wordcount: '818'
-ht-degree: 80%
+source-wordcount: '838'
+ht-degree: 78%
 
 ---
 
@@ -40,6 +40,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
+| [Página inicial: as tarefas em projetos com status Aprovado ou Planejamento não são incluídas em Minhas tarefas ou na Lista de trabalho da página inicial](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 6 de novembro de 2023 |
 | [Modelos: as tarefas filho aparecem fora de ordem quando movidas para a tarefa pai](known-issues-workfront/wf-templates-children-tasks-out-of-order.md) | 6 de novembro de 2023 |
 | [Página inicial: aprovação paralisada [!UICONTROL Aguardando minha aprovação] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 3 de novembro de 2023 |
 | [Provas: problemas com a ativação do estágio](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 3 de novembro de 2023 |

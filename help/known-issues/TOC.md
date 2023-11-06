@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 9d06f5922711057d2075bef8653c7241e6464ac7
+source-git-commit: 54fda0aa30beb0bfcf9e6359e12f58d03dffac1e
 workflow-type: tm+mt
-source-wordcount: '1566'
-ht-degree: 83%
+source-wordcount: '1585'
+ht-degree: 82%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 83%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Página inicial: as tarefas em projetos com status Aprovado ou Planejamento não são incluídas em Minhas tarefas ou na Lista de trabalho da página inicial](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
       + [Modelos: as tarefas filho aparecem fora de ordem quando movidas para a tarefa pai](known-issues-workfront/wf-templates-children-tasks-out-of-order.md)
       + [Página inicial: aprovação paralisada [!UICONTROL Aguardando minha aprovação] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)
       + [Provas: problemas com a ativação do estágio](known-issues-workfront/wf-proofs-stage-activation-issues.md)
