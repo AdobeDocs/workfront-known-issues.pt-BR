@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3a6d56930cb2861c68111c9c960963b71ec213d4
+source-git-commit: 7a783d0c55d368c63e41d58a5343e44e54442e7d
 workflow-type: tm+mt
-source-wordcount: '6637'
-ht-degree: 92%
+source-wordcount: '6830'
+ht-degree: 90%
 
 ---
 
@@ -21,6 +21,38 @@ As seguintes atualizações de manutenção foram efetuadas em 2023.
 Para obter atualizações de manutenção anteriores a 2023, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em novembro de 2023
+
++++**(Planejado) Atualização de manutenção em 9 de novembro de 2023**
+
+**Objetos ausentes no widget Meu trabalho quando não está na parte superior da página**
+
+_Página inicial_
+
+Se o widget Meu trabalho estiver na parte superior da nova página inicial, ele extrai todos os objetos esperados. No entanto, se esse widget estiver abaixo de qualquer outro widget na página, ele extrai apenas 10 objetos.
+
+**Não é possível gerar a prova**
+
+_Provas_
+
+Quando um usuário tenta gerar uma prova, ela não é criada e o usuário vê o seguinte erro:
+
+“[!UICONTROL Erro ao gerar a prova]”
+
+Isso ocorre quando a configuração de nível de acesso do usuário[!UICONTROL  Exibir informações de contato] está definido como Desativado.
+
+**Os campos são limpos quando um documento é adicionado a uma solicitação**
+
+_Solicitações_
+
+Quando um usuário cria uma solicitação, preenche campos em um formulário e, em seguida, adiciona ou remove um documento, alguns campos no formulário são apagados dos dados e o usuário deve preenchê-los novamente antes de enviar a solicitação.
+
+**A tarefa pessoal aparece na folha de horas**
+
+_Folhas de horas_
+
+Quando um usuário cria uma tarefa no [!UICONTROL Tarefa] widget do novo [!UICONTROL Início] experiência, essa tarefa aparece na folha de horas do usuário. Isso ocorre mesmo se a tarefa não tiver horas registradas e o projeto pessoal não estiver fixado.
+
++++
 
 +++**Atualização de manutenção em 2 de novembro de 2023**
 
