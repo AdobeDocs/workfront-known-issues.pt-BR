@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 359264a4697b783f79ef8df000216d259106d96d
+source-git-commit: ac2775f96a3ea4c69046d4bb29f311b31f85c843
 workflow-type: tm+mt
-source-wordcount: '1594'
-ht-degree: 82%
+source-wordcount: '1600'
+ht-degree: 81%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 82%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Quadros: problemas ao visualizar o status de subtarefas](known-issues-workfront/wf-boards-issues-with-subtask-status.md)
       + [Painel: margem grande em branco ao imprimir painel no PDF](known-issues-workfront/wf-dashboard-blank-area-when-printing.md)
       + [Página inicial: as tarefas em projetos com status Aprovado ou Planejamento não são incluídas em Minhas tarefas ou na Lista de trabalho da página inicial](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
       + [Modelos: as tarefas filho aparecem fora de ordem quando movidas para a tarefa pai](known-issues-workfront/wf-templates-children-tasks-out-of-order.md)
