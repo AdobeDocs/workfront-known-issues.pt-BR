@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 7a783d0c55d368c63e41d58a5343e44e54442e7d
+source-git-commit: 83c161ac5cc06b67a67464ab75be50903c379118
 workflow-type: tm+mt
-source-wordcount: '6830'
-ht-degree: 90%
+source-wordcount: '6904'
+ht-degree: 89%
 
 ---
 
@@ -51,6 +51,16 @@ Quando um usuário cria uma solicitação, preenche campos em um formulário e, 
 _Folhas de horas_
 
 Quando um usuário cria uma tarefa no [!UICONTROL Tarefa] widget do novo [!UICONTROL Início] experiência, essa tarefa aparece na folha de horas do usuário. Isso ocorre mesmo se a tarefa não tiver horas registradas e o projeto pessoal não estiver fixado.
+
++++
+
++++**Atualização de manutenção (hotfix) em 3 de novembro de 2023**
+
+**Tarefas secundárias aparecem fora de ordem quando movidas para a tarefa principal**
+
+_Modelos_
+
+Quando um usuário cria tarefas em um modelo e, em seguida, move essas tarefas em uma tarefa pai, os números atribuídos às tarefas filho não aparecem na ordem esperada. Portanto, quando a página é atualizada, as tarefas filho são classificadas pelos números de tarefa inesperados e, portanto, as tarefas filho estão fora de ordem.
 
 +++
 
