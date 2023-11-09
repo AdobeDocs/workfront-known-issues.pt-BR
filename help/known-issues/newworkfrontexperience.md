@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ac2775f96a3ea4c69046d4bb29f311b31f85c843
+source-git-commit: 2b2b4e9162dea84170a7e6db049b8191fa69c58a
 workflow-type: tm+mt
-source-wordcount: '842'
-ht-degree: 77%
+source-wordcount: '855'
+ht-degree: 76%
 
 ---
 
@@ -41,6 +41,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
+| [Notificações: a notificação por email não é recebida quando o usuário está marcado em um comentário](known-issues-workfront/wf-notif-email-not-received.md) | 8 de novembro de 2023 |
 | [Página inicial: as tarefas em projetos com status Aprovado ou Planejamento não são incluídas em Minhas tarefas ou na Lista de trabalho da página inicial](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 6 de novembro de 2023 |
 | [Página inicial: aprovação paralisada [!UICONTROL Aguardando minha aprovação] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 3 de novembro de 2023 |
 | [Provas: problemas com a ativação do estágio](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 3 de novembro de 2023 |
