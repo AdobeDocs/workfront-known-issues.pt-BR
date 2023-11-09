@@ -1,18 +1,18 @@
 ---
-title: "Workfront Proof: carimbo de data e hora impreciso no Resumo de prova"
-description: "Quando um usuário clica na opção Resumo de impressão para provas, o carimbo de data e hora exibido tinha 30 minutos adicionados."
+title: '“Prova do Workfront: carimbo de data e hora impreciso no resumo da prova”'
+description: Quando clicam na opção de imprimir resumo das provas, 30 minutos são adicionados ao carimbo de data e hora exibido.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 9e32c28c4428077057a194a2015ea1613a9656a4
-workflow-type: tm+mt
+exl-id: 089b620b-55ce-4a35-88a7-0cb6fa0dfe82
+source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
+workflow-type: ht
 source-wordcount: '54'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
+# [!DNL Workfront Proof]: carimbo de data e hora impreciso no [!UICONTROL resumo da prova]
 
-# [!DNL Workfront Proof]: Carimbo de data e hora impreciso ativado [!UICONTROL Resumo da prova]
-
-Quando um usuário clica na variável [!UICONTROL Imprimir resumo] para provas, o carimbo de data e hora exibido tinha 30 minutos adicionados.
+Quando clicam na opção [!UICONTROL Imprimir resumo] das provas, 30 minutos são adicionados ao carimbo de data e hora exibido.
 
 _Relatado pela primeira vez em 14 de setembro de 2023._
