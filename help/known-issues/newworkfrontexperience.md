@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 2b2b4e9162dea84170a7e6db049b8191fa69c58a
 workflow-type: tm+mt
 source-wordcount: '855'
-ht-degree: 76%
+ht-degree: 86%
 
 ---
 
@@ -30,8 +30,8 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | [Atualizações: comentários anexados às atualizações do sistema não são exibidos](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md) | 1 de novembro de 2023 |
 | [Quadros: erro na seção Comentários de um cartão](known-issues-workfront/wf-boards-comment-section-error.md) | 1 de novembro de 2023 |
 | [[!UICONTROL Prova do Workfront]: emails e notificações atrasados](known-issues-workfront-proof/proof-delayed-notification.md) | 26 de outubro de 2023 |
-| [Workfront Fusion: projetos duplicados criados a partir de um único módulo](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 24 de outubro de 2023 |
-| [Quadros: a pesquisa não funciona](known-issues-workfront/wf-boards-search-not-working.md) | 20 de outubro de 2023 |
+| [Workfront Fusion: projetos duplicados criados a partir de um mesmo módulo](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 24 de outubro de 2023 |
+| [Quadros: a pesquisa não está funcionando](known-issues-workfront/wf-boards-search-not-working.md) | 20 de outubro de 2023 |
 
 {style="table-layout:auto"}
 
@@ -47,17 +47,17 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | [Provas: problemas com a ativação do estágio](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 3 de novembro de 2023 |
 | [Provas: navegação estrutural ausente ao acessar a prova do link de email](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 de novembro de 2023 |
 | [Atualizações: linhas extras no comentário feitas por meio da API ou [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md) | 2 de novembro de 2023 |
-| [Solicitações: moeda personalizada incorreta exibida na página Nova solicitação](known-issues-workfront/wf-requests-custom-currency.md) | 30 de outubro de 2023 |
-| [Relatórios: as horas orçadas no relatório de utilização não correspondem às horas orçadas relatadas pela API](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 30 de outubro de 2023 |
-| [Painéis: o usuário não pode acessar [!UICONTROL Painéis do Canvas]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md) | 30 de outubro de 2023 |
-| [[!DNL Workfront Proof]: Carimbo de data e hora impreciso ativado [!UICONTROL Resumo da prova]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 27 de outubro de 2023 |
+| [Solicitações: moeda personalizada incorreta exibida na página “Nova solicitação”](known-issues-workfront/wf-requests-custom-currency.md) | 30 de outubro de 2023 |
+| [Relatórios: as horas orçadas no relatório de utilização não correspondem às horas orçadas relatadas por meio da API](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 30 de outubro de 2023 |
+| [Painéis: o usuário não pode acessar os [!UICONTROL Painéis da tela]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md) | 30 de outubro de 2023 |
+| [[!DNL Workfront Proof]: carimbo de data e hora incorreto no [!UICONTROL Resumo da prova]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 27 de outubro de 2023 |
 | [Provas: erro ao compartilhar prova do link de email](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26 de outubro de 2023 |
-| [Quadros: os cartões esperados não são exibidos a bordo](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | 26 de outubro de 2023 |
-| [Tarefas: &quot;[!UICONTROL Ops]&quot;erro no cabeçalho da tarefa](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 25 de outubro de 2023 |
+| [Quadros: os cartões esperados não estão sendo exibidos no quadro](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | 26 de outubro de 2023 |
+| [Tarefas: erro “[!UICONTROL Ops]” no cabeçalho da tarefa](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 25 de outubro de 2023 |
 | [Provas: provas concluídas permanecem no dispositivo [!UICONTROL Aguardando minha aprovação]](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 19 de outubro de 2023 |
 | [Provas: não é possível gerar prova](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 19 de outubro de 2023 |
 | [Provas: não é possível criar uma nova versão de uma prova](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 19 de outubro de 2023 |
-| [Logon: a página de logon redireciona para a página de aterrissagem de logout](known-issues-workfront/wf-login-redirects-to-logout-page.md) | 18 de outubro de 2023 |
+| [Logon: a página de logon redireciona para a página de destino de logout](known-issues-workfront/wf-login-redirects-to-logout-page.md) | 18 de outubro de 2023 |
 | [[!UICONTROL Balanceador de carga de trabalho]: o [!UICONTROL Total de horas] não corresponde à soma das [!UICONTROL Horas planejadas]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 12 de outubro de 2023 |
 | [Folhas de horas: a tarefa pessoal aparece na folha de horas](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 10 de outubro de 2023 |
 | [Página inicial: as tarefas delegadas não são compartilhadas e não aparecem na Lista de trabalho da página inicial](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 3 de outubro de 2023 |
