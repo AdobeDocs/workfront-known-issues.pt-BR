@@ -5,7 +5,7 @@ role: User
 source-git-commit: 2b2b4e9162dea84170a7e6db049b8191fa69c58a
 workflow-type: tm+mt
 source-wordcount: '1612'
-ht-degree: 81%
+ht-degree: 92%
 
 ---
 
@@ -29,24 +29,24 @@ ht-degree: 81%
       + [Atualizações: linhas extras no comentário feitas por meio da API ou [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md)
       + [Atualizações: comentários anexados às atualizações do sistema não são exibidos](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md)
       + [Quadros: erro na seção Comentários de um cartão](known-issues-workfront/wf-boards-comment-section-error.md)
-      + [[!UICONTROL Balanceador de carga de trabalho]: [!UICONTROL Balanceador de carga de trabalho] carrega lentamente](known-issues-workfront/wf-workload-balancer-loads-slowly.md)
-      + [Solicitações: moeda personalizada incorreta exibida na página Nova solicitação](known-issues-workfront/wf-requests-custom-currency.md)
-      + [Relatórios: as horas orçadas no relatório de utilização não correspondem às horas orçadas relatadas pela API](known-issues-workfront/wf-reports-incorrect-rpbghr.md)
-      + [Painéis: o usuário não pode acessar [!UICONTROL Painéis do Canvas]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md)
-      + [Tarefas: &quot;[!UICONTROL Ops]&quot;erro no cabeçalho da tarefa](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md)
+      + [[!UICONTROL Balanceador de carga de trabalho]: o [!UICONTROL Balanceador de carga de trabalho] está demorando para carregar](known-issues-workfront/wf-workload-balancer-loads-slowly.md)
+      + [Solicitações: moeda personalizada incorreta exibida na página “Nova solicitação”](known-issues-workfront/wf-requests-custom-currency.md)
+      + [Relatórios: as horas orçadas no relatório de utilização não correspondem às horas orçadas relatadas por meio da API](known-issues-workfront/wf-reports-incorrect-rpbghr.md)
+      + [Painéis: o usuário não consegue acessar os [!UICONTROL Painéis da tela]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md)
+      + [Tarefas: erro “[!UICONTROL Ops]” no cabeçalho da tarefa](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md)
       + [Logon: mensagem de erro ao fazer logon](known-issues-workfront/wf-login-error-when-logging-in.md)
-      + [Quadros: a pesquisa não funciona](known-issues-workfront/wf-boards-search-not-working.md)
-      + [Quadros: os cartões esperados não são exibidos a bordo](known-issues-workfront/wf-boards-expected-cards-not-displaying.md)
-      + [Página inicial: projetos e tarefas que não são carregados na Página inicial](known-issues-workfront/wf-home-my-projects-tasks-widget.md)
-      + [Documentos: o botão Compartilhar não funciona](known-issues-workfront/wf-documents-share-button-not-working.md)
-      + [Documentos: &quot;[!UICONTROL Enviar para]A opção &quot; causa página em branco e mensagem de erro](known-issues-workfront/wf-documents-sent-to-goes-blank.md)
-      + [Atualizações: &quot;[!UICONTROL Excluído]&quot;é exibido como nome de usuário nas atualizações do sistema quando o problema é convertido em tarefa](known-issues-workfront/wf-updates-deleted-requested-team.md)
-      + [Logon: a página de logon redireciona para a página de aterrissagem de logout](known-issues-workfront/wf-login-redirects-to-logout-page.md)
-      + [Notificações: os usuários não são notificados sobre respostas em uma thread de comentários](known-issues-workfront/wf-notifications-reply-notif-not-received.md)
-      + [[!DNL Workfront]: a marca não é aplicada](known-issues-workfront/wf-workfront-branding-not-applied.md)
-      + [Quadros: exibição de quadro no [!UICONTROL Tarefas] a área do projeto não carrega](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md)
-      + [Provas: [!UICONTROL Atividade de prova] A guia não abre](known-issues-workfront/wf-proof-activities-tab-not-working.md)
-      + [Tarefas: [!UICONTROL Horas planejadas] são realocados quando um usuário adicional é atribuído a uma tarefa](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md)
+      + [Quadros: a pesquisa não está funcionando](known-issues-workfront/wf-boards-search-not-working.md)
+      + [Quadros: os cartões esperados não estão sendo exibidos no quadro](known-issues-workfront/wf-boards-expected-cards-not-displaying.md)
+      + [Página inicial: os projetos e tarefas não estão sendo carregados na página inicial](known-issues-workfront/wf-home-my-projects-tasks-widget.md)
+      + [Documentos: o botão de compartilhar não está funcionando](known-issues-workfront/wf-documents-share-button-not-working.md)
+      + [Documentos: a opção “[!UICONTROL Enviar para]” gera uma página em branco e uma mensagem de erro](known-issues-workfront/wf-documents-sent-to-goes-blank.md)
+      + [Atualizações: o nome de usuário é exibido como “[!UICONTROL Excluído]” nas atualizações do sistema quando um problema é convertido em tarefa](known-issues-workfront/wf-updates-deleted-requested-team.md)
+      + [Logon: a página de logon redireciona para a página de destino de logout](known-issues-workfront/wf-login-redirects-to-logout-page.md)
+      + [Notificações: os usuários não são notificados sobre respostas em um thread de comentários](known-issues-workfront/wf-notifications-reply-notif-not-received.md)
+      + [[!DNL Workfront]: a identidade visual não está sendo aplicada](known-issues-workfront/wf-workfront-branding-not-applied.md)
+      + [Quadros: a exibição de quadros na área [!UICONTROL Tarefas] do projeto não está carregando](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md)
+      + [Provas: a guia [!UICONTROL Atividade da prova] não abre](known-issues-workfront/wf-proof-activities-tab-not-working.md)
+      + [Tarefas: as [!UICONTROL Horas planejadas] são realocadas quando uma tarefa é atribuída a um usuário adicional](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md)
       + [Folhas de horas: a tarefa pessoal aparece na folha de horas](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md)
       + [Provas: não é possível gerar prova](known-issues-workfront/wf-proofs-cannot-generate-proof.md)
       + [Provas: provas concluídas permanecem no dispositivo [!UICONTROL Aguardando minha aprovação]](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
@@ -176,7 +176,7 @@ ht-degree: 81%
 + [!DNL Workfront Proof] {#proof}
    + [Problemas conhecidos no  [!DNL Workfront Proof]](workfrontproof.md)
    + Problemas atuais no [!DNL Workfront Proof] {#proof-current}
-      + [[!DNL Workfront Proof]: Carimbo de data e hora impreciso ativado [!UICONTROL Resumo da prova]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
+      + [[!DNL Workfront Proof]: carimbo de data e hora incorreto no [!UICONTROL Resumo da prova]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
       + [[!UICONTROL Prova do Workfront]: emails e notificações atrasados](known-issues-workfront-proof/proof-delayed-notification.md)
       + [[!DNL Workfront Proof]: não é possível expandir o fluxo de trabalho](known-issues-workfront-proof/proof-cannot-view-workflow.md)
       + [Prova do Workfront: os dados do painel nem sempre são precisos](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md)
@@ -203,7 +203,7 @@ ht-degree: 81%
    + [Problemas conhecidos no Workfront Fusion](workfrontfusion.md)
    + Problemas atuais no [!DNL Workfront Fusion] {#fusion-current}
       + [Workfront Fusion: erro de pouca memória](known-issues-workfront-fusion/fusion-low-memory-error.md)
-      + [Workfront Fusion: projetos duplicados criados a partir de um único módulo](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
+      + [Workfront Fusion: projetos duplicados criados a partir de um mesmo módulo](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
       + [[!DNL Workfront Fusion]: erro ao enviar convite com módulo  [!DNL Workfront] > [!UICONTROL Ações diversas]](known-issues-workfront-fusion/fusion-send-invite-error.md)
       + [[!DNL Workfront Fusion]: módulo de suspensão causa travamento de cenários](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
       + [[!DNL Workfront Fusion]: falha no cenário com o erro “[!UICONTROL read ECONNRESET]”](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
