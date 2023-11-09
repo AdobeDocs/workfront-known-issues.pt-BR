@@ -4,9 +4,9 @@ description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 4f656ad6456070d9faa691654386db936ea32362
+source-git-commit: 6d6d3c180a739413f28f132a23b4d91ad1b80c72
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '385'
 ht-degree: 93%
 
 ---
@@ -41,7 +41,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | [[!DNL Workfront Proof]: carimbo de data e hora incorreto no [!UICONTROL Resumo da prova]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 27 de outubro de 2023 |
 | [Provas: erro ao compartilhar prova do link de email](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26 de outubro de 2023 |
 | [Provas: provas concluídas permanecem no dispositivo [!UICONTROL Aguardando minha aprovação]](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 19 de outubro de 2023 |
-| [Provas: não é possível gerar prova](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 19 de outubro de 2023 |
 | [Provas: erro ao compartilhar prova do link de email](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 19 de outubro de 2023 |
 
 {style="table-layout:auto"}

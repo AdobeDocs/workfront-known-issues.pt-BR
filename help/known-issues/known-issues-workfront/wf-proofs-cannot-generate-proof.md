@@ -4,14 +4,18 @@ description: Quando um usuário tenta gerar uma prova, ela não é criada, e o u
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 9fcbbd6d-0f63-451f-ac5c-54eb7ce649b3
-source-git-commit: bf9a5b15db59d8b9ed59fedc8233272c7385bb81
-workflow-type: ht
-source-wordcount: '91'
+source-git-commit: 6d6d3c180a739413f28f132a23b4d91ad1b80c72
+workflow-type: tm+mt
+source-wordcount: '97'
 ht-degree: 100%
 
 ---
 
 # Provas: não é possível gerar prova
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em 9 de novembro de 2023.
 
 Quando um usuário tenta gerar uma prova, ela não é criada e o usuário vê o seguinte erro:
 
