@@ -1,22 +1,22 @@
 ---
-title: "Tarefas: as horas planejadas são realocadas quando um usuário adicional é atribuído a uma tarefa."
-description: '"Quando um usuário é atribuído a uma tarefa que tem Horas planejadas alocadas para outros atribuídos, as Horas planejadas da tarefa são distribuídas uniformemente para todos os atribuídos na tarefa. ”'
+title: '“Tarefas: as horas planejadas são realocadas quando uma tarefa é atribuída a um usuário adicional.”'
+description: “Quando uma tarefa que contém horas planejadas alocadas para outros designados é atribuída a um usuário, as horas planejadas da tarefa são distribuídas equitativamente para todos os designados na tarefa. ”
 hidefromtoc: true
 feature: Tasks
-source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
-workflow-type: tm+mt
+exl-id: c70d15d1-7b2f-4e4c-be12-aed2c3fa9413
+source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
+workflow-type: ht
 source-wordcount: '102'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
-
-# Tarefas: [!UICONTROL Horas planejadas] são realocados quando um usuário adicional é atribuído a uma tarefa
+# Tarefas: as [!UICONTROL Horas planejadas] são realocadas quando uma tarefa é atribuída a um usuário adicional
 
 >[!NOTE]
 >
 >Esse problema foi corrigido em 19 de outubro de 2023.
 
-Quando um usuário é atribuído a uma tarefa que tenha [!UICONTROL Horas planejadas] alocado a outros atribuídos na tarefa, o nome da tarefa [!UICONTROL Horas planejadas] são distribuídos uniformemente para todos os atribuídos na tarefa.
+Quando uma tarefa que contém [!UICONTROL Horas planejadas] alocadas a outras pessoas designadas na tarefa é atribuída a um usuário, as [!UICONTROL Horas planejadas] da tarefa são distribuídas equitativamente para todas as pessoas designadas na tarefa.
 
-_Relatado pela primeira vez em 25º de setembro de 2023._
+_Relatado pela primeira vez em 25 de setembro de 2023._
