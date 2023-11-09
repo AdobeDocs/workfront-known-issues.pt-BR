@@ -1,22 +1,22 @@
 ---
-title: "Quadros: a exibição de Quadro na área Tarefas do projeto não carrega"
-description: "Quando um usuário tenta carregar as tarefas em um projeto em um modo de exibição de quadro, as tarefas não são carregadas. A visualização de lista é carregada conforme esperado."
+title: '“Quadros: a exibição de quadros na área de tarefas do projeto não está carregando”'
+description: Quando um usuário tenta carregar as tarefas em um projeto na exibição de quadros, as tarefas não são carregadas. A exibição de listas é carregada conforme esperado.
 hidefromtoc: true
 feature: Agile
-source-git-commit: aabbd74ae558555e79a3cc1bc96583878cd413b3
-workflow-type: tm+mt
+exl-id: 7247d19d-eaaa-4a37-917b-9769f12eb9a2
+source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
+workflow-type: ht
 source-wordcount: '84'
-ht-degree: 11%
+ht-degree: 100%
 
 ---
 
-
-# Quadros: exibição de quadro no [!UICONTROL Tarefas] a área do projeto não carrega
+# Quadros: a exibição de quadros na área [!UICONTROL Tarefas] do projeto não está carregando
 
 >[!NOTE]
 >
 >Esse problema foi corrigido em 12 de outubro de 2023.
 
-Quando um usuário tenta carregar as tarefas em um projeto em um modo de exibição de quadro, as tarefas não são carregadas. A exibição em lista é carregada conforme esperado.
+Quando um usuário tenta carregar as tarefas em um projeto na exibição de quadros, as tarefas não são carregadas. A exibição de listas é carregada conforme esperado.
 
-_Reportado pela primeira vez em 10 de outubro de 2023._
+_Relatado pela primeira vez em 10 de outubro de 2023._
