@@ -1,17 +1,17 @@
 ---
-title: "Tarefas: [!UICONTROL Ops] erro no cabeçalho da tarefa"
-description: "Quando um usuário visualiza uma tarefa, o cabeçalho da tarefa não contém informações. Em vez disso, o usuário vê uma mensagem de erro."
+title: '“Tarefas: erro [!UICONTROL Ops] no cabeçalho da tarefa”'
+description: Quando um usuário visualiza uma tarefa, o cabeçalho da tarefa não contém informações. Em vez disso, a pessoa vê uma mensagem que diz “Ops”.
 hidefromtoc: true
 feature: Tasks
-source-git-commit: da113ea4babc7eaeadc80f73aabd45d9482ad620
-workflow-type: tm+mt
+exl-id: 2bcbceb4-0618-44d6-9855-8c084fb8abe9
+source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
+workflow-type: ht
 source-wordcount: '83'
-ht-degree: 33%
+ht-degree: 100%
 
 ---
 
-
-# Tarefas: &quot;[!UICONTROL Ops]&quot;erro no cabeçalho da tarefa
+# Tarefas: erro “[!UICONTROL Ops]” no cabeçalho da tarefa
 
 >[!NOTE]
 >
@@ -22,4 +22,4 @@ Quando um usuário visualiza uma tarefa, o cabeçalho da tarefa não contém inf
 “[!UICONTROL Ops! Algo deu errado. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.]”
 
 
-_Reportado pela primeira vez em 13 de outubro de 2023._
+_Relatado pela primeira vez em 13 de outubro de 2023._
