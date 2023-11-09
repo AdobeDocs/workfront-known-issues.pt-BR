@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 83c161ac5cc06b67a67464ab75be50903c379118
 workflow-type: tm+mt
 source-wordcount: '6904'
-ht-degree: 89%
+ht-degree: 97%
 
 ---
 
@@ -38,7 +38,7 @@ Quando um usuário tenta gerar uma prova, ela não é criada e o usuário vê o 
 
 “[!UICONTROL Erro ao gerar a prova]”
 
-Isso ocorre quando a configuração de nível de acesso do usuário[!UICONTROL  Exibir informações de contato] está definido como Desativado.
+Isso ocorre quando é desabilitada a configuração de nível de acesso do usuário[!UICONTROL  Exibir informações de contato].
 
 **Os campos são limpos quando um documento é adicionado a uma solicitação**
 
@@ -50,7 +50,7 @@ Quando um usuário cria uma solicitação, preenche campos em um formulário e, 
 
 _Folhas de horas_
 
-Quando um usuário cria uma tarefa no [!UICONTROL Tarefa] widget do novo [!UICONTROL Início] experiência, essa tarefa aparece na folha de horas do usuário. Isso ocorre mesmo se a tarefa não tiver horas registradas e o projeto pessoal não estiver fixado.
+Quando um usuário cria uma tarefa no widget [!UICONTROL To do] da nova experiência da [!UICONTROL Página inicial], essa tarefa aparece na folha de horas do usuário. Isso ocorre mesmo se a tarefa não contiver horas registradas e o projeto pessoal não tiver sido fixado.
 
 +++
 
@@ -66,13 +66,13 @@ Quando um usuário cria tarefas em um modelo e, em seguida, move essas tarefas e
 
 +++**Atualização de manutenção em 2 de novembro de 2023**
 
-**Atualizações privadas são exibidas em campos de expressão de valor**
+**Atualizações privadas são exibidas nos campos de valueexpression**
 
 _Relatórios_
 
 Quando um campo de relatório inclui uma valueexpression que faz referência a uma atualização privada, pessoas que não estão incluídas nessa atualização privada podem vê-la no relatório.
 
-**O usuário é exibido como superalocado devido à capacidade imprecisa**
+**Usuário exibido como superalocado devido a uma capacidade imprecisa**
 
 _Balanceador de carga de trabalho_
 
@@ -90,15 +90,15 @@ Ao alterar o intervalo de datas, a alocação está adequada. No entanto, ao atu
 
 _Quadros_
 
-Quando um usuário tenta pesquisar quadros, a pesquisa não retorna todos os cartões que atendem aos critérios de pesquisa.
+Quando tentam pesquisar quadros, a pesquisa não retorna todos os cartões que satisfazem os critérios da pesquisa.
 
-**Não é possível exibir a prova interativa no visualizador da Web**
+**Não é possível exibir a prova interativa no visualizador da web**
 
 _Provas_
 
-Quando um usuário tenta visualizar uma prova no visualizador de prova da Web, a prova não é exibida e o usuário vê o seguinte erro:
+Quando uma pessoa tenta visualizar uma prova no visualizador de provas da web, a prova não é exibida, e a pessoa vê o seguinte erro:
 
-&quot;[!UICONTROL Parâmetro de consulta Key-Pair-Id ou valor de cookie ausente]&quot;
+“[!UICONTROL Parâmetro de consulta Key-Pair-Id ou valor de cookie ausente]”
 
 **Não é possível criar uma nova versão de uma prova**
 
@@ -112,11 +112,11 @@ Quando uma pessoa tenta criar uma nova versão de uma prova, a nova versão não
 
 _Solicitações_
 
-Ao compartilhar uma solicitação, se o nível de acesso de um usuário com o qual a solicitação está sendo compartilhada for modificado, o usuário logo acima desse usuário na lista se tornará esse usuário.
+Ao compartilhar uma solicitação, quando o nível de acesso de um usuário com o qual a solicitação está sendo compartilhada é modificado, o usuário logo acima desse usuário na lista se torna esse usuário.
 
-Por exemplo, se a solicitação estiver sendo compartilhada com o Usuário A e o Usuário B, e o acesso do Usuário B for modificado, o Usuário A será alterado para o Usuário B, e agora há dois Usuários B na lista. Além disso, somente o acesso do usuário B superior foi modificado.
+Por exemplo, se a solicitação estiver sendo compartilhada com o Usuário A e com o Usuário B, e o acesso do Usuário B for modificado, o Usuário A será alterado para Usuário B, passando a haver dois Usuários B na lista. Além disso, somente o acesso do Usuário B superior é modificado.
 
-**&quot;[!UICONTROL Ops]&quot;erro no cabeçalho da tarefa**
+**Erro “[!UICONTROL Ops]” no cabeçalho da tarefa**
 
 _Tarefas_
 
@@ -128,13 +128,13 @@ Quando um usuário visualiza uma tarefa, o cabeçalho da tarefa não contém inf
 
 +++**Atualização de manutenção em 19 de outubro de 2023**
 
-Os usuários não são notificados sobre respostas em uma thread de comentários
+Os usuários não são notificados sobre respostas em um thread de comentários
 
 _Notificações_
 
-Quando um usuário responde a um comentário, outros usuários que devem receber notificações para a resposta não os recebem. Alguns usuários podem receber a notificação, enquanto outros não.
+Quando um usuário responde a um comentário, outros usuários que deveriam receber notificações sobre a resposta não as recebem. Alguns usuários podem receber a notificação, mas outros, não.
 
-**Comentário extra em branco ao fazer um comentário em uma prova**
+**Comentário em branco extra ao fazer um comentário em uma prova**
 
 _Provas_
 
@@ -142,47 +142,47 @@ Ao fazer um comentário em uma prova, um outro comentário em branco é criado.
 
 Esse problema foi relatado em provas de vídeo.
 
-**[!UICONTROL Atividade de prova] A guia não abre**
+A guia **[!UICONTROL Atividade da prova] não abre**
 
 _Provas_
 
-Quando um usuário está visualizando uma prova e clica no ícone [!UICONTROL Atividade de prova] guia, ela retornará o usuário à guia [!UICONTROL Detalhes da prova] guia.
+Quando um usuário está visualizando uma prova e clica na guia [!UICONTROL Atividade da prova], ela leva o usuário de volta à guia [!UICONTROL Detalhes da prova].
 
-**[!UICONTROL Horas planejadas] são realocados quando um usuário adicional é atribuído a uma tarefa**
+As **[!UICONTROL Horas planejadas] são realocadas quando uma tarefa é atribuída a um usuário adicional**
 
 _Tarefas_
 
-Quando um usuário é atribuído a uma tarefa que tenha [!UICONTROL Horas planejadas] alocado a outros atribuídos na tarefa, o nome da tarefa [!UICONTROL Horas planejadas] são distribuídos uniformemente para todos os atribuídos na tarefa.
+Quando uma tarefa que contenha [!UICONTROL Horas planejadas] alocadas a outros designados na tarefa é atribuída a um usuário, as [!UICONTROL Horas planejadas] da tarefa são distribuídas equitativamente para todos os designados na tarefa.
 
-**&quot;[!UICONTROL Excluído]&quot;é exibido como nome de usuário nas atualizações do sistema quando o problema é convertido em tarefa**
+**“[!UICONTROL Excluído]” é exibido como o nome de usuário nas atualizações do sistema quando um problema é convertido em tarefa**
 
 _Atualizações_
 
-Quando um usuário que está conectado como outro usuário converte um problema em uma tarefa e o problema é atribuído a uma equipe, as atualizações do sistema mostram &quot;[!UICONTROL Excluído]&quot; como o usuário que solicitou que a equipe trabalhasse na tarefa.
+Quando um usuário conectado como outro usuário converte um problema em tarefa e o problema é atribuído a uma equipe, as atualizações do sistema exibem “[!UICONTROL Excluído]” como nome do usuário que solicitou que a equipe trabalhasse na tarefa.
 
 +++
 
 +++**Atualização de manutenção em 12 de outubro de 2023**
 
-**Fluxos de trabalho removidos para contas que não os usam**
+**Fluxos de trabalho removidos em contas que não os usam**
 
 _Quadros_
 
-Para contas que nunca criaram um fluxo de trabalho no aplicativo Quadros, a área Fluxos de trabalho foi removida do painel Quadros. As contas que usam fluxos de trabalho ainda têm acesso a elas.
+Nas contas que nunca criaram um fluxo de trabalho no aplicativo Quadros, a área de fluxos de trabalho foi removida do painel de Quadros. As contas que usam fluxos de trabalho ainda têm acesso a eles.
 
-**Campos calculados não retêm valor quando o problema é convertido em tarefa**
+**Os campos calculados não retêm valores quando um problema é convertido em tarefa**
 
 _Formulários personalizados_
 
-Campos calculados que fazem referência a si mesmos não retêm seus valores quando um problema é convertido em uma tarefa.
+Os campos calculados que fazem referência a si mesmos não retêm seus valores quando um problema é convertido em tarefa.
 
-Ao converter o problema em uma tarefa, o valor desejado é exibido corretamente na janela de edição. No entanto, após a conclusão da conversão, o campo calculado exibe um &quot;N/a&quot;.
+Ao converter o problema em tarefa, o valor desejado é exibido corretamente na janela de edição. No entanto, após a conclusão da conversão, o campo calculado exibe “N/A”.
 
-**Erro ao alterar filtros em [!UICONTROL Início]**
+**Erro ao alterar filtros na [!UICONTROL Página inicial]**
 
 _Página inicial_
 
-Quando um usuário altera os filtros em [!UICONTROL Início], o [!UICONTROL Início] A área não é carregada e o usuário vê o seguinte erro:
+Quando um usuário altera os filtros na [!UICONTROL Página inicial], a área da [!UICONTROL Página inicial] não é carregada, e o usuário vê o seguinte erro:
 
 “[!UICONTROL Ocorreu um erro e estamos trabalhando para resolver o problema. Para continuar seu trabalho, tente atualizar esta página do navegador.]”
 
