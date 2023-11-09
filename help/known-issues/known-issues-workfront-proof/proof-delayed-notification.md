@@ -1,20 +1,20 @@
 ---
-title: "Workfront Proof: emails e notificações atrasados"
-description: "Quando ocorre um evento no Workfront Proof que deve acionar uma notificação ou um email, o usuário não recebe a notificação ou o email por várias horas. Isso pode causar confusão ou atrasos nos processos de trabalho."
+title: '“Prova do Workfront: emails e notificações atrasados”'
+description: Quando ocorre um evento na “Prova do Workfront” que deveria acionar uma notificação ou um email, o usuário não recebe a notificação ou o email por várias horas. Isso pode causar confusão ou atrasos nos processos de trabalho.
 hidefromtoc: true
 feature: Digital Content and Documents, Updates and Notifications
-source-git-commit: e24f394c40d48f2aa5b71c8f00c461a1537e4ebe
-workflow-type: tm+mt
+exl-id: ce44dca5-5bd8-4d05-9af5-a53be13dcd20
+source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
+workflow-type: ht
 source-wordcount: '86'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
-
 
 # [!UICONTROL Prova do Workfront]: emails e notificações atrasados
 
 <!--WF and WFP TOCs-->
 
-Quando um evento ocorre em [!UICONTROL Prova do Workfront] que deve acionar uma notificação ou um email, o usuário não recebe a notificação ou o email por várias horas. Isso pode causar confusão ou atrasos nos processos de trabalho.
+Quando um evento ocorre na [!UICONTROL Prova do Workfront] que deveria acionar uma notificação ou um email, o usuário não recebe a notificação ou o email por várias horas. Isso pode causar confusão ou atrasos nos processos de trabalho.
 
-_Reportado pela primeira vez em 25 de outubro de 2023._
+_Relatado pela primeira vez em 25 de outubro de 2023._
