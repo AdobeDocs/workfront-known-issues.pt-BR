@@ -1,15 +1,15 @@
 ---
-title: "Logon: mensagem de erro ao fazer logon"
-description: "Quando um usuário tenta fazer logon no [!DNL Workfront], eles verão uma mensagem de erro."
+title: '“Logon: mensagem de erro ao fazer logon”'
+description: Quando uma pessoa tenta fazer logon no [!DNL Workfront], ela vê uma mensagem de erro.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 97630935e3291c31114232cdd196ee0041a00609
-workflow-type: tm+mt
+exl-id: 44c5f1fb-2a6e-45b3-8f2b-fece5cd3e515
+source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 13%
+ht-degree: 100%
 
 ---
-
 
 # Logon: mensagem de erro ao fazer logon
 
@@ -17,10 +17,10 @@ ht-degree: 13%
 >
 >Esse problema foi corrigido em 26 de outubro de 2023.
 
-Quando um usuário tenta fazer logon no [!DNL Workfront], eles verão a seguinte mensagem de erro:
+Quando uma pessoa tenta fazer logon no [!DNL Workfront], ela vê a seguinte mensagem de erro:
 
-[!UICONTROL Erro: {&quot;err&quot;:{&quot;name&quot;:&quot;Validation Error&quot;,&quot;statusCode&quot;:400,&quot;message&quot;:&quot;Expect one user but found 0. dell preview (Nome do usuário)&quot;}}]
+[!UICONTROL Erro: {&quot;err&quot;:{&quot;name&quot;:&quot;Validation Error&quot;,&quot;statusCode&quot;:400,&quot;message&quot;:&quot;Expect one user but found 0. dell preview (User&#39;s name)&quot;}}]
 
-Esse problema foi relatado na organização que foi integrada à [!DNL Adobe Admin Consol]e.
+Esse problema foi relatado na organização que foi integrada ao [!DNL Adobe Admin Consol].
 
 _Relatado pela primeira vez em 16 de agosto de 2023._
