@@ -1,22 +1,22 @@
 ---
-title: "Quadros: a pesquisa não funciona"
-description: "Quando um usuário tenta pesquisar quadros, a pesquisa não retorna todos os cartões que atendem aos critérios de pesquisa."
+title: '“Quadros: a pesquisa não está funcionando”'
+description: Quando tentam pesquisar quadros, a pesquisa não retorna todos os cartões que satisfazem os critérios da pesquisa.
 hidefromtoc: true
 feature: Agile
-source-git-commit: da113ea4babc7eaeadc80f73aabd45d9482ad620
-workflow-type: tm+mt
+exl-id: 8f0dd99e-3f0c-4cb4-8433-de8fdc02403c
+source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
+workflow-type: ht
 source-wordcount: '60'
-ht-degree: 16%
+ht-degree: 100%
 
 ---
 
-
-# Quadros: a pesquisa não funciona
+# Quadros: a pesquisa não está funcionando
 
 >[!NOTE]
 >
 >Esse problema foi corrigido em 26 de outubro de 2023.
 
-Quando um usuário tenta pesquisar quadros, a pesquisa não retorna todos os cartões que atendem aos critérios de pesquisa.
+Quando tentam pesquisar quadros, a pesquisa não retorna todos os cartões que satisfazem os critérios da pesquisa.
 
-_Reportado pela primeira vez em 6 de outubro de 2023._
+_Relatado pela primeira vez em 6 de outubro de 2023._
