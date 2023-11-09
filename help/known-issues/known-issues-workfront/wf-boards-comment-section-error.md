@@ -3,15 +3,19 @@ title: "Quadros: erro na seção Comentários de um cartão"
 description: "Quando um usuário visualiza um cartão em um quadro, a variável [!UICONTROL Comentários] A seção não exibe comentários ou permite que o usuário faça um comentário. Em vez disso, a seção exibe um erro."
 hidefromtoc: true
 feature: Agile
-source-git-commit: bf9935f1482712d2835e3e9e4a7a9b68275dcf1a
+source-git-commit: 510d269306ca0619435caba2682fd4fdccc4e1f9
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 12%
+source-wordcount: '96'
+ht-degree: 17%
 
 ---
 
 
 # Quadros: erro na seção Comentários de um cartão
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em 2 de novembro de 2023.
 
 Quando um usuário visualiza um cartão em um quadro, a variável [!UICONTROL Comentários] A seção não exibe comentários ou permite que o usuário faça um comentário. Em vez disso, a seção exibe o seguinte erro:
 
