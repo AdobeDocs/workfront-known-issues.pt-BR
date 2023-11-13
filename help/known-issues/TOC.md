@@ -5,7 +5,7 @@ role: User
 source-git-commit: e9ef61fab8a1c433ead6b9c49a6f60eb81bca628
 workflow-type: tm+mt
 source-wordcount: '1637'
-ht-degree: 91%
+ht-degree: 98%
 
 ---
 
@@ -20,16 +20,16 @@ ht-degree: 91%
       + [[!UICONTROL Início]: as tarefas não aparecem no [!UICONTROL Meu trabalho] widget](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md)
       + [Tarefas: as datas da tarefa ficam esmaecidas por um tempo estendido ao recalcular a linha de tempo](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md)
       + [Quadros: não é possível editar a cor da tag](known-issues-workfront/wf-boards-cannot-edit-tag-color.md)
-      + [Notificações: a notificação por email não é recebida quando o usuário está marcado em um comentário](known-issues-workfront/wf-notif-email-not-received.md)
-      + [Quadros: problemas ao visualizar o status de subtarefas](known-issues-workfront/wf-boards-issues-with-subtask-status.md)
-      + [Painel: margem grande em branco ao imprimir painel no PDF](known-issues-workfront/wf-dashboard-blank-area-when-printing.md)
-      + [Página inicial: as tarefas em projetos com status Aprovado ou Planejamento não são incluídas em Minhas tarefas ou na Lista de trabalho da página inicial](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
-      + [Modelos: as tarefas filho aparecem fora de ordem quando movidas para a tarefa pai](known-issues-workfront/wf-templates-children-tasks-out-of-order.md)
-      + [Página inicial: aprovação paralisada [!UICONTROL Aguardando minha aprovação] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)
-      + [Provas: problemas com a ativação do estágio](known-issues-workfront/wf-proofs-stage-activation-issues.md)
-      + [Provas: navegação estrutural ausente ao acessar a prova do link de email](known-issues-workfront/wf-proofs-breadcrumb-missing.md)
-      + [Solicitações: os campos são limpos quando um documento é adicionado a uma solicitação](known-issues-workfront/wf-requests-fields-blank-when-doc-added.md)
-      + [Atualizações: linhas extras no comentário feitas por meio da API ou [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md)
+      + [Notificações: notificações por email não são recebidas quando a pessoa é marcada em um comentário](known-issues-workfront/wf-notif-email-not-received.md)
+      + [Quadros: problemas ao visualizar os status de subtarefas](known-issues-workfront/wf-boards-issues-with-subtask-status.md)
+      + [Painel: grande margem em branco ao imprimir o painel para PDF](known-issues-workfront/wf-dashboard-blank-area-when-printing.md)
+      + [Página inicial: as tarefas em projetos com status Aprovado ou Em planejamento não são incluídas em Minhas tarefas ou na Lista de trabalho da página inicial](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
+      + [Modelos: tarefas derivadas aparecem fora de ordem quando movidas sob a tarefa principal](known-issues-workfront/wf-templates-children-tasks-out-of-order.md)
+      + [Página inicial: aprovação paralisada no dispositivo [!UICONTROL Aguardando minha aprovação]](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)
+      + [Provas: problemas com a ativação de estágios](known-issues-workfront/wf-proofs-stage-activation-issues.md)
+      + [Provas: navegação estrutural ausente ao acessar uma prova a partir de um link de email](known-issues-workfront/wf-proofs-breadcrumb-missing.md)
+      + [Solicitações: campos são apagados quando um documento é adicionado a uma solicitação](known-issues-workfront/wf-requests-fields-blank-when-doc-added.md)
+      + [Atualizações: linhas extras em comentários feitos por meio de uma API ou do  [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md)
       + [Atualizações: comentários anexados às atualizações do sistema não são exibidos](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md)
       + [Quadros: erro na seção Comentários de um cartão](known-issues-workfront/wf-boards-comment-section-error.md)
       + [[!UICONTROL Balanceador de carga de trabalho]: o [!UICONTROL Balanceador de carga de trabalho] está demorando para carregar](known-issues-workfront/wf-workload-balancer-loads-slowly.md)
@@ -118,7 +118,7 @@ ht-degree: 91%
       + [Projetos/tarefas/problemas: a linha do tempo não é recalculada](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md)
       + [Filtros: as opções “[!UICONTROL Habilitar em todo o sistema]” e “[!UICONTROL Exibir em todo o sistema]” apresentam funcionalidades diferentes](known-issues-workfront/wf-filters-enable-system-wide.md)
       + [Relatórios: o relatório de utilização não é carregado](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)
-      + [Provas: as opções de aprovação não aparecem no [!UICONTROL Visualizador de prova]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
+      + [ Provas: as opções de aprovação não aparecem no [!UICONTROL Visualizador de prova]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
       + [[!UICONTROL Página inicial]: itens não aparecem na [!UICONTROL lista de trabalho da página inicial]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)
       + [Provas: as provas são criadas lentamente no ambiente de visualização](known-issues-workfront/wf-proofs-in-preview-created-slowly.md)
       + [Relatórios: o relatório não classifica corretamente ao classificar por qualquer campo](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)

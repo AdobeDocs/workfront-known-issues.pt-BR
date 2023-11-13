@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 6d6d3c180a739413f28f132a23b4d91ad1b80c72
 workflow-type: tm+mt
 source-wordcount: '6903'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -24,11 +24,11 @@ Para obter atualizações de manutenção anteriores a 2023, consulte [Atualiza�
 
 +++**Atualização de manutenção em 9 de novembro de 2023**
 
-**Objetos ausentes no widget Meu trabalho quando não está na parte superior da página**
+**Objetos ausentes no dispositivo Meu trabalho quando não ele está no topo da página**
 
 _Página inicial_
 
-Se o widget Meu trabalho estiver na parte superior da nova página inicial, ele extrai todos os objetos esperados. No entanto, se esse widget estiver abaixo de qualquer outro widget na página, ele extrai apenas 10 objetos.
+O dispositivo Meu trabalho exibirá todos os objetos esperados se estiver no topo da nova Página inicial. No entanto, se ele estiver abaixo de qualquer outro dispositivo na página, ele exibirá apenas 10 objetos.
 
 **Não é possível gerar a prova**
 
@@ -40,13 +40,13 @@ Quando um usuário tenta gerar uma prova, ela não é criada e o usuário vê o 
 
 Isso ocorre quando é desabilitada a configuração de nível de acesso do usuário[!UICONTROL  Exibir informações de contato].
 
-**Os campos são limpos quando um documento é adicionado a uma solicitação**
+**Campos são apagados quando um documento é adicionado a uma solicitação**
 
 _Solicitações_
 
-Quando um usuário cria uma solicitação, preenche campos em um formulário e, em seguida, adiciona ou remove um documento, alguns campos no formulário são apagados dos dados e o usuário deve preenchê-los novamente antes de enviar a solicitação.
+Quando uma pessoa cria uma solicitação, preenche campos em um formulário e, em seguida, adiciona ou remove um documento, alguns campos no formulário têm os dados apagados e é necessário preenchê-los novamente antes de enviar a solicitação.
 
-**A tarefa pessoal aparece na folha de horas**
+**Tarefas pessoais aparecem na folha de horas**
 
 _Folhas de horas_
 
@@ -54,13 +54,13 @@ Quando um usuário cria uma tarefa no widget [!UICONTROL To do] da nova experiê
 
 +++
 
-+++**Atualização de manutenção (hotfix) em 3 de novembro de 2023**
++++**Atualização de manutenção (Hot Fix) em 3 de novembro de 2023**
 
-**Tarefas secundárias aparecem fora de ordem quando movidas para a tarefa principal**
+**Tarefas derivadas aparecem fora de ordem quando movidas sob a tarefa principal**
 
 _Modelos_
 
-Quando um usuário cria tarefas em um modelo e, em seguida, move essas tarefas em uma tarefa pai, os números atribuídos às tarefas filho não aparecem na ordem esperada. Portanto, quando a página é atualizada, as tarefas filho são classificadas pelos números de tarefa inesperados e, portanto, as tarefas filho estão fora de ordem.
+Quando uma pessoa cria tarefas em um modelo e as move sob uma tarefa principal, os números atribuídos a essas tarefas derivadas não aparecem na ordem esperada. Assim, quando a página é atualizada, as tarefas derivadas são classificadas por números de tarefa inesperados e, portanto, fora de ordem.
 
 +++
 
