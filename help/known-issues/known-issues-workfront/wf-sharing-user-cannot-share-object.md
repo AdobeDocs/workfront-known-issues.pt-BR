@@ -1,13 +1,13 @@
 ---
 title: 'Compartilhamento: erro ao compartilhar um objeto'
-description: Quando um usuário tenta compartilhar um objeto, ele não é compartilhado e o usuário vê uma mensagem de erro.
+description: Quando uma pessoa tenta compartilhar um objeto, ele não é compartilhado e uma mensagem de erro é exibida.
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 32bdda48-219a-4251-b345-40f68d02cbe8
 source-git-commit: 25dc6be9ec798c4d75916d093f8e80227c0e17cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 

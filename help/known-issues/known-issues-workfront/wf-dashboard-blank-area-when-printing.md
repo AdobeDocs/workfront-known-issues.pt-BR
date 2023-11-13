@@ -1,19 +1,19 @@
 ---
-title: "Painel: grande margem em branco ao imprimir painel no PDF"
-description: "Quando um usuário imprime um painel em PDF usando a orientação paisagem, o PDF mostra uma grande margem em branco no lado direito."
+title: '“Painel: grande margem em branco ao imprimir o painel para PDF”'
+description: “Quando uma pessoa imprime um painel para PDF usando a orientação paisagem, o PDF mostra uma grande margem em branco no lado direito.”
 hidefromtoc: true
 feature: Reports and Dashboards
 source-git-commit: 359264a4697b783f79ef8df000216d259106d96d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
 
-# Painel: margem grande em branco ao imprimir painel no PDF
+# Painel: grande margem em branco ao imprimir o painel para PDF
 
-Quando um usuário imprime um painel em PDF usando a orientação paisagem, o PDF mostra uma grande margem em branco no lado direito.
+Quando uma pessoa imprime um painel para PDF usando a orientação paisagem, o PDF mostra uma grande margem em branco no lado direito.
 
 **Solução alternativa**
 

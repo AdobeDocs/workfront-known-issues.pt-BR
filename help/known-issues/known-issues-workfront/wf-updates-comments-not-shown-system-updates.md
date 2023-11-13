@@ -1,12 +1,12 @@
 ---
-title: "Atualizações: comentários anexados às atualizações do sistema não são exibidos"
-description: '"Quando um usuário faz um comentário em uma ação do sistema (como alteração de status), esse comentário não é exibido na área Atualizações. ”'
+title: '“Atualizações: comentários anexados às atualizações do sistema não são exibidos”'
+description: “Quando alguém faz um comentário em uma ação do sistema (como alteração de status), esse comentário não é exibido na área Atualizações. ”
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: bf9935f1482712d2835e3e9e4a7a9b68275dcf1a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 5%
 
 -->
 
-Quando um usuário faz um comentário em uma ação do sistema (como alteração de status), esse comentário não é exibido na área Atualizações.
+Quando alguém faz um comentário em uma ação do sistema (como alteração de status), esse comentário não é exibido na área Atualizações.
 
 Esse problema foi relatado na nova experiência de comentários.
 
