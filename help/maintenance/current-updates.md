@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 6d6d3c180a739413f28f132a23b4d91ad1b80c72
+source-git-commit: 1aa3bc3a748e6fbde7616dd5a0408dfd5fb1006e
 workflow-type: tm+mt
-source-wordcount: '6903'
-ht-degree: 100%
+source-wordcount: '7087'
+ht-degree: 99%
 
 ---
 
@@ -21,6 +21,32 @@ As seguintes atualizações de manutenção foram efetuadas em 2023.
 Para obter atualizações de manutenção anteriores a 2023, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em novembro de 2023
+
++++**(Planejado) Atualização de manutenção em 16 de novembro de 2023**
+
+**As horas orçadas no relatório de utilização não correspondem às horas orçadas relatadas pela API**
+
+_Relatórios_
+
+Quando um usuário faz uma chamada de API para o objeto RPBGHR de um determinado projeto e compara os resultados dessa chamada com o relatório de utilização desse projeto, os resultados não correspondem.
+
+**Moeda personalizada incorreta exibida na página Nova solicitação**
+
+_Solicitações_
+
+Quando um usuário envia uma solicitação e faz uma seleção que altera a lógica de exibição no formulário de solicitação, a moeda exibida é revertida para a moeda padrão em vez da moeda personalizada definida no projeto que a fila de solicitações representa.
+
+Quando o usuário envia sua solicitação, a moeda é exibida como a moeda personalizada correta para o projeto que a fila de solicitações representa
+
+**Linhas extras no comentário feitas por meio da API ou[!DNL Workfront Fusion]**
+
+_Atualizações_
+
+Quando uma pessoa envia um comentário por meio de uma API ou do [!DNL Workfront Fusion], o comentário exibido na área Atualizações mostra linhas extras. Às vezes, há tantas linhas que a pessoa precisa rolar para baixo para ver o conteúdo do comentário.
+
+Esse problema foi relatado na nova experiência de comentários.
+
++++
 
 +++**Atualização de manutenção em 9 de novembro de 2023**
 
