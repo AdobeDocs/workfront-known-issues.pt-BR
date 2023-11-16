@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e9ef61fab8a1c433ead6b9c49a6f60eb81bca628
+source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
 workflow-type: tm+mt
-source-wordcount: '838'
-ht-degree: 97%
+source-wordcount: '803'
+ht-degree: 96%
 
 ---
 
@@ -46,9 +46,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | [Página inicial: aprovação paralisada no dispositivo [!UICONTROL Aguardando minha aprovação]](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 3 de novembro de 2023 |
 | [Provas: problemas com a ativação de estágios](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 3 de novembro de 2023 |
 | [Provas: navegação estrutural ausente ao acessar uma prova a partir de um link de email](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 de novembro de 2023 |
-| [Atualizações: linhas extras em comentários feitos por meio de uma API ou do  [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md) | 2 de novembro de 2023 |
-| [Solicitações: moeda personalizada incorreta exibida na página “Nova solicitação”](known-issues-workfront/wf-requests-custom-currency.md) | 30 de outubro de 2023 |
-| [Relatórios: as horas orçadas no relatório de utilização não correspondem às horas orçadas relatadas por meio da API](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 30 de outubro de 2023 |
 | [[!DNL Workfront Proof]: carimbo de data e hora incorreto no [!UICONTROL Resumo da prova]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 27 de outubro de 2023 |
 | [Provas: erro ao compartilhar prova do link de email](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26 de outubro de 2023 |
 | [Quadros: os cartões esperados não estão sendo exibidos no quadro](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | 26 de outubro de 2023 |

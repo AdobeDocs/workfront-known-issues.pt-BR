@@ -3,9 +3,9 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 1aa3bc3a748e6fbde7616dd5a0408dfd5fb1006e
+source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
 workflow-type: tm+mt
-source-wordcount: '7087'
+source-wordcount: '7086'
 ht-degree: 99%
 
 ---
@@ -22,7 +22,7 @@ Para obter atualizações de manutenção anteriores a 2023, consulte [Atualiza�
 
 ## Atualizações em novembro de 2023
 
-+++**(Planejado) Atualização de manutenção em 16 de novembro de 2023**
++++**Atualização de manutenção em 16 de novembro de 2023**
 
 **As horas orçadas no relatório de utilização não correspondem às horas orçadas relatadas pela API**
 
@@ -48,7 +48,7 @@ Esse problema foi relatado na nova experiência de comentários.
 
 +++
 
-+++**Atualização de manutenção em 9 de novembro de 2023**
+    +++**Atualização de manutenção em 9 de novembro de 2023**
 
 **Objetos ausentes no dispositivo Meu trabalho quando não ele está no topo da página**
 

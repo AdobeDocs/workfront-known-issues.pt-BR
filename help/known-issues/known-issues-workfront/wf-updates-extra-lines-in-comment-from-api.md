@@ -3,15 +3,19 @@ title: '“Atualizações: linhas extras em comentários feitos por meio de uma 
 description: “Quando uma pessoa envia um comentário por meio de uma API ou do Workfront Fusion, o comentário exibido na área Atualizações mostra linhas extras. Às vezes, há tantas linhas que a pessoa precisa rolar para baixo para ver o conteúdo do comentário.”
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 1854e4a003722f1398c703dfba7bc23ef534f81f
-workflow-type: ht
-source-wordcount: '167'
+source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
+workflow-type: tm+mt
+source-wordcount: '173'
 ht-degree: 100%
 
 ---
 
 
 # Atualizações: linhas extras em comentários feitos por meio de uma API ou do [!DNL Workfront Fusion]
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em 16 de novembro de 2023.
 
 Quando uma pessoa envia um comentário por meio de uma API ou do [!DNL Workfront Fusion], o comentário exibido na área Atualizações mostra linhas extras. Às vezes, há tantas linhas que a pessoa precisa rolar para baixo para ver o conteúdo do comentário.
 
