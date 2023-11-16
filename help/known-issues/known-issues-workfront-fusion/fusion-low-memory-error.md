@@ -3,15 +3,19 @@ title: '“Workfront Fusion: erro de pouca memória”'
 description: “Falha na execução de um cenário com um erro de pouca memória. Isso pode ocorrer mesmo que o cenário tenha sido executado com sucesso anteriormente.”
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: a6d3a340e7452f45cb568ee4383ab7bfb55c5c34
-workflow-type: ht
-source-wordcount: '62'
+source-git-commit: 80cd493b72fb2732234e78b683afe071f8bd9545
+workflow-type: tm+mt
+source-wordcount: '90'
 ht-degree: 100%
 
 ---
 
 
 # Workfront Fusion: erro de pouca memória
+
+>[!NOTE]
+>
+>A equipe do produto está avaliando a resolução do problema, que pode exigir melhorias do produto. As melhorias do produto são comunicadas nos Anúncios do produto e não nas Atualizações de manutenção.
 
 Falha na execução de um cenário com um erro de pouca memória. Isso pode ocorrer mesmo que o cenário tenha sido executado com sucesso anteriormente.
 
