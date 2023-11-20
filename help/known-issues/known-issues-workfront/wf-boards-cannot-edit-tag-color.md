@@ -4,9 +4,9 @@ description: "Quando um usuário tenta editar a cor de uma tag existente no Gere
 hidefromtoc: true
 feature: Agile
 source-git-commit: 0bec78610e0e035d89b60a53d08cf07ef80c0753
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '108'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 

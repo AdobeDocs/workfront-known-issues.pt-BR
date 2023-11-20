@@ -4,9 +4,9 @@ description: '"Quando um usuário faz uma alteração em uma lista de tarefas qu
 hidefromtoc: true
 feature: Tasks
 source-git-commit: 0bec78610e0e035d89b60a53d08cf07ef80c0753
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '149'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
