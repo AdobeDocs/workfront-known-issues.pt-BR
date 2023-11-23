@@ -1,25 +1,25 @@
 ---
-title: "Modelos: não é possível selecionar o modelo em [!UICONTROL Favoritos] lista"
-description: "Quando um usuário tenta selecionar um modelo na variável [!UICONTROL Favoritos] desaparece quando o usuário move o mouse para a lista e o usuário não consegue selecionar um modelo."
+title: '“Modelos: não é possível selecionar o modelo da lista de [!UICONTROL Favoritos]”'
+description: “Quando um usuário tenta selecionar um modelo da lista de [!UICONTROL Favoritos], a lista desaparece quando a pessoa move o mouse em direção à lista, impossibilitando a seleção de um modelo.”
 hidefromtoc: true
 feature: Projects
 source-git-commit: 6a29302c5a3b9e593f9cc9adf2948a6928bfd291
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '118'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
 
-# Modelos: não é possível selecionar o modelo em [!UICONTROL Favoritos] lista
+# Modelos: não é possível selecionar o modelo da lista de [!UICONTROL Favoritos]
 
-Quando um usuário tenta selecionar um modelo na variável [!UICONTROL Favoritos] lista, a lista desaparece quando o usuário move o mouse para a lista e não consegue selecionar um modelo.
+Quando um usuário tenta selecionar um modelo da lista de [!UICONTROL Favoritos], a lista desaparece quando a pessoa move o mouse em direção à lista, impossibilitando a seleção de um modelo.
 
 **Solução alternativa**
 
 Siga um destes procedimentos:
 
-* Mova o mouse de volta para a [!UICONTROL Modelos favoritos] e tente mover o mouse sobre a lista novamente. Isso pode levar várias tentativas.
-* Use as teclas de seta para selecionar o template.
+* Mova o mouse de volta para a opção [!UICONTROL Modelos favoritos] e tente mover o mouse sobre a lista novamente. Podem ser necessárias várias tentativas.
+* Use as teclas de seta para selecionar o modelo.
 
 _Relatado pela primeira vez em 14 de novembro de 2023._

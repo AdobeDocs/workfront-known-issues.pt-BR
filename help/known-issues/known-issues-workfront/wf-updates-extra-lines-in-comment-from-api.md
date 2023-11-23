@@ -4,7 +4,7 @@ description: “Quando uma pessoa envia um comentário por meio de uma API ou do
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '173'
 ht-degree: 100%
 

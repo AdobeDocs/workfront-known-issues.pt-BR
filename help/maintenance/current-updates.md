@@ -4,9 +4,9 @@ description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '7086'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -24,13 +24,13 @@ Para obter atualizações de manutenção anteriores a 2023, consulte [Atualiza�
 
 +++**Atualização de manutenção em 16 de novembro de 2023**
 
-**As horas orçadas no relatório de utilização não correspondem às horas orçadas relatadas pela API**
+**As horas orçadas no relatório de utilização não correspondem às horas orçadas relatadas por meio da API**
 
 _Relatórios_
 
 Quando um usuário faz uma chamada de API para o objeto RPBGHR de um determinado projeto e compara os resultados dessa chamada com o relatório de utilização desse projeto, os resultados não correspondem.
 
-**Moeda personalizada incorreta exibida na página Nova solicitação**
+**É exibida a moeda personalizada incorreta na página Nova solicitação**
 
 _Solicitações_
 
@@ -38,7 +38,7 @@ Quando um usuário envia uma solicitação e faz uma seleção que altera a lóg
 
 Quando o usuário envia sua solicitação, a moeda é exibida como a moeda personalizada correta para o projeto que a fila de solicitações representa
 
-**Linhas extras no comentário feitas por meio da API ou[!DNL Workfront Fusion]**
+**Linhas extras em comentários feitos por meio da API ou do[!DNL Workfront Fusion]**
 
 _Atualizações_
 
