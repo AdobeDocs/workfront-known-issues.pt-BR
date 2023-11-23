@@ -6,8 +6,8 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: 41df80641db82b225753338d8564e12b90566c40
 workflow-type: tm+mt
-source-wordcount: '814'
-ht-degree: 96%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -26,7 +26,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
 | [Quadros: o cartão é exibido em vários sprints](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 21 de novembro de 2023 |
-| [Modelos: não é possível selecionar o modelo em [!UICONTROL Favoritos] lista](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 16 de novembro de 2023 |
+| [Modelos: não é possível selecionar o modelo da lista de [!UICONTROL Favoritos]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 16 de novembro de 2023 |
 | [[!UICONTROL Início]: as tarefas não aparecem no [!UICONTROL Meu trabalho] widget](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md) | 13 de novembro de 2023 |
 | [Quadros: não é possível editar a cor da tag](known-issues-workfront/wf-boards-cannot-edit-tag-color.md) | 10 de novembro de 2023 |
 | [Quadros: problemas ao visualizar os status de subtarefas](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 8 de novembro de 2023 |
