@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
-workflow-type: ht
-source-wordcount: '7086'
-ht-degree: 100%
+source-git-commit: 93ea563ee9bae7911c043e4ac94bf12cc8cffbbd
+workflow-type: tm+mt
+source-wordcount: '7227'
+ht-degree: 99%
 
 ---
 
@@ -21,6 +21,34 @@ As seguintes atualizações de manutenção foram efetuadas em 2023.
 Para obter atualizações de manutenção anteriores a 2023, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em novembro de 2023
+
++++**(Planejado) Atualização de manutenção em 30 de novembro de 2023**
+
+**As tarefas não aparecem em [!UICONTROL Meu trabalho] widget**
+
+_[!UICONTROL Página inicial]_
+
+Quando um usuário visualiza seus [!UICONTROL Meu trabalho] widget em [!UICONTROL Início], algumas tarefas às quais estão atribuídos não são exibidas no widget. Por exemplo, um usuário ou usuária pode ir para um projeto e ver que tarefas lhe foram atribuídas, mas essas tarefas não aparecem no dispositivo [!UICONTROL Meu trabalho].
+
+**A página de logon redireciona para a página de destino de logout**
+
+_Logon_
+
+Quando uma pessoa tenta fazer logon no [!DNL Workfront], em vez da página de logon, a pessoa é direcionada para a página que apareceria se fizesse logout.
+
+**Erro 500 ao exportar um relatório**
+
+_Relatórios_
+
+Quando alguém tenta exportar um relatório, a exportação falha com o seguinte erro:
+
+```
+500: Cannot invoke "Object.getClass()" because "parentObj" is null /attask/api-internal/report/export
+```
+
+Esse problema foi relatado em relatórios que usam um `valueexpression` para referenciar o texto da nota `lastNote`.
+
++++
 
 +++**Atualização de manutenção em 16 de novembro de 2023**
 
@@ -48,7 +76,7 @@ Esse problema foi relatado na nova experiência de comentários.
 
 +++
 
-    +++**Atualização de manutenção em 9 de novembro de 2023**
++++**Atualização de manutenção em 9 de novembro de 2023**
 
 **Objetos ausentes no dispositivo Meu trabalho quando não ele está no topo da página**
 
