@@ -1,23 +1,23 @@
 ---
-title: "Formulários personalizados: não é possível adicionar ou remover formulários personalizados em massa em tarefas de modelo"
-description: "Se um usuário tentar adicionar ou remover um formulário personalizado em massa em uma tarefa de modelo, o formulário não será adicionado ou removido e o usuário verá um erro."
+title: '“Formulários personalizados: não é possível adicionar ou remover formulários personalizados em massa em tarefas de modelo”'
+description: Se uma pessoa tentar adicionar ou remover formulários personalizados em massa em uma tarefa de modelo, eles não serão adicionados ou removidos e um erro será exibido.
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: 41df80641db82b225753338d8564e12b90566c40
-workflow-type: tm+mt
+exl-id: e9014f67-2098-46e4-a301-6a742a0c2ddb
+source-git-commit: 45cea090d9e54514be9983b5443e7ee54b1f2d94
+workflow-type: ht
 source-wordcount: '153'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
-
 # Formulários personalizados: não é possível adicionar ou remover formulários personalizados em massa em tarefas de modelo
 
-Se um usuário tentar adicionar ou remover um formulário personalizado em massa em uma tarefa de modelo, o formulário não será adicionado ou removido e o usuário verá o seguinte erro:
+Se uma pessoa tentar adicionar ou remover formulários personalizados em massa em uma tarefa de modelo, eles não serão adicionados ou removidos e o seguinte erro é exibido:
 
-[!UICONTROL Vamos tentar novamente. Parâmetro inválido: valor de templateID &quot;XXXXXXXXXXXXXXXX&quot;]
+[!UICONTROL Vamos tentar novamente. Parâmetro inválido: valor da ID do modelo &quot;XXXXXXXXXXXXXXXX&quot;]
 
-Se o usuário localizar o modelo com a GUID especificada e tentar adicionar ou remover formulários personalizados no restante das tarefas do modelo, o erro ocorrerá novamente usando outra templateID.
+Se a pessoa localizar o modelo com a GUID especificada e tentar adicionar ou remover formulários personalizados no restante das tarefas do modelo, o erro ocorrerá novamente usando outra ID de modelo.
 
 Formulários personalizados podem ser adicionados ou removidos em uma única tarefa de modelo. Esse erro se aplica somente à adição ou remoção em massa.
 
