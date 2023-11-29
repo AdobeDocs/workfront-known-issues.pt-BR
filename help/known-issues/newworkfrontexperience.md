@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 93ea563ee9bae7911c043e4ac94bf12cc8cffbbd
+source-git-commit: 8ccc1d7bc0d1d4fabc7e775713d44f5b5db43867
 workflow-type: tm+mt
-source-wordcount: '829'
-ht-degree: 98%
+source-wordcount: '841'
+ht-degree: 97%
 
 ---
 
@@ -43,6 +43,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
+| [Provas: provas com aprovação pendente não aparecem nos relatórios](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md) | 29 de novembro de 2023 |
 | [Formulários personalizados: não é possível adicionar ou remover formulários personalizados em massa em tarefas de modelo](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | 21 de novembro de 2023 |
 | [Relatórios: erro 500 ao exportar um relatório](known-issues-workfront/wf-reports-500-error-when-exporting.md) | 20 de novembro de 2023 |
 | [Tarefas: as datas da tarefa ficam esmaecidas por um tempo estendido ao recalcular a linha de tempo](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 10 de novembro de 2023 |

@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 93ea563ee9bae7911c043e4ac94bf12cc8cffbbd
+source-git-commit: 8ccc1d7bc0d1d4fabc7e775713d44f5b5db43867
 workflow-type: tm+mt
-source-wordcount: '1682'
-ht-degree: 99%
+source-wordcount: '1693'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Provas: provas com aprovação pendente não aparecem nos relatórios](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md)
       + [Tarefas: duplicar tarefas faz com que as tarefas sejam exibidas em ordem errada](known-issues-workfront/wf-tasks-duplicating-wrong-order.md)
       + [Documentos: não é possível acessar [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md)
       + [Formulários personalizados: não é possível adicionar ou remover formulários personalizados em massa em tarefas de modelo](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md)
