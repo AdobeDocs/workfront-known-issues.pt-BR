@@ -4,14 +4,18 @@ description: Quando alguém tenta exportar um relatório, a exportação falha c
 hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 5275a4f4-4786-4a87-970f-774dcd526a39
-source-git-commit: 45cea090d9e54514be9983b5443e7ee54b1f2d94
-workflow-type: ht
-source-wordcount: '59'
+source-git-commit: 88126bda7f7c51895ae512bb5f7686119febd32f
+workflow-type: tm+mt
+source-wordcount: '65'
 ht-degree: 100%
 
 ---
 
 # Relatórios: erro 500 ao exportar um relatório
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em 30 de novembro de 2023.
 
 Quando alguém tenta exportar um relatório, a exportação falha com o seguinte erro:
 
