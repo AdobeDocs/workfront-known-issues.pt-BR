@@ -5,7 +5,7 @@ role: User
 source-git-commit: d68bec64be9bd02478787a52c28dba14502d6635
 workflow-type: tm+mt
 source-wordcount: '1705'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 97%
       + [Quadros: os cartões movidos para uma coluna retornam à coluna original após a atualização](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md)
       + [Provas: provas com aprovação pendente não aparecem nos relatórios](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md)
       + [Tarefas: duplicar tarefas faz com que as tarefas sejam exibidas em ordem errada](known-issues-workfront/wf-tasks-duplicating-wrong-order.md)
-      + [Documentos: não é possível acessar [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md)
+      + [Documentos: não é possível acessar o  [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md)
       + [Formulários personalizados: não é possível adicionar ou remover formulários personalizados em massa em tarefas de modelo](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md)
       + [Quadros: o cartão é exibido em vários sprints](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md)
       + [Relatórios: erro 500 ao exportar um relatório](known-issues-workfront/wf-reports-500-error-when-exporting.md)

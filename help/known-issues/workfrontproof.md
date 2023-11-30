@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: 8ccc1d7bc0d1d4fabc7e775713d44f5b5db43867
 workflow-type: tm+mt
 source-wordcount: '390'
-ht-degree: 96%
+ht-degree: 97%
 
 ---
 
@@ -25,7 +25,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Documentos: não é possível acessar [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 27 de novembro de 2023 |
+| [Documentos: não é possível acessar o  [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 27 de novembro de 2023 |
 | [[!UICONTROL Prova do Workfront]: emails e notificações atrasados](known-issues-workfront-proof/proof-delayed-notification.md) | 26 de outubro de 2023 |
 
 {style="table-layout:auto"}
