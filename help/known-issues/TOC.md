@@ -4,8 +4,8 @@ user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
 source-git-commit: c32c77dd7adb55d2eb44520539ca375c577032ed
 workflow-type: tm+mt
-source-wordcount: '1734'
-ht-degree: 96%
+source-wordcount: '1743'
+ht-degree: 98%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 96%
       + [Tarefas/problemas: problemas ao adicionar itens de trabalho no modo de exibição Quadro de tarefas ou problemas](known-issues-workfront/wf-tasks-issues-board-view.md)
       + [Quadros: erro no [!UICONTROL Comentários] seção de cartões](known-issues-workfront/wf-boards-comments-section-error.md)
       + [Configuração: não é possível usar [!UICONTROL Início] para configurar agrupamentos](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md)
-      + [Quadros: os cartões movidos para uma coluna retornam à coluna original após a atualização](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md)
+      + [Quadros: os cartões movidos para uma coluna diferente retornam à coluna original após a atualização](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md)
       + [Provas: provas com aprovação pendente não aparecem nos relatórios](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md)
-      + [Tarefas: duplicar tarefas faz com que as tarefas sejam exibidas em ordem errada](known-issues-workfront/wf-tasks-duplicating-wrong-order.md)
+      + [Tarefas: duplicar tarefas faz com que as tarefas sejam exibidas na ordem errada](known-issues-workfront/wf-tasks-duplicating-wrong-order.md)
       + [Documentos: não é possível acessar o  [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md)
       + [Formulários personalizados: não é possível adicionar ou remover formulários personalizados em massa em tarefas de modelo](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md)
       + [Quadros: o cartão é exibido em vários sprints](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md)

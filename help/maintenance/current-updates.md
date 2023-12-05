@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 88126bda7f7c51895ae512bb5f7686119febd32f
 workflow-type: tm+mt
-source-wordcount: '7226'
+source-wordcount: '7245'
 ht-degree: 99%
 
 ---
@@ -22,9 +22,9 @@ Para obter atualizações de manutenção anteriores a 2023, consulte [Atualiza�
 
 ## Atualizações em novembro de 2023
 
-+++**Atualização de manutenção em 30 de novembro de 2023**
++++**Atualização de manutenção em sexta-feira, 30 de novembro de 2023**
 
-**As tarefas não aparecem em [!UICONTROL Meu trabalho] widget**
+**As tarefas não aparecem no dispositivo [!UICONTROL Meu trabalho] **
 
 _[!UICONTROL Página inicial]_
 
@@ -238,7 +238,7 @@ _Página inicial_
 
 Quando um usuário altera os filtros na [!UICONTROL Página inicial], a área da [!UICONTROL Página inicial] não é carregada, e o usuário vê o seguinte erro:
 
-“[!UICONTROL Ocorreu um erro e estamos trabalhando para resolver o problema. Para continuar seu trabalho, tente atualizar esta página do navegador.]”
+&quot;[!UICONTROL Ocorreu um erro e estamos trabalhando para resolver o problema. Para continuar com seu trabalho, tente atualizar esta página do navegador.]”
 
 +++
 
