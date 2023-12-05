@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 88126bda7f7c51895ae512bb5f7686119febd32f
+source-git-commit: eac66ce9ed7466d6fafd1075cf306825bbf7c07f
 workflow-type: tm+mt
-source-wordcount: '7245'
-ht-degree: 99%
+source-wordcount: '7401'
+ht-degree: 98%
 
 ---
 
@@ -19,6 +19,29 @@ As seguintes atualizações de manutenção foram efetuadas em 2023.
 >Essas atualizações também incluem outras correções de erros menores ou menos importantes. O suporte do [!DNL Workfront] enviará uma notificação quando um problema enviado por você for corrigido.
 
 Para obter atualizações de manutenção anteriores a 2023, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
+
+## Atualizações em dezembro de 2023
+
++++**Atualização de manutenção em sexta-feira, 7 de dezembro de 2023**
+
+**Aprovação paralisada em [!UICONTROL Aguardando minha aprovação] widget**
+
+_Página inicial_
+
+Quando uma nova versão de um documento é enviada e a versão anterior possui uma aprovação que não está concluída, a versão antiga do documento fica paralisada no dispositivo [!UICONTROL Aguardando minha aprovação] do seu aprovador. A aprovação nem pode ser aprovada, já que há uma nova versão, nem pode ser removida do dispositivo.
+
+**Problemas ao adicionar itens de trabalho no modo de exibição de tarefas ou problemas do painel**
+
+_Tarefas/Problemas_
+
+Quando um usuário visualiza a exibição Quadro da área Tarefas ou problemas em um projeto e tenta adicionar uma tarefa ou problema, o seguinte pode ocorrer:
+
+* A janela pop-up alterna entre dois estilos de janela diferentes
+* O usuário não consegue fechar a janela pop-up
+
+Isso foi relatado para ocorrer quando um usuário seleciona uma área na navegação à esquerda da janela pop-up antes de inserir qualquer informação.
+
++++
 
 ## Atualizações em novembro de 2023
 
