@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ca99d991b9b27b1149c15145786d5f773451c7d7
+source-git-commit: 9c3e2faa41af9dc6475323467a0592ab9d14d783
 workflow-type: tm+mt
-source-wordcount: '889'
-ht-degree: 94%
+source-wordcount: '865'
+ht-degree: 96%
 
 ---
 
@@ -43,7 +43,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 |----------------------------------| ----------------- |
 | [Status: [!UICONTROL Ops] erro ao ocultar o status](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | quinta-feira, 6 de dezembro de 2023 |
 | [Atualizações: algumas atualizações estão ausentes na nova experiência de comentários](known-issues-workfront/wf-updates-not-visible-in-new-experience.md) | quinta-feira, 6 de dezembro de 2023 |
-| [Tarefas/problemas: problemas ao adicionar itens de trabalho no modo de exibição Quadro de tarefas ou problemas](known-issues-workfront/wf-tasks-issues-board-view.md) | sábado, 1 de dezembro de 2023 |
 | [Folhas de horas: a tarefa pessoal aparece na folha de horas](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | sexta-feira, 30 de novembro de 2023 |
 | [Relatórios: as horas orçadas no relatório de utilização não correspondem às horas orçadas relatadas por meio da API](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | sexta-feira, 30 de novembro de 2023 |
 | [Tarefas: duplicar tarefas faz com que as tarefas sejam exibidas na ordem errada](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | sexta-feira, 30 de novembro de 2023 |
@@ -52,7 +51,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | [Tarefas: as datas da tarefa ficam esmaecidas por um tempo estendido ao recalcular a linha de tempo](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 10 de novembro de 2023 |
 | [Notificações: notificações por email não são recebidas quando a pessoa é marcada em um comentário](known-issues-workfront/wf-notif-email-not-received.md) | 8 de novembro de 2023 |
 | [Página inicial: as tarefas em projetos com status Aprovado ou Em planejamento não são incluídas em Minhas tarefas ou na Lista de trabalho da página inicial](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 6 de novembro de 2023 |
-| [Página inicial: aprovação paralisada no dispositivo [!UICONTROL Aguardando minha aprovação]](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 3 de novembro de 2023 |
 | [Provas: problemas com a ativação de estágios](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 3 de novembro de 2023 |
 | [Tarefas: erro “[!UICONTROL Ops]” no cabeçalho da tarefa](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 25 de outubro de 2023 |
 | [Provas: não é possível gerar prova](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 19 de outubro de 2023 |
