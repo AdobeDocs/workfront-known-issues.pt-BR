@@ -1,19 +1,19 @@
 ---
 title: '“Tarefas: duplicar tarefas faz com que as tarefas sejam exibidas na ordem errada”'
-description: '"Quando um usuário seleciona uma ou mais tarefas em uma lista de tarefas e as duplica, a lista de tarefas exibe as tarefas na ordem errada de acordo com o número da ordem da tarefa. As tarefas são numeradas corretamente, mas são exibidas na ordem errada. Uma solução alternativa está disponível.”'
+description: “Quando uma pessoa seleciona uma ou várias tarefas em uma lista de tarefas e as duplica, a lista exibe as tarefas na ordem errada em relação aos seus números de ordem. As tarefas são numeradas corretamente, mas são exibidas na ordem errada. Uma solução alternativa está disponível.”
 hidefromtoc: true
 feature: Tasks
 source-git-commit: c1551f44eebd810017b035334a21819afe1e8638
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
-ht-degree: 47%
+ht-degree: 100%
 
 ---
 
 
 # Tarefas: duplicar tarefas faz com que as tarefas sejam exibidas na ordem errada
 
-Quando um usuário seleciona uma ou mais tarefas em uma lista de tarefas e as duplica, a lista de tarefas exibe as tarefas na ordem errada de acordo com o número da ordem da tarefa. As tarefas são numeradas corretamente, mas são exibidas na ordem errada.
+Quando uma pessoa seleciona uma ou várias tarefas em uma lista de tarefas e as duplica, a lista exibe as tarefas na ordem errada em relação aos seus números de ordem. As tarefas são numeradas corretamente, mas são exibidas na ordem errada.
 
 **Solução alternativa**
 

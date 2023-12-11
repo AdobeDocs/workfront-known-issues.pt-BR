@@ -1,20 +1,20 @@
 ---
-title: "Quadros: erro na seção Comentários dos cartões"
-description: "Quando um usuário visualiza um cartão e rola até o [!UICONTROL Comentários], seção, os comentários não são exibidos e o usuário vê um erro."
+title: '“Quadros: erro na seção Comentários de cartões”'
+description: “Quando uma pessoa visualiza um cartão e rola até a seção [!UICONTROL Comentários], os comentários não são exibidos e ela vê um erro.”
 hidefromtoc: true
 feature: Agile
 source-git-commit: c32c77dd7adb55d2eb44520539ca375c577032ed
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 15%
+ht-degree: 100%
 
 ---
 
 
-# Quadros: erro no [!UICONTROL Comentários] seção de cartões
+# Quadros: erro na seção [!UICONTROL Comentários] de cartões
 
-Quando um usuário visualiza um cartão e rola para a [!UICONTROL Comentários], seção, os comentários não são exibidos e o usuário vê o seguinte erro:
+Quando uma pessoa visualiza um cartão e rola para a seção [!UICONTROL Comentários], os comentários não são exibidos e ela vê o seguinte erro:
 
 “[!UICONTROL Algo não deu certo. Tente novamente mais tarde.]&quot;
 
-_Relatado pela primeira vez em 23 de novembro de 2023._
+_Relatado pela primeira vez em sexta-feira, 23 de novembro de 2023._
