@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: eac66ce9ed7466d6fafd1075cf306825bbf7c07f
+source-git-commit: 26c2a3cb7fad72442064ded1bc368967e89176b0
 workflow-type: tm+mt
-source-wordcount: '7401'
-ht-degree: 98%
+source-wordcount: '7435'
+ht-degree: 99%
 
 ---
 
@@ -22,6 +22,15 @@ Para obter atualizações de manutenção anteriores a 2023, consulte [Atualiza�
 
 ## Atualizações em dezembro de 2023
 
++++**Atualização de manutenção em sexta-feira, 14 de dezembro de 2023**
+
+**Provas com aprovação pendente não aparecem nos relatórios**
+
+_Provas_
+
+Quando uma pessoa visualiza um relatório de aprovações de prova pendentes, algumas aprovações pendentes não aparecem no relatório.
++++
+
 +++**Atualização de manutenção em sexta-feira, 7 de dezembro de 2023**
 
 **Aprovação paralisada em [!UICONTROL Aguardando minha aprovação] widget**
@@ -34,12 +43,12 @@ Quando uma nova versão de um documento é enviada e a versão anterior possui u
 
 _Tarefas/Problemas_
 
-Quando um usuário visualiza a exibição Quadro da área Tarefas ou problemas em um projeto e tenta adicionar uma tarefa ou problema, o seguinte pode ocorrer:
+Quando uma pessoa visualiza a exibição de Quadro da área de tarefas ou problemas em um projeto e tenta adicionar uma tarefa ou problema, pode ocorrer o seguinte:
 
 * A janela pop-up alterna entre dois estilos de janela diferentes
-* O usuário não consegue fechar a janela pop-up
+* A pessoa não consegue fechar a janela pop-up
 
-Isso foi relatado para ocorrer quando um usuário seleciona uma área na navegação à esquerda da janela pop-up antes de inserir qualquer informação.
+Foi relatado que isso ocorre quando uma pessoa seleciona uma área na navegação à esquerda da janela pop-up antes de inserir qualquer informação.
 
 +++
 
