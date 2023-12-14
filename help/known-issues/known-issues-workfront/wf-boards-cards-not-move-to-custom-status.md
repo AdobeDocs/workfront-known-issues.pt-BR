@@ -1,17 +1,21 @@
 ---
-title: '“Quadros: os cartões movidos para uma coluna diferente retornam à coluna original após a atualização”'
-description: “Quando uma pessoa move um cartão para uma coluna diferente e, em seguida, atualiza a página ou retorna ao quadro, o cartão retorna à coluna original.”
+title: "Quadros: os cartões movidos para uma coluna retornam à coluna original após a atualização"
+description: Quando uma pessoa move um cartão para uma coluna diferente e, em seguida, atualiza a página ou retorna ao quadro, o cartão retorna à coluna original.
 hidefromtoc: true
 feature: Agile
-source-git-commit: d68bec64be9bd02478787a52c28dba14502d6635
-workflow-type: ht
-source-wordcount: '106'
-ht-degree: 100%
+exl-id: fd92be4b-a87b-4b99-9d19-fd69c4fa5afb
+source-git-commit: 85bb62f8752bba167a6633af8d9e58ff25283573
+workflow-type: tm+mt
+source-wordcount: '117'
+ht-degree: 89%
 
 ---
 
-
 # Quadros: os cartões movidos para uma coluna diferente retornam à coluna original após a atualização
+
+>[!NOTE]
+>
+>Este problema foi encerrado porque o programa está funcionando conforme projetado.
 
 Quando uma pessoa move um cartão para uma coluna diferente e, em seguida, atualiza a página ou retorna ao quadro, o cartão retorna à coluna original.
 
