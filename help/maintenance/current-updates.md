@@ -33,15 +33,15 @@ Quando uma pessoa visualiza um relatório de aprovações de prova pendentes, al
 
 +++**Atualização de manutenção em sexta-feira, 7 de dezembro de 2023**
 
-**Aprovação paralisada em [!UICONTROL Aguardando minha aprovação] widget**
+**Aprovação paralisada no dispositivo [!UICONTROL Aguardando minha aprovação]**
 
 _Página inicial_
 
 Quando uma nova versão de um documento é enviada e a versão anterior possui uma aprovação que não está concluída, a versão antiga do documento fica paralisada no dispositivo [!UICONTROL Aguardando minha aprovação] do seu aprovador. A aprovação nem pode ser aprovada, já que há uma nova versão, nem pode ser removida do dispositivo.
 
-**Problemas ao adicionar itens de trabalho no modo de exibição de tarefas ou problemas do painel**
+**Problemas ao adicionar itens de trabalho na Visualização do quadro de tarefas ou de problemas**
 
-_Tarefas/Problemas_
+_Tarefas / Problemas_
 
 Quando uma pessoa visualiza a exibição de Quadro da área de tarefas ou problemas em um projeto e tenta adicionar uma tarefa ou problema, pode ocorrer o seguinte:
 
@@ -270,7 +270,7 @@ _Página inicial_
 
 Quando um usuário altera os filtros na [!UICONTROL Página inicial], a área da [!UICONTROL Página inicial] não é carregada, e o usuário vê o seguinte erro:
 
-&quot;[!UICONTROL Ocorreu um erro e estamos trabalhando para resolver o problema. Para continuar com seu trabalho, tente atualizar esta página do navegador.]”
+“[!UICONTROL Ocorreu um erro e estamos trabalhando para resolver o problema. Para continuar com seu trabalho, tente atualizar esta página do navegador.]”
 
 +++
 
