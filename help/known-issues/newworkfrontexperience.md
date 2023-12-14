@@ -5,9 +5,9 @@ keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: 83cd4de3865bc0c1d2f462571ecccb7c13a257a6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '852'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
 | [Quadros: os cartões não são movidos para a coluna apropriada quando o status é alterado](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | sexta-feira, 7 de dezembro de 2023 |
-| [Quadros: erro no [!UICONTROL Comentários] seção de cartões](known-issues-workfront/wf-boards-comments-section-error.md) | sábado, 1 de dezembro de 2023 |
+| [Quadros: erro na seção [!UICONTROL Comentários] de cartões](known-issues-workfront/wf-boards-comments-section-error.md) | sábado, 1 de dezembro de 2023 |
 | [Quadros: os cartões movidos para uma coluna diferente retornam à coluna original após a atualização](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md) | 29 de novembro de 2023 |
 | [Documentos: não é possível acessar o  [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 27 de novembro de 2023 |
 | [Quadros: o cartão é exibido em vários sprints](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 21 de novembro de 2023 |
@@ -42,9 +42,9 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
-| [Configuração: status de problema padrão ausente de alguns tipos de problema na Configuração](known-issues-workfront/wf-setup-status-missing-from-issue-types.md) | sexta-feira, 7 de dezembro de 2023 |
-| [Página inicial: os widgets Meus projetos e Minhas tarefas exibem apenas 25 itens](known-issues-workfront/wf-home-widgets-show-25-items.md) | sexta-feira, 7 de dezembro de 2023 |
-| [Status: [!UICONTROL Ops] erro ao ocultar o status](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | quinta-feira, 6 de dezembro de 2023 |
+| [Configuração: status de problemas padrão ausentes de alguns tipos de problemas na Configuração](known-issues-workfront/wf-setup-status-missing-from-issue-types.md) | sexta-feira, 7 de dezembro de 2023 |
+| [Página inicial: os dispositivos Meus projetos e Minhas tarefas exibem apenas 25 itens](known-issues-workfront/wf-home-widgets-show-25-items.md) | sexta-feira, 7 de dezembro de 2023 |
+| [Status: erro “[!UICONTROL Ops]” ao ocultar o status](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | quinta-feira, 6 de dezembro de 2023 |
 | [Atualizações: algumas atualizações estão ausentes na nova experiência de comentários](known-issues-workfront/wf-updates-not-visible-in-new-experience.md) | quinta-feira, 6 de dezembro de 2023 |
 | [Folhas de horas: a tarefa pessoal aparece na folha de horas](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | sexta-feira, 30 de novembro de 2023 |
 | [Tarefas: duplicar tarefas faz com que as tarefas sejam exibidas na ordem errada](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | sexta-feira, 30 de novembro de 2023 |
@@ -67,7 +67,7 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Configuração: não é possível usar [!UICONTROL Início] para configurar agrupamentos](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md) | sexta-feira, 30 de novembro de 2023 |
+| [Configuração: não é possível utilizar o [!UICONTROL Início rápido] para configurar agrupamentos](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md) | sexta-feira, 30 de novembro de 2023 |
 | [Provas: erro ao compartilhar prova do link de email](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 16 de novembro de 2023 |
 | [Workfront Fusion: projetos duplicados criados a partir de um mesmo módulo](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 9 de novembro de 2023 |
 | [Painel: grande margem em branco ao imprimir o painel para PDF](known-issues-workfront/wf-dashboard-blank-area-when-printing.md) | 7 de novembro de 2023 |

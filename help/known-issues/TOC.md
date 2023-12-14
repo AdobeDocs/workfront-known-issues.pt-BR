@@ -3,9 +3,9 @@ user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
 source-git-commit: b7f1508544cfd7e9613474c946e05d58d38fa5dc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1792'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -17,10 +17,10 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
-      + [Configuração: status de problema padrão ausente de alguns tipos de problema na Configuração](known-issues-workfront/wf-setup-status-missing-from-issue-types.md)
+      + [Configuração: status de problemas padrão ausentes de alguns tipos de problemas na Configuração](known-issues-workfront/wf-setup-status-missing-from-issue-types.md)
       + [Quadros: os cartões não são movidos para a coluna apropriada quando o status é alterado](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md)
-      + [Página inicial: os widgets Meus projetos e Minhas tarefas exibem apenas 25 itens](known-issues-workfront/wf-home-widgets-show-25-items.md)
-      + [Status: [!UICONTROL Ops] erro ao ocultar o status](known-issues-workfront/wf-setup-whoops-when-hiding-status.md)
+      + [Página inicial: os dispositivos Meus projetos e Minhas tarefas exibem apenas 25 itens](known-issues-workfront/wf-home-widgets-show-25-items.md)
+      + [Status: erro “[!UICONTROL Ops]” ao ocultar o status](known-issues-workfront/wf-setup-whoops-when-hiding-status.md)
       + [Atualizações: algumas atualizações estão ausentes na nova experiência de comentários](known-issues-workfront/wf-updates-not-visible-in-new-experience.md)
       + [Tarefas/problemas: problemas ao adicionar itens de trabalho na exibição de Quadro de tarefas ou problemas](known-issues-workfront/wf-tasks-issues-board-view.md)
       + [Quadros: erro na seção [!UICONTROL Comentários] de cartões](known-issues-workfront/wf-boards-comments-section-error.md)

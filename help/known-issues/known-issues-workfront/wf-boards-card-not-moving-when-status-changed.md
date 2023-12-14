@@ -1,18 +1,18 @@
 ---
-title: "Quadros: os cartões não são movidos para a coluna apropriada quando o status é alterado"
-description: "Quando o status do objeto vinculado de um cartão conectado é alterado diretamente no objeto, o cartão não se move para a coluna apropriada. Se o status do objeto for alterado no cartão ou se o cartão for arrastado para a nova coluna, o cartão se comporta conforme esperado."
+title: '“Quadros: os cartões não são movidos para a coluna apropriada quando o status é alterado”'
+description: Quando o status de um objeto vinculado a um cartão conectado é alterado diretamente no objeto, o cartão não é movido para a coluna apropriada. Se o status do objeto é alterado no cartão ou se o cartão é arrastado para a nova coluna, o cartão se comporta conforme esperado.
 hidefromtoc: true
 feature: Agile
-source-git-commit: a30ff5443dfb9f3f71a08de28670f44990899863
-workflow-type: tm+mt
+exl-id: b8c087a4-0424-411c-b18a-0ee53a7807e9
+source-git-commit: 2bc104395dab85085371f7f2230a7325fb50e94a
+workflow-type: ht
 source-wordcount: '120'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
-
 # Quadros: os cartões não são movidos para a coluna apropriada quando o status é alterado
 
-Quando o status do objeto vinculado de um cartão conectado é alterado diretamente no objeto, o cartão não se move para a coluna apropriada. Se o status do objeto for alterado no cartão ou se o cartão for arrastado para a nova coluna, o cartão se comporta conforme esperado.
+Quando o status de um objeto vinculado a um cartão conectado é alterado diretamente no objeto, o cartão não é movido para a coluna apropriada. Se o status do objeto é alterado no cartão ou se o cartão é arrastado para a nova coluna, o cartão se comporta conforme esperado.
 
 _Relatado pela primeira vez em quarta-feira, 28 de novembro de 2023._

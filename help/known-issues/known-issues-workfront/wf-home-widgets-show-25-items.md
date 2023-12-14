@@ -1,19 +1,19 @@
 ---
-title: "Página inicial: os widgets Meus projetos e Minhas tarefas exibem apenas 25 itens"
-description: "Quando um usuário está visualizando os widgets Meus projetos ou Minhas tarefas e o número total de tarefas ou projetos está entre 26 e 99, o widget exibe apenas 25 itens e o usuário não pode ver todos os itens. Se o número total for 100 ou maior, o usuário poderá clicar em mais páginas para ver esses itens, mas números menores de itens não serão paginados."
+title: '“Página inicial: os dispositivos Meus projetos e Minhas tarefas exibem apenas 25 itens”'
+description: Quando uma pessoa visualiza os dispositivos Meus projetos ou Minhas tarefas e o número total de tarefas ou projetos está entre 26 e 99, o dispositivo exibe apenas 25 itens e não é possível ver todos. Se o número total é 100 ou maior, a pessoa pode clicar em mais páginas para ver esses itens, mas um número menor não será paginado.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: a30ff5443dfb9f3f71a08de28670f44990899863
-workflow-type: tm+mt
+exl-id: 1b49d9c2-8652-4f51-af15-31ab7eb8f164
+source-git-commit: 2bc104395dab85085371f7f2230a7325fb50e94a
+workflow-type: ht
 source-wordcount: '174'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
+# Página inicial: os dispositivos Meus projetos e Minhas tarefas exibem apenas 25 itens
 
-# Página inicial: os widgets Meus projetos e Minhas tarefas exibem apenas 25 itens
-
-Quando um usuário está visualizando os widgets Meus projetos ou Minhas tarefas e o número total de tarefas ou projetos está entre 26 e 99, o widget exibe apenas 25 itens e o usuário não pode ver todos os itens. Se o número total for 100 ou superior, o usuário poderá clicar em mais páginas para ver esses itens, mas números menores de itens não serão paginados.
+Quando uma pessoa visualiza os dispositivos Meus projetos ou Minhas tarefas e o número total de tarefas ou projetos está entre 26 e 99, o dispositivo exibe apenas 25 itens e não é possível ver todos. Se o número total é 100 ou maior, a pessoa pode clicar em mais páginas para ver esses itens, mas um número menor não será paginado.
 
 **Solução alternativa**
 

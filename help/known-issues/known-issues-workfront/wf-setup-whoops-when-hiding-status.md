@@ -1,19 +1,19 @@
 ---
-title: "Status: ocorre um erro ao ocultar o status"
-description: "Quando um usuário tenta ocultar um status, ele não fica oculto e o usuário vê o erro Ops."
+title: '“Status: erro Ops ao ocultar o status”'
+description: “Quando uma pessoa tenta ocultar um status, ele não fica oculto e o erro Ops é exibido.”
 hidefromtoc: true
 feature: System Setup and Administration
 source-git-commit: ca99d991b9b27b1149c15145786d5f773451c7d7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
-ht-degree: 24%
+ht-degree: 100%
 
 ---
 
 
-# Status: [!UICONTROL Ops] erro ao ocultar o status
+# Status: erro “[!UICONTROL Ops]” ao ocultar o status
 
-Quando um usuário tenta ocultar um status, ele não fica oculto e o usuário vê o seguinte erro:
+Quando uma pessoa tenta ocultar um status, ele não fica oculto e o seguinte erro é exibido:
 
-“[!UICONTROL Ops! Algo deu errado. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.]&quot;
-_Reportado pela primeira vez em 30 de novembro de 2023._
+“[!UICONTROL Ops! Algo deu errado. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.]“
+_Relatado pela primeira vez em 30 de novembro de 2023._

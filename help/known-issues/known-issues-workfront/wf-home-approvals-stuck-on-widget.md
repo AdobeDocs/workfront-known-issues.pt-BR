@@ -1,13 +1,13 @@
 ---
-title: "Página inicial: a aprovação fica paralisada ao aguardar meu widget de aprovação"
-description: Quando uma nova versão de um documento é carregada e a versão anterior tem uma aprovação que não está completa, a versão antiga do documento fica presa no widget Aguardando minha aprovação do aprovador. A aprovação nem pode ser aprovada, já que há uma nova versão, nem pode ser removida do dispositivo.
+title: '“Página inicial: aprovação paralisada no dispositivo Aguardando minha aprovação”'
+description: Quando uma nova versão de um documento é enviada e a versão anterior tem uma aprovação que não está concluída, a versão antiga do documento fica paralisada no dispositivo Aguardando minha aprovação do seu aprovador. A aprovação nem pode ser aprovada, já que há uma nova versão, nem pode ser removida do dispositivo.
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 313476de-2fe0-4c4d-b704-9280dcbc901c
 source-git-commit: 9c3e2faa41af9dc6475323467a0592ab9d14d783
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 

@@ -1,11 +1,11 @@
 ---
-title: Atualizações de manutenção do Workfront  em 2022
+title: Atualizações de manutenção do Workfront em 2022
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
 feature: Get Started with Workfront
 source-git-commit: 6f245f70ca00bef3db833a891cc4c7d822761c37
 workflow-type: ht
-source-wordcount: '16739'
+source-wordcount: '16795'
 ht-degree: 100%
 
 ---
@@ -347,8 +347,8 @@ Esse problema foi relatado nas seguintes áreas:
 
 Adicionamos vários ícones de informações às seguintes configurações:
 
-* Caixa de seleção “Pode editar horas” ao criar ou editar uma folha de horas ou um perfil de folha de horas para indicar que, quando ativado, os aprovadores também podem enviar, reabrir ou editar a folha de horas, a menos que o administrador restrinja essas ações na área Preferências da folha de horas da Configuração.
-* “Restringir a edição da folha de horas a proprietários e administradores” na área Folha de horas e preferências de hora da configuração para indicar que, quando desativado, os usuários a seguir também podem editar as folhas de horas: usuários com acesso administrativo a folhas de horas, aprovadores de folha de horas com permissão para editar hora e gerentes de proprietários de folha de horas.
+* A caixa de seleção “Permitir edição de horas” ao criar ou editar uma folha de horas ou um perfil de folha de horas para indicar que (quando habilitada) aprovadores(as) também podem enviar, reabrir ou editar a folha de horas, a menos que um(a) admin restrinja essas ações na área Preferências da configuração da folha de horas.
+* A opção “Restringir a edição da folha de horas a proprietários(as) e admins” na folha de horas e nas Preferências de hora da área de configuração para indicar que (quando habilitada) os usuários a seguir também podem editar as folhas de horas: usuários com acesso administrativo a folhas de horas, aprovadores(as) de folha de horas com permissão para editar horas e gerentes de proprietários(as) de folha de horas.
 
 Observe que a funcionalidade dessas configurações não foi alterada e somente os ícones de informações foram adicionados para esclarecer o escopo das configurações.
 
@@ -511,7 +511,7 @@ Erro **“[!UICONTROL As alterações recentes não foram salvas]” ao salvar a
 
 Quando um usuário tenta editar uma folha de horas de uma maneira que acionaria um salvamento automático, as alterações não são salvas e o usuário vê a seguinte mensagem:
 
-“[!UICONTROL Suas alterações recentes não foram salvas. Atualize a página para visualizar as últimas alterações salvas].”
+“[!UICONTROL Suas alterações recentes não foram salvas. Atualize a página para visualizar].”
 
 Esse problema foi relatado ao editar o seguinte:
 
@@ -886,7 +886,7 @@ Todas as funcionalidades do [!DNL Workfront Classic] foram removidas em 14 de ju
 
 Quando um usuário tenta abrir um item na [!UICONTROL Lista de trabalho da página inicial], o item não abre e o usuário vê a seguinte mensagem:
 
-“[!UICONTROL Ocorreu um erro e estamos trabalhando para resolver o problema. Para continuar seu trabalho tente atualizar esta página do navegador.]”
+“[!UICONTROL Ocorreu um erro e estamos trabalhando para resolver o problema. Para continuar seu trabalho, tente atualizar esta página do navegador.]”
 
 **Tarefas e problemas delegados a um usuário não aparecem na Lista de trabalho da página inicial do usuário**
 
@@ -1177,7 +1177,7 @@ Quando um usuário está visualizando um painel em um projeto e tenta adicionar 
 
 Quando um usuário visualiza a [!UICONTROL Lista de trabalho da página inicial] e clica em um item na seção [!UICONTROL Aprovações que enviei], a página exibe o seguinte erro:
 
-“[!UICONTROL Ocorreu um erro e estamos trabalhando para resolver o problema. Para continuar seu trabalho, tente atualizar esta página do navegador.]”
+“[!UICONTROL Ocorreu um erro e estamos trabalhando para resolver o problema. Para continuar com seu trabalho, tente atualizar esta página do navegador.]”
 
 Se o usuário atualizar a página e clicar em qualquer item na [!UICONTROL Lista de trabalho], o erro aparece. O problema não afeta mais somente os itens na seção [!UICONTROL Aprovações que enviei].
 
@@ -1508,7 +1508,7 @@ Quando um usuário está na área [!UICONTROL Registros de cobrança] de um proj
 
 Quando um usuário tenta fazer atribuições no [!DNL Workload Balancer] de um projeto, o usuário é redirecionado para uma página com a seguinte mensagem:
 
-“[!UICONTROL Ocorreu um erro e estamos trabalhando para resolver o problema. Para continuar seu trabalho, tente atualizar esta página do navegador.]”
+“[!UICONTROL Ocorreu um erro e estamos trabalhando para resolver o problema. Para continuar com seu trabalho, tente atualizar esta página do navegador.]”
 
 O usuário não consegue sair desta página até atualizar a página.
 

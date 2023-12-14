@@ -5,7 +5,7 @@ exl-id: 57a3636e-fd01-4ee6-bc96-df535b62d4f7
 feature: Get Started with Workfront
 source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
 workflow-type: ht
-source-wordcount: '10019'
+source-wordcount: '10060'
 ht-degree: 100%
 
 ---
@@ -160,7 +160,7 @@ _[!DNL Workfront]_
 
 Quando um usuário está trabalhando no [!DNL Workfront], as páginas não são carregadas e o usuário vê a seguinte mensagem de erro:
 
-“[!UICONTROL Ocorreu um erro e estamos trabalhando para resolver o problema. Para continuar seu trabalho, tente atualizar esta página do navegador.]”
+“[!UICONTROL Ocorreu um erro e estamos trabalhando para resolver o problema. Para continuar com seu trabalho, tente atualizar esta página do navegador.]”
 
 Este erro foi reportado em
 
@@ -214,7 +214,7 @@ _[!DNL Workfront]_
 
 Quando um usuário está trabalhando no [!DNL Workfront], as páginas não são carregadas e o usuário vê a seguinte mensagem de erro:
 
-“[!UICONTROL Ocorreu um erro e estamos trabalhando para resolver o problema. Para continuar seu trabalho, tente atualizar esta página do navegador.]”
+“[!UICONTROL Ocorreu um erro e estamos trabalhando para resolver o problema. Para continuar com seu trabalho, tente atualizar esta página do navegador.]”
 
 Este erro foi reportado em
 
@@ -294,7 +294,7 @@ _[!DNL Workfront]_
 
 Quando um usuário está trabalhando no [!DNL Workfront] usando um navegador do [!DNL Firefox], as páginas não carregam e o usuário vê a seguinte mensagem de erro:
 
-“[!UICONTROL Ocorreu um erro e estamos trabalhando para resolver o problema. Para continuar seu trabalho, tente atualizar esta página do navegador.]”
+“[!UICONTROL Ocorreu um erro e estamos trabalhando para resolver o problema. Para continuar com seu trabalho, tente atualizar esta página do navegador.]”
 
 Este erro ocorre aleatoriamente e pode afetar qualquer área do [!DNL Workfront].
 
@@ -494,7 +494,7 @@ _[!UICONTROL Balanceador de carga de trabalho]_
 
 Quando um usuário tenta fazer uma atribuição do [!UICONTROL Balanceador de carga de trabalho], o trabalho não é atribuído e o usuário vê o seguinte erro:
 
-“[!UICONTROL Ocorreu um erro e estamos trabalhando para resolver o problema. Para continuar seu trabalho, tente atualizar esta página do navegador.]”
+“[!UICONTROL Ocorreu um erro e estamos trabalhando para resolver o problema. Para continuar com seu trabalho, tente atualizar esta página do navegador.]”
 
 +++
 
@@ -509,7 +509,7 @@ _Página inicial_
 
 Quando um usuário navega rapidamente para ou da [!UICONTROL Página inicial], a página não é carregada e o usuário vê o seguinte erro:
 
-“[!UICONTROL Ocorreu um erro e estamos trabalhando para resolver o problema. Para continuar seu trabalho, tente atualizar esta página do navegador.]”
+“[!UICONTROL Ocorreu um erro e estamos trabalhando para resolver o problema. Para continuar com seu trabalho, tente atualizar esta página do navegador.]”
 
 Isso também pode ocorrer ao navegar para a [!UICONTROL Página inicial] por meio de um pino.
 
@@ -815,7 +815,7 @@ _[!UICONTROL Balanceador de carga de trabalho]_
 
 Quando um usuário seleciona a opção [!UICONTROL Porcentagem] para [!UICONTROL Horas alocadas] e há trabalhos listados na seção [!UICONTROL Trabalho não atribuído], o seguinte erro é exibido:
 
-“[!UICONTROL Ocorreu um erro e estamos trabalhando para resolver o problema. Para continuar seu trabalho, tente atualizar esta página do navegador.]”
+“[!UICONTROL Ocorreu um erro e estamos trabalhando para resolver o problema. Para continuar com seu trabalho, tente atualizar esta página do navegador.]”
 
 +++
 
@@ -1507,7 +1507,7 @@ _Notificações de email_
 
 Quando um usuário clica no link “[!UICONTROL Ver todas as notificações]” em uma notificação por email, ele é redirecionado para uma página com a seguinte mensagem:
 
-“[!UICONTROL O usuário não existe mais. Talvez tenha digitado o endereço incorreto. Verifique e digite o endereço novamente.]”
+“[!UICONTROL O usuário não existe mais. Você pode ter digitado incorretamente o endereço da Web. Verifique e tente inserir o endereço novamente.]”
 
 **O usuário não é direcionado ao comentário de prova em que está marcado**
 
