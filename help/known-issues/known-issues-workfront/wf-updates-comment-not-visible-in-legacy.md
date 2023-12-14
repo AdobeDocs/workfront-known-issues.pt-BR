@@ -1,21 +1,23 @@
 ---
-title: '“Atualizações: os comentários feitos na nova experiência não estão visíveis na experiência herdada”'
-description: “Os comentários feitos na nova experiência são exibidos na área Comentários, porém, o mesmo comentário pode não aparecer na experiência herdada. Isso pode fazer com que usuários da experiência herdada percam alguns comentários.”
+title: "Atualizações: os comentários feitos na nova experiência de comentários não estão visíveis na experiência herdada"
+description: Os comentários feitos na nova experiência são exibidos na área Comentários, porém, o mesmo comentário pode não aparecer na experiência herdada. Isso pode fazer com que usuários da experiência herdada percam alguns comentários.
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: e39436a5aad5dbfe58386dc770babc2ed39f678b
-workflow-type: ht
-source-wordcount: '126'
-ht-degree: 100%
+exl-id: 2056f5eb-e365-4431-a6df-11112df6ad82
+source-git-commit: 796999dfce705a18d07ee126e2fb072d706c0df7
+workflow-type: tm+mt
+source-wordcount: '120'
+ht-degree: 89%
 
 ---
 
-
 # Atualizações: os comentários feitos na nova experiência não estão visíveis na experiência herdada
 
+<!--
 >[!NOTE]
 >
->Esse problema foi corrigido em 28 de setembro de 2023.
+>This issue was fixed on September 28 2023.
+-->
 
 Os comentários feitos na nova experiência são exibidos na área Comentários, porém, o mesmo comentário pode não aparecer na experiência herdada. Isso pode fazer com que usuários da experiência herdada percam alguns comentários.
 

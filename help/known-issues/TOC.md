@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: b7f1508544cfd7e9613474c946e05d58d38fa5dc
-workflow-type: ht
-source-wordcount: '1792'
-ht-degree: 100%
+source-git-commit: 6897dca57ec645ee9de00188d52cd9f9bc42d2af
+workflow-type: tm+mt
+source-wordcount: '1801'
+ht-degree: 99%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Relatórios: o relatório de horas orçadas não é atualizado por hora conforme esperado](known-issues-workfront/wf-reports-report-not-updating.md)
       + [Configuração: status de problemas padrão ausentes de alguns tipos de problemas na Configuração](known-issues-workfront/wf-setup-status-missing-from-issue-types.md)
       + [Quadros: os cartões não são movidos para a coluna apropriada quando o status é alterado](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md)
       + [Página inicial: os dispositivos Meus projetos e Minhas tarefas exibem apenas 25 itens](known-issues-workfront/wf-home-widgets-show-25-items.md)
