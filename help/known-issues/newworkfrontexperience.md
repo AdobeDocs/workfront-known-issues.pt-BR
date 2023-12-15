@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: b415cf67a97c873d41d0693e9baa8c73390443ea
+source-git-commit: 408d70917eff153f014c3884780b6edf2b660a4c
 workflow-type: tm+mt
-source-wordcount: '846'
-ht-degree: 98%
+source-wordcount: '852'
+ht-degree: 97%
 
 ---
 
@@ -41,6 +41,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
+| [Provas: problemas ao processar arquivos estáticos](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | sábado, 15 de dezembro de 2023 |
 | [Quadros: erro na seção [!UICONTROL Comentários] de cartões](known-issues-workfront/wf-boards-comments-section-error.md) | sexta-feira, 14 de dezembro de 2023 |
 | [Relatórios: as horas orçadas no relatório de utilização não correspondem às horas orçadas relatadas por meio da API](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | sexta-feira, 14 de dezembro de 2023 |
 | [Quadros: os cartões não são movidos para a coluna apropriada quando o status é alterado](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | sexta-feira, 14 de dezembro de 2023 |
