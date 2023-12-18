@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 408d70917eff153f014c3884780b6edf2b660a4c
+source-git-commit: ab89dd0dc09dd4c465e2e0f7b83a90686df123c4
 workflow-type: tm+mt
-source-wordcount: '1813'
-ht-degree: 98%
+source-wordcount: '1830'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Tarefas: o usuário não foi atribuído a uma ou mais tarefas](known-issues-workfront/wf-tasks-user-unassigned-without-record.md)
+      + [Quadros: não é possível anexar um documento a um cartão](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md)
       + [Provas: problemas ao processar arquivos estáticos](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md)
       + [Modelos: erro ao anexar o modelo ao projeto](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md)
       + [Relatórios: o relatório de horas orçadas não é atualizado por hora conforme esperado](known-issues-workfront/wf-reports-report-not-updating.md)
