@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ab89dd0dc09dd4c465e2e0f7b83a90686df123c4
+source-git-commit: be8a81c0d5b1735c2e8a8c8fb2cd2629202875f6
 workflow-type: tm+mt
-source-wordcount: '871'
-ht-degree: 95%
+source-wordcount: '892'
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,8 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Provas: provas criadas a partir de documentos do Word não incluem comentários ou marcação](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | quarta-feira, 19 de dezembro de 2023 |
+| [Tarefas: a janela é fechada ao criar uma nova tarefa](known-issues-workfront/wf-tasks-new-window-closes.md) | quarta-feira, 19 de dezembro de 2023 |
 | [Modelos: erro ao anexar o modelo ao projeto](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | sábado, 15 de dezembro de 2023 |
 | [Relatórios: o relatório de horas orçadas não é atualizado por hora conforme esperado](known-issues-workfront/wf-reports-report-not-updating.md) | sexta-feira, 14 de dezembro de 2023 |
 | [Documentos: não é possível acessar o  [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 27 de novembro de 2023 |

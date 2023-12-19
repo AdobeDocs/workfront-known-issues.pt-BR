@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: ab89dd0dc09dd4c465e2e0f7b83a90686df123c4
+source-git-commit: be8a81c0d5b1735c2e8a8c8fb2cd2629202875f6
 workflow-type: tm+mt
-source-wordcount: '1830'
-ht-degree: 97%
+source-wordcount: '1849'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Provas: provas criadas a partir de documentos do Word não incluem comentários ou marcação](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md)
+      + [Tarefas: a janela é fechada ao criar uma nova tarefa](known-issues-workfront/wf-tasks-new-window-closes.md)
       + [Tarefas: o usuário não foi atribuído a uma ou mais tarefas](known-issues-workfront/wf-tasks-user-unassigned-without-record.md)
       + [Quadros: não é possível anexar um documento a um cartão](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md)
       + [Provas: problemas ao processar arquivos estáticos](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md)
