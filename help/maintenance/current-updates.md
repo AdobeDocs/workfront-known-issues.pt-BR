@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 26c2a3cb7fad72442064ded1bc368967e89176b0
+source-git-commit: 39b1716195e2081597970b9d1e7091013e959416
 workflow-type: tm+mt
-source-wordcount: '7435'
-ht-degree: 99%
+source-wordcount: '7699'
+ht-degree: 98%
 
 ---
 
@@ -21,6 +21,51 @@ As seguintes atualizações de manutenção foram efetuadas em 2023.
 Para obter atualizações de manutenção anteriores a 2023, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em dezembro de 2023
+
++++**(Planejado) Atualização de manutenção em sexta-feira, 21 de dezembro de 2023**
+
+**Problemas ao visualizar o status da subtarefa**
+
+_Quadros_
+
+Os seguintes problemas foram relatados em relação à exibição do status de subtarefas em um cartão nos Quadros:
+
+* O status é mostrado como “Selecionar status” mesmo quando a tarefa já possui um status. Esse status pode ser visto ao visualizar a tarefa diretamente.
+* Se a pessoa tentar selecionar um status, a tela ficará em branco e precisará ser atualizada.
+
+**Não é possível anexar um documento a um cartão**
+
+_Quadros_
+
+Quando um usuário tenta anexar um documento a um cartão conectado, o usuário pode selecionar o documento a ser anexado, mas o documento não aparece na área de documento do cartão e não é anexado ao objeto ao qual o cartão está conectado.
+
+Esse problema foi relatado em cartões conectados a problemas.
+
+**Não é possível selecionar o modelo de [!UICONTROL Favoritos] lista**
+
+_Modelos_
+
+Quando um usuário tenta selecionar um modelo da lista de [!UICONTROL Favoritos], a lista desaparece quando a pessoa move o mouse em direção à lista, impossibilitando a seleção de um modelo.
+
+**Algumas atualizações estão ausentes na nova experiência de comentários**
+
+_Atualizações_
+
+Quando uma pessoa visualiza atualizações na nova experiência de comentários, alguns dos comentários que deveriam ser exibidos não são. Se a pessoa mudar para a experiência de comentários herdada, todos os comentários são exibidos.
+
++++
+
++++**(Planejado) [!DNL Adobe Workfront Fusion] Atualização de manutenção em 21 de dezembro de 2023**
+
+O campo de módulo demora muito para ser aberto
+
+_[!DNL Workfront Fusion]_
+
+<!--no article-->
+
+Quando um usuário está configurando um módulo do e o módulo requer dados da conta conectada (como para selecionar um registro), o módulo do não pode recuperar os dados e a solicitação de dados atinge o tempo limite.
+
++++
 
 +++**Atualização de manutenção em sexta-feira, 14 de dezembro de 2023**
 
