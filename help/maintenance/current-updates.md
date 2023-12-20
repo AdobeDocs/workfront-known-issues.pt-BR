@@ -69,7 +69,7 @@ Quando um usuário está configurando um módulo do e o módulo requer dados da 
 
 +++**Atualização de manutenção em sexta-feira, 14 de dezembro de 2023**
 
-**Provas com aprovação pendente não aparecem nos relatórios**
+**Provas que estão pendentes de aprovação não aparecem nos relatórios**
 
 _Provas_
 
