@@ -1,17 +1,21 @@
 ---
-title: '“Quadros: problemas ao visualizar os status de subtarefas”'
-description: “Foram relatados problemas relacionados à exibição do status de subtarefas em um cartão nos Quadros.”
+title: "Quadros: problemas ao visualizar o status da subtarefa"
+description: Problemas relacionados à exibição do status de subtarefa em um cartão nos Quadros foram relatados.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 2fa805dcacc58ce19ddacd32dc51c3139a9432e4
-workflow-type: ht
-source-wordcount: '94'
-ht-degree: 100%
+exl-id: e7ae6c43-57b5-4ed5-bd61-3c1dc4c6784c
+source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
+workflow-type: tm+mt
+source-wordcount: '100'
+ht-degree: 81%
 
 ---
 
-
 # Quadros: problemas ao visualizar os status de subtarefas
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em sexta-feira, 21 de dezembro de 2023.
 
 Os seguintes problemas foram relatados em relação à exibição do status de subtarefas em um cartão nos Quadros:
 

@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: be8a81c0d5b1735c2e8a8c8fb2cd2629202875f6
+source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
 workflow-type: tm+mt
-source-wordcount: '892'
-ht-degree: 93%
+source-wordcount: '857'
+ht-degree: 94%
 
 ---
 
@@ -31,8 +31,6 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | [Relatórios: o relatório de horas orçadas não é atualizado por hora conforme esperado](known-issues-workfront/wf-reports-report-not-updating.md) | sexta-feira, 14 de dezembro de 2023 |
 | [Documentos: não é possível acessar o  [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 27 de novembro de 2023 |
 | [Quadros: o cartão é exibido em vários sprints](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 21 de novembro de 2023 |
-| [Modelos: não é possível selecionar o modelo da lista de [!UICONTROL Favoritos]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 16 de novembro de 2023 |
-| [Quadros: problemas ao visualizar os status de subtarefas](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 8 de novembro de 2023 |
 | [Quadros: a pesquisa não está funcionando](known-issues-workfront/wf-boards-search-not-working.md) | 20 de outubro de 2023 |
 
 {style="table-layout:auto"}
@@ -44,7 +42,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
 | [Tarefas: o usuário não foi atribuído a uma ou mais tarefas](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | terça-feira, 18 de dezembro de 2023 |
-| [Quadros: não é possível anexar um documento a um cartão](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md) | terça-feira, 18 de dezembro de 2023 |
 | [Provas: problemas ao processar arquivos estáticos](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | sábado, 15 de dezembro de 2023 |
 | [Quadros: erro na seção [!UICONTROL Comentários] de cartões](known-issues-workfront/wf-boards-comments-section-error.md) | sexta-feira, 14 de dezembro de 2023 |
 | [Relatórios: as horas orçadas no relatório de utilização não correspondem às horas orçadas relatadas por meio da API](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | sexta-feira, 14 de dezembro de 2023 |
@@ -52,7 +49,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | [Atualizações: os comentários feitos na nova experiência de comentários não estão visíveis na experiência herdada](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | sexta-feira, 14 de dezembro de 2023 |
 | [Configuração: status de problemas padrão ausentes de alguns tipos de problemas na Configuração](known-issues-workfront/wf-setup-status-missing-from-issue-types.md) | sexta-feira, 7 de dezembro de 2023 |
 | [Status: erro “[!UICONTROL Ops]” ao ocultar o status](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | quinta-feira, 6 de dezembro de 2023 |
-| [Atualizações: algumas atualizações estão ausentes na nova experiência de comentários](known-issues-workfront/wf-updates-not-visible-in-new-experience.md) | quinta-feira, 6 de dezembro de 2023 |
 | [Tarefas: duplicar tarefas faz com que as tarefas sejam exibidas na ordem errada](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | sexta-feira, 30 de novembro de 2023 |
 | [Formulários personalizados: não é possível adicionar ou remover formulários personalizados em massa em tarefas de modelo](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | 21 de novembro de 2023 |
 | [Tarefas: as datas da tarefa ficam esmaecidas por um tempo estendido ao recalcular a linha de tempo](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 10 de novembro de 2023 |

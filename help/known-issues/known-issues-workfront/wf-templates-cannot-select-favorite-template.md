@@ -3,15 +3,19 @@ title: '“Modelos: não é possível selecionar o modelo da lista de [!UICONTRO
 description: “Quando um usuário tenta selecionar um modelo da lista de [!UICONTROL Favoritos], a lista desaparece quando a pessoa move o mouse em direção à lista, impossibilitando a seleção de um modelo.”
 hidefromtoc: true
 feature: Projects
-source-git-commit: 6a29302c5a3b9e593f9cc9adf2948a6928bfd291
-workflow-type: ht
-source-wordcount: '118'
+source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
+workflow-type: tm+mt
+source-wordcount: '124'
 ht-degree: 100%
 
 ---
 
 
 # Modelos: não é possível selecionar o modelo da lista de [!UICONTROL Favoritos]
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em sexta-feira, 21 de dezembro de 2023.
 
 Quando um usuário tenta selecionar um modelo da lista de [!UICONTROL Favoritos], a lista desaparece quando a pessoa move o mouse em direção à lista, impossibilitando a seleção de um modelo.
 

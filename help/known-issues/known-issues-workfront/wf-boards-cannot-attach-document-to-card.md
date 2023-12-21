@@ -3,10 +3,10 @@ title: "Quadros: não é possível anexar um documento a um cartão"
 description: "Quando um usuário tenta anexar um documento a um cartão conectado, o usuário pode selecionar o documento a ser anexado, mas o documento não aparece na área de documento do cartão e não é anexado ao objeto ao qual o cartão está conectado."
 hidefromtoc: true
 feature: Agile
-source-git-commit: ab89dd0dc09dd4c465e2e0f7b83a90686df123c4
+source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 3%
+source-wordcount: '149'
+ht-degree: 7%
 
 ---
 
@@ -14,6 +14,10 @@ ht-degree: 3%
 # Quadros: não é possível anexar um documento a um cartão
 
 <!--WF and WFP TOCs-->
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em sexta-feira, 21 de dezembro de 2023.
 
 Quando um usuário tenta anexar um documento a um cartão conectado, o usuário pode selecionar o documento a ser anexado, mas o documento não aparece na área de documento do cartão e não é anexado ao objeto ao qual o cartão está conectado.
 
