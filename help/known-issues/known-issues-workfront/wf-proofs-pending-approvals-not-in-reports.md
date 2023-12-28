@@ -1,13 +1,13 @@
 ---
-title: "Provas: provas com aprovação pendente não aparecem nos relatórios"
+title: '“Provas: provas com aprovação pendente não aparecem nos relatórios”'
 description: “”
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: e324848f-0278-4bbd-ba9b-870fde37a23d
 source-git-commit: 796999dfce705a18d07ee126e2fb072d706c0df7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '51'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
