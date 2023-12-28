@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
 workflow-type: tm+mt
 source-wordcount: '857'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Provas: provas criadas a partir de documentos do Word não incluem comentários ou marcação](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | quarta-feira, 19 de dezembro de 2023 |
+| [Provas: provas criadas a partir de documentos do Word não incluem comentários ou marcações](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | quarta-feira, 19 de dezembro de 2023 |
 | [Tarefas: a janela é fechada ao criar uma nova tarefa](known-issues-workfront/wf-tasks-new-window-closes.md) | quarta-feira, 19 de dezembro de 2023 |
 | [Modelos: erro ao anexar o modelo ao projeto](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | sábado, 15 de dezembro de 2023 |
 | [Relatórios: o relatório de horas orçadas não é atualizado por hora conforme esperado](known-issues-workfront/wf-reports-report-not-updating.md) | sexta-feira, 14 de dezembro de 2023 |
@@ -41,7 +41,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
-| [Tarefas: o usuário não foi atribuído a uma ou mais tarefas](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | terça-feira, 18 de dezembro de 2023 |
+| [Tarefas: cancelamento de atribuição do usuário em uma ou mais tarefas](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | terça-feira, 18 de dezembro de 2023 |
 | [Provas: problemas ao processar arquivos estáticos](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | sábado, 15 de dezembro de 2023 |
 | [Quadros: erro na seção [!UICONTROL Comentários] de cartões](known-issues-workfront/wf-boards-comments-section-error.md) | sexta-feira, 14 de dezembro de 2023 |
 | [Relatórios: as horas orçadas no relatório de utilização não correspondem às horas orçadas relatadas por meio da API](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | sexta-feira, 14 de dezembro de 2023 |

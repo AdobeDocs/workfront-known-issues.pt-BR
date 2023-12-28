@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
 workflow-type: tm+mt
 source-wordcount: '7697'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -24,7 +24,7 @@ Para obter atualizações de manutenção anteriores a 2023, consulte [Atualiza�
 
 +++**Atualização de manutenção em sexta-feira, 21 de dezembro de 2023**
 
-**Problemas ao visualizar o status da subtarefa**
+**Problemas ao visualizar o status de subtarefas**
 
 _Quadros_
 
@@ -37,11 +37,11 @@ Os seguintes problemas foram relatados em relação à exibição do status de s
 
 _Quadros_
 
-Quando um usuário tenta anexar um documento a um cartão conectado, o usuário pode selecionar o documento a ser anexado, mas o documento não aparece na área de documento do cartão e não é anexado ao objeto ao qual o cartão está conectado.
+Quando um usuário tenta anexar um documento a um cartão conectado, é possível selecionar o documento a ser anexado, mas ele não aparece na área de documento do cartão e não é anexado ao objeto ao qual o cartão está conectado.
 
-Esse problema foi relatado em cartões conectados a problemas.
+Isso foi relatado nos problemas de cartões conectados.
 
-**Não é possível selecionar o modelo de [!UICONTROL Favoritos] lista**
+**Não é possível selecionar o modelo na lista de [!UICONTROL Favoritos]**
 
 _Modelos_
 
@@ -57,13 +57,13 @@ Quando uma pessoa visualiza atualizações na nova experiência de comentários,
 
 +++**[!DNL Adobe Workfront Fusion]Atualização de manutenção em 21 de dezembro de 2023**
 
-O campo de módulo demora muito para ser aberto
+O campo Módulo demora muito para ser aberto
 
 _[!DNL Workfront Fusion]_
 
 <!--no article-->
 
-Quando um usuário está configurando um módulo do e o módulo requer dados da conta conectada (como para selecionar um registro), o módulo do não pode recuperar os dados e a solicitação de dados atinge o tempo limite.
+Quando um usuário está configurando um módulo que exige dados da conta conectada (por exemplo, para selecionar um registro), o módulo não pode recuperar os dados e a solicitação de dados atinge o tempo limite.
 
 +++
 

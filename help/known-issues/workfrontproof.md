@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
 workflow-type: tm+mt
 source-wordcount: '377'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Provas: provas criadas a partir de documentos do Word não incluem comentários ou marcação](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | quarta-feira, 19 de dezembro de 2023 |
+| [Provas: provas criadas a partir de documentos do Word não incluem comentários ou marcações](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | quarta-feira, 19 de dezembro de 2023 |
 | [Documentos: não é possível acessar o  [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 27 de novembro de 2023 |
 
 {style="table-layout:auto"}
