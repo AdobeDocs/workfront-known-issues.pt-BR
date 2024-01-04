@@ -4,7 +4,7 @@ description: “Quando uma pessoa visualiza atualizações na nova experiência 
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '104'
 ht-degree: 100%
 

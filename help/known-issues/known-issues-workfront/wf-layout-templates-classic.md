@@ -1,19 +1,19 @@
 ---
-title: "Modelos de layout: modelos de layout que causam inconsistências nos relatórios"
-description: Os modelos de layout da experiência Clássica do Workfront não estão mais disponíveis na interface do Workfront, mas ainda podem afetar os dados do Workfront. Isso pode causar inconsistências em campos afetados por modelos de layout (como “Compartilhado com”) em relatórios ou painéis.
+title: '“Modelos de layout: os modelos de layout causam inconsistências nos relatórios”'
+description: Os modelos de layout da experiência clássica do Workfront não estão mais disponíveis na interface, mas ainda podem afetar os dados. Isso pode causar inconsistências em campos afetados por modelos de layout (como “Compartilhado com”) em relatórios ou painéis.
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 1542291f-4797-477e-83b8-0706ac6801ae
 source-git-commit: d00617f597b21bf28234fc7ffeed5183e029af92
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '193'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
 # Modelos de layout: modelos de layout causam inconsistências nos relatórios
 
-Modelos de layout do clássico [!DNL Workfront] experiência não estão mais disponíveis no [!DNL Workfront] interface, mas ainda pode afetar [!DNL Workfront] dados. Isso pode causar inconsistências em campos afetados por modelos de layout (como [!UICONTROL “Compartilhado com”]) em relatórios ou painéis.
+Os modelos de layout da experiência clássica do [!DNL Workfront] não estão mais disponíveis na interface do [!DNL Workfront], mas ainda podem afetar os dados do [!DNL Workfront]. Isso pode causar inconsistências em campos afetados por modelos de layout (como [!UICONTROL “Compartilhado com”]) em relatórios ou painéis.
 
 **Solução alternativa**
 
