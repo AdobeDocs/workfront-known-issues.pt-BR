@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 1b5ee2639b89e920b961b8ed7166b7a1475c3e0e
+source-git-commit: f6c0defc4fbc54687057558c5debf9ed80fa7908
 workflow-type: tm+mt
-source-wordcount: '1869'
-ht-degree: 98%
+source-wordcount: '1887'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Novo [!UICONTROL Início]: os padrões de filtro e agrupamento do widget não seguem o modelo de layout](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
+      + [Quadros: os cartões persistem ao alterar a iteração](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md)
       + [Quadros: &quot;[!UICONTROL Você não tem acesso]&quot;ao visualizar comentários em um cartão](known-issues-workfront/wf-boards-no-access-to-view-comments.md)
       + [Equipes: problemas com a configuração dos status da equipe para [!UICONTROL Concluído] botão](known-issues-workfront/wf-teams-statuses-missing.md)
       + [Provas: as provas criadas a partir de documentos do Word não incluem comentários ou marcações](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md)

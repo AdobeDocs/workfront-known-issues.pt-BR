@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 1b5ee2639b89e920b961b8ed7166b7a1475c3e0e
+source-git-commit: f6c0defc4fbc54687057558c5debf9ed80fa7908
 workflow-type: tm+mt
-source-wordcount: '879'
-ht-degree: 97%
+source-wordcount: '899'
+ht-degree: 95%
 
 ---
 
@@ -41,6 +41,8 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
+| [Novo [!UICONTROL Início]: os padrões de filtro e agrupamento do widget não seguem o modelo de layout](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | sexta-feira, 4 de janeiro de 2024 |
+| [Quadros: os cartões persistem ao alterar a iteração](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md) | sexta-feira, 4 de janeiro de 2024 |
 | [Quadros: &quot;[!UICONTROL Você não tem acesso]&quot;ao visualizar comentários em um cartão](known-issues-workfront/wf-boards-no-access-to-view-comments.md) | quarta-feira, 2 de janeiro de 2024 |
 | [Equipes: problemas com a configuração dos status da equipe para [!UICONTROL Concluído] botão](known-issues-workfront/wf-teams-statuses-missing.md) | quarta-feira, 2 de janeiro de 2024 |
 | [Tarefas: cancelamento de atribuição do usuário em uma ou mais tarefas](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | terça-feira, 18 de dezembro de 2023 |
