@@ -3,15 +3,19 @@ title: '“Relatórios: o relatório de horas orçadas não é atualizado por ho
 description: “Os relatórios de horas orçadas devem ser atualizados de hora em hora, mas às vezes são atualizados em intervalos de 90 minutos ou mais.”
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 796999dfce705a18d07ee126e2fb072d706c0df7
-workflow-type: ht
-source-wordcount: '56'
+source-git-commit: 0cf5c033463ac76999a18d97fbea54af8033c238
+workflow-type: tm+mt
+source-wordcount: '62'
 ht-degree: 100%
 
 ---
 
 
 # Relatórios: o relatório de horas orçadas não é atualizado por hora conforme esperado
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em sexta-feira, 21 de dezembro de 2023.
 
 Os relatórios de horas orçadas devem ser atualizados de hora em hora, mas às vezes são atualizados em intervalos de 90 minutos ou mais.
 

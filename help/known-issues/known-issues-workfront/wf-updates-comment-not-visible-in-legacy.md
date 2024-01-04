@@ -4,20 +4,18 @@ description: Os comentários feitos na nova experiência são exibidos na área 
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: 2056f5eb-e365-4431-a6df-11112df6ad82
-source-git-commit: 796999dfce705a18d07ee126e2fb072d706c0df7
-workflow-type: ht
-source-wordcount: '120'
+source-git-commit: 008f8efcf3a21211f0e058051a56dd619e88eb31
+workflow-type: tm+mt
+source-wordcount: '125'
 ht-degree: 100%
 
 ---
 
 # Atualizações: os comentários feitos na nova experiência não estão visíveis na experiência herdada
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on September 28 2023.
--->
+>Esse problema foi resolvido.
 
 Os comentários feitos na nova experiência são exibidos na área Comentários, porém, o mesmo comentário pode não aparecer na experiência herdada. Isso pode fazer com que usuários da experiência herdada percam alguns comentários.
 

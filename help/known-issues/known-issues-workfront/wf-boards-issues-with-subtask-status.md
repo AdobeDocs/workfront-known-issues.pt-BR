@@ -4,18 +4,15 @@ description: Foram relatados problemas relacionados à exibição do status de s
 hidefromtoc: true
 feature: Agile
 exl-id: e7ae6c43-57b5-4ed5-bd61-3c1dc4c6784c
-source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
-workflow-type: ht
-source-wordcount: '100'
+source-git-commit: 0cf5c033463ac76999a18d97fbea54af8033c238
+workflow-type: tm+mt
+source-wordcount: '94'
 ht-degree: 100%
 
 ---
 
 # Quadros: problemas ao visualizar os status de subtarefas
 
->[!NOTE]
->
->Esse problema foi corrigido em sexta-feira, 21 de dezembro de 2023.
 
 Os seguintes problemas foram relatados em relação à exibição do status de subtarefas em um cartão nos Quadros:
 

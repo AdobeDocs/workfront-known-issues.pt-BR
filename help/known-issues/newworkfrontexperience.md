@@ -4,9 +4,9 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f6c0defc4fbc54687057558c5debf9ed80fa7908
+source-git-commit: 008f8efcf3a21211f0e058051a56dd619e88eb31
 workflow-type: tm+mt
-source-wordcount: '899'
+source-wordcount: '869'
 ht-degree: 95%
 
 ---
@@ -25,11 +25,6 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Provas: provas criadas a partir de documentos do Word não incluem comentários ou marcações](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | quarta-feira, 19 de dezembro de 2023 |
-| [Tarefas: a janela é fechada ao criar uma nova tarefa](known-issues-workfront/wf-tasks-new-window-closes.md) | quarta-feira, 19 de dezembro de 2023 |
-| [Modelos: erro ao anexar o modelo ao projeto](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | sábado, 15 de dezembro de 2023 |
-| [Relatórios: o relatório de horas orçadas não é atualizado por hora conforme esperado](known-issues-workfront/wf-reports-report-not-updating.md) | sexta-feira, 14 de dezembro de 2023 |
-| [Documentos: não é possível acessar o  [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 27 de novembro de 2023 |
 | [Quadros: o cartão é exibido em vários sprints](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 21 de novembro de 2023 |
 | [Quadros: a pesquisa não está funcionando](known-issues-workfront/wf-boards-search-not-working.md) | 20 de outubro de 2023 |
 
@@ -41,6 +36,13 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
+| [Provas: provas criadas a partir de documentos do Word não incluem comentários ou marcações](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | sexta-feira, 4 de janeiro de 2024 |
+| [Modelos: erro ao anexar o modelo ao projeto](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | sexta-feira, 4 de janeiro de 2024 |
+| [Tarefas: a janela é fechada ao criar uma nova tarefa](known-issues-workfront/wf-tasks-new-window-closes.md) | sexta-feira, 4 de janeiro de 2024 |
+| [Modelos: não é possível selecionar o modelo da lista de [!UICONTROL Favoritos]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | sexta-feira, 4 de janeiro de 2024 |
+| [Quadros: não é possível anexar um documento a um cartão](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md) | sexta-feira, 4 de janeiro de 2024 |
+| [Quadros: problemas ao visualizar os status de subtarefas](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | sexta-feira, 4 de janeiro de 2024 |
+| [Página inicial: aprovação paralisada no dispositivo [!UICONTROL Aguardando minha aprovação]](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | sexta-feira, 4 de janeiro de 2024 |
 | [Novo [!UICONTROL Início]: os padrões de filtro e agrupamento do widget não seguem o modelo de layout](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | sexta-feira, 4 de janeiro de 2024 |
 | [Quadros: os cartões persistem ao alterar a iteração](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md) | sexta-feira, 4 de janeiro de 2024 |
 | [Quadros: &quot;[!UICONTROL Você não tem acesso]&quot;ao visualizar comentários em um cartão](known-issues-workfront/wf-boards-no-access-to-view-comments.md) | quarta-feira, 2 de janeiro de 2024 |
@@ -48,11 +50,8 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | [Tarefas: cancelamento de atribuição do usuário em uma ou mais tarefas](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | terça-feira, 18 de dezembro de 2023 |
 | [Provas: problemas ao processar arquivos estáticos](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | sábado, 15 de dezembro de 2023 |
 | [Quadros: erro na seção [!UICONTROL Comentários] de cartões](known-issues-workfront/wf-boards-comments-section-error.md) | sexta-feira, 14 de dezembro de 2023 |
-| [Relatórios: as horas orçadas no relatório de utilização não correspondem às horas orçadas relatadas por meio da API](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | sexta-feira, 14 de dezembro de 2023 |
 | [Quadros: os cartões não são movidos para a coluna apropriada quando o status é alterado](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | sexta-feira, 14 de dezembro de 2023 |
-| [Atualizações: os comentários feitos na nova experiência de comentários não estão visíveis na experiência herdada](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | sexta-feira, 14 de dezembro de 2023 |
 | [Configuração: status de problemas padrão ausentes de alguns tipos de problemas na Configuração](known-issues-workfront/wf-setup-status-missing-from-issue-types.md) | sexta-feira, 7 de dezembro de 2023 |
-| [Status: erro “[!UICONTROL Ops]” ao ocultar o status](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | quinta-feira, 6 de dezembro de 2023 |
 | [Tarefas: duplicar tarefas faz com que as tarefas sejam exibidas na ordem errada](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | sexta-feira, 30 de novembro de 2023 |
 | [Formulários personalizados: não é possível adicionar ou remover formulários personalizados em massa em tarefas de modelo](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | 21 de novembro de 2023 |
 | [Tarefas: as datas da tarefa ficam esmaecidas por um tempo estendido ao recalcular a linha de tempo](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 10 de novembro de 2023 |
@@ -60,7 +59,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | [Tarefas: erro “[!UICONTROL Ops]” no cabeçalho da tarefa](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 25 de outubro de 2023 |
 | [Provas: não é possível gerar prova](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 19 de outubro de 2023 |
 | [Provas: não é possível criar uma nova versão de uma prova](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 19 de outubro de 2023 |
-| [[!UICONTROL Balanceador de carga de trabalho]: o [!UICONTROL Total de horas] não corresponde à soma das [!UICONTROL Horas planejadas]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 12 de outubro de 2023 |
 | [[!DNL Workfront]: problemas ao enviar um caso de suporte do  [!DNL Workfront]  na Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 de agosto de 2022 |
 
 {style="table-layout:auto"}

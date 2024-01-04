@@ -4,9 +4,9 @@ description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
-workflow-type: ht
-source-wordcount: '377'
+source-git-commit: 008f8efcf3a21211f0e058051a56dd619e88eb31
+workflow-type: tm+mt
+source-wordcount: '383'
 ht-degree: 100%
 
 ---
@@ -25,8 +25,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Provas: provas criadas a partir de documentos do Word não incluem comentários ou marcações](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | quarta-feira, 19 de dezembro de 2023 |
-| [Documentos: não é possível acessar o  [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 27 de novembro de 2023 |
+| Nenhum(a) |  |
 
 {style="table-layout:auto"}
 
@@ -36,6 +35,8 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Provas: provas criadas a partir de documentos do Word não incluem comentários ou marcações](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | sexta-feira, 4 de janeiro de 2024 |
+| [Página inicial: aprovação paralisada no dispositivo [!UICONTROL Aguardando minha aprovação]](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | sexta-feira, 4 de janeiro de 2024 |
 | [Provas: problemas ao processar arquivos estáticos](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | sábado, 15 de dezembro de 2023 |
 | [Provas: navegação estrutural ausente ao acessar uma prova a partir de um link de email](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 de novembro de 2023 |
 | [Provas: erro ao compartilhar prova do link de email](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26 de outubro de 2023 |
