@@ -2,9 +2,9 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 39ffb4c5e61019b444eb0bdc13b57c75da9e876d
+source-git-commit: a7d41227b34544889c2af1704d492a68967fab24
 workflow-type: tm+mt
-source-wordcount: '1908'
+source-wordcount: '1914'
 ht-degree: 96%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Provas: provas compactadas não são geradas](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
       + [Quadros: o cartão não fecha ao usar a exibição Quadros em um projeto](known-issues-workfront/wf-boards-cannot-close-card-on-project-board.md)
       + [Problemas: os campos de tempo economizam tempo incorreto ao editar problemas em massa](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md)
       + [Novo [!UICONTROL Início]: os padrões de filtro e agrupamento do widget não seguem o modelo de layout](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
