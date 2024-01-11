@@ -5,7 +5,7 @@ role: User
 source-git-commit: a7d41227b34544889c2af1704d492a68967fab24
 workflow-type: tm+mt
 source-wordcount: '1914'
-ht-degree: 96%
+ht-degree: 97%
 
 ---
 
@@ -22,8 +22,8 @@ ht-degree: 96%
       + [Problemas: os campos de tempo economizam tempo incorreto ao editar problemas em massa](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md)
       + [Novo [!UICONTROL Início]: os padrões de filtro e agrupamento do widget não seguem o modelo de layout](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
       + [Quadros: os cartões persistem ao alterar a iteração](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md)
-      + [Quadros: &quot;[!UICONTROL Você não tem acesso]&quot;ao visualizar comentários em um cartão](known-issues-workfront/wf-boards-no-access-to-view-comments.md)
-      + [Equipes: problemas com a configuração dos status da equipe para [!UICONTROL Concluído] botão](known-issues-workfront/wf-teams-statuses-missing.md)
+      + [Quadros: “[!UICONTROL Você não tem acesso]” ao visualizar comentários em um cartão](known-issues-workfront/wf-boards-no-access-to-view-comments.md)
+      + [Equipes: problemas com a configuração dos status da equipe para o botão [!UICONTROL Concluído]](known-issues-workfront/wf-teams-statuses-missing.md)
       + [Provas: as provas criadas a partir de documentos do Word não incluem comentários ou marcações](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md)
       + [Tarefas: a janela é fechada ao criar uma nova tarefa](known-issues-workfront/wf-tasks-new-window-closes.md)
       + [Tarefas: cancelamento de atribuição do usuário em uma ou mais tarefas](known-issues-workfront/wf-tasks-user-unassigned-without-record.md)

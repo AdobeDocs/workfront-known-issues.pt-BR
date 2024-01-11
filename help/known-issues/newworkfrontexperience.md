@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: a7d41227b34544889c2af1704d492a68967fab24
 workflow-type: tm+mt
 source-wordcount: '899'
-ht-degree: 92%
+ht-degree: 94%
 
 ---
 
@@ -48,8 +48,8 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | [Página inicial: aprovação paralisada no dispositivo [!UICONTROL Aguardando minha aprovação]](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | sexta-feira, 4 de janeiro de 2024 |
 | [Novo [!UICONTROL Início]: os padrões de filtro e agrupamento do widget não seguem o modelo de layout](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | sexta-feira, 4 de janeiro de 2024 |
 | [Quadros: os cartões persistem ao alterar a iteração](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md) | sexta-feira, 4 de janeiro de 2024 |
-| [Quadros: &quot;[!UICONTROL Você não tem acesso]&quot;ao visualizar comentários em um cartão](known-issues-workfront/wf-boards-no-access-to-view-comments.md) | quarta-feira, 2 de janeiro de 2024 |
-| [Equipes: problemas com a configuração dos status da equipe para [!UICONTROL Concluído] botão](known-issues-workfront/wf-teams-statuses-missing.md) | quarta-feira, 2 de janeiro de 2024 |
+| [Quadros: “[!UICONTROL Você não tem acesso]” ao visualizar comentários em um cartão](known-issues-workfront/wf-boards-no-access-to-view-comments.md) | quarta-feira, 2 de janeiro de 2024 |
+| [Equipes: problemas com a configuração dos status da equipe para o botão [!UICONTROL Concluído]](known-issues-workfront/wf-teams-statuses-missing.md) | quarta-feira, 2 de janeiro de 2024 |
 | [Tarefas: cancelamento de atribuição do usuário em uma ou mais tarefas](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | terça-feira, 18 de dezembro de 2023 |
 | [Provas: problemas ao processar arquivos estáticos](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | sábado, 15 de dezembro de 2023 |
 | [Quadros: erro na seção [!UICONTROL Comentários] de cartões](known-issues-workfront/wf-boards-comments-section-error.md) | sexta-feira, 14 de dezembro de 2023 |
