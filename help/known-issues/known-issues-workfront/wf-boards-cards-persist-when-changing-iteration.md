@@ -3,15 +3,19 @@ title: "Quadros: os cartões persistem ao alterar a iteração"
 description: "Quando um usuário visualiza uma iteração em um quadro e, em seguida, altera a iteração, os cartões exibidos para a nova iteração são os cartões de uma iteração que o usuário estava visualizando anteriormente."
 hidefromtoc: true
 feature: Agile
-source-git-commit: f6c0defc4fbc54687057558c5debf9ed80fa7908
+source-git-commit: b74a577bc652f822b4ff9d835952f9b8145ae6dc
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 4%
+source-wordcount: '88'
+ht-degree: 11%
 
 ---
 
 
 # Quadros: os cartões persistem ao alterar a iteração
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em sábado, 12 de janeiro de 2024.
 
 Quando um usuário visualiza uma iteração em um quadro e, em seguida, altera a iteração, os cartões exibidos para a nova iteração são os cartões de uma iteração que o usuário estava visualizando anteriormente.
 

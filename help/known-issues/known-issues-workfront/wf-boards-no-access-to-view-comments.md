@@ -3,15 +3,19 @@ title: '“Quadros: você não tem acesso ao visualizar comentários em um cart�
 description: “Quando uma pessoa tenta exibir comentários em um cartão que não está conectado a um objeto do Workfront, uma mensagem de erro é exibida.”
 hidefromtoc: true
 feature: Agile
-source-git-commit: 1b5ee2639b89e920b961b8ed7166b7a1475c3e0e
-workflow-type: ht
-source-wordcount: '95'
+source-git-commit: b74a577bc652f822b4ff9d835952f9b8145ae6dc
+workflow-type: tm+mt
+source-wordcount: '101'
 ht-degree: 100%
 
 ---
 
 
 # Quadros: “[!UICONTROL Você não tem acesso]” ao visualizar comentários em um cartão
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em sábado, 12 de janeiro de 2024.
 
 Quando uma pessoa tenta exibir comentários em um cartão que não está conectado a um objeto do [!DNL Workfront], a seguinte mensagem é exibida:
 
