@@ -3,7 +3,7 @@ title: '“Quadros: você não tem acesso ao visualizar comentários em um cart�
 description: “Quando uma pessoa tenta exibir comentários em um cartão que não está conectado a um objeto do Workfront, uma mensagem de erro é exibida.”
 hidefromtoc: true
 feature: Agile
-source-git-commit: b74a577bc652f822b4ff9d835952f9b8145ae6dc
+source-git-commit: 3a5bf0ed6b1a7a6d61c9f3f074c551bf6e3b2d44
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 100%
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Esse problema foi corrigido em sábado, 12 de janeiro de 2024.
+>Esse problema foi corrigido em sábado, 12 de janeiro de 2024.—>
 
 Quando uma pessoa tenta exibir comentários em um cartão que não está conectado a um objeto do [!DNL Workfront], a seguinte mensagem é exibida:
 

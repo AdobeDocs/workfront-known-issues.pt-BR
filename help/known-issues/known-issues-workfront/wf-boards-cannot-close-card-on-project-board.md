@@ -3,19 +3,20 @@ title: "Quadros: o cartão não fecha ao usar a exibição Quadros em um projeto
 description: "Quando um usuário visualiza a exibição Quadros em uma lista de tarefas em um projeto e cria um cartão, o cartão não é fechado ou salvo. Isso impede que o usuário retorne ao projeto."
 hidefromtoc: true
 feature: Agile, Tasks, Projects
-source-git-commit: 8dc177a194ae32bcb135910badc7fdb2c42e530d
+source-git-commit: 3a5bf0ed6b1a7a6d61c9f3f074c551bf6e3b2d44
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 8%
+source-wordcount: '116'
+ht-degree: 3%
 
 ---
 
 
 # Quadros: o cartão não fecha ao usar a exibição Quadros em um projeto
 
+<!--
 >[!NOTE]
 >
->Esse problema foi corrigido em sábado, 12 de janeiro de 2024.
+>This issue was fixed on January 12, 2024.-->
 
 Quando um usuário visualiza a exibição Quadros em uma lista de tarefas em um projeto e cria um cartão, o cartão não é fechado ou salvo. Isso impede que o usuário retorne ao projeto.
 
