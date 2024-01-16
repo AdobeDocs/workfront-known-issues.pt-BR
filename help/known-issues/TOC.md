@@ -3,9 +3,9 @@ user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
 source-git-commit: a7d41227b34544889c2af1704d492a68967fab24
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1914'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
-      + [Provas: provas compactadas não são geradas](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
-      + [Quadros: o cartão não fecha ao usar a exibição Quadros em um projeto](known-issues-workfront/wf-boards-cannot-close-card-on-project-board.md)
-      + [Problemas: os campos de tempo economizam tempo incorreto ao editar problemas em massa](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md)
-      + [Novo [!UICONTROL Início]: os padrões de filtro e agrupamento do widget não seguem o modelo de layout](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
-      + [Quadros: os cartões persistem ao alterar a iteração](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md)
+      + [Provas: falha ao gerar provas comprimidas](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
+      + [Quadros: o cartão não fecha ao usar a exibição de quadros em um projeto](known-issues-workfront/wf-boards-cannot-close-card-on-project-board.md)
+      + [Problemas: os campos de horário salvam o horário incorretamente ao editar problemas em massa](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md)
+      + [Nova [!UICONTROL Página inicial]: os padrões de filtro e agrupamento de widgets não seguem o modelo de layout](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
+      + [Quadros: os cartões persistem mesmo ao alterar a iteração](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md)
       + [Quadros: “[!UICONTROL Você não tem acesso]” ao visualizar comentários em um cartão](known-issues-workfront/wf-boards-no-access-to-view-comments.md)
       + [Equipes: problemas com a configuração dos status da equipe para o botão [!UICONTROL Concluído]](known-issues-workfront/wf-teams-statuses-missing.md)
       + [Provas: as provas criadas a partir de documentos do Word não incluem comentários ou marcações](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md)

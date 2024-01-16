@@ -1,19 +1,19 @@
 ---
-title: "Problemas: os campos de tempo salvam o tempo incorreto ao editar problemas em massa"
-description: "Quando um usuário edita problemas em massa e seleciona uma data e hora para um campo de data e é salvo, o tempo salvo nesse campo no problema não é o tempo que o usuário selecionou. Em vez disso, a hora parece ser convertida em UTC quando o usuário salva."
+title: '“Problemas: os campos de horário salvam o horário incorretamente ao editar problemas em massa”'
+description: “Quando uma pessoa edita problemas em massa, define uma data e hora para um campo de data e salva, o horário salvo nesse campo no problema fica diferente do definido. Em vez disso, o horário parece ser convertido em UTC quando ele é salvo.”
 hidefromtoc: true
 feature: Work Management
 source-git-commit: 2d0e05921904f246c13cfa341e1039c85f1f2b1f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '135'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
 
-# Problemas: os campos de tempo economizam tempo incorreto ao editar problemas em massa
+# Problemas: os campos de horário salvam o horário incorretamente ao editar problemas em massa
 
-Quando um usuário edita problemas em massa e seleciona uma data e hora para um campo de data e é salvo, o tempo salvo nesse campo no problema não é o tempo que o usuário selecionou. Em vez disso, a hora parece ser convertida em UTC quando o usuário salva.
+Quando uma pessoa edita problemas em massa, define uma data e hora para um campo de data e salva, o horário salvo nesse campo no problema fica diferente do definido. Em vez disso, o horário parece ser convertido em UTC quando ele é salvo.
 
 Esse problema foi relatado em relatórios e listas.
 

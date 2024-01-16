@@ -4,7 +4,7 @@ description: “Quando um usuário faz uma chamada de API para o objeto RPBGHR d
 hidefromtoc: true
 feature: Reports and Dashboards, Workfront API
 source-git-commit: 008f8efcf3a21211f0e058051a56dd619e88eb31
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
 ht-degree: 100%
 
