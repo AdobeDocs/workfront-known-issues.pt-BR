@@ -3,15 +3,19 @@ title: '“Modelos: erro ao anexar um modelo ao projeto”'
 description: “Quando um usuário tenta anexar um modelo a um projeto, um erro é exibido. Uma solução alternativa está disponível.”
 hidefromtoc: true
 feature: Projects
-source-git-commit: b415cf67a97c873d41d0693e9baa8c73390443ea
-workflow-type: ht
-source-wordcount: '104'
+source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
+workflow-type: tm+mt
+source-wordcount: '110'
 ht-degree: 100%
 
 ---
 
 
 # Modelos: erro ao anexar um modelo ao projeto
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em sexta-feira, 18 de janeiro de 2024.
 
 Quando um usuário tenta anexar um modelo a um projeto, o seguinte erro é exibido:
 

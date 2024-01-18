@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 6fd1ee82b2b9f2cb4ee88d8cd2b769114cec1524
+source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
 workflow-type: tm+mt
-source-wordcount: '838'
-ht-degree: 98%
+source-wordcount: '788'
+ht-degree: 99%
 
 ---
 
@@ -37,21 +37,16 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
-| [[!UICONTROL Configuração]: não é possível ocultar status opcionais](known-issues-workfront/wf-setup-cannot-hide-optional-statuses.md) | quinta-feira, 10 de janeiro de 2024 |
 | [Problemas: os campos de horário salvam o horário incorretamente ao editar problemas em massa](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | sábado, 5 de janeiro de 2024 |
 | [Provas: provas criadas a partir de documentos do Word não incluem comentários ou marcações](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | sexta-feira, 4 de janeiro de 2024 |
-| [Modelos: erro ao anexar o modelo ao projeto](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | sexta-feira, 4 de janeiro de 2024 |
 | [Tarefas: a janela é fechada ao criar uma nova tarefa](known-issues-workfront/wf-tasks-new-window-closes.md) | sexta-feira, 4 de janeiro de 2024 |
 | [Modelos: não é possível selecionar o modelo da lista de [!UICONTROL Favoritos]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | sexta-feira, 4 de janeiro de 2024 |
 | [Página inicial: aprovação paralisada no dispositivo [!UICONTROL Aguardando minha aprovação]](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | sexta-feira, 4 de janeiro de 2024 |
 | [Nova [!UICONTROL Página inicial]: os padrões de filtro e agrupamento de dispositivos não seguem o modelo de layout](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | sexta-feira, 4 de janeiro de 2024 |
-| [Equipes: problemas com a configuração dos status da equipe para o botão [!UICONTROL Concluído]](known-issues-workfront/wf-teams-statuses-missing.md) | quarta-feira, 2 de janeiro de 2024 |
 | [Tarefas: cancelamento de atribuição do usuário em uma ou mais tarefas](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | terça-feira, 18 de dezembro de 2023 |
 | [Provas: problemas ao processar arquivos estáticos](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | sábado, 15 de dezembro de 2023 |
 | [Quadros: os cartões não são movidos para a coluna apropriada quando o status é alterado](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | sexta-feira, 14 de dezembro de 2023 |
-| [Configuração: status de problemas padrão ausentes de alguns tipos de problemas na Configuração](known-issues-workfront/wf-setup-status-missing-from-issue-types.md) | sexta-feira, 7 de dezembro de 2023 |
 | [Tarefas: duplicar tarefas faz com que as tarefas sejam exibidas na ordem errada](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | sexta-feira, 30 de novembro de 2023 |
-| [Formulários personalizados: não é possível adicionar ou remover formulários personalizados em massa em tarefas de modelo](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | 21 de novembro de 2023 |
 | [Página inicial: as tarefas em projetos com status Aprovado ou Em planejamento não são incluídas em Minhas tarefas ou na Lista de trabalho da página inicial](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 6 de novembro de 2023 |
 | [Tarefas: erro “[!UICONTROL Ops]” no cabeçalho da tarefa](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 25 de outubro de 2023 |
 | [Provas: não é possível gerar prova](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 19 de outubro de 2023 |
