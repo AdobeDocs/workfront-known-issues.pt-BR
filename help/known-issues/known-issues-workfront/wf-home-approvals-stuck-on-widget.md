@@ -4,14 +4,18 @@ description: Quando uma nova versão de um documento é enviada e a versão ante
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 313476de-2fe0-4c4d-b704-9280dcbc901c
-source-git-commit: 0cf5c033463ac76999a18d97fbea54af8033c238
-workflow-type: ht
-source-wordcount: '128'
+source-git-commit: 71fb0341742bc74eee3c96f3c357198dd84aed20
+workflow-type: tm+mt
+source-wordcount: '134'
 ht-degree: 100%
 
 ---
 
 # Página inicial: aprovação paralisada no dispositivo [!UICONTROL Aguardando minha aprovação]
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em sexta-feira, 18 de janeiro de 2024.
 
 <!--on WF and WFP TOCs-->
 

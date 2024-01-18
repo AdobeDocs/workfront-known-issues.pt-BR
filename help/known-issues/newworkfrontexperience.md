@@ -4,9 +4,9 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
+source-git-commit: 71fb0341742bc74eee3c96f3c357198dd84aed20
 workflow-type: tm+mt
-source-wordcount: '788'
+source-wordcount: '766'
 ht-degree: 99%
 
 ---
@@ -25,7 +25,6 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Documentos: problemas ao visualizar listas de documentos](known-issues-workfront/wf-documents-list-not-loading.md) | quarta-feira, 16 de janeiro de 2024 |
 | [Provas: falha ao gerar provas comprimidas](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | terça-feira, 9 de janeiro de 2023 |
 | [Quadros: a pesquisa não está funcionando](known-issues-workfront/wf-boards-search-not-working.md) | 20 de outubro de 2023 |
 
@@ -37,11 +36,10 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
+| [Documentos: problemas ao visualizar listas de documentos](known-issues-workfront/wf-documents-list-not-loading.md) | sexta-feira, 18 de janeiro de 2024 |
 | [Problemas: os campos de horário salvam o horário incorretamente ao editar problemas em massa](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | sábado, 5 de janeiro de 2024 |
-| [Provas: provas criadas a partir de documentos do Word não incluem comentários ou marcações](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | sexta-feira, 4 de janeiro de 2024 |
 | [Tarefas: a janela é fechada ao criar uma nova tarefa](known-issues-workfront/wf-tasks-new-window-closes.md) | sexta-feira, 4 de janeiro de 2024 |
 | [Modelos: não é possível selecionar o modelo da lista de [!UICONTROL Favoritos]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | sexta-feira, 4 de janeiro de 2024 |
-| [Página inicial: aprovação paralisada no dispositivo [!UICONTROL Aguardando minha aprovação]](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | sexta-feira, 4 de janeiro de 2024 |
 | [Nova [!UICONTROL Página inicial]: os padrões de filtro e agrupamento de dispositivos não seguem o modelo de layout](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | sexta-feira, 4 de janeiro de 2024 |
 | [Tarefas: cancelamento de atribuição do usuário em uma ou mais tarefas](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | terça-feira, 18 de dezembro de 2023 |
 | [Provas: problemas ao processar arquivos estáticos](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | sábado, 15 de dezembro de 2023 |
