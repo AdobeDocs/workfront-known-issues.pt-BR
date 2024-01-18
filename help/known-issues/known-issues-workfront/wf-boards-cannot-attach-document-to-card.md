@@ -4,7 +4,7 @@ description: “Quando um usuário tenta anexar um documento a um cartão conect
 hidefromtoc: true
 feature: Agile
 source-git-commit: 3a5bf0ed6b1a7a6d61c9f3f074c551bf6e3b2d44
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '149'
 ht-degree: 100%
 

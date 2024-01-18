@@ -3,9 +3,9 @@ user-guide-title: Versões de manutenção
 user-guide-description: Versões de manutenção do [!DNL Adobe Workfront]
 role: User
 source-git-commit: 5888405d48bb6a271fcfe748d3cce99e2ccfadaf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '15'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 

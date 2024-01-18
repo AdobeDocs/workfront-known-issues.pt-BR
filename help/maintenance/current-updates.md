@@ -4,9 +4,9 @@ description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 9a5ef8462f839ebd4bfaafb65a0b5cd2bffbedcf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '172'
-ht-degree: 47%
+ht-degree: 100%
 
 ---
 
@@ -81,9 +81,9 @@ This may occur even when the user could previously see comments on the card.
 
 #### Quadros
 
-**Placas concluídas não carregam corretamente em placas dinâmicas**
+**Cartões concluídos não são carregados corretamente em quadros dinâmicos**
 
-Anteriormente, a única maneira de incluir o trabalho concluído em uma placa dinâmica era carregar as placas como cartões arquivados. Caso contrário, os cartões concluídos não eram carregados na placa. Isso causava problemas ao localizar cartões.
+Anteriormente, a única maneira de incluir um trabalho concluído em um quadro dinâmico era carregar os cartões como cartões arquivados. Caso contrário, os cartões concluídos não seriam carregados no quadro. Isso causou problemas na localização dos cartões.
 
 Agora, ao criar um quadro dinâmico, os cartões concluídos são carregados por padrão como cartões arquivados, mas você pode selecionar Não arquivar cartões concluídos para carregar todos os cartões concluídos no quadro como cartões visíveis na coluna Concluído.
 
