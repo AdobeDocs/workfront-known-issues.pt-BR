@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 9226f53a5dfc29f1c2cf719d10b80028f05b394d
+source-git-commit: 19c3b0bdc7f53b27690ad3a2f44d297deb6940fc
 workflow-type: tm+mt
-source-wordcount: '1934'
-ht-degree: 98%
+source-wordcount: '1959'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Integrações: não é possível registrar tempo do Workfront para integração com o Jira](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md)
+      + [Atualizações: não é possível visualizar ou baixar imagens em comentários](known-issues-workfront/wf-updates-cannot-view-or-download-images.md)
+      + [Notificações: marcar notificações como vistas não persiste](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md)
       + [[!UICONTROL Configuração]: não é possível ocultar status opcionais](known-issues-workfront/wf-setup-cannot-hide-optional-statuses.md)
       + [Documentos: problemas ao visualizar listas de documentos](known-issues-workfront/wf-documents-list-not-loading.md)
       + [Provas: falha ao gerar provas comprimidas](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)

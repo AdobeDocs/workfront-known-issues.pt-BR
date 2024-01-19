@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 71fb0341742bc74eee3c96f3c357198dd84aed20
+source-git-commit: 19c3b0bdc7f53b27690ad3a2f44d297deb6940fc
 workflow-type: tm+mt
-source-wordcount: '766'
-ht-degree: 99%
+source-wordcount: '794'
+ht-degree: 96%
 
 ---
 
@@ -25,6 +25,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Notificações: marcar notificações como vistas não persiste](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md) | sexta-feira, 19 de janeiro de 2023 |
 | [Provas: falha ao gerar provas comprimidas](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | terça-feira, 9 de janeiro de 2023 |
 | [Quadros: a pesquisa não está funcionando](known-issues-workfront/wf-boards-search-not-working.md) | 20 de outubro de 2023 |
 
@@ -36,6 +37,8 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
+| [Integrações: não é possível registrar tempo do Workfront para integração com o Jira](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md) | sábado, 19 de janeiro de 2024 |
+| [Atualizações: não é possível visualizar ou baixar imagens em comentários](known-issues-workfront/wf-updates-cannot-view-or-download-images.md) | sábado, 19 de janeiro de 2024 |
 | [Documentos: problemas ao visualizar listas de documentos](known-issues-workfront/wf-documents-list-not-loading.md) | sexta-feira, 18 de janeiro de 2024 |
 | [Problemas: os campos de horário salvam o horário incorretamente ao editar problemas em massa](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | sábado, 5 de janeiro de 2024 |
 | [Tarefas: a janela é fechada ao criar uma nova tarefa](known-issues-workfront/wf-tasks-new-window-closes.md) | sexta-feira, 4 de janeiro de 2024 |
