@@ -5,7 +5,7 @@ role: User
 source-git-commit: 19c3b0bdc7f53b27690ad3a2f44d297deb6940fc
 workflow-type: tm+mt
 source-wordcount: '1959'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -214,7 +214,7 @@ ht-degree: 97%
 + [!DNL Workfront Proof] {#proof}
    + [Problemas conhecidos no  [!DNL Workfront Proof]](workfrontproof.md)
    + Problemas atuais no [!DNL Workfront Proof] {#proof-current}
-      + [[!UICONTROL Prova do Workfront]: não é possível reordenar ativos ao criar uma prova](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
+      + [[!UICONTROL Workfront Proof]: não é possível reordenar ativos ao criar uma prova](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]: carimbo de data e hora incorreto no [!UICONTROL Resumo da prova]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
       + [[!UICONTROL Prova do Workfront]: emails e notificações atrasados](known-issues-workfront-proof/proof-delayed-notification.md)
       + [[!DNL Workfront Proof]: não é possível expandir o fluxo de trabalho](known-issues-workfront-proof/proof-cannot-view-workflow.md)
