@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
+source-git-commit: 67155ccf8996661fb9429c6174a7f5d0cf4a6d8a
 workflow-type: tm+mt
-source-wordcount: '945'
-ht-degree: 81%
+source-wordcount: '1085'
+ht-degree: 80%
 
 ---
 
@@ -21,6 +21,24 @@ As seguintes atualizações de manutenção foram efetuadas em 2024.
 Para obter atualizações de manutenção anteriores a 2023, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em janeiro de 2024
+
++++**Atualização de manutenção em sexta-feira, 25 de janeiro de 2024**
+
+### Atualização de manutenção em sexta-feira, 25 de janeiro de 2024
+
+#### Quadros
+
+**Cartões não são movidos para a coluna apropriada quando o status é alterado**
+
+Quando o status de um objeto vinculado a um cartão conectado é alterado diretamente no objeto, o cartão não é movido para a coluna apropriada. Se o status do objeto é alterado no cartão ou se o cartão é arrastado para a nova coluna, o cartão se comporta conforme esperado.
+
+#### Notificações
+
+**A marcação de notificações como vistas não persiste**
+
+Quando um usuário marca suas notificações como vistas e, em seguida, navega para uma página diferente no [!DNL Workfront], o ícone notificações ainda mostra o número de notificações não lidas existentes antes de o usuário as marcar como visualizadas e as notificações ainda serão listadas quando o usuário clicar no ícone. Isso continua se o usuário os marcar como vistos e navegar para outra página ou de volta para a página original.
+
++++
 
 +++**Atualização de manutenção em sexta-feira, 18 de janeiro de 2024**
 
@@ -91,7 +109,7 @@ Quando um usuário define terminologia personalizada no nível do Portfolio, a t
 
 **Não é possível ocultar status opcionais**
 
-Quando um usuário tenta ocultar status opcionais em um nível de sistema e grupo, o status não é oculto. Se o usuário visualizar o status, a opção para ocultar o status não será habilitada, mesmo que o usuário o tenha habilitado e salvo as alterações.
+Quando uma pessoa tenta ocultar status opcionais em um nível de sistema e de grupo, o status não é oculto. Se a pessoa visualizar o status, a opção para ocultar o status não estará habilitada, mesmo que ela a tenha habilitado e salvo as alterações.
 
 **Status de problema padrão ausentes em alguns tipos de problema na Configuração**
 
