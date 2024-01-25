@@ -4,9 +4,9 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 4e5e8ff2bb7d7ac77910910d33573b79d5d4a5d7
+source-git-commit: 80bee7bc272f90f1cadd28972ee2421f213ec5be
 workflow-type: tm+mt
-source-wordcount: '814'
+source-wordcount: '822'
 ht-degree: 93%
 
 ---
@@ -27,7 +27,6 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | -----------------------------------------------------------------| ----------------- |
 | [Documentos: não é possível mover o documento da pasta para a raiz](known-issues-workfront/wf-documents-cannot-move-to-root.md) | quarta-feira, 23 de janeiro de 2024 |
 | [Provas: os GIF são renderizados como provas estáticas](known-issues-workfront/wf-proofs-gif-static-image.md) | quarta-feira, 23 de janeiro de 2024 |
-| [Gerenciamento de Recursos: cálculos financeiros incorretos devido a problemas de Função](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | quarta-feira, 23 de janeiro de 2024 |
 | [Provas: falha ao gerar provas comprimidas](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | quarta-feira, 9 de janeiro de 2024 |
 | [Quadros: a pesquisa não está funcionando](known-issues-workfront/wf-boards-search-not-working.md) | segunda-feira, 20 de outubro de 2024 |
 
@@ -39,12 +38,14 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
+| [[!UICONTROL Gerenciamento de recursos]: não é possível alterar a data em [!UICONTROL Utilização] área](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md) | sexta-feira, 25 de janeiro de 2024 |
+| [Equipes: problemas com a configuração dos status da equipe para o botão [!UICONTROL Concluído]](known-issues-workfront/wf-teams-statuses-missing.md) | sexta-feira, 25 de janeiro de 2024 |
+| [Gerenciamento de Recursos: cálculos financeiros incorretos devido a problemas de Função](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | sexta-feira, 25 de janeiro de 2024 |
+| [Quadros: os cartões persistem mesmo ao alterar a iteração](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md) | sexta-feira, 25 de janeiro de 2024 |
 | [Atualizações: os comentários feitos na experiência de comentários herdada não ficam visíveis na nova experiência](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md) | quinta-feira, 24 de janeiro de 2024 |
-| [Integrações: não é possível registrar tempo do Workfront para integração com o Jira](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md) | sábado, 19 de janeiro de 2024 |
 | [Atualizações: não é possível visualizar ou baixar imagens em comentários](known-issues-workfront/wf-updates-cannot-view-or-download-images.md) | sábado, 19 de janeiro de 2024 |
 | [Documentos: problemas ao visualizar listas de documentos](known-issues-workfront/wf-documents-list-not-loading.md) | sexta-feira, 18 de janeiro de 2024 |
 | [Problemas: os campos de horário salvam o horário incorretamente ao editar problemas em massa](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | sábado, 5 de janeiro de 2024 |
-| [Tarefas: a janela é fechada ao criar uma nova tarefa](known-issues-workfront/wf-tasks-new-window-closes.md) | sexta-feira, 4 de janeiro de 2024 |
 | [Modelos: não é possível selecionar o modelo da lista de [!UICONTROL Favoritos]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | sexta-feira, 4 de janeiro de 2024 |
 | [Nova [!UICONTROL Página inicial]: os padrões de filtro e agrupamento de dispositivos não seguem o modelo de layout](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | sexta-feira, 4 de janeiro de 2024 |
 | [Tarefas: cancelamento de atribuição do usuário em uma ou mais tarefas](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | terça-feira, 18 de dezembro de 2023 |
