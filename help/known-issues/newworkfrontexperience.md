@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 29c3a3fd335527e4695b2361a19278d751797cbf
+source-git-commit: 4e5e8ff2bb7d7ac77910910d33573b79d5d4a5d7
 workflow-type: tm+mt
-source-wordcount: '844'
-ht-degree: 91%
+source-wordcount: '814'
+ht-degree: 93%
 
 ---
 
@@ -28,7 +28,6 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | [Documentos: não é possível mover o documento da pasta para a raiz](known-issues-workfront/wf-documents-cannot-move-to-root.md) | quarta-feira, 23 de janeiro de 2024 |
 | [Provas: os GIF são renderizados como provas estáticas](known-issues-workfront/wf-proofs-gif-static-image.md) | quarta-feira, 23 de janeiro de 2024 |
 | [Gerenciamento de Recursos: cálculos financeiros incorretos devido a problemas de Função](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | quarta-feira, 23 de janeiro de 2024 |
-| [Notificações: marcar notificações como vistas não persiste](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md) | sábado, 19 de janeiro de 2024 |
 | [Provas: falha ao gerar provas comprimidas](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | quarta-feira, 9 de janeiro de 2024 |
 | [Quadros: a pesquisa não está funcionando](known-issues-workfront/wf-boards-search-not-working.md) | segunda-feira, 20 de outubro de 2024 |
 
@@ -41,7 +40,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
 | [Atualizações: os comentários feitos na experiência de comentários herdada não ficam visíveis na nova experiência](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md) | quinta-feira, 24 de janeiro de 2024 |
-| [Atualizações: problemas com a marcação na experiência de comentários herdada](known-issues-workfront/wf-updates-showing-first-name.md) | quinta-feira, 24 de janeiro de 2024 |
 | [Integrações: não é possível registrar tempo do Workfront para integração com o Jira](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md) | sábado, 19 de janeiro de 2024 |
 | [Atualizações: não é possível visualizar ou baixar imagens em comentários](known-issues-workfront/wf-updates-cannot-view-or-download-images.md) | sábado, 19 de janeiro de 2024 |
 | [Documentos: problemas ao visualizar listas de documentos](known-issues-workfront/wf-documents-list-not-loading.md) | sexta-feira, 18 de janeiro de 2024 |
@@ -51,7 +49,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | [Nova [!UICONTROL Página inicial]: os padrões de filtro e agrupamento de dispositivos não seguem o modelo de layout](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | sexta-feira, 4 de janeiro de 2024 |
 | [Tarefas: cancelamento de atribuição do usuário em uma ou mais tarefas](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | terça-feira, 18 de dezembro de 2023 |
 | [Provas: problemas ao processar arquivos estáticos](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | sábado, 15 de dezembro de 2023 |
-| [Quadros: os cartões não são movidos para a coluna apropriada quando o status é alterado](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | sexta-feira, 14 de dezembro de 2023 |
 | [Tarefas: duplicar tarefas faz com que as tarefas sejam exibidas na ordem errada](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | sexta-feira, 30 de novembro de 2023 |
 | [Página inicial: as tarefas em projetos com status Aprovado ou Em planejamento não são incluídas em Minhas tarefas ou na Lista de trabalho da página inicial](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 6 de novembro de 2023 |
 | [Tarefas: erro “[!UICONTROL Ops]” no cabeçalho da tarefa](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 25 de outubro de 2023 |

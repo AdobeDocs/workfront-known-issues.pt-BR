@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 67155ccf8996661fb9429c6174a7f5d0cf4a6d8a
+source-git-commit: 4e5e8ff2bb7d7ac77910910d33573b79d5d4a5d7
 workflow-type: tm+mt
-source-wordcount: '1085'
-ht-degree: 80%
+source-wordcount: '1158'
+ht-degree: 75%
 
 ---
 
@@ -37,6 +37,19 @@ Quando o status de um objeto vinculado a um cartão conectado é alterado direta
 **A marcação de notificações como vistas não persiste**
 
 Quando um usuário marca suas notificações como vistas e, em seguida, navega para uma página diferente no [!DNL Workfront], o ícone notificações ainda mostra o número de notificações não lidas existentes antes de o usuário as marcar como visualizadas e as notificações ainda serão listadas quando o usuário clicar no ícone. Isso continua se o usuário os marcar como vistos e navegar para outra página ou de volta para a página original.
+
+#### Atualizações
+
+**Problemas com a marcação na experiência de comentários herdada**
+
+Quando um usuário é marcado em um comentário na experiência de comentários herdada, os seguintes problemas ocorrem:
+
+* Somente o nome do usuário está presente no comentário
+* O nome do usuário não está marcado com um símbolo @
+* O nome do usuário não é azul
+* O nome de usuário não é um link para o perfil desse usuário
+
+O usuário recebe uma notificação por email sobre a tag, conforme esperado.
 
 +++
 
@@ -142,9 +155,9 @@ Um comentário feito na experiência de comentários herdada pode não estar vis
 
 +++
 
-+++**Atualização de manutenção em quinta-feira, 11 de janeiro de 2023**
++++**Atualização de manutenção em sexta-feira, 11 de janeiro de 2024**
 
-### Atualização de manutenção em 11 de janeiro de 2023
+### Atualização de manutenção em sexta-feira, 11 de janeiro de 2024
 
 #### Quadros
 
