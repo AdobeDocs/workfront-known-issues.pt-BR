@@ -1,19 +1,19 @@
 ---
-title: "Atualizações: não é possível exibir ou baixar imagens em comentários"
-description: "Quando um usuário tenta visualizar ou baixar uma imagem de um comentário no Workfront, ele vê um erro."
+title: '“Atualizações: não é possível visualizar ou baixar imagens em comentários”'
+description: “Quando uma pessoa tenta visualizar ou baixar uma imagem de um comentário no Workfront, um erro é exibido.”
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 19c3b0bdc7f53b27690ad3a2f44d297deb6940fc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
 # Atualizações: não é possível visualizar ou baixar imagens em comentários
 
-Ao tentar visualizar ou baixar uma imagem de um comentário no Workfront, o usuário vê o seguinte erro:
+Quando uma pessoa tenta visualizar ou baixar uma imagem de um comentário no Workfront, o seguinte erro é exibido:
 
 `Access to <domain>.my.workfront.com was denied`
 
