@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 4e5e8ff2bb7d7ac77910910d33573b79d5d4a5d7
+source-git-commit: b5a918850060b8fc02b8a9c978c4e2a4bc7a8dc4
 workflow-type: tm+mt
-source-wordcount: '1158'
-ht-degree: 92%
+source-wordcount: '1333'
+ht-degree: 81%
 
 ---
 
@@ -20,7 +20,43 @@ As seguintes atualizações de manutenção foram efetuadas em 2024.
 
 Para obter atualizações de manutenção anteriores a 2023, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
+## Atualizações em fevereiro de 2024
+
++++**(Planejado) Atualização de manutenção em sexta-feira, 1 de fevereiro de 2024**
+
+### (Planejado) Atualização de manutenção em 1 de fevereiro de 2024
+
+#### Logon
+
+**Os usuários que usam SSO não são redirecionados para o local original ao fazer logon**
+
+Quando um usuário está em uma página no [!DNL Workfront] e efetuar login com SSO, quando o login estiver concluído, eles serão direcionados para [!UICONTROL Início] em vez da página em que estavam antes de fazer logon.
+
+#### Modelos
+
+**Erro ao copiar modelos**
+
+Quando um usuário tenta copiar um modelo novo ou existente, o modelo não é copiado e o usuário vê o seguinte erro:
+
+&quot;[!UICONTROL A ID não pode ser nula]&quot;
+
++++
+
 ## Atualizações em janeiro de 2024
+
++++**Atualização de manutenção (hot fix) em quarta-feira, 30 de janeiro de 2024**
+
+### Atualização de manutenção (hotfix) em 30 de janeiro de 2024
+
+#### Relatórios
+
+**O campo API externa não mostra todos os valores disponíveis em listas e relatórios**
+
+Anteriormente, os usuários podiam ver o valor selecionado (e editar o valor) de um campo de pesquisa externo em listas e relatórios, mas não visualizavam a lista suspensa com as opções provenientes da API.
+
+Agora, quando um campo personalizado de pesquisa externa é usado em uma lista ou relatório, a lista suspensa com todas as opções da API externa fica disponível.
+
++++
 
 +++**Atualização de manutenção em sexta-feira, 25 de janeiro de 2024**
 
