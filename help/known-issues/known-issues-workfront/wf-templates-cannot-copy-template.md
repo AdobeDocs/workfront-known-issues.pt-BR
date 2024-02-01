@@ -3,15 +3,19 @@ title: "Modelos: erro ao copiar modelos"
 description: "Quando um usuário tenta copiar um modelo novo ou existente, ele não é copiado e o usuário vê um erro."
 hidefromtoc: true
 feature: Projects
-source-git-commit: 85c5e92c4a434c39b2f238a5917f0e409493ec5e
+source-git-commit: 17e60b281dc05073247083257121d8809a271722
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 6%
+source-wordcount: '69'
+ht-degree: 14%
 
 ---
 
 
 # Modelos: erro ao copiar modelos
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em sexta-feira, 1 de fevereiro de 2024.
 
 Quando um usuário tenta copiar um modelo novo ou existente, o modelo não é copiado e o usuário vê o seguinte erro:
 
