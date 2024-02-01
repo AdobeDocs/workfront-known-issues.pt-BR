@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
+source-git-commit: b6271df75cce6d725f6d27b479b0eb31b8991acb
 workflow-type: tm+mt
-source-wordcount: '390'
-ht-degree: 96%
+source-wordcount: '376'
+ht-degree: 97%
 
 ---
 
@@ -25,8 +25,6 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Documentos: não é possível mover o documento da pasta para a raiz](known-issues-workfront/wf-documents-cannot-move-to-root.md) | quarta-feira, 23 de janeiro de 2024 |
-| [Provas: os GIF são renderizados como provas estáticas](known-issues-workfront/wf-proofs-gif-static-image.md) | quarta-feira, 23 de janeiro de 2024 |
 | [Provas: falha ao gerar provas comprimidas](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | quarta-feira, 9 de janeiro de 2024 |
 
 {style="table-layout:auto"}
@@ -37,7 +35,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Documentos: problemas ao visualizar listas de documentos](known-issues-workfront/wf-documents-list-not-loading.md) | sexta-feira, 18 de janeiro de 2024 |
+| [Documentos: não é possível mover o documento da pasta para a raiz](known-issues-workfront/wf-documents-cannot-move-to-root.md) | sexta-feira, 1 de fevereiro de 2024 |
 | [Provas: problemas ao processar arquivos estáticos](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | sábado, 15 de dezembro de 2023 |
 | [Provas: navegação estrutural ausente ao acessar uma prova a partir de um link de email](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 de novembro de 2023 |
 | [Provas: erro ao compartilhar prova do link de email](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26 de outubro de 2023 |

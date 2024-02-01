@@ -3,15 +3,19 @@ title: '“Atualizações: não é possível visualizar ou baixar imagens em com
 description: “Quando uma pessoa tenta visualizar ou baixar uma imagem de um comentário no Workfront, um erro é exibido.”
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 19c3b0bdc7f53b27690ad3a2f44d297deb6940fc
-workflow-type: ht
-source-wordcount: '88'
+source-git-commit: b6271df75cce6d725f6d27b479b0eb31b8991acb
+workflow-type: tm+mt
+source-wordcount: '94'
 ht-degree: 100%
 
 ---
 
 
 # Atualizações: não é possível visualizar ou baixar imagens em comentários
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em sexta-feira, 25 de janeiro de 2024.
 
 Quando uma pessoa tenta visualizar ou baixar uma imagem de um comentário no Workfront, o seguinte erro é exibido:
 
