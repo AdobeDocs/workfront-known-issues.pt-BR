@@ -5,7 +5,7 @@ role: User
 source-git-commit: 32196793e652b6b498e623ba8857039d6311c796
 workflow-type: tm+mt
 source-wordcount: '1516'
-ht-degree: 93%
+ht-degree: 97%
 
 ---
 
@@ -21,12 +21,12 @@ ht-degree: 93%
       + [Atualizações: a opção de imagem desativada está disponível ao editar um comentário](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
       + [Quadros: não é possível mover um cartão em uma coluna usando [!UICONTROL Mover] opções](known-issues-workfront/wf-boards-top-of-column-ineffective.md)
       + [Modelos: erro ao copiar modelos](known-issues-workfront/wf-templates-cannot-copy-template.md)
-      + [[!UICONTROL Gerenciamento de recursos]: não é possível alterar a data em [!UICONTROL Utilização] área](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md)
-      + [Atualizações: os comentários feitos na experiência de comentários herdada não ficam visíveis na nova experiência](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)
+      + [[!UICONTROL Gerenciamento de recursos]: não é possível alterar a data na área [!UICONTROL Utilização]](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md)
+      + [Atualizações: os comentários feitos na experiência de comentários herdada não são visíveis na nova experiência](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)
       + [Atualizações: problemas com a marcação na experiência de comentários herdada](known-issues-workfront/wf-updates-showing-first-name.md)
       + [Documentos: não é possível mover o documento da pasta para a raiz](known-issues-workfront/wf-documents-cannot-move-to-root.md)
-      + [Provas: os GIF são renderizados como provas estáticas](known-issues-workfront/wf-proofs-gif-static-image.md)
-      + [Gerenciamento de Recursos: cálculos financeiros incorretos devido a problemas de Função](known-issues-workfront/wf-resource-mgmt-job-role-rates.md)
+      + [Provas: os GIFs são renderizados como provas estáticas](known-issues-workfront/wf-proofs-gif-static-image.md)
+      + [Gerenciamento de recursos: cálculos financeiros incorretos devido a problemas de Função de trabalho](known-issues-workfront/wf-resource-mgmt-job-role-rates.md)
       + [Integrações: não é possível registrar o horário na integração do Workfront for Jira](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md)
       + [Atualizações: não é possível visualizar ou baixar imagens em comentários](known-issues-workfront/wf-updates-cannot-view-or-download-images.md)
       + [Notificações: a marcação de notificações como vistas não persiste](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md)

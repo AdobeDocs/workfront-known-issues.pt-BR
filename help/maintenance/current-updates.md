@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 17e60b281dc05073247083257121d8809a271722
 workflow-type: tm+mt
 source-wordcount: '1332'
-ht-degree: 81%
+ht-degree: 90%
 
 ---
 
@@ -36,9 +36,9 @@ Quando um usuário está em uma página no [!DNL Workfront] e efetuar login com 
 
 **Erro ao copiar modelos**
 
-Quando um usuário tenta copiar um modelo novo ou existente, o modelo não é copiado e o usuário vê o seguinte erro:
+Quando alguém tenta copiar um modelo novo ou já existente, ele não é copiado e o seguinte erro é exibido:
 
-&quot;[!UICONTROL A ID não pode ser nula]&quot;
+“[!UICONTROL ID não pode ser nulo]”
 
 +++
 
@@ -64,13 +64,13 @@ Agora, quando um campo personalizado de pesquisa externa é usado em uma lista o
 
 #### Quadros
 
-**Cartões não são movidos para a coluna apropriada quando o status é alterado**
+**Os cartões não são movidos para a coluna apropriada quando o status é alterado**
 
 Quando o status de um objeto vinculado a um cartão conectado é alterado diretamente no objeto, o cartão não é movido para a coluna apropriada. Se o status do objeto é alterado no cartão ou se o cartão é arrastado para a nova coluna, o cartão se comporta conforme esperado.
 
 #### Notificações
 
-**A marcação de notificações como vistas não persiste**
+**Marcar notificações como vistas não persiste**
 
 Quando uma pessoa marca as notificações como vistas e navega para uma página diferente no [!DNL Workfront], o ícone de notificações ainda mostra o número de notificações não lidas que existiam antes de ela marcá-las como vistas, e as notificações ainda são listadas quando se clica no ícone. Isso continua mesmo quando a pessoa as marca como vistas e navega para outra página ou de volta para a página original.
 
@@ -78,12 +78,12 @@ Quando uma pessoa marca as notificações como vistas e navega para uma página 
 
 **Problemas com a marcação na experiência de comentários herdada**
 
-Quando um usuário é marcado em um comentário na experiência de comentários herdada, os seguintes problemas ocorrem:
+Quando uma pessoa é marcada em um comentário na experiência de comentários herdada, os seguintes problemas ocorrem:
 
-* Somente o nome do usuário está presente no comentário
+* Somente a primeira parte do nome do usuário está presente no comentário
 * O nome do usuário não está marcado com um símbolo @
-* O nome do usuário não é azul
-* O nome de usuário não é um link para o perfil desse usuário
+* O nome do usuário não está em azul
+* O nome do usuário não é um link para o perfil dele
 
 O usuário recebe uma notificação por email sobre a tag, conforme esperado.
 
