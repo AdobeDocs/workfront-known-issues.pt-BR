@@ -1,12 +1,12 @@
 ---
-title: "Atualizações: problemas com a marcação na experiência de comentários herdada"
-description: "Quando um usuário é marcado em um comentário na experiência de comentários herdada, ocorrem vários problemas."
+title: '“Atualizações: problemas com a marcação na experiência de comentários herdada”'
+description: “Quando uma pessoa é marcada em um comentário na experiência de comentários herdada, ocorrem vários problemas.”
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 4e5e8ff2bb7d7ac77910910d33573b79d5d4a5d7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
@@ -17,12 +17,12 @@ ht-degree: 9%
 >
 >Esse problema foi corrigido em sexta-feira, 25 de janeiro de 2024.
 
-Quando um usuário é marcado em um comentário na experiência de comentários herdada, os seguintes problemas ocorrem:
+Quando uma pessoa é marcada em um comentário na experiência de comentários herdada, os seguintes problemas ocorrem:
 
-* Somente o nome do usuário está presente no comentário
+* Somente a primeira parte do nome do usuário está presente no comentário
 * O nome do usuário não está marcado com um símbolo @
-* O nome do usuário não é azul
-* O nome de usuário não é um link para o perfil desse usuário
+* O nome do usuário não está em azul
+* O nome do usuário não é um link para o perfil dele
 
 O usuário recebe uma notificação por email sobre a tag, conforme esperado.
 
