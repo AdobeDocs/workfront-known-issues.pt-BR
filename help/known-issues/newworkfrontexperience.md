@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 513b1efc9deffe0a1d8024e95e5aa88e14dd8e41
+source-git-commit: ee15f19ffd6010f637582fa484721596a25f0653
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '793'
+ht-degree: 96%
 
 ---
 
@@ -25,7 +25,6 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Quadros: não é possível mover um cartão em uma coluna usando [!UICONTROL Mover] opções](known-issues-workfront/wf-boards-top-of-column-ineffective.md) | sábado, 26 de janeiro de 2024 |
 | [Provas: os GIFs são renderizados como provas estáticas](known-issues-workfront/wf-proofs-gif-static-image.md) | quarta-feira, 23 de janeiro de 2024 |
 | [Provas: falha ao gerar provas comprimidas](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | quarta-feira, 9 de janeiro de 2024 |
 
@@ -37,6 +36,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
+| [Quadros: não é possível mover um cartão em uma coluna usando [!UICONTROL Mover] opções](known-issues-workfront/wf-boards-top-of-column-ineffective.md) | quarta-feira, 6 de fevereiro de 2024 |
 | [Documentos: não é possível mover o documento da pasta para a raiz](known-issues-workfront/wf-documents-cannot-move-to-root.md) | sexta-feira, 1 de fevereiro de 2024 |
 | [Quadros: os cartões não são movidos para a coluna apropriada quando o status é alterado](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | sexta-feira, 1 de fevereiro de 2024 |
 | [Problemas: o status do problema não está na lista suspensa](known-issues-workfront/wf-issues-status-not-available.md) | quinta-feira, 31 de janeiro de 2024 |

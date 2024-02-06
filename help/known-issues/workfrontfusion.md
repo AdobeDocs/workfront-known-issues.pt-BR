@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Fusion]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: aad77d690cef72beb1543c442ee557e768777150
+source-git-commit: ee15f19ffd6010f637582fa484721596a25f0653
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 86%
+source-wordcount: '177'
+ht-degree: 82%
 
 ---
 
@@ -36,6 +36,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion: o módulo Workfront Proof > Watch Proof atinge o tempo limite](/help/known-issues/known-issues-workfront-fusion/fusion-wfp-watch-proof-times-out.md) | quarta-feira, 6 de fevereiro de 2024 |
 | [Workfront Fusion: RuntimeError com resposta 200 do módulo Workfront](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md) | terça-feira, 29 de janeiro de 2024 |
 
 {style="table-layout:auto"}
