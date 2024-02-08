@@ -3,15 +3,19 @@ title: '“[!UICONTROL Gerenciamento de recursos]: não é possível alterar a d
 description: “Quando uma pessoa está visualizando a área [!UICONTROL Utilização] do [!UICONTROL Gerenciamento de recursos] e tenta alterar o intervalo de datas, as datas não mudam e um erro é exibido.”
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: 80bee7bc272f90f1cadd28972ee2421f213ec5be
-workflow-type: ht
-source-wordcount: '101'
+source-git-commit: c233a4f5741a9ae4af5218eb0800d2da43eabe66
+workflow-type: tm+mt
+source-wordcount: '107'
 ht-degree: 100%
 
 ---
 
 
 # [!UICONTROL Gerenciamento de recursos]: não é possível alterar a data na área [!UICONTROL Utilização]
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em sexta-feira, 1 de fevereiro de 2024.
 
 Quando uma pessoa está visualizando a área [!UICONTROL Utilização] do [!UICONTROL Gerenciamento de recursos] e tenta alterar o intervalo de datas, as datas não mudam e o seguinte erro é exibido:
 
