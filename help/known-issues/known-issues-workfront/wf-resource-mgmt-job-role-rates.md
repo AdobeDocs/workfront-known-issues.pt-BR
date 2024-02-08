@@ -3,15 +3,19 @@ title: '“Gerenciamento de recursos: cálculos financeiros incorretos devido a 
 description: “As horas e os cálculos financeiros podem estar incorretos, mostrando um custo de 0 mesmo que as horas estejam registradas em uma função de trabalho que tenha uma taxa de custo.”
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: e9a7ff289e7c9fcc9c9ff13b7c4b5b554e303c11
-workflow-type: ht
-source-wordcount: '135'
+source-git-commit: f8579e17458f702580e1a4cf3600c14376d7591b
+workflow-type: tm+mt
+source-wordcount: '141'
 ht-degree: 100%
 
 ---
 
 
 # Gerenciamento de recursos: cálculos financeiros incorretos devido a problemas de Função de trabalho
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em sexta-feira, 8 de fevereiro de 2024.
 
 As horas e os cálculos financeiros podem estar incorretos, mostrando um custo de 0 mesmo que as horas estejam registradas em uma função de trabalho que tenha uma taxa de custo.
 

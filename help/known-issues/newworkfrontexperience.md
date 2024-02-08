@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ee15f19ffd6010f637582fa484721596a25f0653
+source-git-commit: f8579e17458f702580e1a4cf3600c14376d7591b
 workflow-type: tm+mt
-source-wordcount: '793'
-ht-degree: 96%
+source-wordcount: '762'
+ht-degree: 97%
 
 ---
 
@@ -36,15 +36,12 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
-| [Quadros: não é possível mover um cartão em uma coluna usando [!UICONTROL Mover] opções](known-issues-workfront/wf-boards-top-of-column-ineffective.md) | quarta-feira, 6 de fevereiro de 2024 |
 | [Documentos: não é possível mover o documento da pasta para a raiz](known-issues-workfront/wf-documents-cannot-move-to-root.md) | sexta-feira, 1 de fevereiro de 2024 |
 | [Quadros: os cartões não são movidos para a coluna apropriada quando o status é alterado](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | sexta-feira, 1 de fevereiro de 2024 |
 | [Problemas: o status do problema não está na lista suspensa](known-issues-workfront/wf-issues-status-not-available.md) | quinta-feira, 31 de janeiro de 2024 |
 | [Atualizações: a opção de imagem desativada está disponível ao editar um comentário](known-issues-workfront/wf-updates-image-enabled-when-editing.md) | quinta-feira, 31 de janeiro de 2024 |
 | [[!UICONTROL Gerenciamento de recursos]: não é possível alterar a data na área [!UICONTROL Utilização].](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md) | sexta-feira, 25 de janeiro de 2024 |
 | [Equipes: problemas com a configuração dos status da equipe para o botão [!UICONTROL Concluído]](known-issues-workfront/wf-teams-statuses-missing.md) | sexta-feira, 25 de janeiro de 2024 |
-| [Gerenciamento de recursos: cálculos financeiros incorretos devido a problemas de Função de trabalho](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | sexta-feira, 25 de janeiro de 2024 |
-| [Quadros: os cartões persistem mesmo ao alterar a iteração](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md) | sexta-feira, 25 de janeiro de 2024 |
 | [Problemas: os campos de horário salvam o horário incorretamente ao editar problemas em massa](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | sábado, 5 de janeiro de 2024 |
 | [Nova [!UICONTROL Página inicial]: os padrões de filtro e agrupamento de dispositivos não seguem o modelo de layout](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | sexta-feira, 4 de janeiro de 2024 |
 | [Tarefas: cancelamento de atribuição do usuário em uma ou mais tarefas](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | terça-feira, 18 de dezembro de 2023 |

@@ -3,9 +3,9 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: ee15f19ffd6010f637582fa484721596a25f0653
+source-git-commit: f8579e17458f702580e1a4cf3600c14376d7591b
 workflow-type: tm+mt
-source-wordcount: '1447'
+source-wordcount: '1518'
 ht-degree: 86%
 
 ---
@@ -22,9 +22,9 @@ Para obter atualizações de manutenção anteriores a 2023, consulte [Atualiza�
 
 ## Atualizações em fevereiro de 2024
 
-+++**(Planejado) Atualização de manutenção em sexta-feira, 8 de fevereiro de 2024**
++++**Atualização de manutenção em sexta-feira, 8 de fevereiro de 2024**
 
-### (Planejado) Atualização de manutenção em 8 de fevereiro de 2024
+### Atualização de manutenção em 8 de fevereiro de 2024
 
 #### Quadros
 
@@ -41,6 +41,14 @@ Quando uma pessoa visualiza uma iteração em um quadro e, em seguida, altera pa
 **A coluna &quot;Nenhum valor&quot; não exibe resultados**
 
 Quando um relatório de gráfico tem um &quot;[!DNL No value]&quot;, a coluna não mostra nenhum dado, mesmo que os dados devam estar presentes.
+
+#### Gerenciamento de recursos
+
+**Cálculos de finanças incorretos devido a problemas de Função de Trabalho**
+
+As horas e os cálculos financeiros podem estar incorretos, mostrando um custo de 0 mesmo que as horas estejam registradas em uma função de trabalho que tenha uma taxa de custo.
+
+Isso ocorre porque as Funções de trabalho estão criando automaticamente taxas duplicadas sem datas de início ou término. Como não têm datas de início ou término, elas são tratadas como um valor 0 quando os cálculos financeiros são executados.
 
 +++
 
