@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f8579e17458f702580e1a4cf3600c14376d7591b
+source-git-commit: 65b488e1ae954b77808505b6f6ab4405f4e13674
 workflow-type: tm+mt
-source-wordcount: '762'
-ht-degree: 97%
+source-wordcount: '773'
+ht-degree: 96%
 
 ---
 
@@ -25,6 +25,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Usuários: níveis de acesso mais baixos não disponíveis ao criar um usuário](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | sexta-feira, 8 de fevereiro de 2024 |
 | [Provas: os GIFs são renderizados como provas estáticas](known-issues-workfront/wf-proofs-gif-static-image.md) | quarta-feira, 23 de janeiro de 2024 |
 | [Provas: falha ao gerar provas comprimidas](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | quarta-feira, 9 de janeiro de 2024 |
 

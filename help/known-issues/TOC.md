@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 4f66611a781f5793d397e28911e308d46bd1de02
+source-git-commit: b3b415f939a1d83da47de4bf960f5a504b59b3fa
 workflow-type: tm+mt
-source-wordcount: '1532'
-ht-degree: 96%
+source-wordcount: '1542'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Usuários: níveis de acesso mais baixos não disponíveis ao criar um usuário](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md)
       + [Problemas: o status do problema não está na lista suspensa](known-issues-workfront/wf-issues-status-not-available.md)
       + [Atualizações: a opção de imagem desativada está disponível ao editar um comentário](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
       + [Quadros: não é possível mover um cartão em uma coluna usando [!UICONTROL Mover] opções](known-issues-workfront/wf-boards-top-of-column-ineffective.md)
