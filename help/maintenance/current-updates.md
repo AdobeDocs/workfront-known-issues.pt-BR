@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: f8579e17458f702580e1a4cf3600c14376d7591b
 workflow-type: tm+mt
 source-wordcount: '1518'
-ht-degree: 86%
+ht-degree: 96%
 
 ---
 
@@ -30,7 +30,7 @@ Para obter atualizações de manutenção anteriores a 2023, consulte [Atualiza�
 
 **Não é possível mover um cartão em uma coluna usando [!UICONTROL Mover] opções**
 
-Quando um usuário tenta mover um cartão em uma coluna usando o &quot;[!UICONTROL Parte superior da coluna]&quot; ou &quot;[!UICONTROL Parte inferior da coluna]&quot; no menu de três pontos, o cartão não se move.
+Quando um usuário tenta mover um cartão em uma coluna usando as opções “[!UICONTROL Topo da coluna]” ou “[!UICONTROL Fundo da coluna]” no menu de três pontos, o cartão não se move.
 
 **Os cartões persistem ao alterar a iteração**
 
@@ -58,9 +58,9 @@ Isso ocorre porque as Funções de trabalho estão criando automaticamente taxas
 
 #### Logon
 
-**Os usuários que usam SSO não são redirecionados para o local original ao fazer logon**
+**Os usuários de SSO não são redirecionados para o local original ao fazer logon**
 
-Quando um usuário está em uma página no [!DNL Workfront] e efetuar login com SSO, quando o login estiver concluído, eles serão direcionados para [!UICONTROL Início] em vez da página em que estavam antes de fazer logon.
+Quando uma pessoa está em uma página no [!DNL Workfront] e faz logon com SSO, após sua conclusão, ela é redirecionada para a [!UICONTROL Página inicial] em vez da página em que estava antes de fazer o logon.
 
 #### Modelos
 
@@ -76,13 +76,13 @@ Quando alguém tenta copiar um modelo novo ou já existente, ele não é copiado
 
 +++**Atualização de manutenção (hot fix) em quarta-feira, 30 de janeiro de 2024**
 
-### Atualização de manutenção (hotfix) em 30 de janeiro de 2024
+### Atualização de manutenção (Hot Fix) em 30 de janeiro de 2024
 
 #### Relatórios
 
-**O campo API externa não mostra todos os valores disponíveis em listas e relatórios**
+**O campo API externa não mostra todos os valores disponíveis nas listas e nos relatórios**
 
-Anteriormente, os usuários podiam ver o valor selecionado (e editar o valor) de um campo de pesquisa externo em listas e relatórios, mas não visualizavam a lista suspensa com as opções provenientes da API.
+Anteriormente, usuários podiam ver o valor selecionado (e editá-lo) de um campo de pesquisa externo nas listas e nos relatórios, mas não visualizavam a lista suspensa com as opções provenientes da API.
 
 Agora, quando um campo personalizado de pesquisa externa é usado em uma lista ou relatório, a lista suspensa com todas as opções da API externa fica disponível.
 

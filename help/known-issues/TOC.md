@@ -5,7 +5,7 @@ role: User
 source-git-commit: b3b415f939a1d83da47de4bf960f5a504b59b3fa
 workflow-type: tm+mt
 source-wordcount: '1542'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 95%
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
       + [Usuários: níveis de acesso mais baixos não disponíveis ao criar um usuário](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md)
-      + [Problemas: o status do problema não está na lista suspensa](known-issues-workfront/wf-issues-status-not-available.md)
-      + [Atualizações: a opção de imagem desativada está disponível ao editar um comentário](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
-      + [Quadros: não é possível mover um cartão em uma coluna usando [!UICONTROL Mover] opções](known-issues-workfront/wf-boards-top-of-column-ineffective.md)
+      + [Problemas: opções de status de problema não aparecem na lista suspensa](known-issues-workfront/wf-issues-status-not-available.md)
+      + [Atualizações: opções desabilitadas de imagem ficam disponíveis ao editar um comentário](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
+      + [Quadros: não é possível mover um cartão em uma coluna usando as opções de [!UICONTROL mover]](known-issues-workfront/wf-boards-top-of-column-ineffective.md)
       + [Modelos: erro ao copiar modelos](known-issues-workfront/wf-templates-cannot-copy-template.md)
       + [[!UICONTROL Gerenciamento de recursos]: não é possível alterar a data na área [!UICONTROL Utilização]](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md)
       + [Atualizações: os comentários feitos na experiência de comentários herdada não são visíveis na nova experiência](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)
@@ -192,7 +192,7 @@ ht-degree: 95%
    + Problemas atuais no [!DNL Workfront Fusion] {#fusion-current}
       + [Workfront Fusion: o módulo Workfront Proof > Watch Proof atinge o tempo limite](/help/known-issues/known-issues-workfront-fusion/fusion-wfp-watch-proof-times-out.md)
       + [Workfront Fusion: o campo está ausente do módulo](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
-      + [Workfront Fusion: formatação de saída para datas](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
+      + [Workfront Fusion: saída de formatação de datas](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: RuntimeError com resposta 200 do módulo Workfront](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md)
       + [Workfront Fusion: erro de pouca memória](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion: projetos duplicados criados a partir de um mesmo módulo](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
