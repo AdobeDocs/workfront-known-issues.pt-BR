@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: b6271df75cce6d725f6d27b479b0eb31b8991acb
-workflow-type: ht
-source-wordcount: '376'
-ht-degree: 100%
+source-git-commit: 27d1f17ea0b25330d11d79609c41f82e9af518ab
+workflow-type: tm+mt
+source-wordcount: '388'
+ht-degree: 97%
 
 ---
 
@@ -25,6 +25,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Provas: não é possível criar uma prova com [!UICONTROL Fluxo de trabalho avançado] de a [!DNL SharePoint] documento](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | quarta-feira, 13 de fevereiro de 2024 |
 | [Provas: falha ao gerar provas comprimidas](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | quarta-feira, 9 de janeiro de 2024 |
 
 {style="table-layout:auto"}

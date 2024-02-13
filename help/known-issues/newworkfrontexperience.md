@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 276180358efb2a394ca58c51fd73b834f48874e9
+source-git-commit: 27d1f17ea0b25330d11d79609c41f82e9af518ab
 workflow-type: tm+mt
-source-wordcount: '788'
-ht-degree: 95%
+source-wordcount: '821'
+ht-degree: 92%
 
 ---
 
@@ -25,6 +25,9 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integrações: documentos não anexados ao criar uma solicitação do [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | quarta-feira, 13 de fevereiro de 2024 |
+| [Provas: não é possível criar uma prova com [!UICONTROL Fluxo de trabalho avançado] de a [!DNL SharePoint] documento](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | quarta-feira, 13 de fevereiro de 2024 |
+| [Quadros: erro 400 ao adicionar uma tarefa a um quadro](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | quarta-feira, 13 de fevereiro de 2024 |
 | [Quadros: a filtragem para vários usuários não retorna todos os resultados](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | terça-feira, 12 de fevereiro de 2024 |
 | [Usuários: níveis de acesso mais baixos não disponíveis ao criar um usuário](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | sexta-feira, 8 de fevereiro de 2024 |
 | [Provas: os GIFs são renderizados como provas estáticas](known-issues-workfront/wf-proofs-gif-static-image.md) | quarta-feira, 23 de janeiro de 2024 |

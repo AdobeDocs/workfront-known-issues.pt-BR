@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f8579e17458f702580e1a4cf3600c14376d7591b
+source-git-commit: 27d1f17ea0b25330d11d79609c41f82e9af518ab
 workflow-type: tm+mt
-source-wordcount: '1518'
-ht-degree: 96%
+source-wordcount: '1690'
+ht-degree: 95%
 
 ---
 
@@ -21,6 +21,30 @@ As seguintes atualizações de manutenção foram efetuadas em 2024.
 Para obter atualizações de manutenção anteriores a 2023, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em fevereiro de 2024
+
++++**(Planejado) Atualização de manutenção em sexta-feira, 15 de fevereiro de 2024**
+
+### (Planejado) Atualização de manutenção em 15 de fevereiro de 2024
+
+#### Problemas
+
+**Os campos de tempo economizam tempo incorreto ao editar problemas em massa**
+
+Quando uma pessoa edita problemas em massa, define uma data e hora para um campo de data e salva, o horário salvo nesse campo no problema fica diferente do definido. Em vez disso, o horário parece ser convertido em UTC quando ele é salvo.
+
+#### Tarefas
+
+**O usuário não está atribuído a uma ou mais tarefas**
+
+Um usuário pode ser automaticamente desassociado de uma tarefa à qual está atribuído. Isso pode ocorrer em uma ou mais tarefas. O cancelamento da atribuição não é exibido na área Atualizações de sistema das tarefas, embora seja exibido na seção Feeds de atualização do menu de configuração.
+
+#### Atualizações
+
+**A opção de imagem desativada está disponível ao editar um comentário**
+
+Depois que a administração do [!DNL Workfront] desabilita a opção para adicionar imagens a comentários, essa opção deixa de estar disponível ao criar um comentário. No entanto, se uma pessoa editar um comentário já existente, a opção aparecerá como disponível.
+
++++
 
 +++**Atualização de manutenção em sexta-feira, 8 de fevereiro de 2024**
 

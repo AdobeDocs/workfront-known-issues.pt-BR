@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 276180358efb2a394ca58c51fd73b834f48874e9
+source-git-commit: 82f7b2f94e9df2f3e1707946f802720fc2ff8c16
 workflow-type: tm+mt
-source-wordcount: '1564'
-ht-degree: 96%
+source-wordcount: '1594'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Integrações: documentos não anexados ao criar uma solicitação do [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
+      + [Provas: não é possível criar uma prova com [!UICONTROL Fluxo de trabalho avançado] de a [!DNL SharePoint] documento](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)
+      + [Quadros: erro 400 ao adicionar uma tarefa a um quadro](known-issues-workfront/wf-boards-400-when-add-to-boards.md)
       + [Atualizações: a tela fica em branco ao responder a um usuário de outra empresa](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md)
       + [Quadros: a filtragem para vários usuários não retorna todos os resultados](known-issues-workfront/wf-boards-filter-not-pulling-users.md)
       + [Usuários: níveis de acesso mais baixos não disponíveis ao criar um usuário](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md)
