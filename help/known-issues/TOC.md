@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 82f7b2f94e9df2f3e1707946f802720fc2ff8c16
+source-git-commit: fbcd3495cff923fc181419e89182e079c35dd053
 workflow-type: tm+mt
-source-wordcount: '1594'
-ht-degree: 95%
+source-wordcount: '1599'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Quadros: problemas relacionados a cartões duplicados](known-issues-workfront/wf-boards-some-cards-duplicated.md)
       + [Integrações: documentos não anexados ao criar uma solicitação do [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
       + [Provas: não é possível criar uma prova com [!UICONTROL Fluxo de trabalho avançado] de a [!DNL SharePoint] documento](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)
       + [Quadros: erro 400 ao adicionar uma tarefa a um quadro](known-issues-workfront/wf-boards-400-when-add-to-boards.md)
@@ -195,8 +196,8 @@ ht-degree: 95%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problemas conhecidos no Workfront Fusion](workfrontfusion.md)
    + Problemas atuais no [!DNL Workfront Fusion] {#fusion-current}
-      + [Workfront Fusion: o módulo Workfront Proof > Watch Proof atinge o tempo limite](/help/known-issues/known-issues-workfront-fusion/fusion-wfp-watch-proof-times-out.md)
-      + [Workfront Fusion: o campo está ausente do módulo](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
+      + [Workfront Fusion: o módulo Workfront Proof > Monitorar prova atinge o tempo limite](/help/known-issues/known-issues-workfront-fusion/fusion-wfp-watch-proof-times-out.md)
+      + [Workfront Fusion: campo ausente do módulo](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
       + [Workfront Fusion: saída de formatação de datas](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: RuntimeError com resposta 200 do módulo Workfront](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md)
       + [Workfront Fusion: erro de pouca memória](known-issues-workfront-fusion/fusion-low-memory-error.md)

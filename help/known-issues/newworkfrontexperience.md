@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 27d1f17ea0b25330d11d79609c41f82e9af518ab
+source-git-commit: fbcd3495cff923fc181419e89182e079c35dd053
 workflow-type: tm+mt
-source-wordcount: '821'
-ht-degree: 92%
+source-wordcount: '827'
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Quadros: problemas relacionados a cartões duplicados](known-issues-workfront/wf-boards-some-cards-duplicated.md) | quinta-feira, 14 de fevereiro de 2024 |
 | [Integrações: documentos não anexados ao criar uma solicitação do [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | quarta-feira, 13 de fevereiro de 2024 |
 | [Provas: não é possível criar uma prova com [!UICONTROL Fluxo de trabalho avançado] de a [!DNL SharePoint] documento](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | quarta-feira, 13 de fevereiro de 2024 |
 | [Quadros: erro 400 ao adicionar uma tarefa a um quadro](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | quarta-feira, 13 de fevereiro de 2024 |
