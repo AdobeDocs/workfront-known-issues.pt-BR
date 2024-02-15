@@ -5,9 +5,9 @@ keywords: novo arquivo, adicionar arquivo
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
 source-git-commit: ee15f19ffd6010f637582fa484721596a25f0653
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '177'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: o módulo Workfront Proof > Watch Proof atinge o tempo limite](/help/known-issues/known-issues-workfront-fusion/fusion-wfp-watch-proof-times-out.md) | quarta-feira, 6 de fevereiro de 2024 |
+| [Workfront Fusion: o módulo Workfront Proof > Monitorar prova atinge o tempo limite](/help/known-issues/known-issues-workfront-fusion/fusion-wfp-watch-proof-times-out.md) | quarta-feira, 6 de fevereiro de 2024 |
 | [Workfront Fusion: RuntimeError com resposta 200 do módulo Workfront](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md) | terça-feira, 29 de janeiro de 2024 |
 
 {style="table-layout:auto"}
@@ -47,7 +47,7 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: o campo está ausente do módulo](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | terça-feira, 5 de fevereiro de 2024 |
+| [Workfront Fusion: campo ausente do módulo](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | terça-feira, 5 de fevereiro de 2024 |
 | [Workfront Fusion: saída de formatação de datas](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md) | quinta-feira, 31 de janeiro de 2024 |
 | [Workfront Fusion: erro de pouca memória](known-issues-workfront-fusion/fusion-low-memory-error.md) | 16 de novembro de 2023 |
 | [Workfront Fusion: projetos duplicados criados a partir de um mesmo módulo](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 24 de outubro de 2023 |
