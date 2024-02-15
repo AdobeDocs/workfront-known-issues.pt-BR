@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 27d1f17ea0b25330d11d79609c41f82e9af518ab
 workflow-type: tm+mt
 source-wordcount: '1690'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -52,7 +52,7 @@ Depois que a administração do [!DNL Workfront] desabilita a opção para adici
 
 #### Quadros
 
-**Não é possível mover um cartão em uma coluna usando [!UICONTROL Mover] opções**
+**Não é possível mover um cartão em uma coluna usando as opções de [!UICONTROL Mover]**
 
 Quando um usuário tenta mover um cartão em uma coluna usando as opções “[!UICONTROL Topo da coluna]” ou “[!UICONTROL Fundo da coluna]” no menu de três pontos, o cartão não se move.
 
@@ -62,13 +62,13 @@ Quando uma pessoa visualiza uma iteração em um quadro e, em seguida, altera pa
 
 #### Relatórios
 
-**A coluna &quot;Nenhum valor&quot; não exibe resultados**
+**A coluna “Nenhum valor” não exibe resultados**
 
-Quando um relatório de gráfico tem um &quot;[!DNL No value]&quot;, a coluna não mostra nenhum dado, mesmo que os dados devam estar presentes.
+Quando um relatório de gráfico tem uma coluna “[!DNL No value]”, a coluna não mostra nenhum dado, mesmo quando eles deveriam estar presentes.
 
 #### Gerenciamento de recursos
 
-**Cálculos de finanças incorretos devido a problemas de Função de Trabalho**
+**Cálculos financeiros incorretos devido a problemas na função de trabalho**
 
 As horas e os cálculos financeiros podem estar incorretos, mostrando um custo de 0 mesmo que as horas estejam registradas em uma função de trabalho que tenha uma taxa de custo.
 
