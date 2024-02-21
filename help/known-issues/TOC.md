@@ -5,7 +5,7 @@ role: User
 source-git-commit: d089651c04d4cedb069276d677b2a978c03038fb
 workflow-type: tm+mt
 source-wordcount: '1624'
-ht-degree: 94%
+ht-degree: 98%
 
 ---
 
@@ -22,11 +22,11 @@ ht-degree: 94%
       + [Quadros: a tela fica em branco ao visualizar detalhes do cartão](known-issues-workfront/wf-boards-details-blank-for-reviewer.md)
       + [Página inicial: o Workspace e os pins não são carregados](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md)
       + [Quadros: problemas relacionados a cartões duplicados](known-issues-workfront/wf-boards-some-cards-duplicated.md)
-      + [Integrações: documentos não anexados ao criar uma solicitação do [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
-      + [Provas: não é possível criar uma prova com [!UICONTROL Fluxo de trabalho avançado] de a [!DNL SharePoint] documento](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)
+      + [Integrações: documentos não anexados ao criar uma solicitação do  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
+      + [Provas: não é possível criar uma prova com [!UICONTROL Fluxo de trabalho avançado] de um documento do  [!DNL SharePoint] ](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)
       + [Quadros: erro 400 ao adicionar uma tarefa a um quadro](known-issues-workfront/wf-boards-400-when-add-to-boards.md)
-      + [Atualizações: a tela fica em branco ao responder a um usuário de outra empresa](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md)
-      + [Quadros: a filtragem para vários usuários não retorna todos os resultados](known-issues-workfront/wf-boards-filter-not-pulling-users.md)
+      + [Atualizações: a tela fica em branco ao responder a alguém de outra empresa](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md)
+      + [Quadros: a filtragem por vários usuários não retorna todos os resultados](known-issues-workfront/wf-boards-filter-not-pulling-users.md)
       + [Usuários: níveis de acesso mais baixos não disponíveis ao criar um usuário](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md)
       + [Problemas: opções de status de problema não aparecem na lista suspensa](known-issues-workfront/wf-issues-status-not-available.md)
       + [Atualizações: opções desabilitadas de imagem ficam disponíveis ao editar um comentário](known-issues-workfront/wf-updates-image-enabled-when-editing.md)

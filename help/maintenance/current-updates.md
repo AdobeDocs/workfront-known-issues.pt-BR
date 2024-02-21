@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: d8ff109f371c9169487f0643fcf20bb73dcf91c6
 workflow-type: tm+mt
 source-wordcount: '1825'
-ht-degree: 92%
+ht-degree: 93%
 
 ---
 
@@ -24,7 +24,7 @@ Para obter atualizações de manutenção anteriores a 2023, consulte [Atualiza�
 
 +++**(Planejado) Atualização de manutenção em sexta-feira, 22 de fevereiro de 2024**
 
-### (Planejado) Atualização de manutenção em 22 de fevereiro de 2024
+### (Planejado) Atualização de manutenção em sexta-feira, 22 de fevereiro de 2024
 
 #### Início
 
@@ -54,7 +54,7 @@ Quando um administrador de grupo tenta alterar o nível de acesso de um usuário
 
 #### Problemas
 
-**Os campos de tempo economizam tempo incorreto ao editar problemas em massa**
+**Os campos de hora salvam o tempo incorretamente quando há problemas de edição em massa**
 
 Quando uma pessoa edita problemas em massa, define uma data e hora para um campo de data e salva, o horário salvo nesse campo no problema fica diferente do definido. Em vez disso, o horário parece ser convertido em UTC quando ele é salvo.
 
@@ -66,7 +66,7 @@ Um usuário pode ser automaticamente desassociado de uma tarefa à qual está at
 
 #### Atualizações
 
-**A opção de imagem desativada está disponível ao editar um comentário**
+**A opção de imagem fica disponível ao editar um comentário mesmo quando desativada**
 
 Depois que a administração do [!DNL Workfront] desabilita a opção para adicionar imagens a comentários, essa opção deixa de estar disponível ao criar um comentário. No entanto, se uma pessoa editar um comentário já existente, a opção aparecerá como disponível.
 

@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: d089651c04d4cedb069276d677b2a978c03038fb
 workflow-type: tm+mt
 source-wordcount: '815'
-ht-degree: 89%
+ht-degree: 96%
 
 ---
 
@@ -27,9 +27,9 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | -----------------------------------------------------------------| ----------------- |
 | [Página inicial: o Workspace e os pins não são carregados](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md) | sexta-feira, 15 de fevereiro de 2024 |
 | [Quadros: problemas relacionados a cartões duplicados](known-issues-workfront/wf-boards-some-cards-duplicated.md) | quinta-feira, 14 de fevereiro de 2024 |
-| [Integrações: documentos não anexados ao criar uma solicitação do [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | quarta-feira, 13 de fevereiro de 2024 |
+| [Integrações: documentos não anexados ao criar uma solicitação do  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | quarta-feira, 13 de fevereiro de 2024 |
 | [Quadros: erro 400 ao adicionar uma tarefa a um quadro](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | quarta-feira, 13 de fevereiro de 2024 |
-| [Quadros: a filtragem para vários usuários não retorna todos os resultados](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | terça-feira, 12 de fevereiro de 2024 |
+| [Quadros: a filtragem por vários usuários não retorna todos os resultados](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | terça-feira, 12 de fevereiro de 2024 |
 | [Usuários: níveis de acesso mais baixos não disponíveis ao criar um usuário](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | sexta-feira, 8 de fevereiro de 2024 |
 | [Provas: os GIFs são renderizados como provas estáticas](known-issues-workfront/wf-proofs-gif-static-image.md) | quarta-feira, 23 de janeiro de 2024 |
 | [Provas: falha ao gerar provas comprimidas](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | quarta-feira, 9 de janeiro de 2024 |
@@ -45,8 +45,8 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | [Quadros: o cartão não inclui subtarefas](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | sábado, 16 de fevereiro de 2024 |
 | [Quadros: cartões não estão classificando](known-issues-workfront/wf-boards-not-sorting.md) | sábado, 16 de fevereiro de 2024 |
 | [Quadros: a tela fica em branco ao visualizar detalhes do cartão](known-issues-workfront/wf-boards-details-blank-for-reviewer.md) | sábado, 16 de fevereiro de 2024 |
-| [Provas: não é possível criar uma prova com [!UICONTROL Fluxo de trabalho avançado] de a [!DNL SharePoint] documento](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | sexta-feira, 15 de fevereiro de 2024 |
-| [Atualizações: a tela fica em branco ao responder a um usuário de outra empresa](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md) | terça-feira, 12 de fevereiro de 2024 |
+| [Provas: não é possível criar uma prova com [!UICONTROL Fluxo de trabalho avançado] de um documento do  [!DNL SharePoint] ](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | sexta-feira, 15 de fevereiro de 2024 |
+| [Atualizações: a tela fica em branco ao responder a alguém de outra empresa](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md) | terça-feira, 12 de fevereiro de 2024 |
 | [Quadros: os cartões não são movidos para a coluna apropriada quando o status é alterado](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | sexta-feira, 1 de fevereiro de 2024 |
 | [Problemas: opções de status de problema não aparecem na lista suspensa](known-issues-workfront/wf-issues-status-not-available.md) | quinta-feira, 31 de janeiro de 2024 |
 | [Equipes: problemas com a configuração dos status da equipe para o botão [!UICONTROL Concluído]](known-issues-workfront/wf-teams-statuses-missing.md) | sexta-feira, 25 de janeiro de 2024 |
