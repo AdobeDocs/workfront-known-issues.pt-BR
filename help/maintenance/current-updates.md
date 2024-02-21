@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 27d1f17ea0b25330d11d79609c41f82e9af518ab
+source-git-commit: d8ff109f371c9169487f0643fcf20bb73dcf91c6
 workflow-type: tm+mt
-source-wordcount: '1690'
-ht-degree: 98%
+source-wordcount: '1825'
+ht-degree: 92%
 
 ---
 
@@ -22,9 +22,35 @@ Para obter atualizações de manutenção anteriores a 2023, consulte [Atualiza�
 
 ## Atualizações em fevereiro de 2024
 
-+++**(Planejado) Atualização de manutenção em sexta-feira, 15 de fevereiro de 2024**
++++**(Planejado) Atualização de manutenção em sexta-feira, 22 de fevereiro de 2024**
 
-### (Planejado) Atualização de manutenção em 15 de fevereiro de 2024
+### (Planejado) Atualização de manutenção em 22 de fevereiro de 2024
+
+#### Início
+
+**[!UICONTROL Início]: [!UICONTROL Workspace] Os pinos e não carregam**
+
+Quando um usuário faz logon, o seguinte pode ocorrer:
+
+* O novo usuário [!UICONTROL Espaço de trabalho inicial] O não é carregado e o erro é exibido &quot;[!UICONTROL Não foi possível carregar as informações do Espaço de trabalho. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.]”
+* Os pinos do usuário não são carregados e o erro é exibido &quot;[!UICONTROL Seus pinos estão indisponíveis devido a um erro do sistema. Tente atualizar o navegador para corrigir o problema.]&quot;
+
+#### Usuários
+
+**O administrador de grupo não consegue definir ou alterar o nível de acesso de um usuário**
+
+<!--no article-->
+
+Quando um administrador de grupo tenta alterar o nível de acesso de um usuário, uma das situações a seguir pode ocorrer:
+
+* O campo de nível de acesso está desativado.
+* O administrador de grupo não pode escolher um nível de acesso mais baixo.
+
++++
+
++++**Atualização de manutenção em sexta-feira, 15 de fevereiro de 2024**
+
+### Atualização de manutenção em sexta-feira, 15 de fevereiro de 2024
 
 #### Problemas
 
