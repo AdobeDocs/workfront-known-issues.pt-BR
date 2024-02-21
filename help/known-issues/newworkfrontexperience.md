@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d089651c04d4cedb069276d677b2a978c03038fb
+source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
 workflow-type: tm+mt
-source-wordcount: '815'
-ht-degree: 96%
+source-wordcount: '840'
+ht-degree: 94%
 
 ---
 
@@ -42,6 +42,8 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
+| [Formulários personalizados: erro ao colar texto em um campo Rich Text](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md) | quinta-feira, 21 de fevereiro de 2024 |
+| [Projetos: a linha do tempo é recalculada muito lentamente ao alterar uma data em uma tarefa](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md) | quinta-feira, 21 de fevereiro de 2024 |
 | [Quadros: o cartão não inclui subtarefas](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | sábado, 16 de fevereiro de 2024 |
 | [Quadros: cartões não estão classificando](known-issues-workfront/wf-boards-not-sorting.md) | sábado, 16 de fevereiro de 2024 |
 | [Quadros: a tela fica em branco ao visualizar detalhes do cartão](known-issues-workfront/wf-boards-details-blank-for-reviewer.md) | sábado, 16 de fevereiro de 2024 |

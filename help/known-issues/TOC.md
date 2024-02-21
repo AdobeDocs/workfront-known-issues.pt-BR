@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: d089651c04d4cedb069276d677b2a978c03038fb
+source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
 workflow-type: tm+mt
-source-wordcount: '1624'
-ht-degree: 98%
+source-wordcount: '1647'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Formulários personalizados: erro ao colar texto em um campo Rich Text](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md)
+      + [Projetos: a linha do tempo é recalculada muito lentamente ao alterar uma data em uma tarefa](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md)
       + [Quadros: o cartão não inclui subtarefas](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
       + [Quadros: cartões não estão classificando](known-issues-workfront/wf-boards-not-sorting.md)
       + [Quadros: a tela fica em branco ao visualizar detalhes do cartão](known-issues-workfront/wf-boards-details-blank-for-reviewer.md)

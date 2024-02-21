@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: d8ff109f371c9169487f0643fcf20bb73dcf91c6
+source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
 workflow-type: tm+mt
-source-wordcount: '1825'
-ht-degree: 93%
+source-wordcount: '1860'
+ht-degree: 92%
 
 ---
 
@@ -45,6 +45,12 @@ Quando um administrador de grupo tenta alterar o nível de acesso de um usuário
 
 * O campo de nível de acesso está desativado.
 * O administrador de grupo não pode escolher um nível de acesso mais baixo.
+
+#### Balanceador de carga de trabalho
+
+**Rótulo para horas não úteis**
+
+O Balanceador de carga de trabalho e o calendário de folga pessoal agora mostram &quot;[!UICONTROL Horas Extras]&quot; para obter tempo que um usuário está decolando. Anteriormente, a exibição mostrava &quot;[!UICONTROL Horas de Trabalho]&quot; para o período de folga.
 
 +++
 
