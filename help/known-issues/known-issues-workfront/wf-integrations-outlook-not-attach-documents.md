@@ -1,22 +1,23 @@
 ---
-title: "Integrações: documentos não anexados ao criar uma solicitação do Outlook"
-description: "Quando um usuário cria uma solicitação do Outlook, os documentos anexados ao email não são anexados à solicitação."
+title: '“Integrações: documentos não anexados ao criar uma solicitação do Outlook”'
+description: “Quando você cria uma solicitação do Outlook, os documentos anexados ao email não são anexados à solicitação.”
 hidefromtoc: true
 feature: Workfront Integrations and Apps
 source-git-commit: 27d1f17ea0b25330d11d79609c41f82e9af518ab
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '73'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
 # Integrações: documentos não anexados ao criar uma solicitação do [!DNL Outlook]
 
-Quando um usuário cria uma solicitação do [!DNL Outlook], os documentos anexados ao email não são anexados à solicitação.
+Quando você cria uma solicitação do [!DNL Outlook], os documentos anexados ao email não são anexados à solicitação.
 
 Esse problema foi relatado para os seguintes tipos de anexo:
 
-PDF XLS
+XLS
+PDF
 
 _Relatado pela primeira vez em terça-feira, 5 de fevereiro de 2024._

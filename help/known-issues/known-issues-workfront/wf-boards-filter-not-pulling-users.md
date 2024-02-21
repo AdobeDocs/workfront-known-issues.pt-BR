@@ -1,22 +1,22 @@
 ---
-title: "Quadros: a filtragem para vários usuários não retorna todos os resultados"
-description: "Quando um usuário filtra para vários usuários no filtro Atribuição em Quadros não retorna todos os resultados esperados."
+title: '“Quadros: a filtragem por vários usuários não retorna todos os resultados”'
+description: “Quando uma pessoa filtra por vários usuários no filtro Atribuição em Quadros, todos os resultados esperados não são retornados.”
 hidefromtoc: true
 feature: Agile
 source-git-commit: 276180358efb2a394ca58c51fd73b834f48874e9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
 
-# Quadros: a filtragem para vários usuários não retorna todos os resultados
+# Quadros: a filtragem por vários usuários não retorna todos os resultados
 
-Quando um usuário filtra para vários usuários no filtro Atribuição em Quadros não retorna todos os resultados esperados.
+Quando uma pessoa filtra por vários usuários no filtro Atribuição em Quadros, todos os resultados esperados não são retornados.
 
 **Solução alternativa**
 
-Use filtros avançados para criar filtros para cada usuário, unido por instruções OR.
+Use filtros avançados para criar filtros para cada usuário, unidos por instruções OR.
 
 _Relatado pela primeira vez em quarta-feira, 6 de fevereiro de 2024._
