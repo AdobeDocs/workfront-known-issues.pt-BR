@@ -3,15 +3,19 @@ title: "Página inicial: o Espaço de trabalho e os pins não são carregados"
 description: "Quando um usuário faz logon, o Espaço de trabalho da página inicial e os pins não são carregados e ele vê mensagens de erro."
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: b10e7b2e10151a40fc4e9f762b8688114c248e27
+source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 16%
+source-wordcount: '114'
+ht-degree: 21%
 
 ---
 
 
 # [!UICONTROL Início]: [!UICONTROL Workspace] Os pinos e não carregam
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em sexta-feira, 22 de fevereiro de 2024.
 
 Quando um usuário faz logon, o seguinte pode ocorrer:
 

@@ -3,15 +3,19 @@ title: "Quadros: a tela fica em branco ao visualizar detalhes do cartão"
 description: "Quando um usuário clica em um cartão em Quadros, os detalhes do cartão são exibidos brevemente antes da tela ficar em branco."
 hidefromtoc: true
 feature: Agile
-source-git-commit: d089651c04d4cedb069276d677b2a978c03038fb
+source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 5%
+source-wordcount: '75'
+ht-degree: 13%
 
 ---
 
 
 # Quadros: a tela fica em branco ao visualizar detalhes do cartão
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em sexta-feira, 22 de fevereiro de 2024.
 
 Quando um usuário clica em um cartão em um quadro, os detalhes do cartão são exibidos brevemente antes da tela ficar em branco.
 
