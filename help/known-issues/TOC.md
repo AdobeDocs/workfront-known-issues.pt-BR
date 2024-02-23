@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
+source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
 workflow-type: tm+mt
-source-wordcount: '1647'
-ht-degree: 97%
+source-wordcount: '1686'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,11 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Balanceador de carga de trabalho: as horas planejadas não são atualizadas no Balanceador de carga de trabalho](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md)
+      + [Quadros: os documentos carregados nos cartões mostram um carimbo de data e hora incorreto](known-issues-workfront/wf-boards-timestamp-in-gmt.md)
+      + [Folhas de horas: erro ao visualizar o painel de resumo](known-issues-workfront/wf-timesheets-summary-panel-not-working.md)
+      + [Quadros: os totais da lista de verificação não são precisos](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md)
+      + [Projetos: erro ao usar filtros em uma lista de produtos](known-issues-workfront/wf-projects-error-using-filter-in-list.md)
       + [Formulários personalizados: erro ao colar texto em um campo Rich Text](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md)
       + [Projetos: a linha do tempo é recalculada muito lentamente ao alterar uma data em uma tarefa](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md)
       + [Quadros: o cartão não inclui subtarefas](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
