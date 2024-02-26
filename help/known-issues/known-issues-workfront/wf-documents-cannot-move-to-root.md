@@ -4,7 +4,7 @@ description: “Quando uma pessoa tenta mover uma pasta de uma pasta criada por 
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 08c7ff0024b0e0bc8f735c388d4b82eaf5a42610
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '127'
 ht-degree: 100%
 
