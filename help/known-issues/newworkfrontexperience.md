@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
 workflow-type: tm+mt
 source-wordcount: '832'
-ht-degree: 92%
+ht-degree: 93%
 
 ---
 
@@ -48,7 +48,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | [Usuários: níveis de acesso mais baixos não disponíveis ao criar um usuário](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | sexta-feira, 22 de fevereiro de 2024 |
 | [Projetos: a linha do tempo é recalculada muito lentamente ao alterar uma data em uma tarefa](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md) | quinta-feira, 21 de fevereiro de 2024 |
 | [Quadros: o cartão não inclui subtarefas](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | sábado, 16 de fevereiro de 2024 |
-| [Quadros: cartões não estão classificando](known-issues-workfront/wf-boards-not-sorting.md) | sábado, 16 de fevereiro de 2024 |
+| [Quadros: cartões não são classificados](known-issues-workfront/wf-boards-not-sorting.md) | sábado, 16 de fevereiro de 2024 |
 | [Atualizações: a tela fica em branco ao responder a alguém de outra empresa](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md) | terça-feira, 12 de fevereiro de 2024 |
 | [Quadros: os cartões não são movidos para a coluna apropriada quando o status é alterado](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | sexta-feira, 1 de fevereiro de 2024 |
 | [Problemas: opções de status de problema não aparecem na lista suspensa](known-issues-workfront/wf-issues-status-not-available.md) | quinta-feira, 31 de janeiro de 2024 |

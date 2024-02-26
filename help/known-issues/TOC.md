@@ -5,7 +5,7 @@ role: User
 source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
 workflow-type: tm+mt
 source-wordcount: '1686'
-ht-degree: 94%
+ht-degree: 96%
 
 ---
 
@@ -25,9 +25,9 @@ ht-degree: 94%
       + [Formulários personalizados: erro ao colar texto em um campo Rich Text](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md)
       + [Projetos: a linha do tempo é recalculada muito lentamente ao alterar uma data em uma tarefa](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md)
       + [Quadros: o cartão não inclui subtarefas](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
-      + [Quadros: cartões não estão classificando](known-issues-workfront/wf-boards-not-sorting.md)
+      + [Quadros: cartões não são classificados](known-issues-workfront/wf-boards-not-sorting.md)
       + [Quadros: a tela fica em branco ao visualizar detalhes do cartão](known-issues-workfront/wf-boards-details-blank-for-reviewer.md)
-      + [Página inicial: o Workspace e os pins não são carregados](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md)
+      + [Página inicial: espaço de trabalho e marcadores não carregam](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md)
       + [Quadros: problemas relacionados a cartões duplicados](known-issues-workfront/wf-boards-some-cards-duplicated.md)
       + [Integrações: documentos não anexados ao criar uma solicitação do  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
       + [Provas: não é possível criar uma prova com [!UICONTROL Fluxo de trabalho avançado] de um documento do  [!DNL SharePoint] ](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)

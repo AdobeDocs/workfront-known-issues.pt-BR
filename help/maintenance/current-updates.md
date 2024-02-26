@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
 workflow-type: tm+mt
 source-wordcount: '1858'
-ht-degree: 92%
+ht-degree: 97%
 
 ---
 
@@ -28,23 +28,23 @@ Para obter atualizações de manutenção anteriores a 2023, consulte [Atualiza�
 
 #### Início
 
-**[!UICONTROL Início]: [!UICONTROL Workspace] Os pinos e não carregam**
+**[!UICONTROL Página inicial]: [!UICONTROL espaço de trabalho] e marcadores não carregam**
 
-Quando um usuário faz logon, o seguinte pode ocorrer:
+Quando uma pessoa faz logon, o seguinte pode ocorrer:
 
-* O novo usuário [!UICONTROL Espaço de trabalho inicial] O não é carregado e o erro é exibido &quot;[!UICONTROL Não foi possível carregar as informações do Espaço de trabalho. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.]”
-* Os pinos do usuário não são carregados e o erro é exibido &quot;[!UICONTROL Seus pinos estão indisponíveis devido a um erro do sistema. Tente atualizar o navegador para corrigir o problema.]&quot;
+* O novo [!UICONTROL Espaço de trabalho inicial] não carrega e o erro “[!UICONTROL Não foi possível carregar as informações do espaço de trabalho” é exibido. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.]”
+* Os marcadores não são carregados e o erro “[!UICONTROL Seus marcadores estão indisponíveis devido a um erro do sistema. Tente atualizar o navegador para corrigir o problema.]” é exibido.
 
 #### Usuários
 
-**O administrador de grupo não consegue definir ou alterar o nível de acesso de um usuário**
+**A administração de grupo não consegue definir ou alterar o nível de acesso de usuários**
 
 <!--no article-->
 
 Quando um administrador de grupo tenta alterar o nível de acesso de um usuário, uma das situações a seguir pode ocorrer:
 
-* O campo de nível de acesso está desativado.
-* O administrador de grupo não pode escolher um nível de acesso mais baixo.
+* O campo de nível de acesso é desabilitado.
+* A administração de grupo não pode escolher um nível de acesso mais baixo.
 
 #### Balanceador de carga de trabalho
 
