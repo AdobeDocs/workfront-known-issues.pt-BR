@@ -3,9 +3,9 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
+source-git-commit: c609910c69f6339c57afec09c42529cfbd3e486b
 workflow-type: tm+mt
-source-wordcount: '1858'
+source-wordcount: '1913'
 ht-degree: 97%
 
 ---
@@ -21,6 +21,20 @@ As seguintes atualizações de manutenção foram efetuadas em 2024.
 Para obter atualizações de manutenção anteriores a 2023, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em fevereiro de 2024
+
++++**Atualização de manutenção em sexta-feira, 29 de fevereiro de 2024**
+
+### Atualização de manutenção em sexta-feira, 29 de fevereiro de 2024
+
+#### Atualizações
+
+**Atualizações: a tela fica em branco ao responder a alguém de outra empresa**
+
+Quando você tenta responder a um comentário de alguém em outra empresa, a tela fica em branco.
+
+Isso ocorre porque a pessoa não tem permissão para ver usuários de outras empresas.
+
++++
 
 +++**Atualização de manutenção em sexta-feira, 22 de fevereiro de 2024**
 
