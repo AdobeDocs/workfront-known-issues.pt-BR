@@ -3,15 +3,19 @@ title: '“Projetos: erro ao usar filtros em uma lista de produtos”'
 description: “Se uma pessoa está visualizando uma lista de projetos e aplica um filtro, a lista desaparece e uma mensagem de erro é exibida.”
 hidefromtoc: true
 feature: Projects
-source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
-workflow-type: ht
-source-wordcount: '98'
+source-git-commit: 073f63610623276f978d15b22cf4a8f294fab44f
+workflow-type: tm+mt
+source-wordcount: '104'
 ht-degree: 100%
 
 ---
 
 
 # Projetos: erro ao usar filtros em uma lista de produtos
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em sábado, 23 de fevereiro de 2024.
 
 Se uma pessoa está visualizando uma lista de projetos e aplica um filtro, a lista desaparece e a seguinte mensagem é exibida:
 
