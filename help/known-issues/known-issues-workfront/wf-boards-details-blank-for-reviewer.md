@@ -4,7 +4,7 @@ description: “Quando uma pessoa clica em um cartão em Quadros, os detalhes do
 hidefromtoc: true
 feature: Agile
 source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
 ht-degree: 100%
 
