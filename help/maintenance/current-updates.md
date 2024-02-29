@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: c609910c69f6339c57afec09c42529cfbd3e486b
 workflow-type: tm+mt
 source-wordcount: '1913'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -55,16 +55,16 @@ Quando uma pessoa faz logon, o seguinte pode ocorrer:
 
 <!--no article-->
 
-Quando um administrador de grupo tenta alterar o nível de acesso de um usuário, uma das situações a seguir pode ocorrer:
+Quando um administrador de grupo tenta alterar o nível de acesso de alguém, uma das situações a seguir pode ocorrer:
 
 * O campo de nível de acesso é desabilitado.
 * A administração de grupo não pode escolher um nível de acesso mais baixo.
 
 #### Balanceador de carga de trabalho
 
-**Rótulo para horas não úteis**
+**Rótulo para horas não trabalhadas**
 
-O Balanceador de carga de trabalho e o calendário de folga pessoal agora mostram &quot;[!UICONTROL Horas Extras]&quot; para obter tempo que um usuário está decolando. Anteriormente, a exibição mostrava &quot;[!UICONTROL Horas de Trabalho]&quot; para o período de folga.
+O Balanceador de carga de trabalho e o calendário de folga pessoal agora mostram “[!UICONTROL Horas não trabalhadas]” no período em que a pessoa está de folga. Anteriormente, a exibição mostrava “[!UICONTROL Horas de trabalho]” para o período não trabalhado.
 
 +++
 

@@ -5,7 +5,7 @@ role: User
 source-git-commit: 2dc8cabb4977908846b62f4b9f43b75fd348776f
 workflow-type: tm+mt
 source-wordcount: '1699'
-ht-degree: 95%
+ht-degree: 99%
 
 ---
 
@@ -19,12 +19,12 @@ ht-degree: 95%
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
       + [Relatórios: as alterações feitas no modo de texto não são aplicadas a relatórios ou exibições](known-issues-workfront/wf-reports-text-mode-not-saving.md)
       + [Balanceador de carga de trabalho: as horas planejadas não são atualizadas no Balanceador de carga de trabalho](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md)
-      + [Quadros: os documentos carregados nos cartões mostram um carimbo de data e hora incorreto](known-issues-workfront/wf-boards-timestamp-in-gmt.md)
+      + [Quadros: os documentos enviados para os cartões mostram um carimbo de data e hora incorreto](known-issues-workfront/wf-boards-timestamp-in-gmt.md)
       + [Folhas de horas: erro ao visualizar o painel de resumo](known-issues-workfront/wf-timesheets-summary-panel-not-working.md)
       + [Quadros: os totais da lista de verificação não são precisos](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md)
       + [Projetos: erro ao usar filtros em uma lista de produtos](known-issues-workfront/wf-projects-error-using-filter-in-list.md)
-      + [Formulários personalizados: erro ao colar texto em um campo Rich Text](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md)
-      + [Projetos: a linha do tempo é recalculada muito lentamente ao alterar uma data em uma tarefa](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md)
+      + [Formulários personalizados: erro ao colar texto em um campo de rich text](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md)
+      + [Projetos: a linha do tempo recalcula muito lentamente ao alterar uma data em uma tarefa](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md)
       + [Quadros: o cartão não inclui subtarefas](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
       + [Quadros: cartões não são classificados](known-issues-workfront/wf-boards-not-sorting.md)
       + [Quadros: a tela fica em branco ao visualizar detalhes do cartão](known-issues-workfront/wf-boards-details-blank-for-reviewer.md)

@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: b75ee8aaab1f9dfb2f90a786d75e0cfc9b9efd85
 workflow-type: tm+mt
 source-wordcount: '860'
-ht-degree: 91%
+ht-degree: 96%
 
 ---
 
@@ -40,7 +40,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
-| [Quadros: os documentos carregados nos cartões mostram um carimbo de data e hora incorreto](known-issues-workfront/wf-boards-timestamp-in-gmt.md) | quinta-feira, 28 de fevereiro de 2024 |
+| [Quadros: os documentos enviados para os cartões mostram um carimbo de data e hora incorreto](known-issues-workfront/wf-boards-timestamp-in-gmt.md) | quinta-feira, 28 de fevereiro de 2024 |
 | [Balanceador de carga de trabalho: as horas planejadas não são atualizadas no Balanceador de carga de trabalho](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md) | sábado, 23 de fevereiro de 2024 |
 | [Folhas de horas: erro ao visualizar o painel de resumo](known-issues-workfront/wf-timesheets-summary-panel-not-working.md) | sábado, 23 de fevereiro de 2024 |
 | [Quadros: os totais da lista de verificação não são precisos](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | sábado, 23 de fevereiro de 2024 |
@@ -48,7 +48,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | [Integrações: documentos não anexados ao criar uma solicitação do  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | sexta-feira, 22 de fevereiro de 2024 |
 | [Quadros: problemas relacionados a cartões duplicados](known-issues-workfront/wf-boards-some-cards-duplicated.md) | sexta-feira, 22 de fevereiro de 2024 |
 | [Usuários: níveis de acesso mais baixos não disponíveis ao criar um usuário](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | sexta-feira, 22 de fevereiro de 2024 |
-| [Projetos: a linha do tempo é recalculada muito lentamente ao alterar uma data em uma tarefa](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md) | quinta-feira, 21 de fevereiro de 2024 |
+| [Projetos: a linha do tempo recalcula muito lentamente ao alterar uma data em uma tarefa](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md) | quinta-feira, 21 de fevereiro de 2024 |
 | [Quadros: o cartão não inclui subtarefas](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | sábado, 16 de fevereiro de 2024 |
 | [Quadros: cartões não são classificados](known-issues-workfront/wf-boards-not-sorting.md) | sábado, 16 de fevereiro de 2024 |
 | [Atualizações: a tela fica em branco ao responder a alguém de outra empresa](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md) | terça-feira, 12 de fevereiro de 2024 |
