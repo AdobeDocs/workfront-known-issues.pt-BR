@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
-workflow-type: ht
-source-wordcount: '367'
-ht-degree: 100%
+source-git-commit: d4a2754abb7ff184a9924b228ef1fb4702856a32
+workflow-type: tm+mt
+source-wordcount: '380'
+ht-degree: 96%
 
 ---
 
@@ -35,6 +35,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Provas: provas criadas a partir de documentos vinculados não têm o modelo de prova aplicado](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | sábado, 1 de março de 2024 |
 | [Provas: problemas ao processar arquivos estáticos](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | sábado, 15 de dezembro de 2023 |
 | [Provas: navegação estrutural ausente ao acessar uma prova a partir de um link de email](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 de novembro de 2023 |
 | [Provas: erro ao compartilhar prova do link de email](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26 de outubro de 2023 |

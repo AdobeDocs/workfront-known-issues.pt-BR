@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 2dc8cabb4977908846b62f4b9f43b75fd348776f
+source-git-commit: d4a2754abb7ff184a9924b228ef1fb4702856a32
 workflow-type: tm+mt
-source-wordcount: '1699'
-ht-degree: 99%
+source-wordcount: '1711'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Provas: provas criadas a partir de documentos vinculados não têm o modelo de prova aplicado](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md)
       + [Relatórios: as alterações feitas no modo de texto não são aplicadas a relatórios ou exibições](known-issues-workfront/wf-reports-text-mode-not-saving.md)
       + [Balanceador de carga de trabalho: as horas planejadas não são atualizadas no Balanceador de carga de trabalho](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md)
       + [Quadros: os documentos enviados para os cartões mostram um carimbo de data e hora incorreto](known-issues-workfront/wf-boards-timestamp-in-gmt.md)
