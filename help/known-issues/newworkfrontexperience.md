@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 09091815a09c59f4d15e152d40927072995418be
+source-git-commit: f91e947afbd2ef5cec4f5bac7273276b842e172e
 workflow-type: tm+mt
-source-wordcount: '821'
-ht-degree: 93%
+source-wordcount: '831'
+ht-degree: 92%
 
 ---
 
@@ -37,6 +37,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
+| [Atualizações: os usuários solicitantes não podem adicionar imagens às atualizações](known-issues-workfront/wf-updates-requestors-not-add-image.md) | sábado, 8 de março de 2024 |
 | [Relatórios: as alterações feitas no modo de texto não são aplicadas a relatórios ou exibições](known-issues-workfront/wf-reports-text-mode-not-saving.md) | terça-feira, 26 de fevereiro de 2024 |
 | [Tarefas: criar ou duplicar tarefas faz com que a lista de tarefas seja exibida na ordem errada](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | sábado, 8 de março de 2024 |
 | [Atualizações: espaços grandes entre as linhas](known-issues-workfront/wf-updates-large-spacing-between-lines.md) | sábado, 8 de março de 2024 |
