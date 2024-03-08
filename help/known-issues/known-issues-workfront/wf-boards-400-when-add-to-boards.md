@@ -3,19 +3,23 @@ title: '“Quadros: erro 400 ao adicionar uma tarefa a um quadro”'
 description: “Quando uma pessoa visualiza um projeto e tenta adicionar uma tarefa a um quadro, a tarefa não é adicionada e um erro é exibido. Uma solução alternativa está disponível.”
 hidefromtoc: true
 feature: Agile
-source-git-commit: 27d1f17ea0b25330d11d79609c41f82e9af518ab
-workflow-type: ht
-source-wordcount: '103'
-ht-degree: 100%
+source-git-commit: 44c6b3f903d88dff46077f5805da31f9ec3c0923
+workflow-type: tm+mt
+source-wordcount: '109'
+ht-degree: 95%
 
 ---
 
 
 # Quadros: erro 400 ao adicionar uma tarefa a um quadro
 
+>[!NOTE]
+>
+>Esse problema foi corrigido em sexta-feira, 7 de março de 2024.
+
 Quando uma pessoa está visualizando um projeto e tenta adicionar uma tarefa a um quadro, a tarefa não é adicionada e o seguinte erro é exibido:
 
-Erro: “400: indefinido /boards-service/graphql”.
+Erro: &quot;400: indefinido /boards-service/graphql&quot;
 
 **Solução alternativa**
 

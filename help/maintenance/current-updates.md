@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: c609910c69f6339c57afec09c42529cfbd3e486b
+source-git-commit: 44c6b3f903d88dff46077f5805da31f9ec3c0923
 workflow-type: tm+mt
-source-wordcount: '1913'
-ht-degree: 100%
+source-wordcount: '2093'
+ht-degree: 96%
 
 ---
 
@@ -19,6 +19,45 @@ As seguintes atualizações de manutenção foram efetuadas em 2024.
 >Essas atualizações também incluem outras correções de erros menores ou menos importantes. O suporte do [!DNL Workfront] enviará uma notificação quando um problema enviado por você for corrigido.
 
 Para obter atualizações de manutenção anteriores a 2023, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
+
+## Atualizações em março de 2024
+
++++**Atualização de manutenção em sexta-feira, 7 de março de 2024**
+
+### Atualização de manutenção em 7 de março de 2024
+
+#### Quadros
+
+**Erro 400 ao adicionar uma tarefa a um quadro**
+
+Quando uma pessoa está visualizando um projeto e tenta adicionar uma tarefa a um quadro, a tarefa não é adicionada e o seguinte erro é exibido:
+
+Erro: &quot;400: indefinido /boards-service/graphql&quot;
+
+#### Início
+
+**Erro ao editar uma tarefa em linha no widget Minha tarefa**
+
+Quando um usuário tenta editar uma tarefa em linha no widget Minhas tarefas, o seguinte erro é exibido:
+
+&quot;Ocorreu um erro e estamos trabalhando para resolver o problema. Para continuar com seu trabalho, tente atualizar esta página do navegador.“
+
+
+#### Balanceador de carga de trabalho
+
+**As horas planejadas não são atualizadas no Balanceador de carga de trabalho**
+
+Quando as horas planejadas em um projeto são atualizadas, não há nenhuma alteração no Balanceador de carga de trabalho. Isso pode ocorrer mesmo que a alteração seja refletida com precisão no projeto.
+
++++
+
++++**Atualização de manutenção do Workfront Fusion em 7 de março de 2024
+
+**Workfront Proof > O módulo Watch Proof atinge o tempo limite**
+
+Os cenários que usam o módulo Workfront Proof > Monitorar prova podem ser desativados ao atingir o tempo limite do módulo Monitorar prova.
+
++++
 
 ## Atualizações em fevereiro de 2024
 
