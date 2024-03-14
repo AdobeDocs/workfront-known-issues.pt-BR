@@ -3,9 +3,9 @@ title: '“Equipes: problemas com a configuração dos status da equipe para o b
 description: “Problemas foram relatados sobre os status do botão [!UICONTROL Concluído] ao editar ou criar uma equipe. Uma solução alternativa está disponível.”
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
-workflow-type: ht
-source-wordcount: '123'
+source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
+workflow-type: tm+mt
+source-wordcount: '134'
 ht-degree: 100%
 
 ---
@@ -13,13 +13,9 @@ ht-degree: 100%
 
 # Equipes: problemas com a configuração dos status da equipe para o botão [!UICONTROL Concluído]
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on January 18, 2024.
-
--->
+>Essa questão foi encerrada porque não é um problema.
 
 Os seguintes problemas foram relatados em relação aos status do botão [!UICONTROL Concluído] ao editar ou criar uma equipe:
 
