@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: f91e947afbd2ef5cec4f5bac7273276b842e172e
+source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
 workflow-type: tm+mt
-source-wordcount: '1725'
-ht-degree: 98%
+source-wordcount: '1764'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,11 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Provas: não é possível gerar uma prova de um site](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md)
+      + [Pesquisa: não é possível editar a partir da Pesquisa](known-issues-workfront/wf-search-cannot-edit-from-search.md)
+      + [Atualizações: marcar um usuário não é eficaz](known-issues-workfront/wf-updates-not-notified-when-tagged.md)
+      + [Horário de registro: o usuário não consegue registrar a hora do dia atual](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md)
+      + [Atualizações: comentários de documentos não aparecem em atualizações do objeto pai](known-issues-workfront/wf-updates-document-comments-not-visible.md)
       + [Atualizações: os usuários solicitantes não podem adicionar imagens às atualizações](known-issues-workfront/wf-updates-requestors-not-add-image.md)
       + [Atualizações: espaços grandes entre as linhas](known-issues-workfront/wf-updates-large-spacing-between-lines.md)
       + [Provas: provas criadas a partir de documentos vinculados não têm o modelo de prova aplicado](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md)
