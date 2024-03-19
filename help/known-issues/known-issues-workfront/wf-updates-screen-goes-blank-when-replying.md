@@ -4,7 +4,7 @@ description: “Quando uma pessoa tenta responder a um comentário de alguém em
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: f596539d9dd297f63463a50d9dde2ffd73f81470
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
 ht-degree: 100%
 
