@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
 workflow-type: tm+mt
 source-wordcount: '818'
-ht-degree: 93%
+ht-degree: 95%
 
 ---
 
@@ -43,7 +43,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | [Atualizações: Marcar um usuário como ineficaz](known-issues-workfront/wf-updates-not-notified-when-tagged.md) | sexta-feira, 14 de março de 2024 |
 | [Horário de registro: o usuário não consegue registrar a hora do dia atual](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md) | sexta-feira, 14 de março de 2024 |
 | [Quadros: erro 400 ao adicionar uma tarefa a um quadro](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | sexta-feira, 14 de março de 2024 |
-| [Atualizações: os usuários solicitantes não podem adicionar imagens às atualizações](known-issues-workfront/wf-updates-requestors-not-add-image.md) | sábado, 8 de março de 2024 |
+| [Atualizações: solicitantes não podem adicionar imagens às atualizações](known-issues-workfront/wf-updates-requestors-not-add-image.md) | sábado, 8 de março de 2024 |
 | [Relatórios: as alterações feitas no modo de texto não são aplicadas a relatórios ou visualizações](known-issues-workfront/wf-reports-text-mode-not-saving.md) | terça-feira, 26 de fevereiro de 2024 |
 | [Atualizações: espaços grandes entre as linhas](known-issues-workfront/wf-updates-large-spacing-between-lines.md) | sábado, 8 de março de 2024 |
 | [Quadros: os totais da lista de verificação não são precisos](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | sábado, 23 de fevereiro de 2024 |

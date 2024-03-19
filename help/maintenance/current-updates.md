@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 62e129903ba48689aa8acf5d22a52bed2d88ab2a
 workflow-type: tm+mt
 source-wordcount: '2318'
-ht-degree: 89%
+ht-degree: 97%
 
 ---
 
@@ -30,7 +30,7 @@ Para obter atualizações de manutenção anteriores a 2023, consulte [Atualiza�
 
 **Espaços grandes entre linhas**
 
-Quando um usuário digita uma atualização com várias linhas usando a tecla Return ou Enter, ou cola várias linhas em uma atualização, a atualização é exibida conforme esperado. No entanto, se um usuário visualizar essas atualizações em um relatório, haverá grandes espaços entre as linhas.
+Quando uma pessoa digita uma atualização com várias linhas usando a tecla Return ou Enter, ou cola várias linhas em uma atualização, ela é exibida conforme esperado. No entanto, se alguém visualizar essas atualizações em um relatório, haverá grandes espaços entre as linhas.
 
 Esse problema foi relatado na nova experiência de comentários.
 
@@ -44,13 +44,13 @@ Essa correção se aplica somente à nova experiência de comentários.
 
 +++**Atualização de manutenção em sexta-feira, 14 de março de 2024**
 
-### Atualização de manutenção em 14 de março de 2024
+### Atualização de manutenção em sexta-feira, 14 de março de 2024
 
 #### Provas
 
 **Provas criadas a partir de documentos vinculados não têm modelo de prova aplicado**
 
-Quando um usuário cria uma prova de um documento vinculado, o modelo de prova não é aplicado corretamente e podem faltar informações da prova, como o fluxo de trabalho.
+Quando uma pessoa cria uma prova de um documento vinculado, o modelo de prova não é aplicado corretamente e podem faltar informações da prova, como o fluxo de trabalho.
 
 Isso também se aplica às provas criadas por meio da API e do Workfront Fusion.
 
@@ -72,15 +72,15 @@ Quando um usuário cria outro usuário, somente o nível de acesso do primeiro u
 
 Quando uma pessoa está visualizando um projeto e tenta adicionar uma tarefa a um quadro, a tarefa não é adicionada e o seguinte erro é exibido:
 
-Erro: &quot;400: indefinido /boards-service/graphql&quot;
+Erro: “400: undefined /boards-service/graphql”
 
 #### Início
 
-**Erro ao editar uma tarefa em linha no widget Minha tarefa**
+**Erro ao editar uma tarefa em linha no dispositivo Minha tarefa**
 
-Quando um usuário tenta editar uma tarefa em linha no widget Minhas tarefas, o seguinte erro é exibido:
+Quando uma pessoa tenta editar uma tarefa em linha no dispositivo Minhas tarefas, o seguinte erro é exibido:
 
-&quot;Ocorreu um erro e estamos trabalhando para resolver o problema. Para continuar com seu trabalho, tente atualizar esta página do navegador.“
+“Ocorreu um erro e estamos trabalhando para resolver o problema. Para continuar com seu trabalho, tente atualizar esta página do navegador.“
 
 
 #### Balanceador de carga de trabalho
@@ -93,7 +93,7 @@ Quando as horas planejadas em um projeto são atualizadas, não há nenhuma alte
 
 +++**Atualização de manutenção do Workfront Fusion em 7 de março de 2024
 
-**Workfront Proof > O módulo Watch Proof atinge o tempo limite**
+**Prova do Workfront > Módulo Monitorar prova atinge o tempo limite**
 
 Os cenários que usam o módulo Workfront Proof > Monitorar prova podem ser desativados ao atingir o tempo limite do módulo Monitorar prova.
 

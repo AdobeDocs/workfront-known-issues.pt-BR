@@ -6,7 +6,7 @@ feature: Agile
 source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 95%
 
 Quando uma pessoa está visualizando um projeto e tenta adicionar uma tarefa a um quadro, a tarefa não é adicionada e o seguinte erro é exibido:
 
-Erro: &quot;400: indefinido /boards-service/graphql&quot;
+Erro: “400: undefined /boards-service/graphql”
 
 **Solução alternativa**
 

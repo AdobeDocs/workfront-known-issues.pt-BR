@@ -5,7 +5,7 @@ role: User
 source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
 workflow-type: tm+mt
 source-wordcount: '1764'
-ht-degree: 96%
+ht-degree: 97%
 
 ---
 
@@ -22,9 +22,9 @@ ht-degree: 96%
       + [Atualizações: marcar um usuário não é eficaz](known-issues-workfront/wf-updates-not-notified-when-tagged.md)
       + [Horário de registro: o usuário não consegue registrar a hora do dia atual](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md)
       + [Atualizações: comentários de documentos não aparecem em atualizações do objeto pai](known-issues-workfront/wf-updates-document-comments-not-visible.md)
-      + [Atualizações: os usuários solicitantes não podem adicionar imagens às atualizações](known-issues-workfront/wf-updates-requestors-not-add-image.md)
+      + [Atualizações: solicitantes não podem adicionar imagens às atualizações](known-issues-workfront/wf-updates-requestors-not-add-image.md)
       + [Atualizações: espaços grandes entre as linhas](known-issues-workfront/wf-updates-large-spacing-between-lines.md)
-      + [Provas: provas criadas a partir de documentos vinculados não têm o modelo de prova aplicado](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md)
+      + [Provas: provas criadas de documentos vinculados não têm o modelo de prova aplicado](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md)
       + [Relatórios: as alterações feitas no modo de texto não são aplicadas a relatórios ou visualizações](known-issues-workfront/wf-reports-text-mode-not-saving.md)
       + [Balanceador de carga de trabalho: as horas planejadas não são atualizadas no Balanceador de carga de trabalho](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md)
       + [Quadros: os documentos enviados para os cartões mostram um carimbo de data e hora incorreto](known-issues-workfront/wf-boards-timestamp-in-gmt.md)
