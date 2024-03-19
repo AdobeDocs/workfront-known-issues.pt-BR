@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
+source-git-commit: 62e129903ba48689aa8acf5d22a52bed2d88ab2a
 workflow-type: tm+mt
-source-wordcount: '2205'
-ht-degree: 93%
+source-wordcount: '2318'
+ht-degree: 89%
 
 ---
 
@@ -21,6 +21,26 @@ As seguintes atualizações de manutenção foram efetuadas em 2024.
 Para obter atualizações de manutenção anteriores a 2023, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em março de 2024
+
++++**(Planejado) Atualização de manutenção em sexta-feira, 21 de março de 2024**
+
+### (Planejado) Atualização de manutenção em sexta-feira, 21 de março de 2024
+
+#### Atualizações
+
+**Espaços grandes entre linhas**
+
+Quando um usuário digita uma atualização com várias linhas usando a tecla Return ou Enter, ou cola várias linhas em uma atualização, a atualização é exibida conforme esperado. No entanto, se um usuário visualizar essas atualizações em um relatório, haverá grandes espaços entre as linhas.
+
+Esse problema foi relatado na nova experiência de comentários.
+
+**Marcar um usuário com @ é ineficaz**
+
+Quando um usuário marca outro usuário com @ em um comentário, ele não é adicionado à área usuários marcados e não recebe uma notificação sobre o comentário.
+
+Essa correção se aplica somente à nova experiência de comentários.
+
++++
 
 +++**Atualização de manutenção em sexta-feira, 14 de março de 2024**
 
