@@ -4,9 +4,9 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
+source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
 workflow-type: tm+mt
-source-wordcount: '818'
+source-wordcount: '796'
 ht-degree: 95%
 
 ---
@@ -25,7 +25,6 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Atualizações: comentários de documentos não aparecem em atualizações do objeto pai](known-issues-workfront/wf-updates-document-comments-not-visible.md) | sexta-feira, 14 de março de 2024 |
 | [Tarefas: criar ou duplicar tarefas faz com que a lista de tarefas apareça na ordem errada](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | terça-feira, 26 de fevereiro de 2024 |
 | [Provas: os GIFs são renderizados como provas estáticas](known-issues-workfront/wf-proofs-gif-static-image.md) | quarta-feira, 23 de janeiro de 2024 |
 | [Provas: falha ao gerar provas comprimidas](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | quarta-feira, 9 de janeiro de 2024 |
@@ -38,19 +37,17 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
+| [Atualizações: comentários de documentos não aparecem em atualizações do objeto pai](known-issues-workfront/wf-updates-document-comments-not-visible.md) | sexta-feira, 21 de março de 2024 |
 | [Provas: não é possível gerar uma prova de um site](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | sexta-feira, 14 de março de 2024 |
 | [Pesquisa: não é possível editar a partir da Pesquisa](known-issues-workfront/wf-search-cannot-edit-from-search.md) | sexta-feira, 14 de março de 2024 |
 | [Atualizações: Marcar um usuário como ineficaz](known-issues-workfront/wf-updates-not-notified-when-tagged.md) | sexta-feira, 14 de março de 2024 |
 | [Horário de registro: o usuário não consegue registrar a hora do dia atual](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md) | sexta-feira, 14 de março de 2024 |
-| [Quadros: erro 400 ao adicionar uma tarefa a um quadro](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | sexta-feira, 14 de março de 2024 |
 | [Atualizações: solicitantes não podem adicionar imagens às atualizações](known-issues-workfront/wf-updates-requestors-not-add-image.md) | sábado, 8 de março de 2024 |
 | [Relatórios: as alterações feitas no modo de texto não são aplicadas a relatórios ou visualizações](known-issues-workfront/wf-reports-text-mode-not-saving.md) | terça-feira, 26 de fevereiro de 2024 |
-| [Atualizações: espaços grandes entre as linhas](known-issues-workfront/wf-updates-large-spacing-between-lines.md) | sábado, 8 de março de 2024 |
 | [Quadros: os totais da lista de verificação não são precisos](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | sábado, 23 de fevereiro de 2024 |
 | [Integrações: documentos não anexados ao criar uma solicitação do  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | sexta-feira, 22 de fevereiro de 2024 |
 | [Quadros: problemas relacionados a cartões duplicados](known-issues-workfront/wf-boards-some-cards-duplicated.md) | sexta-feira, 22 de fevereiro de 2024 |
 | [Quadros: o cartão não inclui subtarefas](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | sábado, 16 de fevereiro de 2024 |
-| [Quadros: cartões não são classificados](known-issues-workfront/wf-boards-not-sorting.md) | sábado, 16 de fevereiro de 2024 |
 | [Quadros: os cartões não são movidos para a coluna apropriada quando o status é alterado](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | sexta-feira, 1 de fevereiro de 2024 |
 | [Nova [!UICONTROL Página inicial]: os padrões de filtro e agrupamento de dispositivos não seguem o modelo de layout](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | sexta-feira, 4 de janeiro de 2024 |
 | [Provas: problemas ao processar arquivos estáticos](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | sábado, 15 de dezembro de 2023 |

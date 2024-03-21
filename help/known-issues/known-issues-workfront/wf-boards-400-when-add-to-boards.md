@@ -3,15 +3,19 @@ title: '“Quadros: erro 400 ao adicionar uma tarefa a um quadro”'
 description: “Quando uma pessoa visualiza um projeto e tenta adicionar uma tarefa a um quadro, a tarefa não é adicionada e um erro é exibido. Uma solução alternativa está disponível.”
 hidefromtoc: true
 feature: Agile
-source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
+source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '109'
 ht-degree: 100%
 
 ---
 
 
 # Quadros: erro 400 ao adicionar uma tarefa a um quadro
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em sexta-feira, 14 de março de 2024.
 
 Quando uma pessoa está visualizando um projeto e tenta adicionar uma tarefa a um quadro, a tarefa não é adicionada e o seguinte erro é exibido:
 
