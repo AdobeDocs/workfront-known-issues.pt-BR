@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
-workflow-type: ht
-source-wordcount: '1764'
-ht-degree: 100%
+source-git-commit: ffd973ea682c5a7a89aa0976f46b9004c8d7be7c
+workflow-type: tm+mt
+source-wordcount: '1830'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,13 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Agile: os cartões Kanban não exibem campos personalizados](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md)
+      + [Provas: as provas permanecem no widget Minhas aprovações](known-issues-workfront/wf-proofs-stuck-on-widget.md)
+      + [Projeto: não é possível converter o problema em projeto se a prova da Web estiver anexada](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)
+      + [Gerenciamento de Recursos: Discrepância em Horas Orçadas](known-issues-workfront/wf-resource-management-budgeted-hours-discrepancy.md)
+      + [Provas: a prova simples da nova versão do documento inclui o fluxo de trabalho da versão anterior](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md)
+      + [Tarefas: a dica de ferramenta predecessora não exibe o nome da tarefa](known-issues-workfront/wf-tasks-predecessor-name-not-in-tooltip.md)
+      + [Quadros: erro 400 ao adicionar uma tarefa a um quadro de um quadro Kanban](known-issues-workfront/wf-boards-400-when-adding-from-team.md)
       + [Provas: não é possível gerar uma prova de um site](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md)
       + [Pesquisa: não é possível editar a partir da Pesquisa](known-issues-workfront/wf-search-cannot-edit-from-search.md)
       + [Atualizações: marcar um usuário não funciona](known-issues-workfront/wf-updates-not-notified-when-tagged.md)

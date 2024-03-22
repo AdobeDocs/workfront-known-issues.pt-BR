@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
+source-git-commit: 7418ab025de4ececb47309b3112b17ecdbac9d09
 workflow-type: tm+mt
-source-wordcount: '796'
-ht-degree: 100%
+source-wordcount: '869'
+ht-degree: 92%
 
 ---
 
@@ -25,6 +25,9 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Agile: os cartões Kanban não exibem campos personalizados](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | sábado, 22 de março de 2024 |
+| [Tarefas: a dica de ferramenta predecessora não exibe o nome da tarefa](known-issues-workfront/wf-tasks-predecessor-name-not-in-tooltip.md) | sábado, 22 de março de 2024 |
+| [Quadros: erro 400 ao adicionar uma tarefa a um quadro de um quadro Kanban](known-issues-workfront/wf-boards-400-when-adding-from-team.md) | sábado, 22 de março de 2024 |
 | [Tarefas: criar ou duplicar tarefas faz com que a lista de tarefas apareça na ordem errada](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | terça-feira, 26 de fevereiro de 2024 |
 | [Provas: os GIFs são renderizados como provas estáticas](known-issues-workfront/wf-proofs-gif-static-image.md) | quarta-feira, 23 de janeiro de 2024 |
 | [Provas: falha ao gerar provas comprimidas](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | quarta-feira, 9 de janeiro de 2024 |
@@ -37,6 +40,10 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
+| [Provas: as provas permanecem no widget Minhas aprovações](known-issues-workfront/wf-proofs-stuck-on-widget.md) | sábado, 22 de março de 2024 |
+| [Projeto: não é possível converter o problema em projeto se a prova da Web estiver anexada](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | sábado, 22 de março de 2024 |
+| [Gerenciamento de Recursos: Discrepância em Horas Orçadas](known-issues-workfront/wf-resource-management-budgeted-hours-discrepancy.md) | sábado, 22 de março de 2024 |
+| [Provas: a prova simples da nova versão do documento inclui o fluxo de trabalho da versão anterior](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md) | sábado, 22 de março de 2024 |
 | [Atualizações: comentários de documentos não aparecem em atualizações do objeto principal](known-issues-workfront/wf-updates-document-comments-not-visible.md) | sexta-feira, 21 de março de 2024 |
 | [Provas: não é possível gerar uma prova de um site](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | sexta-feira, 14 de março de 2024 |
 | [Pesquisa: não é possível editar a partir da Pesquisa](known-issues-workfront/wf-search-cannot-edit-from-search.md) | sexta-feira, 14 de março de 2024 |
