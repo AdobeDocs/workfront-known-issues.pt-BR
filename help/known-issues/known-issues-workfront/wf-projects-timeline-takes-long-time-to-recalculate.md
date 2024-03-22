@@ -4,7 +4,7 @@ description: “Quando uma pessoa visualiza um projeto e altera uma data em uma 
 hidefromtoc: true
 feature: Projects
 source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
 ht-degree: 100%
 

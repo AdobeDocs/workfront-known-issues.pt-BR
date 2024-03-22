@@ -1,19 +1,19 @@
 ---
-title: "Atualizações: marcar um usuário é ineficiente"
-description: "Quando um usuário é marcado em um comentário, esse comentário não fica visível para o usuário marcado. Além disso, o usuário marcado não é notificado sobre o comentário, por email ou por meio de uma notificação no aplicativo."
+title: '“Atualizações: marcar um usuário não funciona”'
+description: “Quando uma pessoa é marcada com tags em um comentário, esse comentário não fica visível para a pessoa marcada. Além disso, a pessoa também não é notificada sobre o comentário, seja por email ou por meio de uma notificação no aplicativo.”
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '95'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# Atualizações: marcar um usuário não é eficaz
+# Atualizações: marcar um usuário não funciona
 
-Quando um usuário é marcado em um comentário, esse comentário não fica visível para o usuário marcado. Além disso, o usuário marcado não é notificado sobre o comentário, por email ou por meio de uma notificação no aplicativo.
+Quando uma pessoa é marcada com tags em um comentário, esse comentário não fica visível para a pessoa marcada. Além disso, a pessoa também não é notificada sobre o comentário, seja por email ou por meio de uma notificação no aplicativo.
 
 Esse problema foi relatado na experiência de comentários herdada.
 

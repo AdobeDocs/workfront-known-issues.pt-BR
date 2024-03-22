@@ -4,7 +4,7 @@ description: “Quando um usuário cria outro usuário, somente o nível de aces
 hidefromtoc: true
 feature: People Teams and Groups
 source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '112'
 ht-degree: 100%
 
