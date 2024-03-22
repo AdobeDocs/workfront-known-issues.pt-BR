@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
 workflow-type: tm+mt
 source-wordcount: '796'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -37,11 +37,11 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
-| [Atualizações: comentários de documentos não aparecem em atualizações do objeto pai](known-issues-workfront/wf-updates-document-comments-not-visible.md) | sexta-feira, 21 de março de 2024 |
+| [Atualizações: comentários de documentos não aparecem em atualizações do objeto principal](known-issues-workfront/wf-updates-document-comments-not-visible.md) | sexta-feira, 21 de março de 2024 |
 | [Provas: não é possível gerar uma prova de um site](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | sexta-feira, 14 de março de 2024 |
 | [Pesquisa: não é possível editar a partir da Pesquisa](known-issues-workfront/wf-search-cannot-edit-from-search.md) | sexta-feira, 14 de março de 2024 |
-| [Atualizações: Marcar um usuário como ineficaz](known-issues-workfront/wf-updates-not-notified-when-tagged.md) | sexta-feira, 14 de março de 2024 |
-| [Horário de registro: o usuário não consegue registrar a hora do dia atual](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md) | sexta-feira, 14 de março de 2024 |
+| [Atualizações: marcar um usuário não funciona](known-issues-workfront/wf-updates-not-notified-when-tagged.md) | sexta-feira, 14 de março de 2024 |
+| [Registro de horas: usuários não conseguem registrar horas para o dia atual](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md) | sexta-feira, 14 de março de 2024 |
 | [Atualizações: solicitantes não podem adicionar imagens às atualizações](known-issues-workfront/wf-updates-requestors-not-add-image.md) | sábado, 8 de março de 2024 |
 | [Relatórios: as alterações feitas no modo de texto não são aplicadas a relatórios ou visualizações](known-issues-workfront/wf-reports-text-mode-not-saving.md) | terça-feira, 26 de fevereiro de 2024 |
 | [Quadros: os totais da lista de verificação não são precisos](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | sábado, 23 de fevereiro de 2024 |

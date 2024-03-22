@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
 workflow-type: tm+mt
 source-wordcount: '2316'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -28,15 +28,15 @@ Para obter atualizações de manutenção anteriores a 2024, consulte [Atualiza�
 
 #### Atualizações
 
-**Espaços grandes entre linhas**
+**Espaços grandes entre as linhas**
 
 Quando uma pessoa digita uma atualização com várias linhas usando a tecla Return ou Enter, ou cola várias linhas em uma atualização, ela é exibida conforme esperado. No entanto, se alguém visualizar essas atualizações em um relatório, haverá grandes espaços entre as linhas.
 
 Esse problema foi relatado na nova experiência de comentários.
 
-**Marcar um usuário com @ é ineficaz**
+**Marcar um usuário com @ não funciona**
 
-Quando um usuário marca outro usuário com @ em um comentário, ele não é adicionado à área usuários marcados e não recebe uma notificação sobre o comentário.
+Quando uma pessoa marca outra com @ em um comentário, ela não é adicionada à área de usuários marcados com tags e não recebe uma notificação sobre o comentário.
 
 Essa correção se aplica somente à nova experiência de comentários.
 
@@ -48,7 +48,7 @@ Essa correção se aplica somente à nova experiência de comentários.
 
 #### Provas
 
-**Provas criadas a partir de documentos vinculados não têm modelo de prova aplicado**
+**Provas criadas de documentos vinculados não têm o modelo de prova aplicado**
 
 Quando uma pessoa cria uma prova de um documento vinculado, o modelo de prova não é aplicado corretamente e podem faltar informações da prova, como o fluxo de trabalho.
 
