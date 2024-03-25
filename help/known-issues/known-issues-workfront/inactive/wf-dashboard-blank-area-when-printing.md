@@ -4,7 +4,7 @@ description: Quando uma pessoa imprime um painel para PDF usando a orientação 
 hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 91512e88-57c9-4a9a-81a7-7bc2da9095d0
-source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
+source-git-commit: 149c5401e25d2a67560a20e041b908ed65aea1c0
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 87%
@@ -13,7 +13,7 @@ ht-degree: 87%
 
 # Painel: grande margem em branco ao imprimir o painel para PDF
 
-<!--article by request-->
+<!--Article by request-->
 
 Quando uma pessoa imprime um painel para PDF usando a orientação paisagem, o PDF mostra uma grande margem em branco no lado direito.
 
