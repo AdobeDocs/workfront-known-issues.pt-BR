@@ -1,17 +1,21 @@
 ---
 title: "Provas: as provas permanecem no widget Minhas aprovações"
-description: "Uma prova que deve desaparecer do widget Minhas aprovações permanece no widget. Isso pode ocorrer quando vários usuários tomam decisões sobre uma prova ao mesmo tempo ou um usuário toma uma decisão e a altera rapidamente."
+description: Uma prova que deve desaparecer do widget Minhas aprovações permanece no widget. Isso pode ocorrer quando vários usuários tomam decisões sobre uma prova ao mesmo tempo ou um usuário toma uma decisão e a altera rapidamente.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: f6b027f26edafe69474d0d1d551f6b9909b3342c
+exl-id: 5a74e9bf-e4d0-49bb-ac58-98a5a9b7dd99
+source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 4%
+source-wordcount: '102'
+ht-degree: 9%
 
 ---
 
-
 # Provas: as provas permanecem no widget Minhas aprovações
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em sexta-feira, 28 de março de 2024.
 
 Uma prova que deve desaparecer do widget Minhas aprovações permanece no widget. Isso pode ocorrer quando vários usuários tomam decisões sobre uma prova ao mesmo tempo ou um usuário toma uma decisão e a altera rapidamente.
 

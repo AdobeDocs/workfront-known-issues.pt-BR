@@ -3,15 +3,19 @@ title: "Gerenciamento de recursos: discrepância em horas orçadas"
 description: "As horas orçadas exibidas em uma das áreas do Workfront podem não corresponder àquelas exibidas em outra área."
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: f6b027f26edafe69474d0d1d551f6b9909b3342c
+source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 12%
+source-wordcount: '64'
+ht-degree: 20%
 
 ---
 
 
 # Gerenciamento de Recursos: Discrepância em Horas Orçadas
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em sexta-feira, 28 de março de 2024.
 
 As horas orçadas exibidas em uma das seguintes áreas podem não corresponder àquelas exibidas em outra dessas áreas:
 
