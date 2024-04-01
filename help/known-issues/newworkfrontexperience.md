@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 432e47846b2ac2599ffe4625ab7388465194e48c
+source-git-commit: e28899711b95aea10ef43c45498db7aa73f7a784
 workflow-type: tm+mt
-source-wordcount: '787'
-ht-degree: 94%
+source-wordcount: '796'
+ht-degree: 93%
 
 ---
 
@@ -61,6 +61,7 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Relatórios: o filtro de relatório não retorna os resultados esperados](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md) | terça-feira, 1 de abril de 2024 |
 | [Configuração: não é possível utilizar o [!UICONTROL Início rápido] para configurar agrupamentos](known-issues-workfront/inactive/wf-setup-cannot-kickstart-groupings.md) | sexta-feira, 30 de novembro de 2023 |
 | [Provas: erro ao compartilhar prova do link de email](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 16 de novembro de 2023 |
 | [Workfront Fusion: projetos duplicados criados a partir de um mesmo módulo](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 9 de novembro de 2023 |
