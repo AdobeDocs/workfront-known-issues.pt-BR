@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
+source-git-commit: 735095abc95d64e8737c2ffa5aabdd4922be1e1b
 workflow-type: tm+mt
-source-wordcount: '2644'
-ht-degree: 94%
+source-wordcount: '2736'
+ht-degree: 92%
 
 ---
 
@@ -19,6 +19,32 @@ As seguintes atualizações de manutenção foram efetuadas em 2024.
 >Essas atualizações também incluem outras correções de erros menores ou menos importantes. O suporte do [!DNL Workfront] enviará uma notificação quando um problema enviado por você for corrigido.
 
 Para obter atualizações de manutenção anteriores a 2024, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
+
+## Atualizações em abril de 2024
+
++++**(Planejado) Atualização de manutenção em sexta-feira, 4 de abril de 2024**
+
+### (Planejado) Atualização de manutenção em sexta-feira, 4 de abril de 2024
+
+#### Registro de hora
+
+**O usuário não pode registrar a hora do dia atual**
+
+Quando uma pessoa tenta registrar horas na área Atualizações, o dia atual fica esmaecido e ela não consegue registrar horas para o dia atual.
+
+#### Atualizações
+
+<!--no article-->
+
+**Erro ao exibir comentários**
+
+Quando um usuário tenta exibir comentários na nova experiência de comentários, eles não podem vê-los e, em vez disso, veem o seguinte erro:
+
+&quot;Algo deu errado. Tente novamente mais tarde.&quot;
+
+A experiência de comentários herdada funciona conforme esperado.
+
++++
 
 ## Atualizações em março de 2024
 
