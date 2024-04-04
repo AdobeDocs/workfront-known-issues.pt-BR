@@ -4,9 +4,9 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: fade8ee6637e6cfc49f6d13fb675c91cf527fa30
+source-git-commit: 01a30a5a94fa733b24bf78fc425f72ac92f5aeea
 workflow-type: tm+mt
-source-wordcount: '805'
+source-wordcount: '795'
 ht-degree: 92%
 
 ---
@@ -45,7 +45,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | [Projeto: não é possível converter o problema em projeto se a prova da Web estiver anexada](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | sábado, 22 de março de 2024 |
 | [Provas: não é possível gerar uma prova de um site](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | sexta-feira, 14 de março de 2024 |
 | [Pesquisa: não é possível editar a partir da Pesquisa](known-issues-workfront/wf-search-cannot-edit-from-search.md) | sexta-feira, 14 de março de 2024 |
-| [Registro de horas: usuários não conseguem registrar horas para o dia atual](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md) | sexta-feira, 14 de março de 2024 |
 | [Atualizações: solicitantes não podem adicionar imagens às atualizações](known-issues-workfront/wf-updates-requestors-not-add-image.md) | sábado, 8 de março de 2024 |
 | [Quadros: os totais da lista de verificação não são precisos](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | sábado, 23 de fevereiro de 2024 |
 | [Quadros: problemas relacionados a cartões duplicados](known-issues-workfront/wf-boards-some-cards-duplicated.md) | sexta-feira, 22 de fevereiro de 2024 |
