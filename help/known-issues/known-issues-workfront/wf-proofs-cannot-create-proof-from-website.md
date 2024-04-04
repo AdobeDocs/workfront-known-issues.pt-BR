@@ -1,17 +1,21 @@
 ---
-title: '“Provas: não é possível gerar uma prova de um site”'
-description: “Quando uma pessoa tenta gerar uma prova de um site, ela não é gerada.”
+title: "Provas: não é possível gerar uma prova de um site"
+description: Quando uma pessoa tenta gerar uma prova de um site, ela não é gerada.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
-workflow-type: ht
-source-wordcount: '54'
-ht-degree: 100%
+exl-id: 87cff8d9-a727-45df-9c6c-acdde4202ed8
+source-git-commit: 50f79121e0b027c3f0283cd43d19c885dde8268b
+workflow-type: tm+mt
+source-wordcount: '60'
+ht-degree: 86%
 
 ---
 
-
 # Provas: não é possível gerar uma prova de um site
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em sexta-feira, 21 de março de 2024.
 
 Quando uma pessoa tenta gerar uma prova de um site, ela não é gerada.
 
