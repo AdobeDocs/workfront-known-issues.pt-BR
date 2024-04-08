@@ -1,15 +1,15 @@
 ---
 title: "Provas: a prova impede a conversão de tarefa ou problema em projeto"
-description: '"Quando um usuário tenta converter uma tarefa ou problema que inclui uma prova gerada pela Web em um projeto, o projeto não é criado e o usuário vê uma mensagem. Uma solução alternativa está disponível.”'
+description: Quando um usuário tenta converter uma tarefa ou problema que inclui uma prova gerada pela Web em um projeto, o projeto não é criado e o usuário vê uma mensagem. Uma solução alternativa está disponível.
 hidefromtoc: true
 feature: Digital Content and Documents, Projects, Tasks, Work Management
-source-git-commit: b761e7feeba027348224e5d0e996fb65bd8cdecc
+exl-id: 0022db1d-7ad3-4229-96a8-fb3823e89d9f
+source-git-commit: 170d07d1223b1077e904ea848eeb894b120a974a
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '152'
 ht-degree: 5%
 
 ---
-
 
 # Provas: a prova impede a conversão de tarefa ou problema em projeto
 
@@ -17,7 +17,7 @@ Quando um usuário tenta converter uma tarefa ou problema que inclui uma prova g
 
 &quot;[!UICONTROL Ocorreu um problema ao copiar o arquivo] \xxxxxstrong>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\u003C\/strong>. [!UICONTROL Remova o arquivo ou entre em contato com o suporte e tente novamente.]&quot;
 
-**Solução alternativa**
+**Solução alternativa** s
 
 Execute o seguinte procedimento:
 
