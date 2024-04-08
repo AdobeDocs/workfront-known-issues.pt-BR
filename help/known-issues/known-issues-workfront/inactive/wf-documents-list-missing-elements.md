@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 39bc9972-7c9a-4a00-8b00-9670e502fed1
 source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 75%
 Os seguintes problemas foram relatados em relação à lista de documentos:
 
 * As miniaturas não são exibidas.
-* Se um usuário alternar a pasta selecionada na exibição em lista, as opções Filtro, Exibição e Agrupamento não funcionarão mais.
+* Se uma pessoa alternar a pasta selecionada enquanto estiver na Exibição em lista, as opções de filtro, exibição e agrupamento deixam de funcionar.
 
 **Solução alternativa**
 

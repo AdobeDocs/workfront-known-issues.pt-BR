@@ -1,13 +1,13 @@
 ---
-title: "Projetos: erro ao usar filtros em uma lista de projetos"
+title: '“Projetos: erro ao usar filtros em uma lista de projetos”'
 description: “Se uma pessoa está visualizando uma lista de projetos e aplica um filtro, a lista desaparece e uma mensagem de erro é exibida.”
 hidefromtoc: true
 feature: Projects
 exl-id: e7619967-e68a-42ae-a8a9-656446e619a9
 source-git-commit: e5bc1a7458c6a28b1628fdb6602e4afea522cd5a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '104'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
