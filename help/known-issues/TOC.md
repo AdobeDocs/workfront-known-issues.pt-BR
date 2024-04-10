@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 8d9d463f5b6974dbbba95b7d8457760cbdfeb13e
+source-git-commit: 5640fd3a3f03a81104886baeeb37b01abb66fd9a
 workflow-type: tm+mt
-source-wordcount: '1608'
-ht-degree: 88%
+source-wordcount: '1618'
+ht-degree: 92%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 88%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Solicitações: o campo calculado não é atualizado ao preencher a solicitação](known-issues-workfront/wf-requests-calculated-field-not-updating.md)
       + [Provas: a prova impede a conversão de tarefa ou problema em projeto](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
       + [Relatórios: erro 500 ao exportar um relatório](known-issues-workfront/wf-reports-500-error-exporting.md)
       + [Atualizações: &quot;[!UICONTROL Não foi possível postar seu comentário]&quot;mensagem ao responder](known-issues-workfront/wf-updates-were-unable-to-post.md)
@@ -32,13 +33,13 @@ ht-degree: 88%
       + [Atualizações: a visualização da imagem nas atualizações está indefinida](known-issues-workfront/wf-updates-images-blurred.md)
       + [Relatórios: o filtro de relatório não retorna os resultados esperados](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [Quadros: o usuário não pode ver o quadro quando a equipe do usuário é adicionada ao quadro](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md)
-      + [Agile: os cartões Kanban não exibem campos personalizados](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md)
-      + [Provas: as provas permanecem no widget Minhas aprovações](known-issues-workfront/wf-proofs-stuck-on-widget.md)
-      + [Projeto: não é possível converter o problema em projeto se a prova da Web estiver anexada](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)
-      + [Gerenciamento de Recursos: Discrepância em Horas Orçadas](known-issues-workfront/wf-resource-management-budgeted-hours-discrepancy.md)
+      + [Agile: os cartões do Kanban não exibem campos personalizados](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md)
+      + [Provas: provas permanecem no dispositivo Minhas aprovações](known-issues-workfront/wf-proofs-stuck-on-widget.md)
+      + [Projeto: não é possível converter um problema em projeto se uma prova da Web estiver anexada](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)
+      + [Gerenciamento de recursos: discrepância nas horas orçadas](known-issues-workfront/wf-resource-management-budgeted-hours-discrepancy.md)
       + [Provas: a prova simples da nova versão do documento inclui o fluxo de trabalho da versão anterior](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md)
-      + [Tarefas: a dica de ferramenta predecessora não exibe o nome da tarefa](known-issues-workfront/wf-tasks-predecessor-name-not-in-tooltip.md)
-      + [Quadros: erro 400 ao adicionar uma tarefa a um quadro de um quadro Kanban](known-issues-workfront/wf-boards-400-when-adding-from-team.md)
+      + [Tarefas: a dica de ferramenta da tarefa predecessora não exibe o nome da tarefa](known-issues-workfront/wf-tasks-predecessor-name-not-in-tooltip.md)
+      + [Quadros: erro 400 ao adicionar uma tarefa a um quadro de um quadro do Kanban](known-issues-workfront/wf-boards-400-when-adding-from-team.md)
       + [Provas: não é possível gerar uma prova de um site](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md)
       + [Pesquisa: não é possível editar a partir da Pesquisa](known-issues-workfront/wf-search-cannot-edit-from-search.md)
       + [Atualizações: marcar um usuário não funciona](known-issues-workfront/wf-updates-not-notified-when-tagged.md)

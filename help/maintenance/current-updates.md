@@ -3,9 +3,9 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: fda4921dbfc56b7a58e8cb783af2ebaceb38db9e
+source-git-commit: cc9c9acc9d4ce6543f827e1c8d08a64775e32ecc
 workflow-type: tm+mt
-source-wordcount: '2773'
+source-wordcount: '2905'
 ht-degree: 92%
 
 ---
@@ -21,6 +21,32 @@ As seguintes atualizações de manutenção foram efetuadas em 2024.
 Para obter atualizações de manutenção anteriores a 2024, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em abril de 2024
+
++++**Atualização de manutenção em sexta-feira, 4 de abril de 2024**
+
+### Atualização de manutenção em 4 de abril de 2024
+
+#### Pesquisar
+
+**Não é possível editar a partir da Pesquisa**
+
+Quando uma pessoa está usando a Pesquisa avançada e tenta editar ou editar os resultados da pesquisa em massa, o ícone Editar não responde.
+
+#### Atualizações
+
+**A visualização da imagem em atualizações está indefinida**
+
+Quando um usuário está visualizando atualizações e clica na lupa em uma imagem para visualizar a imagem, a visualização que é aberta fica extremamente borrada em pixels.
+
+Se o usuário baixar a imagem, ela aparecerá na resolução esperada.
+
+**&quot;[!UICONTROL Não foi possível postar seu comentário]&quot;mensagem ao responder**
+
+Quando um usuário tenta responder a uma mensagem na nova experiência de comentário, a resposta não é salva e o usuário vê a seguinte mensagem:
+
+&quot;[!UICONTROL Não é possível postar seu comentário agora. Aguarde um momento e tente novamente.]&quot;
+
++++
 
 +++**Atualização de manutenção em sexta-feira, 4 de abril de 2024**
 
@@ -78,7 +104,7 @@ PDF
 
 **Provas permanecem no widget Minhas aprovações**
 
-Uma prova que deve desaparecer do widget Minhas aprovações permanece no widget. Isso pode ocorrer quando vários usuários tomam decisões sobre uma prova ao mesmo tempo ou um usuário toma uma decisão e a altera rapidamente.
+Uma prova que deveria desaparecer do dispositivo Minhas aprovações permanece. Isso pode ocorrer quando várias pessoas tomam decisões sobre uma prova ao mesmo tempo ou uma pessoa toma uma decisão e a altera rapidamente.
 
 #### Gerenciamento de recursos
 
@@ -94,7 +120,7 @@ As horas orçadas exibidas em uma das seguintes áreas podem não corresponder �
 
 **A dica de ferramenta predecessora não exibe o nome da tarefa**
 
-Quando um usuário está visualizando uma lista de tarefas e passa o mouse sobre um ícone predecessor para obter mais informações, a dica de ferramenta exibida não exibe o nome da tarefa predecessora.
+Quando alguém está visualizando uma lista de tarefas e passa o mouse sobre um ícone predecessor para obter mais informações, a dica de ferramenta exibida não exibe o nome da tarefa predecessora.
 
 #### Atualizações
 
