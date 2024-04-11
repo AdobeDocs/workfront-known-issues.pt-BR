@@ -3,15 +3,15 @@ title: '“Atualizações: solicitantes não podem adicionar imagens às atualiz
 description: “Quando uma pessoa com uma licença de Solicitante visualiza a área de atualizações e tenta adicionar uma imagem, o ícone para adicionar imagem fica ausente e a opção para adicionar uma imagem fica indisponível para ela.”
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: f91e947afbd2ef5cec4f5bac7273276b842e172e
-workflow-type: ht
-source-wordcount: '102'
-ht-degree: 100%
+source-git-commit: cd05ad1b5e74693723accf43dcc9566497b3cf01
+workflow-type: tm+mt
+source-wordcount: '101'
+ht-degree: 92%
 
 ---
 
 
-# Atualizações: solicitantes não podem adicionar imagens às atualizações
+# Atualizações: os usuários solicitantes não podem adicionar imagens às atualizações
 
 Quando uma pessoa com uma licença de Solicitante visualiza a área de atualizações e tenta adicionar uma imagem, o ícone para adicionar imagem fica ausente e a opção para adicionar uma imagem fica indisponível para ela.
 

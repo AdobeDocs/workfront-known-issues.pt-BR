@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: cc9c9acc9d4ce6543f827e1c8d08a64775e32ecc
+source-git-commit: cd05ad1b5e74693723accf43dcc9566497b3cf01
 workflow-type: tm+mt
-source-wordcount: '2905'
-ht-degree: 92%
+source-wordcount: '3037'
+ht-degree: 89%
 
 ---
 
@@ -21,6 +21,32 @@ As seguintes atualizações de manutenção foram efetuadas em 2024.
 Para obter atualizações de manutenção anteriores a 2024, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em abril de 2024
+
++++**Atualização de manutenção em sexta-feira, 11 de abril de 2024**
+
+### Atualização de manutenção em 11 de abril de 2024
+
+#### Pesquisar
+
+**Não é possível editar a partir da Pesquisa**
+
+Quando uma pessoa está usando a Pesquisa avançada e tenta editar ou editar os resultados da pesquisa em massa, o ícone Editar não responde.
+
+#### Atualizações
+
+**A visualização da imagem em atualizações está indefinida**
+
+Quando um usuário está visualizando atualizações e clica na lupa em uma imagem para visualizar a imagem, a visualização que é aberta fica extremamente borrada em pixels.
+
+Se o usuário baixar a imagem, ela aparecerá na resolução esperada.
+
+**&quot;[!UICONTROL Não foi possível postar seu comentário]&quot;mensagem ao responder**
+
+Quando um usuário tenta responder a uma mensagem na nova experiência de comentário, a resposta não é salva e o usuário vê a seguinte mensagem:
+
+&quot;[!UICONTROL Não é possível postar seu comentário agora. Aguarde um momento e tente novamente.]&quot;
+
++++
 
 +++**Atualização de manutenção em sexta-feira, 4 de abril de 2024**
 
