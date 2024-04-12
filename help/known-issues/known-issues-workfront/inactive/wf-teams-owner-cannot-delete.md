@@ -3,7 +3,7 @@ title: "Equipes: não é possível exibir o proprietário da equipe ou excluir a
 description: "Estas ações não estão disponíveis para Administradores de Grupos."
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 079c056ed83bc8dcd2aca2972760c871b1bdf7fd
+source-git-commit: 5ca6aa4e5e8ddc127623f0587cb42fc0fc10ebf8
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 27%
@@ -25,3 +25,4 @@ As seguintes ações não estão disponíveis para Administradores de grupo
 Isso ocorre mesmo que o administrador de grupo tenha todas as permissões relacionadas a equipes e usuários.
 
 _Relatado pela primeira vez em sábado, 15 de março de 2024._
+
