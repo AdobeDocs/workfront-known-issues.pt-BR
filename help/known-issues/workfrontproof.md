@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: cebbfd27b0d07c77706a609e38935f01d9727404
+source-git-commit: ca62d3bfb098acfd71517427ccd32dd3ee7754bc
 workflow-type: tm+mt
-source-wordcount: '359'
-ht-degree: 100%
+source-wordcount: '367'
+ht-degree: 98%
 
 ---
 
@@ -25,7 +25,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Provas: falha ao gerar provas comprimidas](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | quarta-feira, 9 de janeiro de 2024 |
+| Nenhum(a) | |
 
 {style="table-layout:auto"}
 
@@ -35,6 +35,8 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Provas: falha ao gerar provas comprimidas](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | sábado, 12 de abril de 2024 |
+| [Prova do Workfront: as assinaturas eletrônicas não estão funcionando](known-issues-workfront-proof/proof-esignatures-not-working.md) | sábado, 12 de abril de 2024 |
 | [Projeto: não é possível converter um problema em projeto se uma prova da Web estiver anexada](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | sábado, 22 de março de 2024 |
 | [Provas: navegação estrutural ausente ao acessar uma prova a partir de um link de email](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 de novembro de 2023 |
 

@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 60412f6dae3a9688504e6041c6033dfaad861c37
+source-git-commit: c1303ae0fa8e6f18a7e8d88c065579ed89c18e87
 workflow-type: tm+mt
-source-wordcount: '826'
-ht-degree: 87%
+source-wordcount: '827'
+ht-degree: 85%
 
 ---
 
@@ -37,6 +37,8 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
+| [Listas: a lista não exibe todos os itens](known-issues-workfront/wf-lists-does-not-display-all.md) | sábado, 12 de abril de 2024 |
+| [Prova do Workfront: as assinaturas eletrônicas não estão funcionando](known-issues-workfront-proof/proof-esignatures-not-working.md) | sábado, 12 de abril de 2024 |
 | [Equipes: não é possível exibir o proprietário da equipe ou excluir a equipe](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | sexta-feira, 11 de abril de 2024 |
 | [Solicitações: o campo calculado não é atualizado ao preencher a solicitação](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | quarta-feira, 9 de abril de 2024 |
 | [Provas: a prova impede a conversão de tarefa ou problema em projeto](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | sábado, 5 de abril de 2024 |
@@ -50,9 +52,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | [Agile: os cartões do Kanban não exibem campos personalizados](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | sexta-feira, 28 de março de 2024 |
 | [Projeto: não é possível converter um problema em projeto se uma prova da Web estiver anexada](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | sábado, 22 de março de 2024 |
 | [Atualizações: os usuários solicitantes não podem adicionar imagens às atualizações](known-issues-workfront/wf-updates-requestors-not-add-image.md) | sábado, 8 de março de 2024 |
-| [Quadros: os totais da lista de verificação não são precisos](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | sábado, 23 de fevereiro de 2024 |
 | [Quadros: problemas relacionados a cartões duplicados](known-issues-workfront/wf-boards-some-cards-duplicated.md) | sexta-feira, 22 de fevereiro de 2024 |
-| [Quadros: o cartão não inclui subtarefas](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | sábado, 16 de fevereiro de 2024 |
 | [Nova [!UICONTROL Página inicial]: os padrões de filtro e agrupamento de dispositivos não seguem o modelo de layout](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | sexta-feira, 4 de janeiro de 2024 |
 | [Página inicial: as tarefas em projetos com status Aprovado ou Em planejamento não são incluídas em Minhas tarefas ou na Lista de trabalho da página inicial](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 6 de novembro de 2023 |
 | [[!DNL Workfront]: problemas ao enviar um caso de suporte do  [!DNL Workfront]  na Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2 de agosto de 2022 |

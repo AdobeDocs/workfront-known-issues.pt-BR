@@ -1,17 +1,21 @@
 ---
-title: '“Quadros: o cartão não inclui subtarefas”'
-description: “Quando uma pessoa visualiza um cartão de uma tarefa que é uma tarefa principal, suas subtarefas não são exibidas no cartão. Em vez disso, o cartão mostra que há 0 subtarefas.”
+title: "Quadros: o cartão não inclui subtarefas"
+description: Quando uma pessoa visualiza um cartão de uma tarefa que é uma tarefa principal, suas subtarefas não são exibidas no cartão. Em vez disso, o cartão mostra que há 0 subtarefas.
 hidefromtoc: true
 feature: Agile
-source-git-commit: d089651c04d4cedb069276d677b2a978c03038fb
-workflow-type: ht
-source-wordcount: '88'
-ht-degree: 100%
+exl-id: 542514fa-6144-475a-a541-e02c392eb302
+source-git-commit: ca62d3bfb098acfd71517427ccd32dd3ee7754bc
+workflow-type: tm+mt
+source-wordcount: '94'
+ht-degree: 93%
 
 ---
 
-
 # Quadros: o cartão não inclui subtarefas
+
+>[!NOTE]
+>
+>O problema foi corrigido em sexta-feira, 4 de abril de 2024.
 
 Quando uma pessoa visualiza um cartão de uma tarefa que é uma tarefa principal, suas subtarefas não são exibidas no cartão. Em vez disso, o cartão mostra que há 0 subtarefas.
 
