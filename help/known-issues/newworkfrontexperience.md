@@ -4,9 +4,9 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c1303ae0fa8e6f18a7e8d88c065579ed89c18e87
+source-git-commit: 0b418e51614c912db17289ee82bcc916e0e0b3e8
 workflow-type: tm+mt
-source-wordcount: '827'
+source-wordcount: '833'
 ht-degree: 85%
 
 ---
@@ -37,6 +37,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
+| [Solicitações: erro ao abrir rascunho](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | sábado, 12 de abril de 2024 |
 | [Listas: a lista não exibe todos os itens](known-issues-workfront/wf-lists-does-not-display-all.md) | sábado, 12 de abril de 2024 |
 | [Prova do Workfront: as assinaturas eletrônicas não estão funcionando](known-issues-workfront-proof/proof-esignatures-not-working.md) | sábado, 12 de abril de 2024 |
 | [Equipes: não é possível exibir o proprietário da equipe ou excluir a equipe](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | sexta-feira, 11 de abril de 2024 |

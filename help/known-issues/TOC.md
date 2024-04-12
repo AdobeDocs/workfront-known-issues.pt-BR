@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: ca62d3bfb098acfd71517427ccd32dd3ee7754bc
+source-git-commit: 0b418e51614c912db17289ee82bcc916e0e0b3e8
 workflow-type: tm+mt
-source-wordcount: '1633'
-ht-degree: 91%
+source-wordcount: '1638'
+ht-degree: 90%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 91%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Solicitações: erro ao abrir rascunho](known-issues-workfront/wf-requests-cannot-open-from-request-page.md)
       + [Listas: a lista não exibe todos os itens](known-issues-workfront/wf-lists-does-not-display-all.md)
       + [Equipes: não é possível exibir o proprietário da equipe ou excluir a equipe](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
       + [Solicitações: o campo calculado não é atualizado ao preencher a solicitação](known-issues-workfront/wf-requests-calculated-field-not-updating.md)
