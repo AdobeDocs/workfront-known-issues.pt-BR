@@ -3,7 +3,7 @@ title: "Provas: provas criadas de ativos de integrações não têm modelos e wo
 description: “”
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 770c89523348785ad9cbdef87ddf6ac75a7d001a
+source-git-commit: 5c23bf3eef69f2ecb3f43bae98b872bdac06a347
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 4%
@@ -22,4 +22,3 @@ Os seguintes elementos foram relatados como incorretos nas provas criadas:
 * Notificações por email (não enviadas)
 
 _Relatado pela primeira vez em quinta-feira, 28 de fevereiro de 2024._
-
