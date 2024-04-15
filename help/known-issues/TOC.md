@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 0b418e51614c912db17289ee82bcc916e0e0b3e8
+source-git-commit: 72527be73ba4948e8ddb6da61cc61575766d9ee0
 workflow-type: tm+mt
-source-wordcount: '1638'
-ht-degree: 90%
+source-wordcount: '1659'
+ht-degree: 89%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 90%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Atualizações: as listas numeradas não são numeradas corretamente](known-issues-workfront/wf-updates-not-numbering-correctly.md)
+      + [Provas: provas criadas de ativos de integrações não têm modelos e fluxos de trabalho aplicados corretamente](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
       + [Solicitações: erro ao abrir rascunho](known-issues-workfront/wf-requests-cannot-open-from-request-page.md)
       + [Listas: a lista não exibe todos os itens](known-issues-workfront/wf-lists-does-not-display-all.md)
       + [Equipes: não é possível exibir o proprietário da equipe ou excluir a equipe](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
