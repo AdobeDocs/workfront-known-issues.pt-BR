@@ -1,13 +1,13 @@
 ---
-title: "Configuração: não é possível exportar logs de auditoria"
+title: '“Configuração: não é possível exportar logs de auditoria”'
 description: Quando um usuário tenta exportar um grande número de logs de auditoria, eles não são exportados. Não há indicação alguma de falha na exportação.
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: a9a7b551-58ba-412f-bef4-b0dae16d2611
 source-git-commit: 52b204d63eda7752c90a4481aa2050e695cd4cc7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 

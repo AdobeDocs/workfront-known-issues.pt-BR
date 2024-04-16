@@ -4,7 +4,7 @@ description: “Quando alguém está visualizando uma lista de tarefas e passa o
 hidefromtoc: true
 feature: Tasks
 source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
 ht-degree: 100%
 

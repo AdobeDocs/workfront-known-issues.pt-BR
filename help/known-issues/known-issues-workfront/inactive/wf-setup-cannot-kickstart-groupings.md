@@ -1,15 +1,15 @@
 ---
-title: '“Configuração: não é possível utilizar o [!UICONTROL Início rápido] para configurar agrupamentos”'
-description: “Quando uma pessoa tenta usar o [!UICONTROL Início rápido] em um agrupamento, a importação não é bem-sucedida e uma mensagem de erro é exibida."
+title: '“Configuração: não é possível utilizar o [!UICONTROL Início] para configurar agrupamentos”'
+description: Quando um usuário tenta usar o [!UICONTROL Início] em um agrupamento, a importação não é bem-sucedida e uma mensagem de erro é exibida.
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: 52b204d63eda7752c90a4481aa2050e695cd4cc7
-workflow-type: tm+mt
+exl-id: e1b0ba88-0af7-432f-89db-de4f50b20ff6
+source-git-commit: 9457b520c469c729f8727b1efd21bbde117b9546
+workflow-type: ht
 source-wordcount: '164'
 ht-degree: 100%
 
 ---
-
 
 # Configuração: não é possível utilizar o [!UICONTROL Início rápido] para configurar agrupamentos
 

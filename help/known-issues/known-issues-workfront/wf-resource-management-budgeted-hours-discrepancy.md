@@ -1,13 +1,13 @@
 ---
-title: "Gerenciamento de recursos: discrepância em horas orçadas"
+title: '“Gerenciamento de recursos: discrepância nas horas orçadas”'
 description: As horas orçadas exibidas em uma das áreas do Workfront podem não corresponder àquelas exibidas em outra área.
 hidefromtoc: true
 feature: Resource Management
 exl-id: 67d7f36e-f40c-4eee-92a0-fe1625c9b486
 source-git-commit: 9457b520c469c729f8727b1efd21bbde117b9546
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 

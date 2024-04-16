@@ -4,7 +4,7 @@ description: “Quando uma pessoa é marcada com tags em um comentário, esse co
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
 ht-degree: 100%
 

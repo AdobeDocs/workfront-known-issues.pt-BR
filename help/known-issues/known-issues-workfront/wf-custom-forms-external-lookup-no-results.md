@@ -1,21 +1,20 @@
 ---
-title: "Formulários personalizados: campos de pesquisa externos não retornam resultados"
-description: "Quando um campo de pesquisa externo faz referência a um campo de seleção múltipla que tem apenas um valor selecionado, o campo não retorna o valor."
+title: '“Formulários personalizados: campos de pesquisa externa não retornam resultados”'
+description: Quando um campo de pesquisa externa faz referência a um campo de seleção múltipla que tem apenas um valor selecionado, o campo não retorna o valor.
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: ba35f0961af20753c8b902a46d47dbe45ad3262b
-workflow-type: tm+mt
+exl-id: b65c8870-e915-4ca5-a93b-5431440f9140
+source-git-commit: 0427b092610f78a7d33fd2b2606ac2b5e9f5f270
+workflow-type: ht
 source-wordcount: '104'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
-
 # Formulários personalizados: campos de pesquisa externa não retornam resultados
 
-Quando um campo de pesquisa externo faz referência a um campo de seleção múltipla que tem apenas um valor selecionado, o campo não retorna o valor.
+Quando um campo de pesquisa externa faz referência a um campo de seleção múltipla que tem apenas um valor selecionado, o campo não retorna o valor.
 
-Por exemplo, se um campo de pesquisa externo fizer referência a um campo de seleção múltipla com valores &quot;vermelho&quot; e &quot;azul&quot; selecionados, o campo funcionará conforme esperado. Se o campo tiver apenas &quot;vermelho&quot; selecionado, o campo de pesquisa externo não retornará nenhum valor.
+Por exemplo, se um campo de pesquisa externa fizer referência a um campo de seleção múltipla com os valores “vermelho” e “azul” selecionados, o campo funcionará conforme esperado. Se o campo tiver apenas “vermelho” selecionado, o campo de pesquisa externa não retornará nenhum valor.
 
 _Relatado pela primeira vez em quarta-feira, 2 de abril de 2024._
-
