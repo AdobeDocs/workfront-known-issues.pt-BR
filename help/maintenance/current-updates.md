@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: cd05ad1b5e74693723accf43dcc9566497b3cf01
 workflow-type: tm+mt
 source-wordcount: '3037'
-ht-degree: 89%
+ht-degree: 98%
 
 ---
 
@@ -24,7 +24,7 @@ Para obter atualizações de manutenção anteriores a 2024, consulte [Atualiza�
 
 +++**Atualização de manutenção em sexta-feira, 11 de abril de 2024**
 
-### Atualização de manutenção em 11 de abril de 2024
+### Atualização de manutenção em sexta-feira, 11 de abril de 2024
 
 #### Pesquisar
 
@@ -36,7 +36,7 @@ Quando uma pessoa está usando a Pesquisa avançada e tenta editar ou editar os 
 
 **A visualização da imagem em atualizações está indefinida**
 
-Quando um usuário está visualizando atualizações e clica na lupa em uma imagem para visualizar a imagem, a visualização que é aberta fica extremamente borrada em pixels.
+Quando um usuário está visualizando atualizações e clica na lupa em uma imagem para visualizá-la, a visualização aberta fica extremamente desfocada.
 
 Se o usuário baixar a imagem, ela aparecerá na resolução esperada.
 
@@ -44,7 +44,7 @@ Se o usuário baixar a imagem, ela aparecerá na resolução esperada.
 
 Quando um usuário tenta responder a uma mensagem na nova experiência de comentário, a resposta não é salva e o usuário vê a seguinte mensagem:
 
-&quot;[!UICONTROL Não é possível postar seu comentário agora. Aguarde um momento e tente novamente.]&quot;
+“[!UICONTROL Não é possível postar seu comentário agora. Aguarde um momento e tente novamente.]”
 
 +++
 
@@ -62,7 +62,7 @@ Quando uma pessoa está usando a Pesquisa avançada e tenta editar ou editar os 
 
 **A visualização da imagem em atualizações está indefinida**
 
-Quando um usuário está visualizando atualizações e clica na lupa em uma imagem para visualizar a imagem, a visualização que é aberta fica extremamente borrada em pixels.
+Quando um usuário está visualizando atualizações e clica na lupa em uma imagem para visualizá-la, a visualização aberta fica extremamente desfocada.
 
 Se o usuário baixar a imagem, ela aparecerá na resolução esperada.
 
@@ -70,7 +70,7 @@ Se o usuário baixar a imagem, ela aparecerá na resolução esperada.
 
 Quando um usuário tenta responder a uma mensagem na nova experiência de comentário, a resposta não é salva e o usuário vê a seguinte mensagem:
 
-&quot;[!UICONTROL Não é possível postar seu comentário agora. Aguarde um momento e tente novamente.]&quot;
+“[!UICONTROL Não é possível postar seu comentário agora. Aguarde um momento e tente novamente.]”
 
 +++
 
@@ -91,7 +91,7 @@ PDF
 
 #### Registro de hora
 
-**O usuário não pode registrar a hora do dia atual**
+**Usuários não conseguem registrar horas para o dia atual**
 
 Quando uma pessoa tenta registrar horas na área Atualizações, o dia atual fica esmaecido e ela não consegue registrar horas para o dia atual.
 
@@ -101,9 +101,9 @@ Quando uma pessoa tenta registrar horas na área Atualizações, o dia atual fic
 
 **Erro ao exibir comentários**
 
-Quando um usuário tenta exibir comentários na nova experiência de comentários, eles não podem vê-los e, em vez disso, veem o seguinte erro:
+Quando uma pessoa tenta exibir comentários na nova experiência de comentários, ela não consegue vê-los e, em vez disso, o seguinte erro é exibido:
 
-&quot;Algo deu errado. Tente novamente mais tarde.&quot;
+“Algo deu errado. Tente novamente mais tarde.”
 
 A experiência de comentários herdada funciona conforme esperado.
 
@@ -128,7 +128,7 @@ PDF
 
 #### Provas
 
-**Provas permanecem no widget Minhas aprovações**
+**As provas permanecem no dispositivo Minhas aprovações**
 
 Uma prova que deveria desaparecer do dispositivo Minhas aprovações permanece. Isso pode ocorrer quando várias pessoas tomam decisões sobre uma prova ao mesmo tempo ou uma pessoa toma uma decisão e a altera rapidamente.
 
@@ -144,19 +144,19 @@ As horas orçadas exibidas em uma das seguintes áreas podem não corresponder �
 
 #### Tarefas
 
-**A dica de ferramenta predecessora não exibe o nome da tarefa**
+**A dica de ferramenta da tarefa predecessora não exibe o nome da tarefa**
 
 Quando alguém está visualizando uma lista de tarefas e passa o mouse sobre um ícone predecessor para obter mais informações, a dica de ferramenta exibida não exibe o nome da tarefa predecessora.
 
 #### Atualizações
 
-**Comentários do documento não aparecem nas atualizações do objeto pai**
+**Comentários de documentos não aparecem em atualizações do objeto principal**
 
 Quando uma pessoa faz um comentário em um documento, esse comentário não é exibido imediatamente na área Atualizações do objeto principal do documento.
 
 Esse problema foi relatado na nova experiência de comentários. Os comentários aparecem na experiência de comentários herdada, conforme o esperado.
 
-**Marcar um usuário é ineficaz**
+**Marcar um usuário não funciona**
 
 Quando uma pessoa é marcada com tags em um comentário, esse comentário não fica visível para a pessoa marcada. Além disso, a pessoa também não é notificada sobre o comentário, seja por email ou por meio de uma notificação no aplicativo.
 

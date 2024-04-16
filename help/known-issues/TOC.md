@@ -5,7 +5,7 @@ role: User
 source-git-commit: 60e9862aba0f65c1cef053823d3778d3c925c23e
 workflow-type: tm+mt
 source-wordcount: '1670'
-ht-degree: 89%
+ht-degree: 96%
 
 ---
 
@@ -26,17 +26,17 @@ ht-degree: 89%
       + [Solicitações: o campo calculado não é atualizado ao preencher a solicitação](known-issues-workfront/wf-requests-calculated-field-not-updating.md)
       + [Provas: a prova impede a conversão de tarefa ou problema em projeto](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
       + [Relatórios: erro 500 ao exportar um relatório](known-issues-workfront/wf-reports-500-error-exporting.md)
-      + [Atualizações: &quot;[!UICONTROL Não foi possível postar seu comentário]&quot;mensagem ao responder](known-issues-workfront/wf-updates-were-unable-to-post.md)
-      + [Atualizações: os comentários não exibem &quot;[!UICONTROL em nome de]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md)
+      + [Atualizações: Mensagem “[!UICONTROL Não foi possível postar seu comentário]” ao responder](known-issues-workfront/wf-updates-were-unable-to-post.md)
+      + [Atualizações: os comentários não exibem “[!UICONTROL em nome de]”](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md)
       + [Calendários: erro ao atualizar o calendário](known-issues-workfront/wf-calendar-error-when-refresh.md)
       + [Atualizações: o texto não é preservado ao sair e voltar para o comentário](known-issues-workfront/wf-updates-text-missing-after-mention.md)
-      + [Tarefas: erro de contexto de dimensão ao adicionar ou excluir uma tarefa](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
+      + [Tarefas: erro de Bizcontext ao adicionar ou excluir uma tarefa](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
       + [Tarefas: as informações predecessoras não incluem o link](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md)
-      + [Prova do Workfront: as assinaturas eletrônicas não estão funcionando](known-issues-workfront-proof/proof-esignatures-not-working.md)
+      + [Workfront Proof: as assinaturas eletrônicas não estão funcionando](known-issues-workfront-proof/proof-esignatures-not-working.md)
       + [Modelo de layout: a página de aterrissagem está incorreta](known-issues-workfront/wf-layout-template-set-to-home-not-request.md)
       + [Registro de horas: não é possível editar horas em tarefas ou problemas](known-issues-workfront/wf-logging-time-cannot-edit-hours.md)
       + [Formulários personalizados: campos de pesquisa externa não retornam resultados](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md)
-      + [Atualizações: a visualização da imagem nas atualizações está indefinida](known-issues-workfront/wf-updates-images-blurred.md)
+      + [Atualizações: a visualização da imagem nas atualizações está desfocada](known-issues-workfront/wf-updates-images-blurred.md)
       + [Relatórios: o filtro de relatório não retorna os resultados esperados](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [Quadros: o usuário não pode ver o quadro quando a equipe do usuário é adicionada ao quadro](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md)
       + [Agile: os cartões do Kanban não exibem campos personalizados](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md)

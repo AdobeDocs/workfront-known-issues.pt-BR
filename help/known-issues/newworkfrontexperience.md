@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 60e9862aba0f65c1cef053823d3778d3c925c23e
 workflow-type: tm+mt
 source-wordcount: '868'
-ht-degree: 82%
+ht-degree: 91%
 
 ---
 
@@ -42,14 +42,14 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | [Provas: provas criadas de ativos de integrações não têm modelos e fluxos de trabalho aplicados corretamente](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md) | terça-feira, 15 de abril de 2024 |
 | [Solicitações: erro ao abrir rascunho](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | sábado, 12 de abril de 2024 |
 | [Listas: a lista não exibe todos os itens](known-issues-workfront/wf-lists-does-not-display-all.md) | sábado, 12 de abril de 2024 |
-| [Prova do Workfront: as assinaturas eletrônicas não estão funcionando](known-issues-workfront-proof/proof-esignatures-not-working.md) | sábado, 12 de abril de 2024 |
+| [Workfront Proof: as assinaturas eletrônicas não estão funcionando](known-issues-workfront-proof/proof-esignatures-not-working.md) | sábado, 12 de abril de 2024 |
 | [Equipes: não é possível exibir o proprietário da equipe ou excluir a equipe](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | sexta-feira, 11 de abril de 2024 |
 | [Solicitações: o campo calculado não é atualizado ao preencher a solicitação](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | quarta-feira, 9 de abril de 2024 |
 | [Provas: a prova impede a conversão de tarefa ou problema em projeto](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | sábado, 5 de abril de 2024 |
-| [Atualizações: os comentários não exibem &quot;[!UICONTROL em nome de]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | sexta-feira, 4 de abril de 2024 |
+| [Atualizações: os comentários não exibem “[!UICONTROL em nome de]”](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | sexta-feira, 4 de abril de 2024 |
 | [Calendários: erro ao atualizar o calendário](known-issues-workfront/wf-calendar-error-when-refresh.md) | sexta-feira, 4 de abril de 2024 |
 | [Atualizações: o texto não é preservado ao sair e voltar para o comentário](known-issues-workfront/wf-updates-text-missing-after-mention.md) | sexta-feira, 4 de abril de 2024 |
-| [Tarefas: erro de contexto de dimensão ao adicionar ou excluir uma tarefa](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | sexta-feira, 4 de abril de 2024 |
+| [Tarefas: erro de Bizcontext ao adicionar ou excluir uma tarefa](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | sexta-feira, 4 de abril de 2024 |
 | [Tarefas: as informações predecessoras não incluem o link](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md) | sexta-feira, 4 de abril de 2024 |
 | [Registro de horas: não é possível editar horas em tarefas ou problemas](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | sexta-feira, 4 de abril de 2024 |
 | [Formulários personalizados: campos de pesquisa externa não retornam resultados](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md) | sexta-feira, 4 de abril de 2024 |
