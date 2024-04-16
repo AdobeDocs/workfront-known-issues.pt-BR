@@ -11,7 +11,7 @@ ht-degree: 100%
 
 ---
 
-#  Provas: as opções de aprovação não aparecem no [!UICONTROL Visualizador de prova]
+# Provas: as opções de aprovação não aparecem no [!UICONTROL Visualizador de prova]
 
 >[!NOTE]
 >
