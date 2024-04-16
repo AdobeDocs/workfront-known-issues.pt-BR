@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: cd05ad1b5e74693723accf43dcc9566497b3cf01
+source-git-commit: 2656fd578ee38e6dcdd9e8de9e83f5472656bf78
 workflow-type: tm+mt
-source-wordcount: '3037'
-ht-degree: 98%
+source-wordcount: '3258'
+ht-degree: 97%
 
 ---
 
@@ -21,6 +21,40 @@ As seguintes atualizações de manutenção foram efetuadas em 2024.
 Para obter atualizações de manutenção anteriores a 2024, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em abril de 2024
+
++++**Atualização de manutenção em sexta-feira, 18 de abril de 2024**
+
+### Atualização de manutenção em sexta-feira, 18 de abril de 2024
+
+#### Ágil
+
+**Os cartões Kanban não exibem campos personalizados**
+
+Quando uma pessoa visualiza um quadro do Kanban que foi configurado para incluir campos personalizados, esses campos personalizados podem não ser exibidos.
+
+#### Calendários
+
+**Erro ao atualizar o calendário**
+
+Quando um usuário visualiza um calendário e atualiza a página, um erro “Ops” é exibido. Os dados no calendário são exibidos conforme esperado, mas podem ser ocultados pela mensagem de erro.
+
+#### Formulários personalizados
+
+**Os campos de pesquisa externos não retornam resultados**
+
+Quando um campo de pesquisa externa faz referência a um campo de seleção múltipla que tem apenas um valor selecionado, o campo não retorna o valor.
+
+Por exemplo, se um campo de pesquisa externa fizer referência a um campo de seleção múltipla com os valores “vermelho” e “azul” selecionados, o campo funcionará conforme esperado. Se o campo tiver apenas “vermelho” selecionado, o campo de pesquisa externa não retornará nenhum valor.
+
+#### Projetos
+
+**Não é possível converter o problema em projeto se a prova da Web estiver anexada**
+
+Quando um problema tem uma prova da Web anexada (uma prova de URL usando um link de um provedor de documentos externo, como o SharePoint) e uma pessoa tenta converter esse problema em um projeto, a conversão falha e o projeto não é criado. O seguinte erro é exibido:
+
+“Houve um problema ao copiar o arquivo (GUID do arquivo). Remova o arquivo ou entre em contato com o suporte e tente novamente.”
+
++++
 
 +++**Atualização de manutenção em sexta-feira, 11 de abril de 2024**
 
