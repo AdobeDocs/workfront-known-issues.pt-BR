@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 72527be73ba4948e8ddb6da61cc61575766d9ee0
+source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
 workflow-type: tm+mt
-source-wordcount: '382'
-ht-degree: 96%
+source-wordcount: '360'
+ht-degree: 100%
 
 ---
 
@@ -35,9 +35,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Provas: provas criadas de ativos de integrações não têm modelos e fluxos de trabalho aplicados corretamente](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md) | terça-feira, 15 de abril de 2024 |
 | [Provas: falha ao gerar provas comprimidas](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | sábado, 12 de abril de 2024 |
-| [Workfront Proof: as assinaturas eletrônicas não estão funcionando](known-issues-workfront-proof/proof-esignatures-not-working.md) | sábado, 12 de abril de 2024 |
 | [Projeto: não é possível converter um problema em projeto se uma prova da Web estiver anexada](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | sábado, 22 de março de 2024 |
 | [Provas: navegação estrutural ausente ao acessar uma prova a partir de um link de email](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 de novembro de 2023 |
 
