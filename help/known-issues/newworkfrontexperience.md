@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 0acad49eb98af2fc69de97c743e06f648c42637a
+source-git-commit: f74b96cf43d997780cccbacb7606583dae7bf9a1
 workflow-type: tm+mt
-source-wordcount: '857'
-ht-degree: 91%
+source-wordcount: '867'
+ht-degree: 90%
 
 ---
 
@@ -39,6 +39,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
+| [Projetos, tarefas e problemas: as permissões herdadas não são mostradas](known-issues-workfront/wf-projects-tasks-issues-sharing-not-shown.md) | sábado, 19 de abril de 2024 |
 | [Solicitações: não é possível compartilhar o caminho da fila de solicitações](known-issues-workfront/wf-requests-cannot-share-path.md) | sexta-feira, 18 de abril de 2024 |
 | [Usuários: não é possível excluir usuários](known-issues-workfront/wf-users-unable-to-delete-users.md) | sexta-feira, 18 de abril de 2024 |
 | [Atualizações: Mensagem “[!UICONTROL Não foi possível postar seu comentário]” ao responder](known-issues-workfront/wf-updates-were-unable-to-post.md) | sexta-feira, 18 de abril de 2024 |
