@@ -2,9 +2,9 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: f74b96cf43d997780cccbacb7606583dae7bf9a1
+source-git-commit: 677e4ea1b3586f598e752bf23ba039488617aa4b
 workflow-type: tm+mt
-source-wordcount: '1697'
+source-wordcount: '1710'
 ht-degree: 94%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Quadros: o cartão retorna brevemente à coluna original](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md)
+      + [Página inicial: o widget de aprovações não é preciso](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
       + [Projetos, tarefas e problemas: as permissões herdadas não são mostradas](known-issues-workfront/wf-projects-tasks-issues-sharing-not-shown.md)
       + [Atualizações: o link no comentário fica em branco na tela](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
       + [Solicitações: não é possível compartilhar o caminho da fila de solicitações](known-issues-workfront/wf-requests-cannot-share-path.md)

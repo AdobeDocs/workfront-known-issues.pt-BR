@@ -3,9 +3,9 @@ title: '“Atualizações: a visualização da imagem nas atualizações está d
 description: “Quando um usuário está visualizando atualizações e clica na lupa em uma imagem para visualizá-la, a visualização aberta fica extremamente desfocada.”
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
+source-git-commit: 677e4ea1b3586f598e752bf23ba039488617aa4b
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '91'
 ht-degree: 100%
 
 ---
@@ -13,13 +13,10 @@ ht-degree: 100%
 
 # Atualizações: a visualização da imagem nas atualizações está desfocada
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on April 11, 2024.
+>O problema foi corrigido em sexta-feira, 18 de abril de 2024.
 
--->
 
 Quando um usuário está visualizando atualizações e clica na lupa em uma imagem para visualizá-la, a visualização aberta fica extremamente desfocada.
 
