@@ -3,15 +3,19 @@ title: "Projetos, tarefas e problemas: as permissões herdadas não são mostrad
 description: '"Quando um usuário está compartilhando um objeto, o cartão que mostra permissões herdadas não está presente. ”'
 hidefromtoc: true
 feature: Projects, Tasks, Work Management
-source-git-commit: 09edf92c80d2efd0e8c77b53395c149e753393d3
+exl-id: 47ec3dca-b3fb-4347-9ecf-c7e729c36ef4
+source-git-commit: 4a2f09f2f116dfdb2a91f61d83422dc54158f4fd
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 5%
+source-wordcount: '86'
+ht-degree: 11%
 
 ---
 
-
 # Projetos, tarefas e problemas: as permissões herdadas não são mostradas
+
+>[!NOTE]
+>
+>O problema foi corrigido em terça-feira, 22 de abril de 2024.
 
 Quando um usuário está compartilhando um objeto, o cartão que mostra permissões herdadas não está presente. Esse problema foi relatado para os seguintes usuários:
 
@@ -19,5 +23,3 @@ Quando um usuário está compartilhando um objeto, o cartão que mostra permiss�
 * O usuário cujo nome está sendo digitado para compartilhar o objeto
 
 _Relatado pela primeira vez em quarta-feira, 9 de janeiro de 2024._
-
-
