@@ -1,19 +1,18 @@
 ---
-title: "Listas: a lista não exibe todos os itens"
-description: "Quando um usuário visualiza uma lista de objetos e seleciona Tudo no canto inferior direito (para que a lista não seja paginada), os itens permanecem paginados e todos os objetos não são exibidos na página."
+title: '“Listas: a lista não exibe todos os itens”'
+description: Quando uma pessoa visualiza uma lista de objetos e seleciona “Tudo” no canto inferior direito (para que a lista não fique paginada), os itens permanecem paginados, e nenhum objeto é exibido na página.
 hidefromtoc: true
 feature: Work Management
-source-git-commit: 529bd8d0297d023085f680e4487e3458488f7f42
-workflow-type: tm+mt
+exl-id: a23f9257-c77b-4920-a48d-ce298333035f
+source-git-commit: 78d4a8f14fbc8093b442f4347c551e0d60d71135
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
-
 # Listas: a lista não exibe todos os itens
 
-Quando um usuário visualiza uma lista de objetos e seleciona Tudo no canto inferior direito (para que a lista não seja paginada), os itens permanecem paginados e todos os objetos não são exibidos na página.
+Quando uma pessoa visualiza uma lista de objetos e seleciona “Tudo” no canto inferior direito (para que a lista não fique paginada), os itens permanecem paginados, e nenhum objeto é exibido na página.
 
 _Relatado pela primeira vez em sexta-feira, 11 de abril de 2024._
-

@@ -1,25 +1,24 @@
 ---
-title: "Solicitações: erro ao abrir rascunho"
-description: '"Quando um usuário cria uma nova solicitação e há rascunhos relacionados a essa fila de solicitações exibidos, clicar para abrir um rascunho não abre o rascunho e o usuário vê um erro. Uma solução alternativa está disponível.”'
+title: '“Solicitações: erro ao abrir o rascunho”'
+description: Quando uma pessoa cria uma nova solicitação, se houver rascunhos relacionados a essa fila de solicitações exibidos, clicar para abrir um rascunho não o abre, e um erro é exibido. Uma solução alternativa está disponível.
 hidefromtoc: true
 feature: Requests
-source-git-commit: b4044295683aea1d550ad7de2606086e1d89d929
-workflow-type: tm+mt
+exl-id: 802753e8-0e8e-42b1-917e-95185567c95a
+source-git-commit: 7d41c6bef87cde7ef2cb12e9fc0342bff3fe2746
+workflow-type: ht
 source-wordcount: '111'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
+# Solicitações: erro ao abrir o rascunho
 
-# Solicitações: erro ao abrir rascunho
+Quando uma pessoa cria uma nova solicitação, se houver rascunhos relacionados a essa fila de solicitações exibidos, clicar para abrir um rascunho não o abre, e o seguinte erro é exibido:
 
-Quando um usuário cria uma nova solicitação e há rascunhos relacionados a essa fila de solicitações exibidos, clicar para abrir um rascunho não abre o rascunho e o usuário vê o seguinte erro:
-
-&quot;Ocorreu um erro e estamos trabalhando ativamente para resolvê-lo.&quot;
+“Ocorreu um erro, e estamos trabalhando ativamente para resolvê-lo.”
 
 **Solução alternativa**
 
-Abra o rascunho na área Rascunhos na navegação à esquerda.
+Abra o rascunho na área “Rascunhos”, na navegação à esquerda.
 
 _Relatado pela primeira vez em quarta-feira, 2 de abril de 2024._
-
