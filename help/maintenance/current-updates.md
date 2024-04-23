@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 2656fd578ee38e6dcdd9e8de9e83f5472656bf78
 workflow-type: tm+mt
 source-wordcount: '3258'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -62,19 +62,19 @@ Quando um problema tem uma prova da Web anexada (uma prova de URL usando um link
 
 #### Pesquisar
 
-**Não é possível editar a partir da Pesquisa**
+**Não é possível editar a partir da pesquisa**
 
 Quando uma pessoa está usando a Pesquisa avançada e tenta editar ou editar os resultados da pesquisa em massa, o ícone Editar não responde.
 
 #### Atualizações
 
-**A visualização da imagem em atualizações está indefinida**
+**A visualização da imagem nas atualizações está desfocada**
 
 Quando um usuário está visualizando atualizações e clica na lupa em uma imagem para visualizá-la, a visualização aberta fica extremamente desfocada.
 
 Se o usuário baixar a imagem, ela aparecerá na resolução esperada.
 
-**&quot;[!UICONTROL Não foi possível postar seu comentário]&quot;mensagem ao responder**
+**A mensagem “[!UICONTROL Não foi possível postar o seu comentário]” aparece ao responder**
 
 Quando um usuário tenta responder a uma mensagem na nova experiência de comentário, a resposta não é salva e o usuário vê a seguinte mensagem:
 
@@ -88,19 +88,19 @@ Quando um usuário tenta responder a uma mensagem na nova experiência de coment
 
 #### Pesquisar
 
-**Não é possível editar a partir da Pesquisa**
+**Não é possível editar a partir da pesquisa**
 
 Quando uma pessoa está usando a Pesquisa avançada e tenta editar ou editar os resultados da pesquisa em massa, o ícone Editar não responde.
 
 #### Atualizações
 
-**A visualização da imagem em atualizações está indefinida**
+**A visualização da imagem nas atualizações está desfocada**
 
 Quando um usuário está visualizando atualizações e clica na lupa em uma imagem para visualizá-la, a visualização aberta fica extremamente desfocada.
 
 Se o usuário baixar a imagem, ela aparecerá na resolução esperada.
 
-**&quot;[!UICONTROL Não foi possível postar seu comentário]&quot;mensagem ao responder**
+**A mensagem “[!UICONTROL Não foi possível postar o seu comentário]” aparece ao responder**
 
 Quando um usuário tenta responder a uma mensagem na nova experiência de comentário, a resposta não é salva e o usuário vê a seguinte mensagem:
 

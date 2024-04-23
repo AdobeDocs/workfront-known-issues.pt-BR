@@ -5,7 +5,7 @@ role: User
 source-git-commit: 4a2f09f2f116dfdb2a91f61d83422dc54158f4fd
 workflow-type: tm+mt
 source-wordcount: '1719'
-ht-degree: 93%
+ht-degree: 97%
 
 ---
 
@@ -24,12 +24,12 @@ ht-degree: 93%
       + [Atualizações: o link no comentário fica em branco na tela](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
       + [Solicitações: não é possível compartilhar o caminho da fila de solicitações](known-issues-workfront/wf-requests-cannot-share-path.md)
       + [Usuários: não é possível excluir usuários](known-issues-workfront/wf-users-unable-to-delete-users.md)
-      + [Atualizações: comentários feitos por meio da API não ficam visíveis no ambiente da Sandbox](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
-      + [Atualizações: as listas numeradas não são numeradas corretamente](known-issues-workfront/wf-updates-not-numbering-correctly.md)
-      + [Provas: provas criadas de ativos de integrações não têm modelos e fluxos de trabalho aplicados corretamente](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
-      + [Solicitações: erro ao abrir rascunho](known-issues-workfront/wf-requests-cannot-open-from-request-page.md)
+      + [Atualizações: os comentários feitos através da API não ficam visíveis no ambiente da sandbox](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
+      + [Atualizações: as listas numeradas não ficam numeradas corretamente](known-issues-workfront/wf-updates-not-numbering-correctly.md)
+      + [Revisões: modelos e fluxos de trabalho não aplicados corretamente às provas criadas a partir de ativos de integrações](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
+      + [Solicitações: erro ao abrir o rascunho](known-issues-workfront/wf-requests-cannot-open-from-request-page.md)
       + [Listas: a lista não exibe todos os itens](known-issues-workfront/wf-lists-does-not-display-all.md)
-      + [Equipes: não é possível exibir o proprietário da equipe ou excluir a equipe](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
+      + [Equipes: não é possível excluir a equipe nem exibir seu proprietário](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
       + [Solicitações: o campo calculado não é atualizado ao preencher a solicitação](known-issues-workfront/wf-requests-calculated-field-not-updating.md)
       + [Provas: a prova impede a conversão de tarefa ou problema em projeto](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
       + [Relatórios: erro 500 ao exportar um relatório](known-issues-workfront/wf-reports-500-error-exporting.md)

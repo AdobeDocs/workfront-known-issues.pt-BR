@@ -1,5 +1,5 @@
 ---
-title: "Quadros: os totais da lista de verificação não são precisos"
+title: '“Quadros: os totais da lista de verificação não estão corretos”'
 description: Quando uma pessoa visualiza um cartão que tem itens da lista de verificação e faz uma alteração, de modo que o total da lista de verificação deveria mudar, no entanto, o total não muda.
 hidefromtoc: true
 feature: Agile
@@ -7,7 +7,7 @@ exl-id: 548066f3-1afe-4073-b0a1-48a749e313ff
 source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
 workflow-type: tm+mt
 source-wordcount: '88'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
