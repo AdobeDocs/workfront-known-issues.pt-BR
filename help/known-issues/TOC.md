@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 4a2f09f2f116dfdb2a91f61d83422dc54158f4fd
+source-git-commit: 043a5f09a50fa2d4e8c1f0a6448101269df73368
 workflow-type: tm+mt
-source-wordcount: '1719'
-ht-degree: 97%
+source-wordcount: '1728'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Quadros: os campos nativos do Workfront não são exibidos no cartão](known-issues-workfront/wf-boards-native-fields-not-display.md)
       + [Notificações: as notificações do beta de aprovações de documentos não estão formatadas corretamente](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md)
       + [Quadros: o cartão retorna brevemente à coluna original](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md)
       + [Página inicial: o widget de aprovações não é preciso](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)

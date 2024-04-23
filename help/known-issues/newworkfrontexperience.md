@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2e1c28291232d0401c2c01568b10efa23db88996
+source-git-commit: 043a5f09a50fa2d4e8c1f0a6448101269df73368
 workflow-type: tm+mt
-source-wordcount: '867'
-ht-degree: 96%
+source-wordcount: '869'
+ht-degree: 95%
 
 ---
 
@@ -40,6 +40,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
+| [Quadros: os campos nativos do Workfront não são exibidos no cartão](known-issues-workfront/wf-boards-native-fields-not-display.md) | quarta-feira, 23 de abril de 2024 |
 | [Projeto: não é possível converter um problema em projeto se uma prova da Web estiver anexada](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | quarta-feira, 23 de abril de 2024 |
 | [Quadros: o cartão retorna brevemente à coluna original](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md) | terça-feira, 22 de abril de 2024 |
 | [Página inicial: o widget de aprovações não é preciso](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | terça-feira, 22 de abril de 2024 |
@@ -54,7 +55,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | [Atualizações: os comentários não exibem “[!UICONTROL em nome de]”](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | sexta-feira, 4 de abril de 2024 |
 | [Atualizações: o texto não é preservado ao sair e voltar para o comentário](known-issues-workfront/wf-updates-text-missing-after-mention.md) | sexta-feira, 4 de abril de 2024 |
 | [Tarefas: erro de Bizcontext ao adicionar ou excluir uma tarefa](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | sexta-feira, 4 de abril de 2024 |
-| [Tarefas: as informações predecessoras não incluem o link](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md) | sexta-feira, 4 de abril de 2024 |
 | [Registro de horas: não é possível editar horas em tarefas ou problemas](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | sexta-feira, 4 de abril de 2024 |
 | [Atualizações: os usuários solicitantes não podem adicionar imagens às atualizações](known-issues-workfront/wf-updates-requestors-not-add-image.md) | sábado, 8 de março de 2024 |
 | [Quadros: problemas relacionados a cartões duplicados](known-issues-workfront/wf-boards-some-cards-duplicated.md) | sexta-feira, 22 de fevereiro de 2024 |
