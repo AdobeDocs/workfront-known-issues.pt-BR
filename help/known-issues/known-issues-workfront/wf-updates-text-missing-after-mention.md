@@ -3,15 +3,19 @@ title: '“Atualizações: o texto não é preservado ao sair e voltar para o co
 description: “Quando um usuário está escrevendo um comentário que inclui uma @mention e, em seguida, sai e volta para o comentário antes de enviá-lo, qualquer texto inserido após a @mention não aparece no rascunho do comentário.”
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: ba35f0961af20753c8b902a46d47dbe45ad3262b
-workflow-type: ht
-source-wordcount: '111'
+source-git-commit: c22214e36abeed0657e1bc74c9da9f7afd376819
+workflow-type: tm+mt
+source-wordcount: '117'
 ht-degree: 100%
 
 ---
 
 
 # Atualizações: o texto não é preservado ao sair e voltar para o comentário
+
+>[!NOTE]
+>
+>O problema foi corrigido em sexta-feira, 25 de abril de 2024.
 
 Quando um usuário está escrevendo um comentário que inclui uma @mention e, em seguida, sai e volta para o comentário antes de enviá-lo, qualquer texto inserido após a @mention não aparece no rascunho do comentário.
 
