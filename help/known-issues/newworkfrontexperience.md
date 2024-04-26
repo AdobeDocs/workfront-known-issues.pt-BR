@@ -4,9 +4,9 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c22214e36abeed0657e1bc74c9da9f7afd376819
+source-git-commit: 10d252df70fcbc0a5cd7903112c61272db9f12ae
 workflow-type: tm+mt
-source-wordcount: '858'
+source-wordcount: '849'
 ht-degree: 93%
 
 ---
@@ -28,7 +28,6 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | [Integrações: o nome do arquivo é &quot;nulo&quot; quando enviado para AEM por meio da integração](known-issues-workfront/wf-integrations-aem-filename-null.md) | quinta-feira, 24 de abril de 2024 |
 | [Usuários: não é possível modificar o nível de acesso do usuário](known-issues-workfront/wf-users-cannot-modify-access-level.md) | quinta-feira, 24 de abril de 2024 |
 | [Notificações: as notificações do beta de aprovações de documentos não estão formatadas corretamente](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | terça-feira, 22 de abril de 2024 |
-| [Atualizações: o link no comentário fica em branco na tela](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | sexta-feira, 18 de abril de 2024 |
 | [Tarefas: criar ou duplicar tarefas faz com que a lista de tarefas apareça na ordem errada](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | terça-feira, 26 de fevereiro de 2024 |
 | [Provas: os GIFs são renderizados como provas estáticas](known-issues-workfront/wf-proofs-gif-static-image.md) | quarta-feira, 23 de janeiro de 2024 |
 | [Provas: falha ao gerar provas comprimidas](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | quarta-feira, 9 de janeiro de 2024 |
