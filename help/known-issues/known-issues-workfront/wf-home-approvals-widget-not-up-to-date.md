@@ -1,23 +1,23 @@
 ---
-title: "Página inicial: o widget de aprovações não é preciso"
-description: "O widget Aguardando minhas aprovações na nova experiência da Página inicial não exibe com precisão as aprovações."
+title: '“Página inicial: o dispositivo de aprovações não é preciso”'
+description: O dispositivo Aguardando minhas aprovações na nova experiência da Página inicial não exibe as aprovações com precisão.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 677e4ea1b3586f598e752bf23ba039488617aa4b
-workflow-type: tm+mt
+exl-id: 3b96bccc-8e2c-47f5-8639-10e870953bb4
+source-git-commit: 73ac32c4856ce24548c4536781e1b36a2395fb64
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
-
-# Página inicial: o widget de aprovações não é preciso
+# Página inicial: o dispositivo de aprovações não é preciso
 
 <!-- WF, WFP-->
 
-O widget Aguardando minhas aprovações na nova experiência da Página inicial não exibe as aprovações com precisão.
+O dispositivo Aguardando minhas aprovações na nova experiência da Página inicial não exibe as aprovações com precisão.
 
-* Provas que estão aguardando aprovação podem não aparecer no widget.
-* As provas aprovadas podem permanecer no widget.
+* Provas que estão aguardando aprovação podem não aparecer no dispositivo.
+* As provas aprovadas podem permanecer no dispositivo.
 
 _Relatado pela primeira vez em quarta-feira, 16 de abril de 2024._
