@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: b35ae8f1cff22e1cae974adc33c32e578d671dee
 workflow-type: tm+mt
 source-wordcount: '3396'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -62,7 +62,7 @@ Esse problema foi relatado na nova experiência de comentários.
 
 #### Ágil
 
-**Os cartões Kanban não exibem campos personalizados**
+**Os cartões do Kanban não exibem campos personalizados**
 
 Quando uma pessoa visualiza um quadro do Kanban que foi configurado para incluir campos personalizados, esses campos personalizados podem não ser exibidos.
 
@@ -74,7 +74,7 @@ Quando um usuário visualiza um calendário e atualiza a página, um erro “Ops
 
 #### Formulários personalizados
 
-**Os campos de pesquisa externos não retornam resultados**
+**Campos de pesquisa externa não retornam resultados**
 
 Quando um campo de pesquisa externa faz referência a um campo de seleção múltipla que tem apenas um valor selecionado, o campo não retorna o valor.
 
@@ -82,7 +82,7 @@ Por exemplo, se um campo de pesquisa externa fizer referência a um campo de sel
 
 #### Projetos
 
-**Não é possível converter o problema em projeto se a prova da Web estiver anexada**
+**Não é possível converter um problema em um projeto se uma prova da Web estiver anexada**
 
 Quando um problema tem uma prova da Web anexada (uma prova de URL usando um link de um provedor de documentos externo, como o SharePoint) e uma pessoa tenta converter esse problema em um projeto, a conversão falha e o projeto não é criado. O seguinte erro é exibido:
 

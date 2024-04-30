@@ -5,7 +5,7 @@ role: User
 source-git-commit: f0156064570a3b68fd9cbec2eed46c489f628ff1
 workflow-type: tm+mt
 source-wordcount: '1747'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -21,11 +21,11 @@ ht-degree: 95%
       + [Integrações: o nome do arquivo é &quot;nulo&quot; quando enviado para AEM por meio da integração](known-issues-workfront/wf-integrations-aem-filename-null.md)
       + [Usuários: não é possível modificar o nível de acesso do usuário](known-issues-workfront/wf-users-cannot-modify-access-level.md)
       + [Quadros: os campos nativos do Workfront não são exibidos no cartão](known-issues-workfront/wf-boards-native-fields-not-display.md)
-      + [Notificações: as notificações do beta de aprovações de documentos não estão formatadas corretamente](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md)
+      + [Notificações: as notificações de aprovações de documentos beta não estão formatadas corretamente](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md)
       + [Quadros: o cartão retorna brevemente à coluna original](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md)
-      + [Página inicial: o widget de aprovações não é preciso](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
+      + [Página inicial: o dispositivo de aprovações não é preciso](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
       + [Projetos, tarefas e problemas: as permissões herdadas não são mostradas](known-issues-workfront/wf-projects-tasks-issues-sharing-not-shown.md)
-      + [Atualizações: o link no comentário fica em branco na tela](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
+      + [Atualizações: o link no comentário vai para uma tela em branco](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
       + [Solicitações: não é possível compartilhar o caminho da fila de solicitações](known-issues-workfront/wf-requests-cannot-share-path.md)
       + [Usuários: não é possível excluir usuários](known-issues-workfront/wf-users-unable-to-delete-users.md)
       + [Atualizações: os comentários feitos através da API não ficam visíveis no ambiente da sandbox](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
