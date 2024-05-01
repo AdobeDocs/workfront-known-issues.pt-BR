@@ -4,9 +4,9 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 051c814c32a75b6f2b51011166a78048d2cd5c2d
+source-git-commit: b9394db748fe04e47157095e7ecddc7c4f5b1a36
 workflow-type: tm+mt
-source-wordcount: '850'
+source-wordcount: '849'
 ht-degree: 95%
 
 ---
@@ -25,6 +25,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Projetos: erro ao compartilhar um projeto](known-issues-workfront/wf-projects-error-when-sharing-project.md) | quinta-feira, 1 de maio de 2024 |
 | [Provas: não é possível tomar decisões no estágio de fluxo de trabalho privado](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | quinta-feira, 1 de maio de 2024 |
 | [Integrações: o nome do arquivo é &quot;nulo&quot; quando enviado para AEM por meio da integração](known-issues-workfront/wf-integrations-aem-filename-null.md) | quinta-feira, 24 de abril de 2024 |
 | [Usuários: não é possível modificar o nível de acesso do usuário](known-issues-workfront/wf-users-cannot-modify-access-level.md) | quinta-feira, 24 de abril de 2024 |
@@ -44,7 +45,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | [[!DNL Workfront Goals]: não é possível excluir a meta](known-issues-workfront/wf-goals-cannot-delete-goal.md) | terça-feira, 29 de abril de 2024 |
 | [Quadros: os campos nativos do Workfront não são exibidos no cartão](known-issues-workfront/wf-boards-native-fields-not-display.md) | quarta-feira, 23 de abril de 2024 |
 | [Projeto: não é possível converter um problema em projeto se uma prova da Web estiver anexada](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | quarta-feira, 23 de abril de 2024 |
-| [Quadros: o cartão retorna brevemente à coluna original](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md) | terça-feira, 22 de abril de 2024 |
 | [Página inicial: o dispositivo de aprovações não é preciso](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | terça-feira, 22 de abril de 2024 |
 | [Usuários: não é possível excluir usuários](known-issues-workfront/wf-users-unable-to-delete-users.md) | sexta-feira, 18 de abril de 2024 |
 | [Quadros: os totais da lista de verificação não são precisos](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | sexta-feira, 18 de abril de 2024 |
