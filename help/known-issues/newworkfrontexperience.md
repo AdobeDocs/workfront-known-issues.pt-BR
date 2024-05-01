@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f0156064570a3b68fd9cbec2eed46c489f628ff1
+source-git-commit: 051c814c32a75b6f2b51011166a78048d2cd5c2d
 workflow-type: tm+mt
-source-wordcount: '841'
-ht-degree: 96%
+source-wordcount: '850'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Provas: não é possível tomar decisões no estágio de fluxo de trabalho privado](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | quinta-feira, 1 de maio de 2024 |
 | [Integrações: o nome do arquivo é &quot;nulo&quot; quando enviado para AEM por meio da integração](known-issues-workfront/wf-integrations-aem-filename-null.md) | quinta-feira, 24 de abril de 2024 |
 | [Usuários: não é possível modificar o nível de acesso do usuário](known-issues-workfront/wf-users-cannot-modify-access-level.md) | quinta-feira, 24 de abril de 2024 |
 | [Notificações: as notificações de aprovações de documentos beta não estão formatadas corretamente](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | terça-feira, 22 de abril de 2024 |
