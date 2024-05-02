@@ -4,9 +4,9 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: a1347b75359d14302b377153570b0f9107d1eb87
+source-git-commit: 3898ec1db137cd7794132a3e27253b0edc73726e
 workflow-type: tm+mt
-source-wordcount: '824'
+source-wordcount: '808'
 ht-degree: 95%
 
 ---
@@ -25,11 +25,10 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Notificações: as notificações de aprovações de documentos beta não estão formatadas corretamente](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | sexta-feira, 2 de maio de 2024 |
 | [Quadros: o item da lista de verificação não fica marcado](known-issues-workfront/wf-boards-checklist-item-unchecks.md) | sexta-feira, 2 de maio de 2024 |
 | [Provas: não é possível tomar decisões no estágio de fluxo de trabalho privado](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | quinta-feira, 1 de maio de 2024 |
 | [Integrações: o nome do arquivo é &quot;nulo&quot; quando enviado para AEM por meio da integração](known-issues-workfront/wf-integrations-aem-filename-null.md) | quinta-feira, 24 de abril de 2024 |
-| [Usuários: não é possível modificar o nível de acesso do usuário](known-issues-workfront/wf-users-cannot-modify-access-level.md) | quinta-feira, 24 de abril de 2024 |
-| [Notificações: as notificações de aprovações de documentos beta não estão formatadas corretamente](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | terça-feira, 22 de abril de 2024 |
 | [Tarefas: criar ou duplicar tarefas faz com que a lista de tarefas apareça na ordem errada](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | terça-feira, 26 de fevereiro de 2024 |
 | [Provas: os GIFs são renderizados como provas estáticas](known-issues-workfront/wf-proofs-gif-static-image.md) | quarta-feira, 23 de janeiro de 2024 |
 | [Provas: falha ao gerar provas comprimidas](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | quarta-feira, 9 de janeiro de 2024 |
@@ -42,16 +41,15 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
+| [Usuários: não é possível modificar o nível de acesso do usuário](known-issues-workfront/wf-users-cannot-modify-access-level.md) | sexta-feira, 2 de maio de 2024 |
 | [[!DNL Workfront Goals]: não é possível excluir a meta](known-issues-workfront/wf-goals-cannot-delete-goal.md) | terça-feira, 29 de abril de 2024 |
 | [Projeto: não é possível converter um problema em projeto se uma prova da Web estiver anexada](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | quarta-feira, 23 de abril de 2024 |
 | [Página inicial: o dispositivo de aprovações não é preciso](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | terça-feira, 22 de abril de 2024 |
 | [Usuários: não é possível excluir usuários](known-issues-workfront/wf-users-unable-to-delete-users.md) | sexta-feira, 18 de abril de 2024 |
-| [Quadros: os totais da lista de verificação não são precisos](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | sexta-feira, 18 de abril de 2024 |
 | [Solicitações: erro ao abrir o rascunho](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | sábado, 12 de abril de 2024 |
 | [Equipes: não é possível excluir a equipe nem exibir seu proprietário](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | sexta-feira, 11 de abril de 2024 |
 | [Solicitações: o campo calculado não é atualizado ao preencher a solicitação](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | quarta-feira, 9 de abril de 2024 |
 | [Provas: a prova impede a conversão de tarefa ou problema em projeto](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | sábado, 5 de abril de 2024 |
-| [Atualizações: os comentários não exibem “[!UICONTROL em nome de]”](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | sexta-feira, 4 de abril de 2024 |
 | [Tarefas: erro de Bizcontext ao adicionar ou excluir uma tarefa](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | sexta-feira, 4 de abril de 2024 |
 | [Atualizações: os usuários solicitantes não podem adicionar imagens às atualizações](known-issues-workfront/wf-updates-requestors-not-add-image.md) | sábado, 8 de março de 2024 |
 | [Nova [!UICONTROL Página inicial]: os padrões de filtro e agrupamento de dispositivos não seguem o modelo de layout](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | sexta-feira, 4 de janeiro de 2024 |
