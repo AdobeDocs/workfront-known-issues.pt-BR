@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: b35ae8f1cff22e1cae974adc33c32e578d671dee
+source-git-commit: 3ca57c76dc50a348cf6d85d4d3e7366834a5e791
 workflow-type: tm+mt
-source-wordcount: '3396'
-ht-degree: 99%
+source-wordcount: '3427'
+ht-degree: 100%
 
 ---
 
@@ -21,6 +21,15 @@ As seguintes atualizações de manutenção foram efetuadas em 2024.
 Para obter atualizações de manutenção anteriores a 2024, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em maio de 2024
+
++++**(Planejado) Atualização de manutenção em sexta-feira, 9 de maio de 2024**
+
+### (Planejado) Atualização de manutenção em sexta-feira, 9 de maio de 2024
+
+Esta atualização contém apenas correções de erros pequenos ou menos importantes. O suporte do [!DNL Workfront] enviará uma notificação quando um problema enviado por você for corrigido.
+
+
++++
 
 +++**Atualização de manutenção em sexta-feira, 2 de maio de 2024**
 
@@ -42,7 +51,7 @@ Quando um usuário tenta editar horas em uma tarefa ou problema, as alterações
 
 #### Atualizações
 
-**As listas numeradas não estão numeradas corretamente**
+**As listas numeradas não ficam numeradas corretamente**
 
 Quando uma pessoa envia um comentário que inclui uma lista numerada, essa lista mostra uma numeração incorreta na atualização.
 

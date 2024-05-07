@@ -2,9 +2,9 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 2a6c894c29a9dabddd40623fa23f24a72d883120
+source-git-commit: 2917cd873a518ae2ecee2e49341e79dacec2c8da
 workflow-type: tm+mt
-source-wordcount: '1788'
+source-wordcount: '1812'
 ht-degree: 96%
 
 ---
@@ -17,15 +17,18 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Quadros: o filtro avançado não retorna os cartões esperados](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
+      + [Configuração: o banner &quot;Logado como&quot; não é exibido quando conectado como outro usuário.](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
+      + [Os moderadores de provas não conseguem editar permissões](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
+      + [Quadros: o usuário não pode ver o quadro ao qual a equipe está atribuída](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md)
       + [Atualizações: marcar um usuário com @ no painel Resumo é ineficaz](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md)
-      + [Projetos: o projeto criado com o modelo não corresponde à prioridade do modelo](known-issues-workfront/wf-projects-priority-does-not-match-template.md)
       + [Quadros: o item da lista de verificação não fica marcado](known-issues-workfront/wf-boards-checklist-item-unchecks.md)
       + [Projetos: erro ao compartilhar um projeto](known-issues-workfront/wf-projects-error-when-sharing-project.md)
       + [Provas: não é possível tomar decisões no estágio de fluxo de trabalho privado](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md)
       + [[!DNL Workfront Goals]: não é possível excluir a meta](known-issues-workfront/wf-goals-cannot-delete-goal.md)
-      + [Integrações: o nome do arquivo é &quot;nulo&quot; quando enviado para AEM por meio da integração](known-issues-workfront/wf-integrations-aem-filename-null.md)
+      + [Integrações: o nome do arquivo fica “nulo” ao ser enviado para o AEM por meio da integração](known-issues-workfront/wf-integrations-aem-filename-null.md)
       + [Usuários: não é possível modificar o nível de acesso do usuário](known-issues-workfront/wf-users-cannot-modify-access-level.md)
-      + [Quadros: os campos nativos do Workfront não são exibidos no cartão](known-issues-workfront/wf-boards-native-fields-not-display.md)
+      + [Quadros: os campos nativos do Workfront não são exibidos nos cartões](known-issues-workfront/wf-boards-native-fields-not-display.md)
       + [Notificações: as notificações de aprovações de documentos beta não estão formatadas corretamente](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md)
       + [Quadros: o cartão retorna brevemente à coluna original](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md)
       + [Página inicial: o dispositivo de aprovações não é preciso](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
@@ -36,7 +39,6 @@ ht-degree: 96%
       + [Atualizações: os comentários feitos através da API não ficam visíveis no ambiente da sandbox](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
       + [Atualizações: as listas numeradas não ficam numeradas corretamente](known-issues-workfront/wf-updates-not-numbering-correctly.md)
       + [Revisões: modelos e fluxos de trabalho não aplicados corretamente às provas criadas a partir de ativos de integrações](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
-      + [Solicitações: erro ao abrir o rascunho](known-issues-workfront/wf-requests-cannot-open-from-request-page.md)
       + [Listas: a lista não exibe todos os itens](known-issues-workfront/wf-lists-does-not-display-all.md)
       + [Equipes: não é possível excluir a equipe nem exibir seu proprietário](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
       + [Solicitações: o campo calculado não é atualizado ao preencher a solicitação](known-issues-workfront/wf-requests-calculated-field-not-updating.md)

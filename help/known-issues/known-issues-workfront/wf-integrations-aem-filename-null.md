@@ -1,19 +1,19 @@
 ---
-title: "Integrações: o nome do arquivo é nulo quando enviado para o AEM via integração"
-description: '"Quando um arquivo grande (mais de 100 MB) é enviado ao Adobe Experience Manager por meio da integração do Workfront, o nome do arquivo no AEM é nulo. ”'
+title: '“Integrações: o nome do arquivo fica nulo ao ser enviado para o AEM por meio da integração”'
+description: “Quando um arquivo grande (mais de 100 MB) é enviado ao Adobe Experience Manager por meio da integração do Workfront, o nome do arquivo no AEM fica nulo. ”
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Digital Content and Documents
 exl-id: c2d15424-ae04-414f-9384-a7b083212313
-source-git-commit: 2110bda5b8f0bec53c0503ce6b3f8da6fce693ca
+source-git-commit: 3ca57c76dc50a348cf6d85d4d3e7366834a5e791
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 10%
+source-wordcount: '104'
+ht-degree: 50%
 
 ---
 
-# Integrações: o nome do arquivo é &quot;nulo&quot; quando enviado para AEM por meio da integração
+# Integrações: o nome do arquivo é &quot;null&quot; quando enviado para a integração de documentos
 
-Quando um arquivo grande (acima de 100 MB) é enviado ao Adobe Experience Manager por meio da integração do Workfront, o nome do arquivo no AEM é &quot;nulo&quot;.
+Quando um arquivo grande (acima de 100 MB) é enviado a um provedor de documentos por meio de uma integração do Workfront, o nome do arquivo no provedor de documentos é &quot;nulo&quot;.
 
 Esse problema foi relatado com arquivos ZIP e TIF.
 
@@ -21,8 +21,8 @@ Esse problema foi relatado com arquivos ZIP e TIF.
 
 Siga um destes procedimentos:
 
-* Mapeie o nome do documento para o título AEM.
-* Digite o nome do arquivo diretamente no AEM.
+* Mapeie o nome do documento para o título no provedor de documentos.
+* Digite o nome do arquivo diretamente no provedor do documento.
 
 _Relatado pela primeira vez em quarta-feira, 23 de abril de 2024._
 
