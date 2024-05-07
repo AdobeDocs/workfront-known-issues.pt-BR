@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: f171e93a7f10360d0e504e028e512d5023591693
 workflow-type: tm+mt
 source-wordcount: '389'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -26,7 +26,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
 | [Provas: não é possível tomar decisões no estágio de fluxo de trabalho privado](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | quinta-feira, 1 de maio de 2024 |
-| [Integrações: o nome do arquivo é &quot;nulo&quot; quando enviado para AEM por meio da integração](known-issues-workfront/wf-integrations-aem-filename-null.md) | quinta-feira, 24 de abril de 2024 |
+| [Integrações: o nome do arquivo fica “nulo” ao ser enviado para o AEM por meio da integração](known-issues-workfront/wf-integrations-aem-filename-null.md) | quinta-feira, 24 de abril de 2024 |
 | [Notificações: as notificações de aprovações de documentos beta não estão formatadas corretamente](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | terça-feira, 22 de abril de 2024 |
 
 {style="table-layout:auto"}
