@@ -1,22 +1,20 @@
 ---
-title: "Metas do Workfront: não é possível excluir a meta"
-description: "Quando um usuário tenta excluir uma meta do no [!DNL Workfront Goals], a meta não é excluída e o usuário vê uma mensagem de erro."
+title: "Workfront Goals: não é possível excluir uma meta"
+description: Quando uma pessoa tenta excluir uma meta no  [!DNL Workfront Goals], a meta não é excluída e uma mensagem de erro é exibida.
 hidefromtoc: true
 feature: Workfront Goals
-source-git-commit: fb310bcfdd5b20a26c6eb3e7be3c4cd484f3e409
-workflow-type: tm+mt
+exl-id: aa924ac8-7a07-4c58-b513-c8f9399171d4
+source-git-commit: fddfc45b426172f231365428004a6b6ab6092ea4
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
+# [!DNL Workfront Goals]: não é possível excluir uma meta
 
-# [!DNL Workfront Goals]: não é possível excluir a meta
+Quando uma pessoa tenta excluir uma meta no [!DNL Workfront Goals], a meta não é excluída e a seguinte mensagem de erro é exibida:
 
-Quando um usuário tenta excluir uma meta do no [!DNL Workfront Goals], a meta não é excluída e o usuário vê a seguinte mensagem de erro:
-
-&quot;[!UICONTROL Erro: não é possível confirmar a conexão JDBC; a exceção aninhada é org.hibernate.TransactionException: não é possível confirmar a conexão JDBC]&quot;
+“[!UICONTROL Erro: não é possível fazer a confirmação com a conexão JDBC. A exceção aninhada é org.hibernate.TransactionException: não é possível fazer a confirmação com a conexão JDBC]”
 
 _Relatado pela primeira vez em quarta-feira, 26 de março de 2024._
-
-

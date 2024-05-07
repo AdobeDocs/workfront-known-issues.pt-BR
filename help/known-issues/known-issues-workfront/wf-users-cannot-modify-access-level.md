@@ -1,21 +1,21 @@
 ---
-title: "Usuários: não é possível modificar o nível de acesso do usuário"
-description: "Quando um administrador de grupo tenta modificar o nível de acesso de um usuário no grupo, o campo de nível de acesso está desativado e o administrador de grupo não pode alterar o nível de acesso do usuário."
+title: '“Usuários: não é possível modificar o nível de acesso do usuário”'
+description: “Quando a administração de um grupo tenta modificar o nível de acesso de um usuário no grupo, o campo nível de acesso fica desabilitado e não é possível alterar esse nível de acesso.”
 hidefromtoc: true
 feature: People Teams and Groups
 source-git-commit: 41a57db7e73bffae2731e3db403587565ff49d8e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '104'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 
 # Usuários: não é possível modificar o nível de acesso do usuário
 
-Quando um administrador de grupo tenta modificar o nível de acesso de um usuário no grupo, o campo de nível de acesso está desativado e o administrador de grupo não pode alterar o nível de acesso do usuário.
+Quando a administração de um grupo tenta modificar o nível de acesso de um usuário no grupo, o campo nível de acesso fica desabilitado e não é possível alterar esse nível de acesso.
 
-Isso pode ocorrer mesmo que o administrador de grupo esteja tentando alterar o nível de acesso do usuário para um nível bem abaixo do administrador de grupo.
+Isso pode ocorrer mesmo que o administrador de grupo esteja tentando alterar o nível de acesso do usuário para um nível bem abaixo do nível administrador de grupo.
 
 _Relatado pela primeira vez em quarta-feira, 16 de abril de 2024._
 

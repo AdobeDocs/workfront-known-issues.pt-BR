@@ -1,17 +1,17 @@
 ---
-title: "Projeto: não é possível converter o problema em projeto se o documento estiver anexado"
-description: Quando um problema tem um documento e um usuário tenta converter esse problema em um projeto, a conversão falha e o projeto não é criado. Um erro é exibido.
+title: '“Projeto: não é possível converter problema em projeto se um documento estiver em anexo”'
+description: Quando um problema tem um documento em anexo e alguém tentar converter esse problema em um projeto, a conversão falha e o projeto não é criado. Um erro é exibido.
 hidefromtoc: true
 feature: Projects, Work Management, Digital Content and Documents
 exl-id: 9c133ddd-4001-4d1a-ad96-f7a0a57fe9a1
 source-git-commit: 09424954f13298fdfd1ae330c74ea3ff7084c956
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '119'
-ht-degree: 28%
+ht-degree: 100%
 
 ---
 
-# Projeto: não é possível converter o problema em projeto se o documento estiver anexado
+# Projeto: não é possível converter problema em projeto se um documento estiver em anexo.
 
 <!--
 
@@ -21,7 +21,7 @@ ht-degree: 28%
 
 -->
 
-Quando um problema tem um documento e um usuário tenta converter esse problema em um projeto, a conversão falha e o projeto não é criado. O seguinte erro é exibido:
+Quando um problema tem um documento em anexo e alguém tentar converter esse problema em um projeto, a conversão falha e o projeto não é criado. O seguinte erro é exibido:
 
 “Houve um problema ao copiar o arquivo (GUID do arquivo). Remova o arquivo ou entre em contato com o suporte e tente novamente.”
 
