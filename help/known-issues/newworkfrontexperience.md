@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e667606b926c199dfa5d2dd84feee9210426ca3c
+source-git-commit: d3068f21ba6e1a9a1dd4a9ed78da43cef88f4fde
 workflow-type: tm+mt
-source-wordcount: '850'
-ht-degree: 91%
+source-wordcount: '859'
+ht-degree: 90%
 
 ---
 
@@ -67,6 +67,7 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Folhas de horas: a folha de horas fixada vai para uma página em branco](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md) | 7 de maio de 2024 |
 | [Relatórios: o filtro de relatório não retorna os resultados esperados](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md) | terça-feira, 1 de abril de 2024 |
 | [Configuração: não é possível utilizar o [!UICONTROL Início rápido] para configurar agrupamentos](known-issues-workfront/inactive/wf-setup-cannot-kickstart-groupings.md) | sexta-feira, 30 de novembro de 2023 |
 | [Provas: erro ao compartilhar prova do link de email](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 16 de novembro de 2023 |
