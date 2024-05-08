@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d3068f21ba6e1a9a1dd4a9ed78da43cef88f4fde
+source-git-commit: b1fb7eba69bde986d2dfc041cb7f47f19b57b360
 workflow-type: tm+mt
-source-wordcount: '859'
-ht-degree: 90%
+source-wordcount: '876'
+ht-degree: 88%
 
 ---
 
@@ -25,7 +25,8 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Configuração: o banner &quot;Logado como&quot; não é exibido quando conectado como outro usuário.](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | quarta-feira, 7 de maio de 2024 |
+| [Projetos: o projeto criado a partir de um problema usando um modelo não reflete a prioridade definida no modelo](known-issues-workfront/wf-projects-priority-not-transfer.md) | quinta-feira, 8 de maio de 2024 |
+| [Configuração: o banner &quot;Logado como&quot; não é exibido quando conectado como outro usuário](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | quarta-feira, 7 de maio de 2024 |
 | [Quadros: o filtro avançado não retorna os cartões esperados](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md) | quarta-feira, 7 de maio de 2024 |
 | [Notificações: as notificações de aprovações de documentos beta não estão formatadas corretamente](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | sexta-feira, 2 de maio de 2024 |
 | [Quadros: o item da lista de verificação não fica marcado](known-issues-workfront/wf-boards-checklist-item-unchecks.md) | sexta-feira, 2 de maio de 2024 |
