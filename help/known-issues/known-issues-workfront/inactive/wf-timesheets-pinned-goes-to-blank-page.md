@@ -3,7 +3,7 @@ title: "Folhas de horas: a folha de horas fixada vai para uma página em branco"
 description: '"Quando um usuário clica em um pino no Workfront que deve ir para a folha de horas, o pino vai para uma página em branco. Uma solução alternativa está disponível.”'
 hidefromtoc: true
 feature: Timesheets
-source-git-commit: 229d3accabec51a7c559279b680336ca096c0e70
+source-git-commit: 89eb14bfaccb517764af1711ca31e2926de63795
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 7%
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 Quando um usuário clica em um pino no Workfront que deve ir para a folha de horas, o pino vai para uma página em branco.
 
-Isso ocorre porque a URL da folha de horas mudou. o `/own` no final do URL não é mais o URL correto. Se o usuário tiver fixado um URL que inclua `/own`, esse pino abre uma página em branco.
+Isso ocorre porque a URL da folha de horas mudou. A variável `/own` no final do URL não é mais o URL correto. Se o usuário tiver fixado um URL que inclua `/own`, esse pino abre uma página em branco.
 
 **Solução alternativa**
 
