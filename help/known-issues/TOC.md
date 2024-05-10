@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: b1fb7eba69bde986d2dfc041cb7f47f19b57b360
+source-git-commit: d023663855896059777698e470ed3e786fab0ce7
 workflow-type: tm+mt
-source-wordcount: '1850'
-ht-degree: 94%
+source-wordcount: '1862'
+ht-degree: 93%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Atualizações: copiar e colar uma menção não notifica o usuário mencionado](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
       + [Projetos: o projeto criado a partir de um problema usando um modelo não reflete a prioridade definida no modelo](known-issues-workfront/wf-projects-priority-not-transfer.md)
       + [Quadros: o filtro avançado não retorna os cartões esperados](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
       + [Folhas de horas: a folha de horas fixada vai para uma página em branco](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)

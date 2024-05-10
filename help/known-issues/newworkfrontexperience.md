@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 7a375d51fd250449c950e5c9fdca0ed259e4a231
+source-git-commit: d023663855896059777698e470ed3e786fab0ce7
 workflow-type: tm+mt
-source-wordcount: '864'
-ht-degree: 90%
+source-wordcount: '860'
+ht-degree: 91%
 
 ---
 
@@ -42,8 +42,8 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
+| [Atualizações: copiar e colar uma menção não notifica o usuário mencionado](known-issues-workfront/wf-updates-pasting-mention-not-working.md) | sábado, 10 de maio de 2024 |
 | [Atualizações: o link no comentário vai para uma tela em branco](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | sexta-feira, 9 de maio de 2024 |
-| [Projetos: o projeto criado a partir de um problema usando um modelo não reflete a prioridade definida no modelo](known-issues-workfront/wf-projects-priority-not-transfer.md) | sexta-feira, 9 de maio de 2024 |
 | [Os moderadores de provas não conseguem editar permissões](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | quarta-feira, 7 de maio de 2024 |
 | [Quadros: o usuário não pode ver o quadro ao qual a equipe está atribuída](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md) | quarta-feira, 7 de maio de 2024 |
 | [Atualizações: marcar um usuário com @ no painel Resumo é ineficaz](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | sexta-feira, 2 de maio de 2024 |
