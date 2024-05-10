@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 89eb14bfaccb517764af1711ca31e2926de63795
+source-git-commit: e24d266002a913e5c6e2d5e40e9dad36deff541a
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 97%
+source-wordcount: '376'
+ht-degree: 100%
 
 ---
 
@@ -25,8 +25,6 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Provas: não é possível tomar decisões no estágio de fluxo de trabalho privado](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | quinta-feira, 1 de maio de 2024 |
-| [Integrações: o nome do arquivo fica “nulo” ao ser enviado para o AEM por meio da integração](known-issues-workfront/wf-integrations-aem-filename-null.md) | quinta-feira, 24 de abril de 2024 |
 | [Notificações: as notificações de aprovações de documentos beta não estão formatadas corretamente](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | terça-feira, 22 de abril de 2024 |
 
 {style="table-layout:auto"}

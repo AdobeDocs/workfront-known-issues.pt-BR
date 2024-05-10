@@ -4,14 +4,18 @@ description: “Quando um arquivo grande (mais de 100 MB) é enviado ao Adobe Ex
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Digital Content and Documents
 exl-id: c2d15424-ae04-414f-9384-a7b083212313
-source-git-commit: 3ca57c76dc50a348cf6d85d4d3e7366834a5e791
+source-git-commit: e24d266002a913e5c6e2d5e40e9dad36deff541a
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 50%
+source-wordcount: '110'
+ht-degree: 52%
 
 ---
 
 # Integrações: o nome do arquivo é &quot;null&quot; quando enviado para a integração de documentos
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em quinta-feira, 8 de maio de 2024.
 
 Quando um arquivo grande (acima de 100 MB) é enviado a um provedor de documentos por meio de uma integração do Workfront, o nome do arquivo no provedor de documentos é &quot;nulo&quot;.
 
