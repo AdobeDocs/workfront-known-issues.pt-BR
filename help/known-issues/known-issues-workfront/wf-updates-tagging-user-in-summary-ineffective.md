@@ -1,27 +1,27 @@
 ---
-title: "Atualizações: marcar um usuário com @ no painel Resumo é ineficaz"
-description: "Quando um usuário tenta marcar outro usuário usando @ na área Atualizações de um painel Resumo, clicar no nome do usuário na lista suspensa não é eficaz. Tentar marcar o usuário uma segunda vez funciona como esperado."
+title: '“Atualizações: a ação de marcar alguém com @ no painel Resumo não funciona”'
+description: “Ao tentar marcar alguém usando @ na área de atualizações de um painel Resumo, clicar no nome da pessoa na lista suspensa não gera efeito. Tentar marcar a pessoa uma segunda vez funciona conforme o esperado.”
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 3ca57c76dc50a348cf6d85d4d3e7366834a5e791
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# Atualizações: marcar um usuário com @ no painel Resumo é ineficaz
+# Atualizações: a ação de marcar alguém com @ no painel Resumo não funciona
 
-Quando um usuário tenta marcar outro usuário usando @ na área Atualizações de um painel Resumo, clicar no nome do usuário na lista suspensa não é eficaz. Tentar marcar o usuário uma segunda vez funciona como esperado.
+Ao tentar marcar alguém usando @ na área de atualizações de um painel Resumo, clicar no nome da pessoa na lista suspensa não gera efeito. Tentar marcar a pessoa uma segunda vez funciona conforme o esperado.
 
 **Solução alternativa**
 
-Adicione uma tag ao usuário novamente. A segunda tentativa funciona conforme esperado.
+Marque a pessoa novamente. A segunda tentativa funciona conforme o esperado.
 
 Ou
 
-Selecione o usuário usando a tecla Enter/Return.
+Selecione quem marcar usando a tecla Enter/Return.
 
 _Relatado pela primeira vez em terça-feira, 18 de março de 2024._
 

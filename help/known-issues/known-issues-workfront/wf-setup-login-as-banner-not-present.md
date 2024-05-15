@@ -1,19 +1,19 @@
 ---
-title: '"Configuração: o banner "Conectado como" não é exibido quando conectado como outro usuário."'
-description: "Quando um administrador está conectado como outro usuário, o banner Logado como não é exibido. O usuário não é lembrado de que está logado como outro usuário e não pode fazer logout da conta desse usuário."
+title: '“Configuração: o banner “Conectado como” não aparece ao fazer logon com outro usuário.”'
+description: Quando um(a) admin faz logon utilizando outro usuário, o banner “Conectado como” não aparece. A pessoa não é lembrada de que está conectada com outro usuário e não consegue sair dessa conta de usuário.
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: 3ca57c76dc50a348cf6d85d4d3e7366834a5e791
-workflow-type: tm+mt
+exl-id: fc90bd88-933d-480b-a8c0-b653e6070625
+source-git-commit: 0f3f85c81a9ab2a185977757031e44040ea074d3
+workflow-type: ht
 source-wordcount: '112'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
+# Configuração: o banner “Conectado como” não aparece ao fazer logon com outro usuário.
 
-# Configuração: o banner &quot;Logado como&quot; não é exibido quando conectado como outro usuário.
-
-Quando um administrador está conectado como outro usuário, o banner &quot;Conectado como&quot; não é exibido. O usuário não é lembrado de que está conectado como outro usuário e não pode fazer logoff da conta desse usuário.
+Quando um(a) admin faz logon utilizando outro usuário, o banner “Conectado como” não aparece. A pessoa não é lembrada de que está conectada com outro usuário e não consegue sair dessa conta de usuário.
 
 **Solução alternativa**
 

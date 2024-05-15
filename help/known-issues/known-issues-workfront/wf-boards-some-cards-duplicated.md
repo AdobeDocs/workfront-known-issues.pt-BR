@@ -1,13 +1,13 @@
 ---
-title: "Quadros: problemas relacionados a cartões duplicados"
-description: Problemas relacionados a cartões duplicados em Quadros foram relatados.
+title: '“Quadros: problemas relacionados a cartões duplicados”'
+description: Relato de problemas em relação a cartões duplicados em Quadros.
 hidefromtoc: true
 feature: Agile
 exl-id: f08d6464-99df-4b49-be0f-becc8297c6c5
 source-git-commit: a1347b75359d14302b377153570b0f9107d1eb87
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 

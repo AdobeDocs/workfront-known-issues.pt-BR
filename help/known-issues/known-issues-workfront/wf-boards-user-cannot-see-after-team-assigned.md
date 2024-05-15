@@ -1,22 +1,22 @@
 ---
-title: "Quadros: o usuário não pode ver o quadro ao qual a equipe está atribuída"
-description: "Quando um usuário tenta visualizar um quadro ao qual a equipe está atribuída, não é possível visualizar o quadro. Isso ocorre se o usuário for adicionado à equipe depois que ela for atribuída ao quadro."
+title: '“Quadros: não é possível ver o quadro ao qual a equipe está atribuída”'
+description: A ação falha ao tentar visualizar um quadro ao qual a equipe está atribuída. Isso ocorre se a pessoa for adicionada à equipe após a equipe ter sido atribuída ao quadro.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 3ca57c76dc50a348cf6d85d4d3e7366834a5e791
-workflow-type: tm+mt
+exl-id: 01c93110-407a-4559-bdc1-3fe04d94a8a1
+source-git-commit: 0f3f85c81a9ab2a185977757031e44040ea074d3
+workflow-type: ht
 source-wordcount: '109'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# Quadros: não é possível ver o quadro ao qual a equipe está atribuída
 
-# Quadros: o usuário não pode ver o quadro ao qual a equipe está atribuída
-
-Quando um usuário tenta visualizar um quadro ao qual a equipe está atribuída, não é possível visualizá-lo. Isso ocorre se o usuário for adicionado à equipe depois que ela for atribuída ao quadro.
+A ação falha ao tentar visualizar um quadro ao qual a equipe está atribuída. Isso ocorre se a pessoa for adicionada à equipe após a equipe ter sido atribuída ao quadro.
 
 **Solução alternativa**
 
-Adicione o usuário diretamente ao quadro.
+Adicione a pessoa ao quadro diretamente.
 
-_Reportado pela primeira vez em 15 de abril de 2024._
+_Relatado pela primeira vez em 15 de abril de 2024._
