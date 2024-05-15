@@ -5,7 +5,7 @@ role: User
 source-git-commit: d023663855896059777698e470ed3e786fab0ce7
 workflow-type: tm+mt
 source-wordcount: '1862'
-ht-degree: 93%
+ht-degree: 98%
 
 ---
 
@@ -21,12 +21,12 @@ ht-degree: 93%
       + [Projetos: o projeto criado a partir de um problema usando um modelo não reflete a prioridade definida no modelo](known-issues-workfront/wf-projects-priority-not-transfer.md)
       + [Quadros: o filtro avançado não retorna os cartões esperados](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
       + [Folhas de horas: a folha de horas fixada vai para uma página em branco](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
-      + [Configuração: o banner &quot;Logado como&quot; não é exibido quando conectado como outro usuário.](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
-      + [Os moderadores de provas não conseguem editar permissões](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
-      + [Quadros: o usuário não pode ver o quadro ao qual a equipe está atribuída](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md)
-      + [Atualizações: marcar um usuário com @ no painel Resumo é ineficaz](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md)
-      + [Projetos: o projeto criado com o modelo não corresponde à prioridade do modelo](known-issues-workfront/wf-projects-priority-does-not-match-template.md)
-      + [Quadros: o item da lista de verificação não fica marcado](known-issues-workfront/wf-boards-checklist-item-unchecks.md)
+      + [Configuração: o banner “Conectado como” não aparece ao fazer logon com outro usuário.](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
+      + [Moderadores de prova não conseguem editar as permissões](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
+      + [Quadros: não é possível ver o quadro ao qual a equipe está atribuída](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md)
+      + [Atualizações: a ação de marcar alguém com @ no painel Resumo não funciona](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md)
+      + [Projetos: o projeto criado por meio do modelo não corresponde à prioridade do modelo](known-issues-workfront/wf-projects-priority-does-not-match-template.md)
+      + [Quadros: o item da lista de verificação não permanece marcado](known-issues-workfront/wf-boards-checklist-item-unchecks.md)
       + [Projetos: erro ao compartilhar um projeto](known-issues-workfront/wf-projects-error-when-sharing-project.md)
       + [Provas: não é possível tomar decisões no estágio de fluxo de trabalho privado](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md)
       + [[!DNL Workfront Goals]: não é possível excluir a meta](known-issues-workfront/wf-goals-cannot-delete-goal.md)
