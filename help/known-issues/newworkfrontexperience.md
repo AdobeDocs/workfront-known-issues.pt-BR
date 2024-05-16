@@ -4,9 +4,9 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2d22bba261f1a53625ed46e91609411931420791
+source-git-commit: 10057189c213e5b2993c58b89116cedcd2d7d6f4
 workflow-type: tm+mt
-source-wordcount: '870'
+source-wordcount: '865'
 ht-degree: 94%
 
 ---
@@ -50,7 +50,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | [Atualizações: a ação de marcar alguém com @ no painel Resumo não funciona](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | sexta-feira, 2 de maio de 2024 |
 | [[!DNL Workfront Goals]: não é possível excluir uma meta](known-issues-workfront/wf-goals-cannot-delete-goal.md) | terça-feira, 29 de abril de 2024 |
 | [Projeto: não é possível converter um problema em projeto se uma prova da Web estiver anexada](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | quarta-feira, 23 de abril de 2024 |
-| [Usuários: não é possível excluir usuários](known-issues-workfront/wf-users-unable-to-delete-users.md) | sexta-feira, 18 de abril de 2024 |
 | [Equipes: não é possível excluir a equipe nem exibir seu proprietário](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | sexta-feira, 11 de abril de 2024 |
 | [Solicitações: o campo calculado não é atualizado ao preencher a solicitação](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | quarta-feira, 9 de abril de 2024 |
 | [Provas: a prova impede a conversão de tarefa ou problema em projeto](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | sábado, 5 de abril de 2024 |

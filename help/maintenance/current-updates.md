@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 5abc91229bcfbeef1a08ffd3db103de4978c3111
+source-git-commit: 10057189c213e5b2993c58b89116cedcd2d7d6f4
 workflow-type: tm+mt
-source-wordcount: '3425'
-ht-degree: 100%
+source-wordcount: '3529'
+ht-degree: 99%
 
 ---
 
@@ -21,6 +21,24 @@ As seguintes atualizações de manutenção foram efetuadas em 2024.
 Para obter atualizações de manutenção anteriores a 2024, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em maio de 2024
+
++++**Atualização de manutenção em sexta-feira, 16 de maio de 2024**
+
+### Atualização de manutenção em sexta-feira, 16 de maio de 2024
+
+#### Configuração
+
+**Status de problemas padrão ausentes em alguns tipos de problemas na configuração**
+
+Quando uma pessoa visualiza os status de problemas na Configuração, ela verá que os status padrão para problemas (Novo, Em andamento e Concluído) estão ausentes em alguns tipos de problemas. Os status padrão não têm a opção para alterar o tipo de problema, portanto, a pessoa não pode reconfigurar os status para serem exibidos para os tipos de problema afetados.
+
+#### Usuários
+
+**Não é possível excluir usuários**
+
+Quando uma pessoa tenta excluir usuários, eles não são excluídos. Esse problema foi relatado em organizações que migraram para o Adobe Admin Console.
+
++++
 
 +++**Atualização de manutenção em sexta-feira, 9 de maio de 2024**
 
