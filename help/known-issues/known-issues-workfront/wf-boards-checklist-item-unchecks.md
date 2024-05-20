@@ -4,14 +4,18 @@ description: Ao marcar um item da lista de verificação em um cartão, a ação
 hidefromtoc: true
 feature: Agile
 exl-id: 65191c68-f88e-4ffc-8d57-6786e1d6f08e
-source-git-commit: 1c2c5d7c97ae47278154011e097f636feaa48417
-workflow-type: ht
-source-wordcount: '60'
+source-git-commit: 4acd3830c34139d8d54e614bb5197f00fa63613f
+workflow-type: tm+mt
+source-wordcount: '66'
 ht-degree: 100%
 
 ---
 
 # Quadros: o item da lista de verificação não permanece marcado
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em sexta-feira, 16 de maio de 2024.
 
 Ao marcar um item da lista de verificação em um cartão, a ação é revertida imediatamente. O item não permanece marcado.
 
