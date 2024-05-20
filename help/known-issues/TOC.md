@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: a24eb4021300c88b90eb4aa6a77faa1e94fac321
+source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
 workflow-type: tm+mt
-source-wordcount: '1880'
-ht-degree: 97%
+source-wordcount: '1919'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Documentos: tela de erro ao baixar ou visualizar o ativo](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md)
+      + [Usuários: os atributos do usuário não são mapeados do SSO](known-issues-workfront/wf-users-sso-attributes-not-mapped.md)
+      + [Programas: todo o acesso ao programa é perdido quando o acesso do usuário ao programa é atualizado](known-issues-workfront/wf-programs-permissions-not-inherited.md)
+      + [Documentos: extensão de arquivo UNK ao vincular documentos da integração](known-issues-workfront/wf-documents-unk-file-extension.md)
       + [Solicitações: não é possível acessar painéis na página de solicitação (&quot;../enviado&quot; URL)](known-issues-workfront/wf-requests-cannot-access-request-dashboard.md)
       + [Integrações: os usuários recebem o erro de solicitação incorreta ao usar o SSO](known-issues-workfront/wf-outlook-wrong-request.md)
       + [Atualizações: copiar e colar uma menção não notifica o usuário mencionado](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
