@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 10057189c213e5b2993c58b89116cedcd2d7d6f4
+source-git-commit: cf1c7d7bc95f9a88b07f624f3152ba9c1148ac58
 workflow-type: tm+mt
-source-wordcount: '3529'
-ht-degree: 99%
+source-wordcount: '3628'
+ht-degree: 98%
 
 ---
 
@@ -21,6 +21,22 @@ As seguintes atualizações de manutenção foram efetuadas em 2024.
 Para obter atualizações de manutenção anteriores a 2024, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em maio de 2024
+
++++ **(Planejado) Atualização de manutenção em sexta-feira, 23 de maio de 2024**
+
+### (Planejado) Atualização de manutenção em sexta-feira, 23 de maio de 2024
+
+#### Atualizações
+
+**O usuário marcado não consegue ver quem os marcou**
+
+Quando um usuário é marcado em uma atualização, ele não consegue ver quem o marcou. Isso ocorre quando a configuração &quot;As pessoas em outras empresas só devem visualizar os usuários de...&quot; está definida como &quot;Sua empresa&quot;.
+
+**Marcar um usuário com @ no painel Resumo é ineficaz**
+
+Ao tentar marcar alguém usando @ na área de atualizações de um painel Resumo, clicar no nome da pessoa na lista suspensa não gera efeito. Tentar marcar a pessoa uma segunda vez funciona conforme o esperado.
+
++++
 
 +++**Atualização de manutenção em sexta-feira, 16 de maio de 2024**
 
