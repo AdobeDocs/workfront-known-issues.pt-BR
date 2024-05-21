@@ -5,7 +5,7 @@ role: User
 source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
 workflow-type: tm+mt
 source-wordcount: '1919'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 95%
       + [Solicitações: não é possível acessar painéis na página de solicitação (&quot;../enviado&quot; URL)](known-issues-workfront/wf-requests-cannot-access-request-dashboard.md)
       + [Integrações: os usuários recebem o erro de solicitação incorreta ao usar o SSO](known-issues-workfront/wf-outlook-wrong-request.md)
       + [Atualizações: copiar e colar uma menção não notifica o usuário mencionado](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
-      + [Projetos: o projeto criado a partir de um problema usando um modelo não reflete a prioridade definida no modelo](known-issues-workfront/wf-projects-priority-not-transfer.md)
+      + [Projetos: projetos criados a partir de um problema usando um modelo não refletem a prioridade definida no modelo](known-issues-workfront/wf-projects-priority-not-transfer.md)
       + [Quadros: o filtro avançado não retorna os cartões esperados](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
-      + [Folhas de horas: a folha de horas fixada vai para uma página em branco](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
+      + [Folhas de horas: folhas de horas fixadas levam a uma página em branco](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
       + [Configuração: o banner “Conectado como” não aparece ao fazer logon com outro usuário.](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
       + [Moderadores de prova não conseguem editar as permissões](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
       + [Quadros: não é possível ver o quadro ao qual a equipe está atribuída](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md)

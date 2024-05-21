@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
 workflow-type: tm+mt
 source-wordcount: '877'
-ht-degree: 90%
+ht-degree: 94%
 
 ---
 
@@ -28,7 +28,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | [Programas: todo o acesso ao programa é perdido quando o acesso do usuário ao programa é atualizado](known-issues-workfront/wf-programs-permissions-not-inherited.md) | terça-feira, 20 de maio de 2024 |
 | [Documentos: extensão de arquivo UNK ao vincular documentos da integração](known-issues-workfront/wf-documents-unk-file-extension.md) | terça-feira, 20 de maio de 2024 |
 | [Integrações: os usuários recebem o erro de solicitação incorreta ao usar o SSO](known-issues-workfront/wf-outlook-wrong-request.md) | quarta-feira, 14 de maio de 2024 |
-| [Configuração: o banner &quot;Logado como&quot; não é exibido quando conectado como outro usuário](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | quarta-feira, 7 de maio de 2024 |
+| [Configuração: o banner “Conectado como” não aparece ao fazer logon como outro usuário](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | quarta-feira, 7 de maio de 2024 |
 | [Tarefas: criar ou duplicar tarefas faz com que a lista de tarefas apareça na ordem errada](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | terça-feira, 26 de fevereiro de 2024 |
 | [Provas: os GIFs são renderizados como provas estáticas](known-issues-workfront/wf-proofs-gif-static-image.md) | quarta-feira, 23 de janeiro de 2024 |
 | [Provas: falha ao gerar provas comprimidas](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | quarta-feira, 9 de janeiro de 2024 |
@@ -68,7 +68,7 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
 | [Página inicial: o dispositivo de aprovações não é preciso](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | terça-feira, 20 de maio de 2024 |
-| [Folhas de horas: a folha de horas fixada vai para uma página em branco](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md) | 7 de maio de 2024 |
+| [Folhas de horas: folhas de horas fixadas levam a uma página em branco](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md) | 7 de maio de 2024, 2024 |
 | [Relatórios: o filtro de relatório não retorna os resultados esperados](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md) | terça-feira, 1 de abril de 2024 |
 | [Configuração: não é possível utilizar o [!UICONTROL Início rápido] para configurar agrupamentos](known-issues-workfront/inactive/wf-setup-cannot-kickstart-groupings.md) | sexta-feira, 30 de novembro de 2023 |
 | [Provas: erro ao compartilhar prova do link de email](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 16 de novembro de 2023 |
