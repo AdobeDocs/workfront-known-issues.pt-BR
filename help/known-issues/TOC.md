@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
+source-git-commit: 6de2e70344be38b92d44c2ec90c6380a8ccc3140
 workflow-type: tm+mt
-source-wordcount: '1919'
-ht-degree: 97%
+source-wordcount: '1933'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Atualizações: o usuário marcado não pode ver quem os marcou](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)
+      + [Página inicial: as horas planejadas são exibidas em minutos](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md)
       + [Documentos: tela de erro ao baixar ou visualizar o ativo](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md)
       + [Usuários: os atributos do usuário não são mapeados do SSO](known-issues-workfront/wf-users-sso-attributes-not-mapped.md)
       + [Programas: todo o acesso ao programa é perdido quando o acesso do usuário ao programa é atualizado](known-issues-workfront/wf-programs-permissions-not-inherited.md)
