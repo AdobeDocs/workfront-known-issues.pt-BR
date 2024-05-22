@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: cf1c7d7bc95f9a88b07f624f3152ba9c1148ac58
+source-git-commit: 838970835779e238e1739d50ed7d78bdd01069c7
 workflow-type: tm+mt
-source-wordcount: '3628'
-ht-degree: 98%
+source-wordcount: '3680'
+ht-degree: 97%
 
 ---
 
@@ -25,6 +25,16 @@ Para obter atualizações de manutenção anteriores a 2024, consulte [Atualiza�
 +++ **(Planejado) Atualização de manutenção em sexta-feira, 23 de maio de 2024**
 
 ### (Planejado) Atualização de manutenção em sexta-feira, 23 de maio de 2024
+
+#### Relatórios
+
+Quando um usuário visualiza um relatório e clica no botão Voltar do navegador, uma das situações a seguir pode ocorrer:
+
+* O usuário permanece na página Relatório.
+* O usuário é direcionado para a página inicial do navegador.
+* O usuário é direcionado para a página de Logon.
+
+Esse problema foi relatado com o navegador Chrome.
 
 #### Atualizações
 
