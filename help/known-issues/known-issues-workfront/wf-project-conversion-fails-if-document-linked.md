@@ -4,22 +4,18 @@ description: Quando um problema tem um documento em anexo e alguém tentar conve
 hidefromtoc: true
 feature: Projects, Work Management, Digital Content and Documents
 exl-id: 9c133ddd-4001-4d1a-ad96-f7a0a57fe9a1
-source-git-commit: 09424954f13298fdfd1ae330c74ea3ff7084c956
-workflow-type: ht
-source-wordcount: '119'
+source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
+workflow-type: tm+mt
+source-wordcount: '125'
 ht-degree: 100%
 
 ---
 
 # Projeto: não é possível converter problema em projeto se um documento estiver em anexo.
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on April 18, 2024.
-
--->
+>Esse problema foi corrigido em sexta-feira, 23 de maio de 2024.
 
 Quando um problema tem um documento em anexo e alguém tentar converter esse problema em um projeto, a conversão falha e o projeto não é criado. O seguinte erro é exibido:
 

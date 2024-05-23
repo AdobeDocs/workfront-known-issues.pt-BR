@@ -3,15 +3,19 @@ title: '“Atualizações: a ação de marcar alguém com @ no painel Resumo nã
 description: “Ao tentar marcar alguém usando @ na área de atualizações de um painel Resumo, clicar no nome da pessoa na lista suspensa não gera efeito. Tentar marcar a pessoa uma segunda vez funciona conforme o esperado.”
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 3ca57c76dc50a348cf6d85d4d3e7366834a5e791
-workflow-type: ht
-source-wordcount: '122'
+source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
+workflow-type: tm+mt
+source-wordcount: '128'
 ht-degree: 100%
 
 ---
 
 
 # Atualizações: a ação de marcar alguém com @ no painel Resumo não funciona
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em sexta-feira, 23 de maio de 2024.
 
 Ao tentar marcar alguém usando @ na área de atualizações de um painel Resumo, clicar no nome da pessoa na lista suspensa não gera efeito. Tentar marcar a pessoa uma segunda vez funciona conforme o esperado.
 

@@ -1,19 +1,23 @@
 ---
 title: "Documentos: extensão de arquivo UNK ao vincular documentos da integração"
-description: "Quando um usuário vincula um documento de uma integração de documentos, o documento aparece no Workfront com uma extensão de arquivo UNK."
+description: Quando um usuário vincula um documento de uma integração de documentos, o documento aparece no Workfront com uma extensão de arquivo UNK.
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Digital Content and Documents
-source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
+exl-id: ec37dbaa-4776-423d-abeb-a88691d92d16
+source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 6%
+source-wordcount: '74'
+ht-degree: 21%
 
 ---
-
 
 # Documentos: extensão de arquivo UNK ao vincular documentos da integração
 
 <!--WF and WFP-->
+
+>[!NOTE]
+>
+>Esse problema foi encerrado por não ser um problema do Workfront.
 
 Quando um usuário vincula um documento de uma integração de documentos, o documento aparece no Workfront com uma extensão de arquivo UNK.
 
