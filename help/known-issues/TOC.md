@@ -2,9 +2,9 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 6de2e70344be38b92d44c2ec90c6380a8ccc3140
+source-git-commit: 2969b042d5328f11800b6f77e5d07dae5001068e
 workflow-type: tm+mt
-source-wordcount: '1933'
+source-wordcount: '1937'
 ht-degree: 96%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Grupos: não é possível adicionar um subgrupo](known-issues-workfront/wf-groups-cannot-add-subgroup.md)
       + [Atualizações: o usuário marcado não pode ver quem os marcou](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)
       + [Página inicial: as horas planejadas são exibidas em minutos](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md)
       + [Documentos: tela de erro ao baixar ou visualizar o ativo](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md)

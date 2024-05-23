@@ -1,19 +1,22 @@
 ---
 title: "Página inicial: as horas planejadas são exibidas em minutos"
-description: "Quando um usuário adiciona uma coluna Horas planejadas a um widget na nova experiência da página inicial, as horas planejadas são exibidas em minutos."
+description: Quando um usuário adiciona uma coluna Horas planejadas a um widget na nova experiência inicial, as horas planejadas são exibidas em minutos.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 405d0861af7f68a5c93b5be76d6b2f6f7e731615
+exl-id: 759dfbf7-7c92-4885-bbc3-4e2976ea45a6
+source-git-commit: 2969b042d5328f11800b6f77e5d07dae5001068e
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 6%
+source-wordcount: '66'
+ht-degree: 15%
 
 ---
 
-
 # Página inicial: as horas planejadas são exibidas em minutos
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em sexta-feira, 23 de maio de 2024.
 
 Quando um usuário adiciona uma coluna Horas planejadas a um widget na nova experiência inicial, as horas planejadas são exibidas em minutos.
 
 _Relatado pela primeira vez em quinta-feira, 1 de maio de 2024._
-
