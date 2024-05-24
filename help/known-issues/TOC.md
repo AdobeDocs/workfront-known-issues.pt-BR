@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 2969b042d5328f11800b6f77e5d07dae5001068e
+source-git-commit: a956e48c90eb41cd37bb6dc8e263083037d53691
 workflow-type: tm+mt
-source-wordcount: '1937'
-ht-degree: 96%
+source-wordcount: '1945'
+ht-degree: 98%
 
 ---
 
@@ -17,15 +17,16 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Formulários personalizados: erro ao editar campos de texto descritivo](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)
       + [Grupos: não é possível adicionar um subgrupo](known-issues-workfront/wf-groups-cannot-add-subgroup.md)
       + [Atualizações: o usuário marcado não pode ver quem os marcou](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)
       + [Página inicial: as horas planejadas são exibidas em minutos](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md)
-      + [Documentos: tela de erro ao baixar ou visualizar o ativo](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md)
-      + [Usuários: os atributos do usuário não são mapeados do SSO](known-issues-workfront/wf-users-sso-attributes-not-mapped.md)
-      + [Programas: todo o acesso ao programa é perdido quando o acesso do usuário ao programa é atualizado](known-issues-workfront/wf-programs-permissions-not-inherited.md)
+      + [Documentos: tela de erro ao baixar ou visualizar um ativo](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md)
+      + [Usuários: os atributos do usuário não são mapeados a partir do SSO](known-issues-workfront/wf-users-sso-attributes-not-mapped.md)
+      + [Programas: quando o acesso do usuário ao programa é atualizado, todo o acesso a ele é perdido](known-issues-workfront/wf-programs-permissions-not-inherited.md)
       + [Documentos: extensão de arquivo UNK ao vincular documentos da integração](known-issues-workfront/wf-documents-unk-file-extension.md)
-      + [Solicitações: não é possível acessar painéis na página de solicitação (&quot;../enviado&quot; URL)](known-issues-workfront/wf-requests-cannot-access-request-dashboard.md)
-      + [Integrações: os usuários recebem o erro de solicitação incorreta ao usar o SSO](known-issues-workfront/wf-outlook-wrong-request.md)
+      + [Solicitações: não é possível acessar painéis na página de solicitação (&quot;../submitted&quot; URL)](known-issues-workfront/wf-requests-cannot-access-request-dashboard.md)
+      + [Integrações: usuários recebem um erro de solicitação incorreta ao usar o SSO](known-issues-workfront/wf-outlook-wrong-request.md)
       + [Atualizações: copiar e colar uma menção não notifica o usuário mencionado](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
       + [Projetos: projetos criados a partir de um problema usando um modelo não refletem a prioridade definida no modelo](known-issues-workfront/wf-projects-priority-not-transfer.md)
       + [Quadros: o filtro avançado não retorna os cartões esperados](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
