@@ -4,7 +4,7 @@ description: “Quando uma pessoa tenta excluir usuários, eles não são exclu�
 hidefromtoc: true
 feature: People Teams and Groups
 source-git-commit: 10057189c213e5b2993c58b89116cedcd2d7d6f4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '70'
 ht-degree: 100%
 
