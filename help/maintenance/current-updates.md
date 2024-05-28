@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
+source-git-commit: c3e3297bd52a4189321102e75cd952ac5162f1fa
 workflow-type: tm+mt
-source-wordcount: '3678'
-ht-degree: 97%
+source-wordcount: '3781'
+ht-degree: 95%
 
 ---
 
@@ -21,6 +21,28 @@ As seguintes atualizações de manutenção foram efetuadas em 2024.
 Para obter atualizações de manutenção anteriores a 2024, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em maio de 2024
+
++++ **(Planejado) Atualização de manutenção em sexta-feira, 30 de maio de 2024**
+
+### (Planejado) Atualização de manutenção em sexta-feira, 30 de maio de 2024
+
+#### Formulários personalizados
+
+Erro ao editar campos de texto descritivo
+
+Quando um usuário tenta editar o texto descritivo em um formulário personalizado, o texto não é salvo e o usuário vê o seguinte erro:
+
+&quot;O valor da chave duplicada viola a restrição exclusiva&quot;
+
+Esse problema foi relatado no construtor de formulários herdado.
+
+#### Atualizações
+
+**Copiar e colar uma menção não notifica o usuário mencionado**
+
+Quando alguém copia um comentário que inclui uma menção no formato @ e o cola na área de atualizações de outro objeto, o usuário mencionado não é notificado sobre o comentário colado.
+
++++
 
 +++ **Atualização de manutenção em sexta-feira, 23 de maio de 2024**
 

@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8e019afd934a4a5339a9623c4fa2f4a880326bd9
+source-git-commit: c3e3297bd52a4189321102e75cd952ac5162f1fa
 workflow-type: tm+mt
-source-wordcount: '845'
-ht-degree: 98%
+source-wordcount: '843'
+ht-degree: 97%
 
 ---
 
@@ -26,7 +26,6 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
 | [Programas: quando o acesso do usuário ao programa é atualizado, todo o acesso a ele é perdido](known-issues-workfront/wf-programs-permissions-not-inherited.md) | terça-feira, 20 de maio de 2024 |
-| [Integrações: usuários recebem um erro de solicitação incorreta ao usar o SSO](known-issues-workfront/wf-outlook-wrong-request.md) | quarta-feira, 14 de maio de 2024 |
 | [Configuração: o banner “Conectado como” não aparece ao fazer logon como outro usuário](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | quarta-feira, 7 de maio de 2024 |
 | [Tarefas: criar ou duplicar tarefas faz com que a lista de tarefas apareça na ordem errada](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | terça-feira, 26 de fevereiro de 2024 |
 | [Provas: os GIFs são renderizados como provas estáticas](known-issues-workfront/wf-proofs-gif-static-image.md) | quarta-feira, 23 de janeiro de 2024 |
@@ -40,6 +39,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
+| [Usuários: usuários ausentes ao fazer atribuições em massa](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | quarta-feira, 28 de maio de 2024 |
 | [Configuração: o banner “Conectado como” não aparece ao fazer logon como outro usuário](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | sábado, 24 de maio de 2024 |
 | [Formulários personalizados: erro ao editar campos de texto descritivo](known-issues-workfront/wf-custom-forms-cannot-edit-description.md) | sábado, 24 de maio de 2024 |
 | [Grupos: não é possível adicionar um subgrupo](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | sexta-feira, 23 de maio de 2024 |
