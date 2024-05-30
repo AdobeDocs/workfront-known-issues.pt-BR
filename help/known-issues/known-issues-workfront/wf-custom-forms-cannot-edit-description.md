@@ -1,17 +1,21 @@
 ---
 title: "Formulários personalizados: erro ao editar campos de texto descritivo"
-description: '"Quando um usuário tenta editar o texto descritivo em um formulário personalizado, o texto não é salvo e o usuário vê um erro. Uma solução alternativa está disponível.”'
+description: Quando um usuário tenta editar o texto descritivo em um formulário personalizado, ele não é salvo e o usuário vê um erro. Uma solução alternativa está disponível.
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: a956e48c90eb41cd37bb6dc8e263083037d53691
+exl-id: eb09e5e2-7a76-471b-8eb3-56dfa3149d9c
+source-git-commit: bca3fbea3084dbb9fd763bee9f333b37a47bb90a
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 9%
+source-wordcount: '105'
+ht-degree: 14%
 
 ---
 
-
 # Formulários personalizados: erro ao editar campos de texto descritivo
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em sexta-feira, 30 de maio de 2024.
 
 Quando um usuário tenta editar o texto descritivo em um formulário personalizado, o texto não é salvo e o usuário vê o seguinte erro:
 
