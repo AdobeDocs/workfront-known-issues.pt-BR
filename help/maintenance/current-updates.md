@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: bca3fbea3084dbb9fd763bee9f333b37a47bb90a
 workflow-type: tm+mt
 source-wordcount: '3779'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -50,21 +50,21 @@ Quando alguém copia um comentário que inclui uma menção no formato @ e o col
 
 #### Relatórios
 
-Quando um usuário visualiza um relatório e clica no botão Voltar do navegador, uma das situações a seguir pode ocorrer:
+Quando alguém visualiza um relatório e clica no botão Voltar do navegador, uma das situações a seguir pode ocorrer:
 
-* O usuário permanece na página Relatório.
-* O usuário é direcionado para a página inicial do navegador.
-* O usuário é direcionado para a página de Logon.
+* A pessoa permanece na página Relatório.
+* A pessoa é direcionada para a página de destino do navegador.
+* A pessoa é direcionada para a página de logon.
 
 Esse problema foi relatado com o navegador Chrome.
 
 #### Atualizações
 
-**O usuário marcado não consegue ver quem os marcou**
+**Pessoas marcadas não conseguem ver quem as marcou**
 
-Quando um usuário é marcado em uma atualização, ele não consegue ver quem o marcou. Isso ocorre quando a configuração &quot;As pessoas em outras empresas só devem visualizar os usuários de...&quot; está definida como &quot;Sua empresa&quot;.
+Quando alguém recebe uma marcação em uma atualização, a pessoa não consegue ver quem a marcou. Isso ocorre quando a configuração “As pessoas em outras empresas devem ver somente os usuários de...” está definida como “A empresa deles”.
 
-**Marcar um usuário com @ no painel Resumo é ineficaz**
+**A ação de marcar alguém com @ no painel Resumo não funciona**
 
 Ao tentar marcar alguém usando @ na área de atualizações de um painel Resumo, clicar no nome da pessoa na lista suspensa não gera efeito. Tentar marcar a pessoa uma segunda vez funciona conforme o esperado.
 

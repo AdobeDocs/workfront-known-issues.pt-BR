@@ -5,7 +5,7 @@ role: User
 source-git-commit: d23c66b7f7002647dc4ebb2adc02a6a75130515b
 workflow-type: tm+mt
 source-wordcount: '1966'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 97%
       + [Usuários: usuários ausentes ao fazer atribuições em massa](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
       + [Formulários personalizados: erro ao editar campos de texto descritivo](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)
       + [Grupos: não é possível adicionar um subgrupo](known-issues-workfront/wf-groups-cannot-add-subgroup.md)
-      + [Atualizações: o usuário marcado não pode ver quem os marcou](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)
+      + [Atualizações: pessoas marcadas não conseguem ver quem as marcou](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)
       + [Página inicial: as horas planejadas são exibidas em minutos](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md)
       + [Documentos: tela de erro ao baixar ou visualizar um ativo](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md)
       + [Usuários: os atributos do usuário não são mapeados a partir do SSO](known-issues-workfront/wf-users-sso-attributes-not-mapped.md)
