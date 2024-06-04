@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: bca3fbea3084dbb9fd763bee9f333b37a47bb90a
+source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
 workflow-type: tm+mt
-source-wordcount: '847'
-ht-degree: 96%
+source-wordcount: '865'
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Relatórios: os links públicos para um relatório não estão funcionando](known-issues-workfront/wf-reports-public-link-not-working.md) | quarta-feira, 4 de junho de 2024 |
 | [Tarefas: a função de trabalho não desaparece da lista quando o usuário é atribuído à tarefa](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | quinta-feira, 29 de maio de 2024 |
 | [Programas: quando o acesso do usuário ao programa é atualizado, todo o acesso a ele é perdido](known-issues-workfront/wf-programs-permissions-not-inherited.md) | terça-feira, 20 de maio de 2024 |
 | [Configuração: o banner “Conectado como” não aparece ao fazer logon como outro usuário](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | quarta-feira, 7 de maio de 2024 |
@@ -40,9 +41,11 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
+| [[!UICONTROL Planejador de recursos]: não é possível compartilhar o filtro](known-issues-workfront/wf-resource-planner-cannot-share-filter.md) | quarta-feira, 4 de junho de 2024 |
+| [A Data de Término Efetivo é exibida como N/D](known-issues-workfront/wf-projects-completion-date-is-na.md) | quarta-feira, 4 de junho de 2024 |
+| [Atualizações: o usuário marcado não pode ver quem os marcou](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md) | quarta-feira, 4 de junho de 2024 |
 | [Projeto: não é possível converter o problema em projeto se o documento estiver anexado](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | quinta-feira, 29 de maio de 2024 |
 | [Usuários: usuários ausentes ao fazer atribuições em massa](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | quarta-feira, 28 de maio de 2024 |
-| [Configuração: o banner “Conectado como” não aparece ao fazer logon como outro usuário](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | sábado, 24 de maio de 2024 |
 | [Grupos: não é possível adicionar um subgrupo](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | sexta-feira, 23 de maio de 2024 |
 | [Documentos: tela de erro ao baixar ou visualizar ativo](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | terça-feira, 20 de maio de 2024 |
 | [Usuários: não é possível modificar o nível de acesso do usuário](known-issues-workfront/wf-users-cannot-modify-access-level.md) | terça-feira, 20 de maio de 2024 |

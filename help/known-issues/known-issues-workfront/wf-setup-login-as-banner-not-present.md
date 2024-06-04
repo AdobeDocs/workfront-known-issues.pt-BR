@@ -4,14 +4,18 @@ description: Quando um(a) admin faz logon utilizando outro usuário, o banner �
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: fc90bd88-933d-480b-a8c0-b653e6070625
-source-git-commit: 0f3f85c81a9ab2a185977757031e44040ea074d3
-workflow-type: ht
-source-wordcount: '112'
-ht-degree: 100%
+source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
+workflow-type: tm+mt
+source-wordcount: '118'
+ht-degree: 88%
 
 ---
 
-# Configuração: o banner “Conectado como” não aparece ao fazer logon com outro usuário.
+# Configuração: o banner &quot;Logado como&quot; não é exibido quando conectado como outro usuário
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em sexta-feira, 30 de maio de 2024.
 
 Quando um(a) admin faz logon utilizando outro usuário, o banner “Conectado como” não aparece. A pessoa não é lembrada de que está conectada com outro usuário e não consegue sair dessa conta de usuário.
 

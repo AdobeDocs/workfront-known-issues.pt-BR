@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: d23c66b7f7002647dc4ebb2adc02a6a75130515b
+source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
 workflow-type: tm+mt
-source-wordcount: '1966'
-ht-degree: 98%
+source-wordcount: '1987'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Relatórios: os links públicos para um relatório não estão funcionando](known-issues-workfront/wf-reports-public-link-not-working.md)
+      + [[!UICONTROL Planejador de recursos]: não é possível compartilhar o filtro](known-issues-workfront/wf-resource-planner-cannot-share-filter.md)
+      + [A Data de Término Efetivo é exibida como N/D](known-issues-workfront/wf-projects-completion-date-is-na.md)
       + [Tarefas: a função de trabalho não desaparece da lista quando o usuário é atribuído à tarefa](known-issues-workfront/wf-tasks-assigning-user-with-role.md)
       + [Usuários: usuários ausentes ao fazer atribuições em massa](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
       + [Formulários personalizados: erro ao editar campos de texto descritivo](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)
