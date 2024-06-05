@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
+source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
 workflow-type: tm+mt
-source-wordcount: '1987'
-ht-degree: 97%
+source-wordcount: '2008'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Documentos: erro ao usar um link público para um documento](known-issues-workfront/wf-documents-public-link-not-working.md)
+      + [Provas: não é possível fechar o visualizador de prova](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
+      + [Projetos: o menu Compartilhamento não carrega](known-issues-workfront/wf-projects-cannot-share-task-issue.md)
       + [Relatórios: os links públicos para um relatório não estão funcionando](known-issues-workfront/wf-reports-public-link-not-working.md)
       + [[!UICONTROL Planejador de recursos]: não é possível compartilhar o filtro](known-issues-workfront/wf-resource-planner-cannot-share-filter.md)
       + [A Data de Término Efetivo é exibida como N/D](known-issues-workfront/wf-projects-completion-date-is-na.md)

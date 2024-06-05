@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
+source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
 workflow-type: tm+mt
-source-wordcount: '865'
-ht-degree: 93%
+source-wordcount: '880'
+ht-degree: 91%
 
 ---
 
@@ -41,9 +41,11 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
+| [Documentos: erro ao usar um link público para um documento](known-issues-workfront/wf-documents-public-link-not-working.md) | quinta-feira, 5 de junho de 2024 |
+| [Provas: não é possível fechar o visualizador de prova](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | quinta-feira, 5 de junho de 2024 |
+| [Projetos: o menu Compartilhamento não carrega](known-issues-workfront/wf-projects-cannot-share-task-issue.md) | quinta-feira, 5 de junho de 2024 |
 | [[!UICONTROL Planejador de recursos]: não é possível compartilhar o filtro](known-issues-workfront/wf-resource-planner-cannot-share-filter.md) | quarta-feira, 4 de junho de 2024 |
 | [A Data de Término Efetivo é exibida como N/D](known-issues-workfront/wf-projects-completion-date-is-na.md) | quarta-feira, 4 de junho de 2024 |
-| [Atualizações: o usuário marcado não pode ver quem os marcou](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md) | quarta-feira, 4 de junho de 2024 |
 | [Projeto: não é possível converter o problema em projeto se o documento estiver anexado](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | quinta-feira, 29 de maio de 2024 |
 | [Usuários: usuários ausentes ao fazer atribuições em massa](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | quarta-feira, 28 de maio de 2024 |
 | [Grupos: não é possível adicionar um subgrupo](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | sexta-feira, 23 de maio de 2024 |

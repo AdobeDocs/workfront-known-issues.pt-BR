@@ -3,9 +3,9 @@ title: '“Atualizações: pessoas marcadas não conseguem ver quem as marcou”
 description: “Quando alguém recebe uma marcação em uma atualização, a pessoa não consegue ver quem a marcou. Isso ocorre quando a configuração As pessoas em outras empresas devem ver somente os usuários de... está definida como A empresa deles.”
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
+source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '105'
 ht-degree: 100%
 
 ---
@@ -13,13 +13,9 @@ ht-degree: 100%
 
 # Atualizações: pessoas marcadas não conseguem ver quem as marcou
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on May 23, 2024.
-
--->
+>Esse problema foi corrigido em quinta-feira, 5 de junho de 2024.
 
 Quando alguém recebe uma marcação em uma atualização, a pessoa não consegue ver quem a marcou. Isso ocorre quando a configuração “As pessoas em outras empresas devem ver somente os usuários de...” está definida como “A empresa deles”.
 

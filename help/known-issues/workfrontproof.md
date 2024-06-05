@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
-workflow-type: ht
-source-wordcount: '385'
-ht-degree: 100%
+source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
+workflow-type: tm+mt
+source-wordcount: '402'
+ht-degree: 96%
 
 ---
 
@@ -35,6 +35,8 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documentos: erro ao usar um link público para um documento](known-issues-workfront/wf-documents-public-link-not-working.md) | quinta-feira, 5 de junho de 2024 |
+| [Provas: não é possível fechar o visualizador de prova](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | quinta-feira, 5 de junho de 2024 |
 | [Documentos: tela de erro ao baixar ou visualizar ativo](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | terça-feira, 20 de maio de 2024 |
 | [Página inicial: o dispositivo de aprovações não é preciso](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | quinta-feira, 8 de maio de 2024 |
 | [Provas: falha ao gerar provas comprimidas](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | sábado, 12 de abril de 2024 |
