@@ -1,17 +1,21 @@
 ---
 title: "Projetos: o menu Compartilhamento não carrega"
-description: "Quando um usuário tenta compartilhar uma tarefa ou problema, o menu Conceder acesso X a é carregado continuamente e o usuário não pode compartilhar a tarefa ou problema."
+description: Quando um usuário tenta compartilhar uma tarefa ou problema, o menu Conceder acesso X a é carregado continuamente e o usuário não pode compartilhar a tarefa ou problema.
 hidefromtoc: true
 feature: Projects, Tasks, Work Management
-source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
+exl-id: 3534300f-9c9b-4060-a83f-ae999c366187
+source-git-commit: 3566c011140842e2c901e70bf6babee2d7665ac2
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 5%
+source-wordcount: '76'
+ht-degree: 13%
 
 ---
 
-
 # Projetos: o menu Compartilhamento não carrega
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em sexta-feira, 6 de junho de 2024.
 
 Quando um usuário tenta compartilhar uma tarefa ou problema, o menu &quot;Conceder acesso X a&quot; é carregado continuamente e o usuário não pode compartilhar a tarefa ou problema.
 
