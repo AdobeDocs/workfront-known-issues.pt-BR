@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
 workflow-type: tm+mt
 source-wordcount: '3808'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -38,15 +38,15 @@ Esta atualização contém apenas correções de erros pequenos ou menos importa
 
 Erro ao editar campos de texto descritivo
 
-Quando um usuário tenta editar o texto descritivo em um formulário personalizado, o texto não é salvo e o usuário vê o seguinte erro:
+Quando uma pessoa tenta editar o texto descritivo em um formulário personalizado, o texto não é salvo e o seguinte erro é exibido:
 
-&quot;O valor da chave duplicada viola a restrição exclusiva&quot;
+“Valor de chave duplicada viola restrição exclusiva”
 
-Esse problema foi relatado no construtor de formulários herdado.
+Esse problema foi relatado no construtor de formulários legado.
 
 #### Atualizações
 
-**Copiar e colar uma menção não notifica o usuário mencionado**
+**Copiar e colar uma menção não notifica a pessoa mencionada**
 
 Quando alguém copia um comentário que inclui uma menção no formato @ e o cola na área de atualizações de outro objeto, o usuário mencionado não é notificado sobre o comentário colado.
 
