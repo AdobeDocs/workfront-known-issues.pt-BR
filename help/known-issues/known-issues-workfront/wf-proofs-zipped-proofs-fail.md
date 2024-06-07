@@ -1,19 +1,23 @@
 ---
-title: '“Provas: falha ao gerar provas comprimidas”'
-description: “Quando uma pessoa tenta criar uma prova comprimida e dois ou mais arquivos de prova têm o mesmo nome, a prova não é gerada.”
+title: "Provas: provas compactadas não são geradas"
+description: Quando uma pessoa tenta criar uma prova comprimida e dois ou mais arquivos de prova têm o mesmo nome, a prova não é gerada.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: a7d41227b34544889c2af1704d492a68967fab24
-workflow-type: ht
-source-wordcount: '83'
-ht-degree: 100%
+exl-id: 9ce8530e-b96e-4509-9667-9d5bba238420
+source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
+workflow-type: tm+mt
+source-wordcount: '111'
+ht-degree: 94%
 
 ---
-
 
 # Provas: falha ao gerar provas comprimidas
 
 <!--WF and WFP TOCs-->
+
+>[!NOTE]
+>
+>A equipe de produtos está avaliando a solução desse problema. Quando esse problema for resolvido, ele será comunicado nos Anúncios do produto e não nas Atualizações de manutenção.
 
 Quando uma pessoa tenta criar uma prova comprimida e dois ou mais arquivos de prova têm o mesmo nome, a prova não é gerada.
 

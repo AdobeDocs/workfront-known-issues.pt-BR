@@ -4,18 +4,22 @@ description: Quando um usuário tenta converter uma tarefa ou problema que inclu
 hidefromtoc: true
 feature: Digital Content and Documents, Projects, Tasks, Work Management
 exl-id: 0022db1d-7ad3-4229-96a8-fb3823e89d9f
-source-git-commit: 170d07d1223b1077e904ea848eeb894b120a974a
-workflow-type: ht
-source-wordcount: '152'
-ht-degree: 100%
+source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
+workflow-type: tm+mt
+source-wordcount: '178'
+ht-degree: 94%
 
 ---
 
 # Provas: a prova impede a conversão de tarefa ou problema em projeto
 
+>[!NOTE]
+>
+>A equipe de produtos está avaliando a solução desse problema. Quando esse problema for resolvido, ele será comunicado nos Anúncios do produto e não nas Atualizações de manutenção.
+
 Quando um usuário tenta converter uma tarefa ou problema que inclui uma prova gerada pela Web em um projeto, o projeto não é criado e o usuário vê a seguinte mensagem:
 
-“[!UICONTROL Ocorreu um problema ao copiar o arquivo] \xxxxxstrong>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\u003C\/strong>. [!UICONTROL Remova o arquivo ou entre em contato com o suporte e tente novamente.]”
+&quot;[!UICONTROL Ocorreu um problema ao copiar o arquivo] \xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\u003C\. [!UICONTROL Remova o arquivo ou entre em contato com o suporte e tente novamente.]”
 
 **Soluções alternativa** s
 
