@@ -4,9 +4,9 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8c6ab11bcafbfd09c204e239b831095871a0e9b3
+source-git-commit: d7fcf78cf775977ff1a058b88e9b8bbbcc079a06
 workflow-type: tm+mt
-source-wordcount: '806'
+source-wordcount: '795'
 ht-degree: 95%
 
 ---
@@ -76,7 +76,6 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 | [Provas: as provas não são exibidas nos relatórios como aprovadas](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | 3 de agosto de 2023 |
 | [[!UICONTROL Configuração]: não é possível exportar logs de auditoria](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md) | 20 de julho de 2023 |
 | [Provas: as provas são criadas lentamente no ambiente Visualização](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 8 de junho de 2023 |
-| [Formulários personalizados: erro “[!UICONTROL Ops!]” ao configurar um campo calculado](known-issues-workfront/inactive/wf-custom-forms-error-with-calculated-field.md) | 5 de maio de 2023 |
 | [Documentos: as opções das [!UICONTROL Atividades de prova] levam à página de logon](known-issues-workfront/inactive/wf-documents-taken-to-login-screen.md) | 21 de abril de 2023 |
 | [Filtros: não é possível compartilhar um filtro em um relatório em um painel](known-issues-workfront/inactive/wf-filters-cannot-share-from-report-on-dashboard.md) | 11 de abril de 2023 |
 | [Provas: a ferramenta de medição não aceita separadores decimais](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) | 27 de março de 2023 |
