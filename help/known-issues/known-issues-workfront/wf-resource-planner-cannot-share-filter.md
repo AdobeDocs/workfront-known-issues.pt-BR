@@ -1,17 +1,21 @@
 ---
 title: "Planejador de recursos: não é possível compartilhar o filtro"
-description: "Quando um usuário tenta compartilhar um filtro na variável [!UICONTROL Planejador de recursos], eles não poderão compartilhar o filtro e verão uma mensagem de erro."
+description: Quando um usuário tenta compartilhar um filtro na variável [!UICONTROL Planejador de recursos], eles não poderão compartilhar o filtro e verão uma mensagem de erro.
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
+exl-id: 0f35655e-96b7-4279-b536-63106276efc3
+source-git-commit: 8c6ab11bcafbfd09c204e239b831095871a0e9b3
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 17%
+source-wordcount: '86'
+ht-degree: 23%
 
 ---
 
-
 # [!UICONTROL Planejador de recursos]: não é possível compartilhar o filtro
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em terça-feira, 10 de junho de 2024.
 
 Quando um usuário tenta compartilhar um filtro na variável [!UICONTROL Planejador de recursos], eles não poderão compartilhar o filtro e verão a seguinte mensagem:
 
