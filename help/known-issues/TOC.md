@@ -5,7 +5,7 @@ role: User
 source-git-commit: 8c6ab11bcafbfd09c204e239b831095871a0e9b3
 workflow-type: tm+mt
 source-wordcount: '2018'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 97%
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
       + [Navegação: o botão Voltar não retorna à página anterior](known-issues-workfront/wf-navigation-back-button-not-work.md)
       + [Documentos: erro ao usar um link público para um documento](known-issues-workfront/wf-documents-public-link-not-working.md)
-      + [Provas: não é possível fechar o visualizador de prova](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
+      + [Provas: não é possível fechar o visualizador de provas](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
       + [Projetos: o menu Compartilhamento não carrega](known-issues-workfront/wf-projects-cannot-share-task-issue.md)
       + [Relatórios: os links públicos para um relatório não estão funcionando](known-issues-workfront/wf-reports-public-link-not-working.md)
       + [[!UICONTROL Planejador de recursos]: não é possível compartilhar o filtro](known-issues-workfront/wf-resource-planner-cannot-share-filter.md)
-      + [A Data de Término Efetivo é exibida como N/D](known-issues-workfront/wf-projects-completion-date-is-na.md)
+      + [A data de conclusão efetiva é exibida como N/A](known-issues-workfront/wf-projects-completion-date-is-na.md)
       + [Tarefas: a função de trabalho não desaparece da lista quando o usuário é atribuído à tarefa](known-issues-workfront/wf-tasks-assigning-user-with-role.md)
       + [Usuários: usuários ausentes ao fazer atribuições em massa](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
       + [Formulários personalizados: erro ao editar campos de texto descritivo](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)

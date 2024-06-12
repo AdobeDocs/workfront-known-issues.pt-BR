@@ -1,19 +1,19 @@
 ---
-title: "Provas: não é possível fechar o visualizador de prova"
-description: Quando um usuário visualiza uma prova no visualizador de provas e tenta fechar a prova clicando no X no canto superior direito, a prova não é fechada. Uma solução alternativa está disponível.
+title: '“Provas: não é possível fechar o visualizador de provas”'
+description: Quando alguém visualiza uma prova no visualizador de provas e tenta fechá-la clicando em X no canto superior direito, a prova não é fechada. Uma solução alternativa está disponível.
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: b35d21a3-6d8b-48af-87fc-e0f63cf0194c
 source-git-commit: db13d8e9f23ef3edc18550c1b502f82212af2282
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 11%
+ht-degree: 89%
 
 ---
 
-# Provas: não é possível fechar o visualizador de prova
+# Provas: não é possível fechar o visualizador de provas
 
-Quando um usuário visualiza uma prova no visualizador de provas e tenta fechar a prova clicando no X no canto superior direito, a prova não é fechada.
+Quando alguém visualiza uma prova no visualizador de provas e tenta fechá-la clicando em X no canto superior direito, a prova não é fechada.
 
 **Solução alternativa**
 

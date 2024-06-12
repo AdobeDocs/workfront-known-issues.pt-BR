@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
 workflow-type: tm+mt
 source-wordcount: '402'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
 | [Documentos: erro ao usar um link público para um documento](known-issues-workfront/wf-documents-public-link-not-working.md) | quinta-feira, 5 de junho de 2024 |
-| [Provas: não é possível fechar o visualizador de prova](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | quinta-feira, 5 de junho de 2024 |
+| [Provas: não é possível fechar o visualizador de provas](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | quinta-feira, 5 de junho de 2024 |
 | [Documentos: tela de erro ao baixar ou visualizar ativo](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | terça-feira, 20 de maio de 2024 |
 | [Página inicial: o dispositivo de aprovações não é preciso](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | quinta-feira, 8 de maio de 2024 |
 | [Projeto: não é possível converter um problema em projeto se uma prova da Web estiver anexada](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | sábado, 22 de março de 2024 |
