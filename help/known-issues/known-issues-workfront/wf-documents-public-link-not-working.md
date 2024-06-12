@@ -1,19 +1,19 @@
 ---
-title: "Documentos: erro ao usar um link público para um documento"
-description: "Quando um usuário clica em um link público para ir para um documento no Workfront, ele pode ver um erro."
+title: '“Documentos: erro ao usar um link público para um documento”'
+description: Quando alguém clica em um link público que leva a um documento do Workfront, ocorre um erro.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
-workflow-type: tm+mt
+exl-id: c5ef7b1b-7652-4a41-980d-210b7b48a586
+source-git-commit: 492e3e74ffb96d976f160d2d2c3656a270a77ae2
+workflow-type: ht
 source-wordcount: '85'
-ht-degree: 25%
+ht-degree: 100%
 
 ---
 
-
 # Documentos: erro ao usar um link público para um documento
 
-Quando um usuário clica em um link público para ir para um documento no Workfront, ele pode ver um dos seguintes erros:
+Quando alguém clica em um link público que leva a um documento do Workfront, ocorre um dos seguintes erros:
 
 * Erro 500
 * “[!UICONTROL Ops! Algo deu errado. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.]”
