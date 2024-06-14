@@ -4,9 +4,9 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 64b4631aa965e303c559fc189cd1fb812a4c027e
+source-git-commit: adfa446a98afa884e49823fbfbd21a83d6dddcc3
 workflow-type: tm+mt
-source-wordcount: '794'
+source-wordcount: '795'
 ht-degree: 97%
 
 ---
@@ -25,6 +25,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Planejamento de recursos: [!UICONTROL Mais] o botão não está visível](known-issues-workfront/wf-resource-management-more-button-not-visible.md) | sábado, 14 de junho de 2024 |
 | [Navegação: o botão Voltar não retorna à página anterior](known-issues-workfront/wf-navigation-back-button-not-work.md) | quarta-feira, 11 de junho de 2024 |
 | [Configuração: o banner “Conectado como” não aparece ao fazer logon como outro usuário](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | quarta-feira, 7 de maio de 2024 |
 
@@ -36,7 +37,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
-| [Status: não é possível reutilizar o status excluído anteriormente](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md) | sexta-feira, 13 de junho de 2024 |
 | [Programas: quando o acesso do usuário ao programa é atualizado, todo o acesso a ele é perdido](known-issues-workfront/wf-programs-permissions-not-inherited.md) | sábado, 7 de junho de 2024 |
 | [Tarefas: a função de trabalho não desaparece da lista quando o usuário é atribuído à tarefa](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | sábado, 7 de junho de 2024 |
 | [Documentos: erro ao usar um link público para um documento](known-issues-workfront/wf-documents-public-link-not-working.md) | quinta-feira, 5 de junho de 2024 |
