@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 41daceaf1b4300b4d71a459e3203d5a387ab1c28
 workflow-type: tm+mt
 source-wordcount: '3859'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -28,19 +28,19 @@ Para obter atualizações de manutenção anteriores a 2024, consulte [Atualiza�
 
 #### Grupos
 
-**Não é possível adicionar um subgrupo**
+**Não é possível adicionar subgrupo**
 
 Quando alguém tenta adicionar um subgrupo já existente a um grupo, o botão Salvar não funciona e o subgrupo não é adicionado.
 
 +++
 
-+++ **Atualização de manutenção em sexta-feira, 6 de junho de 2024**
++++ **Atualização de manutenção em 6 de junho de 2024**
 
 ### Atualização de manutenção em 6 de junho de 2024
 
 #### Formulários personalizados
 
-**Limitação em campos nativos no designer do formulário**
+**Limitação em campos nativos no designer de formulários**
 
 Agora há suporte para vários campos nativos em formulários personalizados criados no designer de formulários. Anteriormente, o limite era de um campo nativo por formulário.
 
@@ -48,9 +48,9 @@ Agora há suporte para vários campos nativos em formulários personalizados cri
 
 ## Atualizações em maio de 2024
 
-+++ **Atualização de manutenção em sexta-feira, 30 de maio de 2024**
++++ **Atualização de manutenção em 30 de maio de 2024**
 
-### Atualização de manutenção em sexta-feira, 30 de maio de 2024
+### Atualização de manutenção em 30 de maio de 2024
 
 #### Formulários personalizados
 
@@ -70,9 +70,9 @@ Quando alguém copia um comentário que inclui uma menção no formato @ e o col
 
 +++
 
-+++ **Atualização de manutenção em sexta-feira, 23 de maio de 2024**
++++ **Atualização de manutenção em 23 de maio de 2024**
 
-### Atualização de manutenção em sexta-feira, 23 de maio de 2024
+### Atualização de manutenção em 23 de maio de 2024
 
 #### Relatórios
 
@@ -96,9 +96,9 @@ Ao tentar marcar alguém usando @ na área de atualizações de um painel Resumo
 
 +++
 
-+++**Atualização de manutenção em sexta-feira, 16 de maio de 2024**
++++**Atualização de manutenção em 16 de maio de 2024**
 
-### Atualização de manutenção em sexta-feira, 16 de maio de 2024
+### Atualização de manutenção em 16 de maio de 2024
 
 #### Configuração
 
@@ -114,15 +114,15 @@ Quando uma pessoa tenta excluir usuários, eles não são excluídos. Esse probl
 
 +++
 
-+++**Atualização de manutenção em sexta-feira, 9 de maio de 2024**
++++**Atualização de manutenção em 9 de maio de 2024**
 
-### Atualização de manutenção em sexta-feira, 9 de maio de 2024
+### Atualização de manutenção em 9 de maio de 2024
 
 Esta atualização contém apenas correções de erros pequenos ou menos importantes. O suporte do [!DNL Workfront] enviará uma notificação quando um problema enviado por você for corrigido.
 
 +++
 
-+++**Atualização de manutenção em sexta-feira, 2 de maio de 2024**
++++**Atualização de manutenção em 2 de maio de 2024**
 
 ### Atualização de manutenção em 2 de maio de 2024
 
@@ -136,9 +136,9 @@ Quando um usuário tenta editar horas em uma tarefa ou problema, as alterações
 
 ## Atualizações em abril de 2024
 
-+++**Atualização de manutenção em sexta-feira, 25 de abril de 2024**
++++**Atualização de manutenção em 25 de abril de 2024**
 
-### Atualização de manutenção em sexta-feira, 25 de abril de 2024
+### Atualização de manutenção em 25 de abril de 2024
 
 #### Atualizações
 
@@ -156,9 +156,9 @@ Esse problema foi relatado na nova experiência de comentários.
 
 +++
 
-+++**Atualização de manutenção em sexta-feira, 18 de abril de 2024**
++++**Atualização de manutenção em 18 de abril de 2024**
 
-### Atualização de manutenção em sexta-feira, 18 de abril de 2024
+### Atualização de manutenção em 18 de abril de 2024
 
 #### Ágil
 
@@ -190,9 +190,9 @@ Quando um problema tem uma prova da Web anexada (uma prova de URL usando um link
 
 +++
 
-+++**Atualização de manutenção em sexta-feira, 11 de abril de 2024**
++++**Atualização de manutenção em 11 de abril de 2024**
 
-### Atualização de manutenção em sexta-feira, 11 de abril de 2024
+### Atualização de manutenção em 11 de abril de 2024
 
 #### Pesquisar
 
@@ -216,7 +216,7 @@ Quando um usuário tenta responder a uma mensagem na nova experiência de coment
 
 +++
 
-+++**Atualização de manutenção em sexta-feira, 4 de abril de 2024**
++++**Atualização de manutenção em 4 de abril de 2024**
 
 ### Atualização de manutenção em 4 de abril de 2024
 
@@ -242,7 +242,7 @@ Quando um usuário tenta responder a uma mensagem na nova experiência de coment
 
 +++
 
-+++**Atualização de manutenção em sexta-feira, 4 de abril de 2024**
++++**Atualização de manutenção em 4 de abril de 2024**
 
 ### Atualização de manutenção em 4 de abril de 2024
 
@@ -279,9 +279,9 @@ A experiência de comentários herdada funciona conforme esperado.
 
 ## Atualizações em março de 2024
 
-+++**Atualização de manutenção em sexta-feira, 28 de março de 2024**
++++**Atualização de manutenção em 28 de março de 2024**
 
-### Atualização de manutenção em sexta-feira, 28 de março de 2024
+### Atualização de manutenção em 28 de março de 2024
 
 #### Integrações
 
@@ -332,7 +332,7 @@ Esse problema foi relatado na experiência de comentários herdada.
 
 +++
 
-+++**Atualização de manutenção do Workfront Fusion em sexta-feira, 28 de março de 2024**
++++**Atualização de manutenção do Workfront Fusion em 28 de março de 2024**
 
 ### Atualização de manutenção do Workfront Fusion em 28 de março de 2024
 
@@ -344,9 +344,9 @@ Isso pode ocorrer se a resposta for extremamente longa. Os dados são retornados
 
 +++
 
-+++**Atualização de manutenção em sexta-feira, 21 de março de 2024**
++++**Atualização de manutenção em 21 de março de 2024**
 
-### Atualização de manutenção em sexta-feira, 21 de março de 2024
+### Atualização de manutenção em 21 de março de 2024
 
 #### Atualizações
 
@@ -364,9 +364,9 @@ Essa correção se aplica somente à nova experiência de comentários.
 
 +++
 
-+++**Atualização de manutenção em sexta-feira, 14 de março de 2024**
++++**Atualização de manutenção em 14 de março de 2024**
 
-### Atualização de manutenção em sexta-feira, 14 de março de 2024
+### Atualização de manutenção em 14 de março de 2024
 
 #### Provas
 
@@ -384,7 +384,7 @@ Quando um usuário cria outro usuário, somente o nível de acesso do primeiro u
 
 +++
 
-+++**Atualização de manutenção em sexta-feira, 7 de março de 2024**
++++**Atualização de manutenção em 7 de março de 2024**
 
 ### Atualização de manutenção em 7 de março de 2024
 
@@ -423,9 +423,9 @@ Os cenários que usam o módulo Workfront Proof > Monitorar prova podem ser desa
 
 ## Atualizações em fevereiro de 2024
 
-+++**Atualização de manutenção em sexta-feira, 29 de fevereiro de 2024**
++++**Atualização de manutenção em 29 de fevereiro de 2024**
 
-### Atualização de manutenção em sexta-feira, 29 de fevereiro de 2024
+### Atualização de manutenção em 29 de fevereiro de 2024
 
 #### Atualizações
 
@@ -437,9 +437,9 @@ Isso ocorre porque a pessoa não tem permissão para ver usuários de outras emp
 
 +++
 
-+++**Atualização de manutenção em sexta-feira, 22 de fevereiro de 2024**
++++**Atualização de manutenção em 22 de fevereiro de 2024**
 
-### Atualização de manutenção em sexta-feira, 22 de fevereiro de 2024
+### Atualização de manutenção em 22 de fevereiro de 2024
 
 #### Início
 
@@ -469,9 +469,9 @@ O Balanceador de carga de trabalho e o calendário de folga pessoal agora mostra
 
 +++
 
-+++**Atualização de manutenção em sexta-feira, 15 de fevereiro de 2024**
++++**Atualização de manutenção em 15 de fevereiro de 2024**
 
-### Atualização de manutenção em sexta-feira, 15 de fevereiro de 2024
+### Atualização de manutenção em 15 de fevereiro de 2024
 
 #### Problemas
 
@@ -493,7 +493,7 @@ Depois que a administração do [!DNL Workfront] desabilita a opção para adici
 
 +++
 
-+++**Atualização de manutenção em sexta-feira, 8 de fevereiro de 2024**
++++**Atualização de manutenção em 8 de fevereiro de 2024**
 
 ### Atualização de manutenção em 8 de fevereiro de 2024
 
@@ -523,7 +523,7 @@ Isso ocorre porque as Funções de trabalho estão criando automaticamente taxas
 
 +++
 
-+++**Atualização de manutenção em sexta-feira, 1 de fevereiro de 2024**
++++**Atualização de manutenção em 1 de fevereiro de 2024**
 
 ### Atualização de manutenção em 1 de fevereiro de 2024
 
@@ -545,7 +545,7 @@ Quando alguém tenta copiar um modelo novo ou já existente, ele não é copiado
 
 ## Atualizações em janeiro de 2024
 
-+++**Atualização de manutenção (hot fix) em quarta-feira, 30 de janeiro de 2024**
++++**Atualização de manutenção (hot fix) em 30 de janeiro de 2024**
 
 ### Atualização de manutenção (Hot Fix) em 30 de janeiro de 2024
 
@@ -559,9 +559,9 @@ Agora, quando um campo personalizado de pesquisa externa é usado em uma lista o
 
 +++
 
-+++**Atualização de manutenção em sexta-feira, 25 de janeiro de 2024**
++++**Atualização de manutenção em 25 de janeiro de 2024**
 
-### Atualização de manutenção em sexta-feira, 25 de janeiro de 2024
+### Atualização de manutenção em 25 de janeiro de 2024
 
 #### Quadros
 
@@ -590,9 +590,9 @@ O usuário recebe uma notificação por email sobre a tag, conforme esperado.
 
 +++
 
-+++**Atualização de manutenção em sexta-feira, 18 de janeiro de 2024**
++++**Atualização de manutenção em 18 de janeiro de 2024**
 
-### Atualização de manutenção em sexta-feira, 18 de janeiro de 2024
+### Atualização de manutenção em 18 de janeiro de 2024
 
 #### Quadros
 
@@ -637,7 +637,7 @@ Quando uma pessoa tenta exibir comentários em um cartão que não está conecta
 
 Isso pode ocorrer mesmo quando a pessoa podia ver comentários no cartão anteriormente.
 
-#### Formulários personalizados no meu grupo
+#### Formulários personalizados
 
 **Não é possível adicionar ou remover em massa formulários personalizados em tarefas de modelo**
 
@@ -692,9 +692,9 @@ Um comentário feito na experiência de comentários herdada pode não estar vis
 
 +++
 
-+++**Atualização de manutenção em sexta-feira, 11 de janeiro de 2024**
++++**Atualização de manutenção em 11 de janeiro de 2024**
 
-### Atualização de manutenção em sexta-feira, 11 de janeiro de 2024
+### Atualização de manutenção em 11 de janeiro de 2024
 
 #### Quadros
 
