@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: b35d21a3-6d8b-48af-87fc-e0f63cf0194c
 source-git-commit: db13d8e9f23ef3edc18550c1b502f82212af2282
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -19,8 +19,8 @@ Quando alguém visualiza uma prova no visualizador de provas e tenta fechá-la c
 
 Siga um destes procedimentos:
 
-* Clique no nome do documento no email para ir para o documento e abra a prova dali. Isso pode permitir que o X funcione conforme esperado.
+* Clique no nome do documento no email para ir para o documento e abra a prova dali. Isso pode permitir que o X funcione conforme o esperado.
 * Tente fechar a prova novamente.
 * Feche a prova fechando a guia do navegador.
 
-_Relatado pela primeira vez em sábado, 31 de maio de 2024._
+_Relatado pela primeira vez em 31 de maio de 2024._

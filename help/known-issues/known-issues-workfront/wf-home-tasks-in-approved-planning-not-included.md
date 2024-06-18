@@ -1,13 +1,13 @@
 ---
-title: "Página inicial: as tarefas em projetos com status Aprovado ou Planejando não estão incluídas em Minhas tarefas ou na Lista de trabalho da página inicial"
-description: Tarefas de projetos com o status Aprovado ou Planejamento não são exibidas na Página inicial. Uma solução alternativa está disponível.
+title: '“Página inicial: as tarefas em projetos com status Aprovado ou Em planejamento não são incluídas em Minhas tarefas ou na Lista de trabalho da página inicial”'
+description: As tarefas de projetos com o status Aprovado ou Em planejamento não são exibidas na Página inicial. Uma solução alternativa está disponível.
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 5994508b-ee9f-40a9-bca3-e17d7a7708b5
 source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '195'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
