@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 41daceaf1b4300b4d71a459e3203d5a387ab1c28
+source-git-commit: 54183096bca61f6bf6e58062555b9e07282137f1
 workflow-type: tm+mt
-source-wordcount: '3859'
-ht-degree: 100%
+source-wordcount: '3963'
+ht-degree: 99%
 
 ---
 
@@ -21,6 +21,27 @@ As seguintes atualizações de manutenção foram efetuadas em 2024.
 Para obter atualizações de manutenção anteriores a 2024, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em junho de 2024
+
++++**(Planejado) Atualização de manutenção em sexta-feira, 20 de junho de 2024**
+
+### (Planejado) Atualização de manutenção em sexta-feira, 20 de junho de 2024
+
+#### Navegação
+
+**O botão Voltar não retorna à página anterior**
+
+Quando se clica no botão Voltar do navegador no Workfront, uma das situações a seguir pode ocorrer.
+
+* O nome da guia do navegador é alterado, mas a página não é alterada. Clicar no botão Voltar novamente pode resolver o problema.
+* A pessoa é direcionada para sua página de destino no navegador.
+
+#### Provas
+
+**Não é possível fechar o visualizador de prova**
+
+Quando alguém visualiza uma prova no visualizador de provas e tenta fechá-la clicando em X no canto superior direito, a prova não é fechada.
+
++++
 
 +++**Atualização de manutenção em sexta-feira, 13 de junho de 2024**
 

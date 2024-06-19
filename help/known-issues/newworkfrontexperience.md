@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: aa221eafef81c6bdd29f8286f44e924323744625
+source-git-commit: 865816354c9891a4ad15985e8679b59dcce8ad24
 workflow-type: tm+mt
-source-wordcount: '823'
-ht-degree: 96%
+source-wordcount: '846'
+ht-degree: 94%
 
 ---
 
@@ -25,6 +25,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Relatórios: &quot;Nenhum dado a ser exibido&quot; quando o nome do agrupamento tem uma barra invertida ou inclinada](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | quarta-feira, 18 de junho de 2024 |
 | [Integrações: problemas com a integração de Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | sábado, 14 de junho de 2024 |
 | [Relatórios: erro ao visualizar detalhes do relatório agrupados por data personalizada](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | sábado, 14 de junho de 2024 |
 | [Planejamento de recursos: [!UICONTROL Mais] o botão não está visível](known-issues-workfront/wf-resource-management-more-button-not-visible.md) | sábado, 14 de junho de 2024 |
@@ -39,6 +40,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
+| [Atualizações: o link copiado não é colado corretamente](known-issues-workfront/wf-updates-pasted-link-not-complete.md) | quinta-feira, 19 de junho de 2024 |
 | [Documentos: tela de erro ao baixar ou visualizar ativo](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | terça-feira, 17 de junho de 2024 |
 | [Programas: quando o acesso do usuário ao programa é atualizado, todo o acesso a ele é perdido](known-issues-workfront/wf-programs-permissions-not-inherited.md) | 7 de junho de 2024 |
 | [Tarefas: a função de trabalho não desaparece da lista quando o usuário é atribuído à tarefa](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 7 de junho de 2024 |
