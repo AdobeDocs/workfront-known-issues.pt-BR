@@ -4,14 +4,18 @@ description: Quando alguém clica em um link público que leva a um documento do
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: c5ef7b1b-7652-4a41-980d-210b7b48a586
-source-git-commit: 492e3e74ffb96d976f160d2d2c3656a270a77ae2
-workflow-type: ht
-source-wordcount: '85'
+source-git-commit: d34df8cd575d6b17a02bc4ed25fa5ca891c2afe7
+workflow-type: tm+mt
+source-wordcount: '90'
 ht-degree: 100%
 
 ---
 
 # Documentos: erro ao usar um link público para um documento
+
+>[!NOTE]
+>
+>Esse problema foi resolvido.
 
 Quando alguém clica em um link público que leva a um documento do Workfront, ocorre um dos seguintes erros:
 
