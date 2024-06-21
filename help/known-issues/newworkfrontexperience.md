@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 1857044b49332a4c49fcc440d935937dc937c61d
+source-git-commit: 9b8060b70250b75f8777e8815af45ec525c4e860
 workflow-type: tm+mt
-source-wordcount: '819'
-ht-degree: 93%
+source-wordcount: '850'
+ht-degree: 90%
 
 ---
 
@@ -25,7 +25,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Aprovações: muitos redirecionamentos](known-issues-workfront/wf-approvals-redirect-too-many-times.md) | sexta-feira, 20 de junho de 2024 |
+| [Quadros: o quadro não é exibido como usuário ao usar [!UICONTROL Fazer logon como]](known-issues-workfront/wf-boards-log-in-as.md) | sábado, 21 de junho de 2024 |
 | [Relatórios: &quot;Nenhum dado a ser exibido&quot; quando o nome do agrupamento tem uma barra invertida ou inclinada](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | quarta-feira, 18 de junho de 2024 |
 | [Integrações: problemas com a integração de Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | sábado, 14 de junho de 2024 |
 | [Relatórios: erro ao visualizar detalhes do relatório agrupados por data personalizada](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | sábado, 14 de junho de 2024 |
@@ -40,6 +40,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
+| [Relatórios: o relatório não é carregado quando a moeda padrão é USD](known-issues-workfront/wf-reports-default-currency-error.md) | sábado, 21 de junho de 2024 |
 | [Atualizações: o link copiado não é colado corretamente](known-issues-workfront/wf-updates-pasted-link-not-complete.md) | quinta-feira, 19 de junho de 2024 |
 | [Documentos: tela de erro ao baixar ou visualizar ativo](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | terça-feira, 17 de junho de 2024 |
 | [Tarefas: a função de trabalho não desaparece da lista quando o usuário é atribuído à tarefa](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 7 de junho de 2024 |
@@ -58,6 +59,7 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Página inicial: o widget Meus problemas não exibe problemas fechados ou concluídos](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md) | sexta-feira, 20 de junho de 2024 |
 | [Página inicial: não é possível remover o widget Menções](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md) | quinta-feira, 12 de junho de 2024 |
 | [Provas: a prova impede a conversão de tarefa ou problema em projeto](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 7 de junho de 2024 |
 | [Atualizações: os usuários solicitantes não podem adicionar imagens às atualizações](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 7 de junho de 2024 |
