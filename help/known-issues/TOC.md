@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 81681ce1ed977fe43ae323d9d5d1bbe0b1d90d7d
+source-git-commit: 931eafb88b877ec004dc360b9063a253de2bafbc
 workflow-type: tm+mt
-source-wordcount: '1702'
-ht-degree: 93%
+source-wordcount: '1711'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Provas: fechar uma prova abre a página Documentos do produto](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md)
       + [Integrações: não é possível adicionar a nova versão de um documento do [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md)
       + [Provas: clicar no nome da prova abre uma tela em branco](known-issues-workfront/wf-proofs-go-to-blank-screen.md)
       + [Relatórios: o relatório não é carregado quando a moeda padrão é USD](known-issues-workfront/wf-reports-default-currency-error.md)
@@ -25,12 +26,12 @@ ht-degree: 93%
       + [Aprovações: muitos redirecionamentos](known-issues-workfront/wf-approvals-redirect-too-many-times.md)
       + [Atualizações: o link copiado não é colado corretamente](known-issues-workfront/wf-updates-pasted-link-not-complete.md)
       + [Relatórios: &quot;Nenhum dado a ser exibido&quot; quando o nome do agrupamento tem uma barra invertida ou inclinada](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
-      + [Integrações: problemas com a integração de Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md)
-      + [Relatórios: erro ao visualizar detalhes do relatório agrupados por data personalizada](known-issues-workfront/wf-reports-error-with-custom-date-field.md)
+      + [Integrações: problemas com a integração com o Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md)
+      + [Relatórios: erro ao exibir detalhes do relatório agrupado por data personalizada](known-issues-workfront/wf-reports-error-with-custom-date-field.md)
       + [Página inicial: o dispositivo de aprovações não é preciso](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
-      + [Planejamento de recursos: [!UICONTROL Mais] o botão não está visível](known-issues-workfront/wf-resource-management-more-button-not-visible.md)
+      + [Planejamento de recursos: o botão [!UICONTROL Mais] não está visível](known-issues-workfront/wf-resource-management-more-button-not-visible.md)
       + [Status: não é possível reutilizar o status excluído anteriormente](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
-      + [Página inicial: não é possível remover o widget Menções](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
+      + [Página inicial: não é possível remover o dispositivo Menções](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
       + [Navegação: o botão Voltar não retorna à página anterior](known-issues-workfront/wf-navigation-back-button-not-work.md)
       + [Documentos: erro ao usar um link público para um documento](known-issues-workfront/wf-documents-public-link-not-working.md)
       + [Provas: não é possível fechar o visualizador de provas](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
