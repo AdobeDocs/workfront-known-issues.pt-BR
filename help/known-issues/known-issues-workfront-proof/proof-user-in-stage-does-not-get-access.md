@@ -4,8 +4,8 @@ description: Quando uma prova atinge um estágio em um fluxo de trabalho ao qual
 hidefromtoc: true
 exl-id: c3b8cc45-5181-4335-8188-56ca942925f0
 feature: Workfront Proof
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
-workflow-type: ht
+source-git-commit: 1aed6a440155c99f8ce0b0f42c44dd9a3c660af4
+workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 100%
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 # Provas: a prova não é compartilhada com os usuários no Fluxo de trabalho de prova
 
 <!--This issue is on the WF and WFP TOCs-->
-<!--Requested article-->
+<!--Requested article, live for workaround-->
 
 >[!NOTE]
 >
