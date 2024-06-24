@@ -4,16 +4,20 @@ description: Os modelos de layout da experiência clássica do Workfront não es
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 1542291f-4797-477e-83b8-0706ac6801ae
-source-git-commit: 2631a7a9cd6c07feae192cb0e29f168929fc9f3c
-workflow-type: ht
-source-wordcount: '193'
+source-git-commit: 875945978c7bdb4a7128ade826b6fbc31da04ae9
+workflow-type: tm+mt
+source-wordcount: '198'
 ht-degree: 100%
 
 ---
 
 # Modelos de layout: modelos de layout causam inconsistências nos relatórios
 
-<!--Live for workaround-->
+<!--Can delete after 9/24/2024-->
+
+>[!NOTE]
+>
+>Esse problema foi resolvido.
 
 Os modelos de layout da experiência clássica do [!DNL Workfront] não estão mais disponíveis na interface do [!DNL Workfront], mas ainda podem afetar os dados do [!DNL Workfront]. Isso pode causar inconsistências em campos afetados por modelos de layout (como [!UICONTROL “Compartilhado com”]) em relatórios ou painéis.
 

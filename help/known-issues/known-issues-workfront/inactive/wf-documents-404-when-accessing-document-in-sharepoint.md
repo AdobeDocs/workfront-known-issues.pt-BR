@@ -4,10 +4,10 @@ description: Quando um usuário tenta acessar um documento vinculado pelo ShareP
 hidefromtoc: true
 feature: Digital Content and Documents, Workfront Integrations and Apps
 exl-id: b86ec92b-a27f-4ec3-acc2-0f0118014760
-source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
-workflow-type: ht
+source-git-commit: 875945978c7bdb4a7128ade826b6fbc31da04ae9
+workflow-type: tm+mt
 source-wordcount: '108'
-ht-degree: 100%
+ht-degree: 89%
 
 ---
 
@@ -23,6 +23,6 @@ Isso é um problema conhecido do [!DNL SharePoint] que ocorre quando o site tem 
 
 **Solução alternativa**
 
-O [!DNL SharePoint] recomenda gerar um URL curto para usar como link.
+[!DNL SharePoint] A recomenda gerar um URL curto e usá-lo para o link.
 
 _Relatado pela primeira vez em 14 de março de 2023._

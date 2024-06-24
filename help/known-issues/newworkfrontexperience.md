@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 81681ce1ed977fe43ae323d9d5d1bbe0b1d90d7d
+source-git-commit: 875945978c7bdb4a7128ade826b6fbc31da04ae9
 workflow-type: tm+mt
-source-wordcount: '858'
-ht-degree: 88%
+source-wordcount: '849'
+ht-degree: 91%
 
 ---
 
@@ -29,9 +29,9 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | [Provas: clicar no nome da prova abre uma tela em branco](known-issues-workfront/wf-proofs-go-to-blank-screen.md) | sábado, 21 de junho de 2024 |
 | [Quadros: o quadro não é exibido como usuário ao usar [!UICONTROL Fazer logon como]](known-issues-workfront/wf-boards-log-in-as.md) | sábado, 21 de junho de 2024 |
 | [Relatórios: &quot;Nenhum dado a ser exibido&quot; quando o nome do agrupamento tem uma barra invertida ou inclinada](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | quarta-feira, 18 de junho de 2024 |
-| [Integrações: problemas com a integração de Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | sábado, 14 de junho de 2024 |
-| [Relatórios: erro ao visualizar detalhes do relatório agrupados por data personalizada](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | sábado, 14 de junho de 2024 |
-| [Planejamento de recursos: [!UICONTROL Mais] o botão não está visível](known-issues-workfront/wf-resource-management-more-button-not-visible.md) | sábado, 14 de junho de 2024 |
+| [Integrações: problemas com a integração com o Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | sábado, 14 de junho de 2024 |
+| [Relatórios: erro ao exibir detalhes do relatório agrupado por data personalizada](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | sábado, 14 de junho de 2024 |
+| [Planejamento de recursos: o botão [!UICONTROL Mais] não está visível](known-issues-workfront/wf-resource-management-more-button-not-visible.md) | sábado, 14 de junho de 2024 |
 | [Configuração: o banner “Conectado como” não aparece ao fazer logon como outro usuário](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 7 de maio de 2024 |
 
 {style="table-layout:auto"}
@@ -61,7 +61,7 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
 | [Página inicial: o widget Meus problemas não exibe problemas fechados ou concluídos](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md) | sexta-feira, 20 de junho de 2024 |
-| [Página inicial: não é possível remover o widget Menções](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md) | quinta-feira, 12 de junho de 2024 |
+| [Página inicial: não é possível remover o dispositivo Menções](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md) | quinta-feira, 12 de junho de 2024 |
 | [Provas: a prova impede a conversão de tarefa ou problema em projeto](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 7 de junho de 2024 |
 | [Atualizações: os usuários solicitantes não podem adicionar imagens às atualizações](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 7 de junho de 2024 |
 | [Página inicial: as tarefas em projetos com status Aprovado ou Em planejamento não são incluídas em Minhas tarefas ou na Lista de trabalho da página inicial](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 7 de junho de 2024 |
@@ -77,7 +77,6 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 | [[!DNL Workfront Proof]: não é possível expandir o fluxo de trabalho](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 25 de outubro de 2023 |
 | [[!UICONTROL Página inicial]: o dispositivo “[!UICONTROL Menções]” na nova [!UICONTROL página inicial] não está limitado a mensagens em que a pessoa esteja marcada](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md) | 25 de setembro de 2023 |
 | [[!UICONTROL Página inicial]: a visualização de dispositivos na nova [!UICONTROL Página inicial] não exibe o nome correto do objeto](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 7 de setembro de 2023 |
-| [Modelos de layout: modelos de layout causam inconsistências nos relatórios](known-issues-workfront/inactive/wf-layout-templates-classic.md) | 21 de agosto de 2023 |
 | [Provas: as opções de aprovação não aparecem no [!UICONTROL Visualizador de prova]](known-issues-workfront/inactive/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 10 de agosto de 2023 |
 | [Provas: as provas não são exibidas nos relatórios como aprovadas](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | 3 de agosto de 2023 |
 | [[!UICONTROL Configuração]: não é possível exportar logs de auditoria](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md) | 20 de julho de 2023 |
