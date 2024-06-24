@@ -1,20 +1,20 @@
 ---
-title: "Página inicial: não é possível remover o widget Menções"
-description: "Se um usuário na nova Página inicial quiser remover o widget Menções, ele não poderá removê-lo."
+title: '“Página inicial: não é possível remover o dispositivo Menções”'
+description: Não é possível remover o dispositivo Menções da nova página inicial.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 9440e4db426bcf559e0e175ffc27649e041f8407
-workflow-type: tm+mt
+exl-id: 57defe2f-47df-43ce-a9c7-e6f3a3e79ff5
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: ht
 source-wordcount: '84'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
+# Página inicial: não é possível remover o dispositivo Menções
 
-# Página inicial: não é possível remover o widget Menções
+Não é possível remover o dispositivo Menções da nova página inicial.
 
-Se um usuário na nova Página inicial quiser remover o widget Menções, não poderá removê-lo.
-
-O widget Menções é controlado por meio do modelo de Layout, que é gerenciado por um administrador do Workfront. Isso funciona conforme projetado, mas não há nenhuma indicação ao usuário de que ele mesmo não possa remover o widget.
+O dispositivo Menções é controlado por meio do modelo de layout, que é gerenciado por admins do Workfront. Isso funciona conforme esperado, mas não há nenhuma indicação de que o dispositivo não possa ser removido pela própria pessoa.
 
 _Relatado pela primeira vez em quinta-feira, 12 de junho de 2024._
