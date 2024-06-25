@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 1857044b49332a4c49fcc440d935937dc937c61d
+source-git-commit: b48bf247fd2ccdffc996a8f205e3586aea1338c1
 workflow-type: tm+mt
-source-wordcount: '3961'
-ht-degree: 99%
+source-wordcount: '4072'
+ht-degree: 97%
 
 ---
 
@@ -21,6 +21,26 @@ As seguintes atualizações de manutenção foram efetuadas em 2024.
 Para obter atualizações de manutenção anteriores a 2024, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em junho de 2024
+
++++**(Planejado) Atualização de manutenção em sexta-feira, 27 de junho de 2024**
+
+### (Planejado) Atualização de manutenção em sexta-feira, 27 de junho de 2024
+
+#### Relatórios
+
+**O relatório não é carregado quando a moeda padrão é USD**
+
+Quando um usuário tenta visualizar um relatório que tem a moeda padrão como USD, o relatório não carrega.
+
+#### Atualizações
+
+**O link copiado não é colado corretamente**
+
+Se um usuário copiar um link de uma atualização clicando com o botão direito do mouse e selecionando &quot;[!UICONTROL Copiar endereço do link]&quot; e, em seguida, cola o link em uma atualização, o link não é colado corretamente. Somente a primeira parte do link é um link e o restante do URL é ignorado.
+
+Copiar o link usando um método diferente de &quot;[!UICONTROL Copiar endereço do link]&quot; permite que o link seja colado conforme esperado.
+
++++
 
 +++**Atualização de manutenção em sexta-feira, 20 de junho de 2024**
 

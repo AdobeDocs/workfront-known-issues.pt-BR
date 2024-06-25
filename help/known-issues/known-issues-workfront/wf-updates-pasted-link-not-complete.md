@@ -1,15 +1,15 @@
 ---
 title: "Atualizações: o link copiado não é colado corretamente"
-description: "Se um usuário copiar um link de uma atualização clicando com o botão direito do mouse e selecionando Copiar endereço do link, então colar o link em uma atualização, o link não será colado corretamente. Somente a primeira parte do link é um link e o restante do URL é ignorado."
+description: Se um usuário copiar um link de uma atualização clicando com o botão direito do mouse e selecionando Copiar endereço do link e colar o link em uma atualização, o link não será colado corretamente. Somente a primeira parte do link é um link e o restante do URL é ignorado.
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 865816354c9891a4ad15985e8679b59dcce8ad24
+exl-id: 04f96b95-19a3-476b-b2c1-6c6e439d437a
+source-git-commit: b48bf247fd2ccdffc996a8f205e3586aea1338c1
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '140'
 ht-degree: 3%
 
 ---
-
 
 # Atualizações: o link copiado não é colado corretamente
 
