@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 0f4fc146fd36ce883ba9a738559bc8843bd73393
+source-git-commit: 786a543cd74e632b5a0777cfd93f8f8f4655b6f5
 workflow-type: tm+mt
-source-wordcount: '870'
-ht-degree: 89%
+source-wordcount: '851'
+ht-degree: 91%
 
 ---
 
@@ -44,8 +44,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
-| [Relatórios: o relatório não é carregado quando a moeda padrão é USD](known-issues-workfront/wf-reports-default-currency-error.md) | sábado, 21 de junho de 2024 |
-| [Atualizações: o link copiado não é colado corretamente](known-issues-workfront/wf-updates-pasted-link-not-complete.md) | quinta-feira, 19 de junho de 2024 |
 | [Documentos: tela de erro ao baixar ou visualizar ativo](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | terça-feira, 17 de junho de 2024 |
 | [Tarefas: a função de trabalho não desaparece da lista quando o usuário é atribuído à tarefa](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 7 de junho de 2024 |
 | [Projeto: não é possível converter um problema em projeto se um documento estiver em anexo](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 29 de maio de 2024 |

@@ -3,9 +3,9 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 7e617a611bf88f2133ba83746596f6336efa1593
+source-git-commit: 786a543cd74e632b5a0777cfd93f8f8f4655b6f5
 workflow-type: tm+mt
-source-wordcount: '4124'
+source-wordcount: '4070'
 ht-degree: 97%
 
 ---
@@ -22,9 +22,9 @@ Para obter atualizações de manutenção anteriores a 2024, consulte [Atualiza�
 
 ## Atualizações em junho de 2024
 
-+++**(Planejado) Atualização de manutenção em sexta-feira, 27 de junho de 2024**
++++**Atualização de manutenção em sexta-feira, 27 de junho de 2024**
 
-### (Planejado) Atualização de manutenção em sexta-feira, 27 de junho de 2024
+### Atualização de manutenção em sexta-feira, 27 de junho de 2024
 
 #### Relatórios
 
@@ -39,14 +39,6 @@ Quando um usuário tenta visualizar um relatório que tem a moeda padrão como U
 Se um usuário copiar um link de uma atualização clicando com o botão direito do mouse e selecionando &quot;[!UICONTROL Copiar endereço do link]&quot; e, em seguida, cola o link em uma atualização, o link não é colado corretamente. Somente a primeira parte do link é um link e o restante do URL é ignorado.
 
 Copiar o link usando um método diferente de &quot;[!UICONTROL Copiar endereço do link]&quot; permite que o link seja colado conforme esperado.
-
-#### Usuários
-
-**Usuários ausentes ao fazer atribuições em massa**
-
-Quando alguém tenta fazer atribuições em massa e uma função de trabalho é atribuída à tarefa, os usuários com essa função de trabalho não aparecem na lista e o usuário atribuidor não pode selecioná-los.
-
-Esse comportamento também foi relatado no Balanceador de carga de trabalho.
 
 +++
 
