@@ -1,17 +1,21 @@
 ---
 title: "Provas: clicar no nome da prova abre uma tela em branco"
-description: "Quando um usuário no visualizador de provas na Web clica em um nome de prova para abrir a prova, ele é direcionado a uma tela em branco em vez da prova."
+description: Quando um usuário no visualizador de provas na Web clica em um nome de prova para abrir a prova, ele é direcionado a uma tela em branco em vez da prova.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: d34df8cd575d6b17a02bc4ed25fa5ca891c2afe7
+exl-id: ddbb7596-6f9b-4c13-a853-a85367999c76
+source-git-commit: ad46cd2f9bfab7a64684cb4aca03257b2065d56a
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 5%
+source-wordcount: '82'
+ht-degree: 12%
 
 ---
 
-
 # Provas: clicar no nome da prova abre uma tela em branco
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em sexta-feira, 27 de junho de 2024.
 
 Quando um usuário no visualizador de provas na Web clica em um nome de prova para abrir a prova, ele é direcionado a uma tela em branco em vez da prova.
 
