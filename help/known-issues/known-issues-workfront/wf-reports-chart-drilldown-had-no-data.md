@@ -1,18 +1,18 @@
 ---
-title: "Relatórios: nenhum dado a ser exibido quando o nome do agrupamento tiver uma barra invertida ou inclinada"
-description: "Quando um usuário está visualizando um gráfico em um relatório e clica em um agrupamento no gráfico e esse agrupamento tem uma barra invertida ou frontal no nome, os detalhes abertos não exibem os itens no agrupamento e o usuário vê uma mensagem Nenhum dado para exibir."
+title: '“Relatórios: Nenhum dado para exibir, quando o nome do agrupamento tem uma barra ou uma barra invertida”'
+description: Quando alguém visualiza um gráfico em um relatório, clica em um agrupamento no gráfico e esse agrupamento tem uma barra ou uma barra invertida no nome, os detalhes que abrem não exibem os itens no agrupamento e a pessoa vê uma mensagem “Nenhum dado para exibir”.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 08976071e8d1b25a8bc1e3e63b698e9d760d8f91
-workflow-type: tm+mt
+exl-id: 27b1ff30-ad5c-41f4-992b-56c87b939e69
+source-git-commit: e16d44c4b0fa446373bfe2032551498d03aca2c2
+workflow-type: ht
 source-wordcount: '127'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
+# Relatórios: “nenhum dado para exibir” quando o nome do agrupamento tem / ou \
 
-# Relatórios: &quot;Nenhum dado a ser exibido&quot; quando o nome do agrupamento tem / ou \
-
-Quando um usuário visualiza um gráfico em um relatório e clica em um agrupamento no gráfico e esse agrupamento tem um / ou \ no nome, os detalhes abertos não exibem os itens no agrupamento e o usuário vê a mensagem &quot;Nenhum dado para exibir&quot;.
+Quando alguém visualiza um gráfico em um relatório, clica em um agrupamento no gráfico e esse agrupamento tem / ou \ no nome, os detalhes que abrem não exibem os itens no agrupamento e a pessoa vê uma mensagem “Nenhum dado para exibir”.
 
 _Relatado pela primeira vez em terça-feira, 17 de junho de 2024._

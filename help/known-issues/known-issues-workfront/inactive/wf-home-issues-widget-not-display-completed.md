@@ -1,18 +1,18 @@
 ---
-title: "Página inicial: o widget Meus problemas não exibe problemas fechados ou concluídos"
-description: "O widget Meus problemas na página inicial não exibe problemas fechados ou concluídos. Isso pode ocorrer mesmo que o filtro esteja definido para exibir esses problemas."
+title: '“Página inicial: o dispositivo Meus problemas não exibe problemas fechados ou concluídos”'
+description: O dispositivo Meus problemas na Página inicial não exibe problemas fechados ou concluídos. Isso pode ocorrer mesmo que o filtro esteja definido para exibir esses problemas.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 0c35343702267443ecc8cc3c506f941ed479b81e
-workflow-type: tm+mt
+exl-id: 569c45b3-77cf-4715-8426-899fdbeecb3f
+source-git-commit: 2ba6cd47c43c85717a968d48289460181a79aaa2
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
+# Página inicial: o dispositivo Meus problemas não exibe problemas fechados ou concluídos
 
-# Página inicial: o widget Meus problemas não exibe problemas fechados ou concluídos
-
-O widget Meus problemas na página inicial não exibe problemas fechados ou concluídos. Isso pode ocorrer mesmo que o filtro esteja definido para exibir esses problemas.
+O dispositivo Meus problemas na Página inicial não exibe problemas fechados ou concluídos. Isso pode ocorrer mesmo que o filtro esteja definido para exibir esses problemas.
 
 _Relatado pela primeira vez em 31 de maio de 2024._
