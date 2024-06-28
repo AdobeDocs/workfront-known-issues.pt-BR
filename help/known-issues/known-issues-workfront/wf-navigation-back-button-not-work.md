@@ -1,13 +1,13 @@
 ---
-title: "Navegação: o botão Voltar não retorna à página anterior"
-description: Quando um usuário no Workfront clica no botão Voltar do navegador, ele não funciona conforme esperado.
+title: '“Navegação: o botão Voltar não retorna à página anterior”'
+description: Quando alguém no Workfront clica no botão Voltar do navegador, o comando não funciona conforme o esperado.
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: cba19c37-ca23-4eb6-93d5-b4ad7ab00c28
 source-git-commit: ad46cd2f9bfab7a64684cb4aca03257b2065d56a
 workflow-type: tm+mt
 source-wordcount: '91'
-ht-degree: 69%
+ht-degree: 100%
 
 ---
 

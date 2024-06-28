@@ -5,7 +5,7 @@ role: User
 source-git-commit: ad46cd2f9bfab7a64684cb4aca03257b2065d56a
 workflow-type: tm+mt
 source-wordcount: '1744'
-ht-degree: 93%
+ht-degree: 97%
 
 ---
 
@@ -22,14 +22,14 @@ ht-degree: 93%
       + [Tarefas: a pesquisa do nome na atribuição de tarefas não retorna usuários](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md)
       + [Integrações: vinculação da pasta do [!DNL Google Drive] não vincula ativos na pasta](known-issues-workfront/wf-integration-google-folder-not-link-assets.md)
       + [Provas: fechar uma prova abre a página Documentos do produto](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md)
-      + [Integrações: não é possível adicionar a nova versão de um documento do [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md)
+      + [Integrações: não é possível adicionar a nova versão de um documento do  [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md)
       + [Provas: clicar no nome da prova abre uma tela em branco](known-issues-workfront/wf-proofs-go-to-blank-screen.md)
       + [Relatórios: o relatório não é carregado quando a moeda padrão é USD](known-issues-workfront/wf-reports-default-currency-error.md)
-      + [Quadros: o quadro não é exibido como usuário ao usar [!UICONTROL Fazer logon como]](known-issues-workfront/wf-boards-log-in-as.md)
-      + [Página inicial: o widget Meus problemas não exibe problemas fechados ou concluídos](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md)
+      + [Quadros: os quadros exibidos não são os do usuário escolhido ao usar a opção [!UICONTROL Fazer logon como]](known-issues-workfront/wf-boards-log-in-as.md)
+      + [Página inicial: o dispositivo Meus problemas não exibe problemas fechados ou concluídos](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md)
       + [Aprovações: muitos redirecionamentos](known-issues-workfront/wf-approvals-redirect-too-many-times.md)
       + [Atualizações: o link copiado não é colado corretamente](known-issues-workfront/wf-updates-pasted-link-not-complete.md)
-      + [Relatórios: &quot;Nenhum dado a ser exibido&quot; quando o nome do agrupamento tem uma barra invertida ou inclinada](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
+      + [Relatórios: “Nenhum dado para exibir” quando o nome do agrupamento tem uma barra ou uma barra invertida](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
       + [Integrações: problemas com a integração com o Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md)
       + [Relatórios: erro ao exibir detalhes do relatório agrupado por data personalizada](known-issues-workfront/wf-reports-error-with-custom-date-field.md)
       + [Página inicial: o dispositivo de aprovações não é preciso](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)

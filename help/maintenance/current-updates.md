@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 786a543cd74e632b5a0777cfd93f8f8f4655b6f5
 workflow-type: tm+mt
 source-wordcount: '4070'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -30,15 +30,15 @@ Para obter atualizações de manutenção anteriores a 2024, consulte [Atualiza�
 
 **O relatório não é carregado quando a moeda padrão é USD**
 
-Quando um usuário tenta visualizar um relatório que tem a moeda padrão como USD, o relatório não carrega.
+Quando alguém tenta visualizar um relatório que tem a moeda padrão como USD, o relatório não carrega.
 
 #### Atualizações
 
 **O link copiado não é colado corretamente**
 
-Se um usuário copiar um link de uma atualização clicando com o botão direito do mouse e selecionando &quot;[!UICONTROL Copiar endereço do link]&quot; e, em seguida, cola o link em uma atualização, o link não é colado corretamente. Somente a primeira parte do link é um link e o restante do URL é ignorado.
+Se alguém copiar um link de uma atualização ao clicar com o botão direito do mouse e selecionar “[!UICONTROL Copiar endereço do link]” e, logo após, colar o link em uma atualização, o link não será colado corretamente. Somente a primeira parte do link é um link e o restante do URL é ignorado.
 
-Copiar o link usando um método diferente de &quot;[!UICONTROL Copiar endereço do link]&quot; permite que o link seja colado conforme esperado.
+Copiar o link usando um método diferente de “[!UICONTROL Copiar endereço do link]” permite que o link seja colado da maneira correta.
 
 +++
 
@@ -57,7 +57,7 @@ Quando se clica no botão Voltar do navegador no Workfront, uma das situações 
 
 #### Provas
 
-**Não é possível fechar o visualizador de prova**
+**Não é possível fechar o visualizador de provas**
 
 Quando alguém visualiza uma prova no visualizador de provas e tenta fechá-la clicando em X no canto superior direito, a prova não é fechada.
 

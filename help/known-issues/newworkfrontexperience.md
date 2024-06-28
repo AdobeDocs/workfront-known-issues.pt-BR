@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: ad46cd2f9bfab7a64684cb4aca03257b2065d56a
 workflow-type: tm+mt
 source-wordcount: '862'
-ht-degree: 89%
+ht-degree: 95%
 
 ---
 
@@ -31,9 +31,9 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | [Tarefas: a pesquisa do nome na atribuição de tarefas não retorna usuários](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md) | sexta-feira, 27 de junho de 2024 |
 | [Integrações: vinculação da pasta do [!DNL Google Drive] não vincula ativos na pasta](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | quarta-feira, 25 de junho de 2024 |
 | [Provas: fechar uma prova abre a página Documentos do produto](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | terça-feira, 24 de junho de 2024 |
-| [Integrações: não é possível adicionar a nova versão de um documento do [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | terça-feira, 24 de junho de 2024 |
-| [Quadros: o quadro não é exibido como usuário ao usar [!UICONTROL Fazer logon como]](known-issues-workfront/wf-boards-log-in-as.md) | sábado, 21 de junho de 2024 |
-| [Relatórios: &quot;Nenhum dado a ser exibido&quot; quando o nome do agrupamento tem uma barra invertida ou inclinada](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | quarta-feira, 18 de junho de 2024 |
+| [Integrações: não é possível adicionar a nova versão de um documento do  [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | terça-feira, 24 de junho de 2024 |
+| [Quadros: os quadros exibidos não são os do usuário escolhido ao usar a opção [!UICONTROL Fazer logon como]](known-issues-workfront/wf-boards-log-in-as.md) | sábado, 21 de junho de 2024 |
+| [Relatórios: “nenhum dado para exibir” quando o nome do agrupamento tem uma barra ou uma barra invertida](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | quarta-feira, 18 de junho de 2024 |
 | [Integrações: problemas com a integração com o Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | sábado, 14 de junho de 2024 |
 | [Relatórios: erro ao exibir detalhes do relatório agrupado por data personalizada](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | sábado, 14 de junho de 2024 |
 | [Configuração: o banner “Conectado como” não aparece ao fazer logon como outro usuário](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 7 de maio de 2024 |
@@ -61,7 +61,7 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Página inicial: o widget Meus problemas não exibe problemas fechados ou concluídos](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md) | sexta-feira, 20 de junho de 2024 |
+| [Página inicial: o dispositivo Meus problemas não exibe problemas fechados ou concluídos](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md) | sexta-feira, 20 de junho de 2024 |
 | [Página inicial: não é possível remover o dispositivo Menções](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md) | quinta-feira, 12 de junho de 2024 |
 | [Provas: a prova impede a conversão de tarefa ou problema em projeto](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 7 de junho de 2024 |
 | [Atualizações: os usuários solicitantes não podem adicionar imagens às atualizações](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 7 de junho de 2024 |
