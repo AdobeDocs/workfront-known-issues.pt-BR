@@ -3,9 +3,9 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 786a543cd74e632b5a0777cfd93f8f8f4655b6f5
+source-git-commit: 03957afbedfc08809d885f26239f47e09ca3f263
 workflow-type: tm+mt
-source-wordcount: '4070'
+source-wordcount: '4096'
 ht-degree: 99%
 
 ---
@@ -25,6 +25,12 @@ Para obter atualizações de manutenção anteriores a 2024, consulte [Atualiza�
 +++**Atualização de manutenção em sexta-feira, 27 de junho de 2024**
 
 ### Atualização de manutenção em sexta-feira, 27 de junho de 2024
+
+#### Quadros
+
+**Somente o proprietário do painel pode atualizar os filtros de configuração**
+
+Por motivos de segurança, somente o proprietário de uma placa pode alterar os filtros da placa no painel Configurar.
 
 #### Relatórios
 
