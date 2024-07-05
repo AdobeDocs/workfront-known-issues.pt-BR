@@ -1,13 +1,13 @@
 ---
-title: "Folhas de horas: a folha de horas fixada vai para uma página em branco"
-description: Quando um usuário clica em um pino no Workfront que deve ir para a folha de horas, o pino vai para uma página em branco. Uma solução alternativa está disponível.
+title: '“Folhas de horas: folhas de horas fixadas levam a uma página em branco”'
+description: Quando uma pessoa clica em um pino no Workfront que deveria levar à sua folha de horas, em vez disso, o pino leva a uma página em branco. Uma solução alternativa está disponível.
 hidefromtoc: true
 feature: Timesheets
 exl-id: 684ccdfa-f419-451e-836a-11831fbc1816
 source-git-commit: 1aed6a440155c99f8ce0b0f42c44dd9a3c660af4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 

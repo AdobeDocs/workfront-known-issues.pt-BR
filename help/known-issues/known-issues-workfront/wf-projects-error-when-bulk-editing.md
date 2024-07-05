@@ -1,25 +1,25 @@
 ---
-title: "Projetos: erro ao editar projetos em massa"
-description: "Quando um usuário tenta editar projetos em massa, a janela de edição fica em branco e o usuário vê um erro."
+title: '“Projetos: erro ao editar projetos em massa”'
+description: “Quando alguém tenta editar projetos em massa, a janela de edição fica em branco e um erro é exibido.”
 hidefromtoc: true
 feature: Projects
 source-git-commit: f05ce2d8659b7ae7bf636d5585c78483c4bcfe5d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '99'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
 # Projetos: erro ao editar projetos em massa
 
-Quando um usuário tenta editar projetos em massa, a janela de edição fica em branco e o usuário vê o seguinte erro:
+Quando alguém tenta editar projetos em massa, a janela de edição fica em branco e o seguinte erro é exibido:
 
-&quot;Ocorreu um erro inesperado&quot;
+“Um erro inesperado ocorreu”
 
-O usuário deve atualizar a página para voltar à lista ou ao relatório do projeto.
+A pessoa deve atualizar a página para retornar à lista de projetos ou ao relatório.
 
-Esse problema foi relatado ao editar em massa de uma lista de projetos ou de um relatório de projeto.
+Esse problema foi relatado ao editar em massa a partir de uma lista de projetos ou de um relatório de projeto.
 
 **Solução alternativa**
 

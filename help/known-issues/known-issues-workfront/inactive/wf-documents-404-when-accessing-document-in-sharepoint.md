@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents, Workfront Integrations and Apps
 exl-id: b86ec92b-a27f-4ec3-acc2-0f0118014760
 source-git-commit: 875945978c7bdb4a7128ade826b6fbc31da04ae9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '108'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -23,6 +23,6 @@ Isso é um problema conhecido do [!DNL SharePoint] que ocorre quando o site tem 
 
 **Solução alternativa**
 
-[!DNL SharePoint] A recomenda gerar um URL curto e usá-lo para o link.
+O [!DNL SharePoint] recomenda gerar um URL curto e usá-lo para o link.
 
 _Relatado pela primeira vez em 14 de março de 2023._

@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Updates and Notifications
 exl-id: 04f96b95-19a3-476b-b2c1-6c6e439d437a
 source-git-commit: 786a543cd74e632b5a0777cfd93f8f8f4655b6f5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '146'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 87%
 
 Se alguém copiar um link de uma atualização ao clicar com o botão direito do mouse e selecionar “[!UICONTROL Copiar endereço do link]” e, logo após, colar o link em uma atualização, o link não será colado corretamente. Somente a primeira parte do link é um link e o restante do URL é ignorado.
 
-Copiar o link usando um método diferente de &quot;[!UICONTROL Copiar endereço do link]&quot; permite que o link seja colado conforme esperado.
+Copiar o link usando um método diferente de “[!UICONTROL Copiar endereço do link]” permite que ele seja colado da maneira correta.
 
 **Solução alternativa**
 
