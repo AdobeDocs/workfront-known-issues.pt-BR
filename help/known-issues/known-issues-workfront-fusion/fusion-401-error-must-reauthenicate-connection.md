@@ -4,14 +4,18 @@ description: '“As conexões do Workfront Fusion com uma conta do Workfront pod
 hidefromtoc: true
 exl-id: 89b6331d-8e5e-4139-9359-0afa7be07d2f
 feature: Workfront Fusion
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
-workflow-type: ht
-source-wordcount: '82'
+source-git-commit: e64b507317a384626b33f81802737c17b210af24
+workflow-type: tm+mt
+source-wordcount: '87'
 ht-degree: 100%
 
 ---
 
 # [!DNL Workfront Fusion]: erro “Falha ao verificar a conexão”
+
+>[!NOTE]
+>
+>Esse problema foi resolvido.
 
 <!--This article is live by request for the workaround-->
 

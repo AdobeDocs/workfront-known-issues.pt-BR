@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 14981a2e9300b30b30f3b8a18d4518ec33f5a554
+source-git-commit: 6f802d32e74e3a567e2943ae837594809c703576
 workflow-type: tm+mt
-source-wordcount: '1753'
-ht-degree: 99%
+source-wordcount: '1811'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,13 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Página inicial: não é possível abrir itens do [!UICONTROL Calendário da página inicial] ou [!UICONTROL Lista de trabalho]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
+      + [Notificações: as miniaturas não ficam visíveis nas notificações por email](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
+      + [Formulários personalizados: o formulário personalizado não é excluído do documento](known-issues-workfront/wf-custom-form-not-deleted-on-document.md)
+      + [Problemas: erro ao fazer uma atribuição avançada a um problema](known-issues-workfront/wf-issues-error-when-making-assignment.md)
+      + [Portfolio: o usuário não consegue definir o portfólio](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
+      + [Workfront: a terminologia personalizada não é aplicada](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md)
+      + [Hora: o tipo de hora filtrado não é o padrão ao registrar a hora](known-issues-workfront/wf-time-filtered-hour-type-not-default.md)
       + [Registros de cobrança: o botão Adicionar mais registros de cobrança está ausente](known-issues-workfront/wf-billing-records-new-button-missing.md)
       + [Documentos: a contagem de documentos é imprecisa](known-issues-workfront/wf-documents-count-only-root-folder.md)
       + [Projetos: erro ao editar projetos em massa](known-issues-workfront/wf-projects-error-when-bulk-editing.md)

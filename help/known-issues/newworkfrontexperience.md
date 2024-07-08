@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 14981a2e9300b30b30f3b8a18d4518ec33f5a554
+source-git-commit: 6f802d32e74e3a567e2943ae837594809c703576
 workflow-type: tm+mt
-source-wordcount: '872'
-ht-degree: 98%
+source-wordcount: '937'
+ht-degree: 92%
 
 ---
 
@@ -25,6 +25,9 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Página inicial: não é possível abrir itens do [!UICONTROL Calendário da página inicial] ou [!UICONTROL Lista de trabalho]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md) | terça-feira, 8 de julho de 2024 |
+| [Notificações: as miniaturas não ficam visíveis nas notificações por email](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | terça-feira, 8 de julho de 2024 |
+| [Formulários personalizados: o formulário personalizado não é excluído do documento](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | terça-feira, 8 de julho de 2024 |
 | [Registros de cobrança: o botão Adicionar mais registros de cobrança está ausente](known-issues-workfront/wf-billing-records-new-button-missing.md) | sábado, 28 de junho de 2024 |
 | [Documentos: a contagem de documentos é imprecisa](known-issues-workfront/wf-documents-count-only-root-folder.md) | sábado, 28 de junho de 2024 |
 | [Navegação: o botão Voltar não retorna à página anterior](known-issues-workfront/wf-navigation-back-button-not-work.md) | sábado, 28 de junho de 2024 |
@@ -47,6 +50,10 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
+| [Problemas: erro ao fazer uma atribuição avançada a um problema](known-issues-workfront/wf-issues-error-when-making-assignment.md) | terça-feira, 8 de julho de 2024 |
+| [Portfolio: o usuário não consegue definir o portfólio](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) | terça-feira, 8 de julho de 2024 |
+| [Workfront: a terminologia personalizada não é aplicada](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md) | terça-feira, 8 de julho de 2024 |
+| [Hora: o tipo de hora filtrado não é o padrão ao registrar a hora](known-issues-workfront/wf-time-filtered-hour-type-not-default.md) | terça-feira, 8 de julho de 2024 |
 | [Tarefas: a função de trabalho não desaparece da lista quando o usuário é atribuído à tarefa](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 7 de junho de 2024 |
 | [Projeto: não é possível converter um problema em projeto se um documento estiver em anexo](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 29 de maio de 2024 |
 | [Usuários: usuários ausentes ao fazer atribuições em massa](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 28 de maio de 2024 |
