@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 03957afbedfc08809d885f26239f47e09ca3f263
-workflow-type: ht
-source-wordcount: '4096'
-ht-degree: 100%
+source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
+workflow-type: tm+mt
+source-wordcount: '4346'
+ht-degree: 97%
 
 ---
 
@@ -19,6 +19,56 @@ As seguintes atualizações de manutenção foram efetuadas em 2024.
 >Essas atualizações também incluem outras correções de erros menores ou menos importantes. O suporte do [!DNL Workfront] enviará uma notificação quando um problema enviado por você for corrigido.
 
 Para obter atualizações de manutenção anteriores a 2024, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
+
+## Atualizações em julho de 2024
+
++++**(Planejado) Atualização de manutenção em sexta-feira, 11 de julho de 2024**
+
+### (Planejado) Atualização de manutenção em sexta-feira, 11 de julho de 2024
+
+#### Problemas
+
+**Erro ao fazer uma atribuição avançada a um problema**
+
+Quando um usuário tenta fazer uma atribuição avançada a um problema no Workfront, o problema não é atribuído e o usuário vê a seguinte mensagem de erro:
+
+&quot;[!UICONTROL APIModel INTERNAL não dá suporte à duração do campo (OpTask)]&quot;
+
+#### Relatórios
+
+**Erro ao definir configurações de matriz no relatório de Horas**
+
+Ao tentar definir as configurações de matriz em um relatório de Hora, o usuário não consegue definir as configurações e vê o seguinte erro:
+
+* “[!UICONTROL Ops! Algo deu errado. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.]”
+
+
++++
+
++++**Atualização de manutenção em sexta-feira, 4 de julho de 2024**
+
+### Atualização de manutenção em 4 de julho de 2024
+
+#### Início
+
+**O menu de três pontos é ineficaz**
+
+Quando um usuário clica no menu de três pontos Mais na Lista de trabalho inicial herdada, nenhuma ação é acionada.
+
+#### Relatórios
+
+**&quot;Nenhum dado para exibir&quot; quando o nome do agrupamento tem barra invertida ou inclinada**
+
+Quando alguém visualiza um gráfico em um relatório, clica em um agrupamento no gráfico e esse agrupamento tem / ou \ no nome, os detalhes que abrem não exibem os itens no agrupamento e a pessoa vê uma mensagem “Nenhum dado para exibir”.
+
+#### Tarefas
+
+**A função de trabalho não desaparece da lista quando o usuário é atribuído à tarefa**
+
+Quando uma função de trabalho é atribuída a uma tarefa e essa tarefa é atribuída a um usuário que tem a função de trabalho, a função de trabalho não desaparece da lista de atribuições.
+
+
++++
 
 ## Atualizações em junho de 2024
 
