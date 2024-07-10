@@ -3,15 +3,19 @@ title: '“Projetos: erro ao editar projetos em massa”'
 description: “Quando alguém tenta editar projetos em massa, a janela de edição fica em branco e um erro é exibido.”
 hidefromtoc: true
 feature: Projects
-source-git-commit: f05ce2d8659b7ae7bf636d5585c78483c4bcfe5d
-workflow-type: ht
-source-wordcount: '99'
+source-git-commit: 609970f97b8b144543ab758039da5f778b3bb29e
+workflow-type: tm+mt
+source-wordcount: '105'
 ht-degree: 100%
 
 ---
 
 
 # Projetos: erro ao editar projetos em massa
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em terça-feira, 8 de julho de 2024.
 
 Quando alguém tenta editar projetos em massa, a janela de edição fica em branco e o seguinte erro é exibido:
 
