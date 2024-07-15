@@ -1,17 +1,21 @@
 ---
-title: '“Usuários: usuários ausentes ao fazer atribuições em massa”'
-description: “Quando alguém tenta fazer atribuições em massa e uma função de trabalho é atribuída à tarefa, os usuários com essa função de trabalho não aparecem na lista e o usuário atribuidor não pode selecioná-los. ”
+title: "Usuários: usuários ausentes ao fazer atribuições em massa"
+description: '"Quando um usuário tenta fazer atribuições em massa e uma função de trabalho é atribuída à tarefa, os usuários com essa função de trabalho não aparecem na lista e o usuário atribuidor não pode selecioná-los. ”'
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: c3e3297bd52a4189321102e75cd952ac5162f1fa
-workflow-type: ht
-source-wordcount: '98'
-ht-degree: 100%
+exl-id: a2331209-b8b4-402a-8478-7eb220c579bb
+source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
+workflow-type: tm+mt
+source-wordcount: '104'
+ht-degree: 59%
 
 ---
 
-
 # Usuários: usuários ausentes ao fazer atribuições em massa
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em sexta-feira, 11 de julho de 2024.
 
 Quando alguém tenta fazer atribuições em massa e uma função de trabalho é atribuída à tarefa, os usuários com essa função de trabalho não aparecem na lista e o usuário atribuidor não pode selecioná-los.
 

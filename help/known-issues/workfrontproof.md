@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
+source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
 workflow-type: tm+mt
-source-wordcount: '460'
-ht-degree: 95%
+source-wordcount: '467'
+ht-degree: 94%
 
 ---
 
@@ -26,8 +26,8 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
 | [Workfront Mobile: não é possível abrir provas](known-issues-workfront/wf-mobile-proofs-not-open.md) | quarta-feira, 9 de julho de 2024 |
-| [Notificações: as miniaturas não ficam visíveis nas notificações por email](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | terça-feira, 8 de julho de 2024 |
-| [Formulários personalizados: o formulário personalizado não é excluído do documento](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | terça-feira, 8 de julho de 2024 |
+| [Notificações: miniaturas não visíveis nas notificações por email](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | terça-feira, 8 de julho de 2024 |
+| [Formulários personalizados: o formulário personalizado não foi excluído do documento](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | terça-feira, 8 de julho de 2024 |
 | [Documentos: a contagem de documentos é imprecisa](known-issues-workfront/wf-documents-count-only-root-folder.md) | sábado, 28 de junho de 2024 |
 | [Integrações: vincular uma pasta do  [!DNL Google Drive]  não vincula seus ativos](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | quarta-feira, 25 de junho de 2024 |
 | [Provas: fechar uma prova leva à página Documentos do produto](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | terça-feira, 24 de junho de 2024 |
@@ -43,6 +43,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Não é possível criar exibição para a lista Documentos](known-issues-workfront/wf-documents-cannot-add-new-view.md) | terça-feira, 15 de julho de 2024 |
 | [Documentos: erro ao usar um link público para um documento](known-issues-workfront/wf-documents-public-link-not-working.md) | 5 de junho de 2024 |
 | [Provas: não é possível fechar o visualizador de provas](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 5 de junho de 2024 |
 | [Página inicial: o dispositivo de aprovações não é preciso](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 8 de maio de 2024 |
