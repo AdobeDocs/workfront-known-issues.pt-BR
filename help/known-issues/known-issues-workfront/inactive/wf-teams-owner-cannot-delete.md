@@ -1,15 +1,15 @@
 ---
-title: '“Equipes: não é possível excluir a equipe nem exibir seu proprietário”'
-description: “Estas ações estão indisponíveis para administradores de grupos.”
+title: "Equipes: não é possível exibir o proprietário da equipe ou excluir a equipe"
+description: Estas ações não estão disponíveis para Administradores de grupo.
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 5ca6aa4e5e8ddc127623f0587cb42fc0fc10ebf8
-workflow-type: ht
+exl-id: bc8b7759-2cda-4ea0-8ba8-1ca883838ba9
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 100%
+ht-degree: 87%
 
 ---
-
 
 # Equipes: não é possível excluir a equipe nem exibir seu proprietário
 
@@ -25,4 +25,3 @@ As seguintes ações estão indisponíveis para administradores de grupos
 Isso ocorre mesmo que o administrador de grupo tenha todas as permissões relacionadas a equipes e usuários.
 
 _Relatado pela primeira vez em sábado, 15 de março de 2024._
-

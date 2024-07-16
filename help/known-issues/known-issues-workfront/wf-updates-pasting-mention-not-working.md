@@ -1,15 +1,15 @@
 ---
-title: '“Atualizações: copiar e colar uma menção não notifica o usuário mencionado”'
-description: “Quando alguém copia um comentário que inclui uma menção no formato @ e o cola na área de atualizações de outro objeto, o usuário mencionado não é notificado sobre o comentário colado.”
+title: "Atualizações: copiar e colar uma menção não notifica o usuário mencionado"
+description: Quando alguém copia um comentário que inclui uma menção no formato @ e o cola na área de atualizações de outro objeto, o usuário mencionado não é notificado sobre o comentário colado.
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: bca3fbea3084dbb9fd763bee9f333b37a47bb90a
-workflow-type: ht
+exl-id: 3b789894-6c4a-4b7a-9206-0b9499dc7f8a
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 100%
+ht-degree: 89%
 
 ---
-
 
 # Atualizações: copiar e colar uma menção não notifica o usuário mencionado
 

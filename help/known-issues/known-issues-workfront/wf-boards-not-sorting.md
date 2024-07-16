@@ -1,15 +1,15 @@
 ---
-title: '“Quadros: cartões não são classificados”'
-description: '"Quando uma pessoa tenta classificar cartões em um quadro, eles não são classificados. Isso ocorre ao usar qualquer opção de classificação.”'
+title: "Quadros: cartões não estão classificando"
+description: Quando uma pessoa tenta classificar cartões em um quadro, eles são não classificados. Isso ocorre ao usar qualquer opção de classificação.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
-workflow-type: ht
+exl-id: 8cb4c535-73d6-40d7-aabc-0abd1f213fa6
+source-git-commit: 7aba3a4ce3e0436a8fd9850197bc44da9dafe347
+workflow-type: tm+mt
 source-wordcount: '62'
-ht-degree: 100%
+ht-degree: 93%
 
 ---
-
 
 # Quadros: cartões não são classificados
 

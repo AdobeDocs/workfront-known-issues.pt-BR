@@ -3,9 +3,9 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 4db36c0edb0710d933886aff2e7757c01bf2b6d9
+source-git-commit: b618463ab3321b711836c17e167fe34a5b859472
 workflow-type: tm+mt
-source-wordcount: '4344'
+source-wordcount: '4508'
 ht-degree: 96%
 
 ---
@@ -22,6 +22,45 @@ Para obter atualizações de manutenção anteriores a 2024, consulte [Atualiza�
 
 ## Atualizações em julho de 2024
 
+
+
++++**(Planejado) Atualização de manutenção em sexta-feira, 18 de julho de 2024**
+
+### (Planejado) Atualização de manutenção em sexta-feira, 18 de julho de 2024
+
+#### Ágil
+
+**O Storyboard fica em branco ao adicionar uma subtarefa**
+
+Quando um usuário tenta adicionar uma subtarefa a um storyboard enquanto um filtro é selecionado, a tela fica em branco e o usuário não pode adicionar a subtarefa.
+
+#### Início
+
+**Não é possível abrir itens do [!UICONTROL Calendário da Página Inicial] ou da [!UICONTROL Lista de Trabalho]**
+
+Quando uma pessoa tenta abrir um item de trabalho ou uma prova do [!UICONTROL Calendário da página inicial] ou da [!UICONTROL Lista de trabalho da página inicial], o item não abre.
+
+#### Provas
+
+**Fechar uma prova abre a página Documentos do Produto**
+
+Quando uma pessoa que está visualizando uma prova a fecha, ela é direcionada para a página Documentos do projeto, em vez de a página na qual a prova foi aberta.
+
+#### Workfront
+
+**Terminologia personalizada não aplicada**
+
+A terminologia personalizada definida no modelo de layout não aparece em algumas áreas do Workfront. Em vez disso, a terminologia padrão não personalizada é exibida.
+
+Esse problema foi relatado nas seguintes áreas:
+
+* Guias Menu
+* Cabeçalhos de página
+* Descrições onde os projetos são listados
+
+
++++
+
 +++**Atualização de manutenção em sexta-feira, 11 de julho de 2024**
 
 ### Atualização de manutenção em 11 de julho de 2024
@@ -30,9 +69,9 @@ Para obter atualizações de manutenção anteriores a 2024, consulte [Atualiza�
 
 **Erro ao fazer uma atribuição avançada a um problema**
 
-Quando um usuário tenta fazer uma atribuição avançada a um problema no Workfront, o problema não é atribuído e o usuário vê a seguinte mensagem de erro:
+Quando uma pessoa tenta fazer uma atribuição avançada a um problema no Workfront, o problema não é atribuído e a seguinte mensagem de erro é exibida:
 
-&quot;[!UICONTROL APIModel INTERNAL não dá suporte à duração do campo (OpTask)]&quot;
+“[!UICONTROL APIModel INTERNAL não oferece suporte à duração de campo (OpTask)]”
 
 #### Relatórios
 
@@ -57,7 +96,7 @@ Quando um usuário clica no menu de três pontos Mais na Lista de trabalho inici
 
 #### Relatórios
 
-**&quot;Nenhum dado para exibir&quot; quando o nome do agrupamento tem barra invertida ou inclinada**
+**&quot;Nenhum dado para exibir&quot; quando o nome do agrupamento tem barra**
 
 Quando alguém visualiza um gráfico em um relatório, clica em um agrupamento no gráfico e esse agrupamento tem / ou \ no nome, os detalhes que abrem não exibem os itens no agrupamento e a pessoa vê uma mensagem “Nenhum dado para exibir”.
 

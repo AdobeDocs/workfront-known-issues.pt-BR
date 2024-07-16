@@ -15,6 +15,6 @@ ht-degree: 5%
 
 Quando um usuário tenta visualizar uma página de perfil do usuário, ela parece estar carregando, mas não carrega totalmente.
 
-Esse problema foi relatado ao usar o [!UICONTROL Fazer logon como] recurso.
+Isso foi relatado ao usar o recurso [!UICONTROL Fazer Logon como].
 
 _Relatado pela primeira vez em terça-feira, 8 de julho de 2024._
