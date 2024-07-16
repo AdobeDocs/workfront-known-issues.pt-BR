@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
 workflow-type: tm+mt
 source-wordcount: '467'
-ht-degree: 94%
+ht-degree: 97%
 
 ---
 
@@ -26,8 +26,8 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
 | [Workfront Mobile: não é possível abrir provas](known-issues-workfront/wf-mobile-proofs-not-open.md) | quarta-feira, 9 de julho de 2024 |
-| [Notificações: miniaturas não visíveis nas notificações por email](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | terça-feira, 8 de julho de 2024 |
-| [Formulários personalizados: o formulário personalizado não foi excluído do documento](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | terça-feira, 8 de julho de 2024 |
+| [Notificações: as miniaturas não ficam visíveis nas notificações por email](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | terça-feira, 8 de julho de 2024 |
+| [Formulários personalizados: formulários personalizados não são excluídos do documento](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | terça-feira, 8 de julho de 2024 |
 | [Documentos: a contagem de documentos é imprecisa](known-issues-workfront/wf-documents-count-only-root-folder.md) | sábado, 28 de junho de 2024 |
 | [Integrações: vincular uma pasta do  [!DNL Google Drive]  não vincula seus ativos](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | quarta-feira, 25 de junho de 2024 |
 | [Provas: fechar uma prova leva à página Documentos do produto](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | terça-feira, 24 de junho de 2024 |

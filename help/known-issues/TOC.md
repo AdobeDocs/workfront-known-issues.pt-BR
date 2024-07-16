@@ -5,7 +5,7 @@ role: User
 source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
 workflow-type: tm+mt
 source-wordcount: '1837'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -23,9 +23,9 @@ ht-degree: 95%
       + [Workfront Mobile: não é possível abrir provas](known-issues-workfront/wf-mobile-proofs-not-open.md)
       + [Página inicial: não é possível abrir itens do [!UICONTROL Calendário da página inicial] ou da [!UICONTROL Lista de trabalho]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
       + [Notificações: as miniaturas não ficam visíveis nas notificações por email](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
-      + [Formulários personalizados: o formulário personalizado não é excluído do documento](known-issues-workfront/wf-custom-form-not-deleted-on-document.md)
+      + [Formulários personalizados: formulários personalizados não são excluídos do documento](known-issues-workfront/wf-custom-form-not-deleted-on-document.md)
       + [Problemas: erro ao fazer uma atribuição avançada a um problema](known-issues-workfront/wf-issues-error-when-making-assignment.md)
-      + [Portfolio: o usuário não consegue definir o portfólio](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
+      + [Portfólios: usuários não conseguem definir o portfólio](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
       + [Workfront: a terminologia personalizada não é aplicada](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md)
       + [Hora: o tipo de hora filtrado não é o padrão ao registrar a hora](known-issues-workfront/wf-time-filtered-hour-type-not-default.md)
       + [Registros de cobrança: o botão Adicionar mais registros de cobrança está ausente](known-issues-workfront/wf-billing-records-new-button-missing.md)
