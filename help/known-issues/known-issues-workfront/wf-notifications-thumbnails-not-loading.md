@@ -1,19 +1,19 @@
 ---
-title: "Notificações: as miniaturas não estão visíveis nas notificações por email"
-description: "Quando um usuário visualiza uma notificação por email relacionada a uma aprovação de documento, a miniatura do documento não fica visível no email."
+title: '“Notificações: as miniaturas não ficam visíveis nas notificações por email”'
+description: “Quando uma pessoa visualiza uma notificação por email relacionada a uma aprovação de documento, a miniatura do documento não fica visível no email.”
 hidefromtoc: true
 feature: Updates and Notifications, Digital Content and Documents
 source-git-commit: e64b507317a384626b33f81802737c17b210af24
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
 
 # Notificações: as miniaturas não ficam visíveis nas notificações por email
 
-Quando um usuário visualiza uma notificação por email relacionada a uma aprovação de documento, a miniatura do documento não fica visível no email.
+Quando uma pessoa visualiza uma notificação por email relacionada a uma aprovação de documento, a miniatura do documento não fica visível no email.
 
 Esse problema foi relatado no Gmail.
 

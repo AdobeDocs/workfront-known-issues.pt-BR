@@ -1,12 +1,12 @@
 ---
-title: "Workfront: a terminologia personalizada não é aplicada"
-description: '"A terminologia personalizada definida no modelo de layout não aparece em algumas áreas do Workfront. Em vez disso, a terminologia padrão não personalizada é exibida. ”'
+title: '“Workfront: a terminologia personalizada não é aplicada”'
+description: “A terminologia personalizada definida no modelo de layout não aparece em algumas áreas do Workfront. Em vez disso, a terminologia padrão não personalizada é exibida. ”
 hidefromtoc: true
 feature: Work Management
 source-git-commit: e64b507317a384626b33f81802737c17b210af24
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
-ht-degree: 16%
+ht-degree: 100%
 
 ---
 
