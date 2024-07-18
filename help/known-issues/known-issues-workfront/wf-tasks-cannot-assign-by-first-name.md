@@ -3,15 +3,19 @@ title: '“Tarefas: a pesquisa por nome na atribuição de tarefas não retorna 
 description: “Quando uma pessoa está atribuindo uma tarefa e tenta procurar o responsável pelo nome, a pesquisa não retorna usuários e a mensagem Nenhum resultado encontrado é exibida. Uma solução alternativa está disponível.”
 hidefromtoc: true
 feature: Tasks, People Teams and Groups
-source-git-commit: f05ce2d8659b7ae7bf636d5585c78483c4bcfe5d
+source-git-commit: ecd8588333404b8effc26111f34618c8e9cec459
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '121'
 ht-degree: 100%
 
 ---
 
 
 # Tarefas: a pesquisa por nome na atribuição de tarefas não retorna usuários
+
+>[!NOTE]
+>
+>Esse problema foi encerrado porque não pôde ser reproduzido.
 
 Quando uma pessoa está atribuindo uma tarefa e tenta procurar o responsável pelo nome, a pesquisa não retorna usuários e a mensagem “Nenhum resultado encontrado” é exibida.
 
