@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ecd8588333404b8effc26111f34618c8e9cec459
+source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
 workflow-type: tm+mt
-source-wordcount: '814'
-ht-degree: 99%
+source-wordcount: '852'
+ht-degree: 96%
 
 ---
 
@@ -25,6 +25,9 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Usuários: não é possível modificar o nível de acesso do usuário](known-issues-workfront/wf-users-cannot-modify-access-level.md) | sexta-feira, 18 de julho de 2024 |
+| [Quadros: erro ao carregar um quadro](known-issues-workfront/wf-boards-error-when-loading-board.md) | sexta-feira, 18 de julho de 2024 |
+| [Provas: provas aprovadas aparecem nos relatórios](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | sexta-feira, 18 de julho de 2024 |
 | [Documentos: a contagem de documentos é imprecisa](known-issues-workfront/wf-documents-count-only-root-folder.md) | sábado, 28 de junho de 2024 |
 | [Navegação: o botão Voltar não retorna à página anterior](known-issues-workfront/wf-navigation-back-button-not-work.md) | sábado, 28 de junho de 2024 |
 | [Integrações: vincular uma pasta do  [!DNL Google Drive]  não vincula seus ativos](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | quarta-feira, 25 de junho de 2024 |
@@ -42,6 +45,8 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
+| [Projetos: o símbolo de moeda está incorreto ao exportar](known-issues-workfront/wf-projects-currency-symbol-incorrect.md) | sexta-feira, 18 de julho de 2024 |
+| [Formulários personalizados: a lista suspensa é fechada ao selecionar vários valores](known-issues-workfront/wf-custom-forms-dropdown-closes.md) | sexta-feira, 18 de julho de 2024 |
 | [Notificações: as miniaturas não ficam visíveis nas notificações por email](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | sexta-feira, 18 de julho de 2024 |
 | [Formulários personalizados: formulários personalizados não são excluídos do documento](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | sexta-feira, 18 de julho de 2024 |
 | [Não é possível criar exibição para a lista Documentos](known-issues-workfront/wf-documents-cannot-add-new-view.md) | terça-feira, 15 de julho de 2024 |

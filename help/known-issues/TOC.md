@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
+source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
 workflow-type: tm+mt
-source-wordcount: '1837'
-ht-degree: 98%
+source-wordcount: '1864'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Projetos: o símbolo de moeda está incorreto ao exportar](known-issues-workfront/wf-projects-currency-symbol-incorrect.md)
+      + [Formulários personalizados: a lista suspensa é fechada ao selecionar vários valores](known-issues-workfront/wf-custom-forms-dropdown-closes.md)
+      + [Quadros: erro ao carregar um quadro](known-issues-workfront/wf-boards-error-when-loading-board.md)
+      + [Provas: provas aprovadas aparecem nos relatórios](known-issues-workfront/wf-proofs-approved-showing-on-reports.md)
       + [Não é possível criar exibição para a lista Documentos](known-issues-workfront/wf-documents-cannot-add-new-view.md)
       + [Agile: o Storyboard fica em branco ao adicionar uma subtarefa](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)
       + [Usuários: a página de perfil do usuário é carregada continuamente](known-issues-workfront/wf-users-profile-continuously-reloads.md)

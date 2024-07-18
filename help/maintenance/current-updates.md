@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: b618463ab3321b711836c17e167fe34a5b859472
+source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
 workflow-type: tm+mt
-source-wordcount: '4508'
-ht-degree: 96%
+source-wordcount: '4535'
+ht-degree: 95%
 
 ---
 
@@ -24,9 +24,9 @@ Para obter atualizações de manutenção anteriores a 2024, consulte [Atualiza�
 
 
 
-+++**(Planejado) Atualização de manutenção em sexta-feira, 18 de julho de 2024**
++++**Atualização de manutenção em sexta-feira, 18 de julho de 2024**
 
-### (Planejado) Atualização de manutenção em sexta-feira, 18 de julho de 2024
+### Atualização de manutenção em 18 de julho de 2024
 
 #### Ágil
 
@@ -39,6 +39,10 @@ Quando um usuário tenta adicionar uma subtarefa a um storyboard enquanto um fil
 **Não é possível abrir itens do [!UICONTROL Calendário da Página Inicial] ou da [!UICONTROL Lista de Trabalho]**
 
 Quando uma pessoa tenta abrir um item de trabalho ou uma prova do [!UICONTROL Calendário da página inicial] ou da [!UICONTROL Lista de trabalho da página inicial], o item não abre.
+
+**A página inicial do administrador é exibida quando conectado como outro usuário**
+
+Quando um administrador efetua logon como outro usuário e visualiza a Página inicial desse usuário, a Página inicial do administrador é exibida.
 
 #### Provas
 

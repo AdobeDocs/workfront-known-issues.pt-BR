@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: ecd8588333404b8effc26111f34618c8e9cec459
+source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
 workflow-type: tm+mt
-source-wordcount: '445'
-ht-degree: 98%
+source-wordcount: '452'
+ht-degree: 97%
 
 ---
 
@@ -25,6 +25,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Provas: provas aprovadas aparecem nos relatórios](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | sexta-feira, 18 de julho de 2024 |
 | [Formulários personalizados: formulários personalizados não são excluídos do documento](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | terça-feira, 8 de julho de 2024 |
 | [Documentos: a contagem de documentos é imprecisa](known-issues-workfront/wf-documents-count-only-root-folder.md) | sábado, 28 de junho de 2024 |
 | [Integrações: vincular uma pasta do  [!DNL Google Drive]  não vincula seus ativos](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | quarta-feira, 25 de junho de 2024 |

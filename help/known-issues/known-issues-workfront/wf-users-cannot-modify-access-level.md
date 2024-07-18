@@ -4,18 +4,21 @@ description: Quando a administração de um grupo tenta modificar o nível de ac
 hidefromtoc: true
 feature: People Teams and Groups
 exl-id: f5548cd1-5d03-4a3e-86a8-7da5fc647a41
-source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '104'
 ht-degree: 100%
 
 ---
 
 # Usuários: não é possível modificar o nível de acesso do usuário
 
+
+<!--
 >[!NOTE]
 >
->Esse problema foi corrigido em 6 de junho de 2024.
+>This issue was fixed on June 6, 2024.
+-->
 
 Quando a administração de um grupo tenta modificar o nível de acesso de um usuário no grupo, o campo nível de acesso fica desabilitado e não é possível alterar esse nível de acesso.
 
