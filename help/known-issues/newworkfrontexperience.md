@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
+source-git-commit: 7b149f8f117d778efaa35ae650ed8b6f47c06311
 workflow-type: tm+mt
-source-wordcount: '888'
-ht-degree: 97%
+source-wordcount: '834'
+ht-degree: 98%
 
 ---
 
@@ -25,16 +25,12 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Agile: o Storyboard fica em branco ao adicionar uma subtarefa](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | quinta-feira, 10 de julho de 2024 |
-| [Página inicial: não é possível abrir itens do [!UICONTROL Calendário da página inicial] ou da [!UICONTROL Lista de trabalho]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md) | terça-feira, 8 de julho de 2024 |
 | [Notificações: as miniaturas não ficam visíveis nas notificações por email](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | terça-feira, 8 de julho de 2024 |
 | [Formulários personalizados: formulários personalizados não são excluídos do documento](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | terça-feira, 8 de julho de 2024 |
-| [Registros de cobrança: o botão Adicionar mais registros de cobrança está ausente](known-issues-workfront/wf-billing-records-new-button-missing.md) | sábado, 28 de junho de 2024 |
 | [Documentos: a contagem de documentos é imprecisa](known-issues-workfront/wf-documents-count-only-root-folder.md) | sábado, 28 de junho de 2024 |
 | [Navegação: o botão Voltar não retorna à página anterior](known-issues-workfront/wf-navigation-back-button-not-work.md) | sábado, 28 de junho de 2024 |
 | [Tarefas: a pesquisa por nome na atribuição de tarefas não retorna usuários](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md) | sexta-feira, 27 de junho de 2024 |
 | [Integrações: vincular a pasta do  [!DNL Google Drive]  não vincula seus ativos](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | quarta-feira, 25 de junho de 2024 |
-| [Provas: fechar uma prova leva à página Documentos do produto](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | terça-feira, 24 de junho de 2024 |
 | [Integrações: não é possível adicionar a nova versão de um documento do  [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | terça-feira, 24 de junho de 2024 |
 | [Quadros: os quadros exibidos não são os do usuário escolhido ao usar a opção [!UICONTROL Fazer logon como]](known-issues-workfront/wf-boards-log-in-as.md) | sábado, 21 de junho de 2024 |
 | [Integrações: problemas com a integração com o Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | sábado, 14 de junho de 2024 |
@@ -51,9 +47,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 |----------------------------------| ----------------- |
 | [Não é possível criar exibição para a lista Documentos](known-issues-workfront/wf-documents-cannot-add-new-view.md) | terça-feira, 15 de julho de 2024 |
 | [Usuários: a página de perfil do usuário carrega continuamente](known-issues-workfront/wf-users-profile-continuously-reloads.md) | quinta-feira, 10 de julho de 2024 |
-| [Provas: não é possível fechar o visualizador de provas](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | quarta-feira, 9 de julho de 2024 |
 | [Portfólios: usuários não conseguem definir o portfólio](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) | terça-feira, 8 de julho de 2024 |
-| [Workfront: a terminologia personalizada não é aplicada](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md) | terça-feira, 8 de julho de 2024 |
 | [Equipes: não é possível excluir a equipe nem exibir seu proprietário](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11 de abril de 2024 |
 | [Tarefas: erro de Bizcontext ao adicionar ou excluir uma tarefa](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 4 de abril de 2024 |
 | [[!DNL Workfront]: problemas ao enviar um caso de suporte do [!DNL Workfront] na Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2 de agosto de 2022 |

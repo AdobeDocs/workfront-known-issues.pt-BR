@@ -3,15 +3,19 @@ title: '“Registros de cobrança: o botão Adicionar mais registros de cobranç
 description: “Quando uma pessoa visualiza uma lista de registros de cobrança e tenta adicionar um novo, ela percebe que o botão Adicionar novo registro de cobrança está ausente na parte superior da página.”
 hidefromtoc: true
 feature: Work Management
-source-git-commit: 14981a2e9300b30b30f3b8a18d4518ec33f5a554
+source-git-commit: 7b149f8f117d778efaa35ae650ed8b6f47c06311
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '152'
 ht-degree: 100%
 
 ---
 
 
 # Registros de cobrança: o botão Adicionar mais registros de cobrança está ausente
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em sexta-feira, 18 de julho de 2024.
 
 Quando uma pessoa visualiza uma lista de registros de cobrança e tenta adicionar um novo, ela percebe que o botão Adicionar novo registro de cobrança está ausente na parte superior da página.
 
