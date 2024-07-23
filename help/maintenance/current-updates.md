@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
+source-git-commit: 35106dcf97314734dec36ddc05a821aa2b54b234
 workflow-type: tm+mt
-source-wordcount: '4535'
-ht-degree: 95%
+source-wordcount: '4620'
+ht-degree: 94%
 
 ---
 
@@ -23,6 +23,28 @@ Para obter atualizações de manutenção anteriores a 2024, consulte [Atualiza�
 ## Atualizações em julho de 2024
 
 
+
++++**Atualização de manutenção em sexta-feira, 18 de julho de 2024**
+
+### Atualização de manutenção em 18 de julho de 2024
+
+#### Formulários personalizados
+
+**A lista suspensa é fechada ao selecionar vários valores**
+
+Quando um usuário tenta selecionar vários valores em um campo de formulário personalizado, a lista suspensa é fechada após a seleção do primeiro valor.
+
+Isso ocorre quando o campo é associado à lógica de exibição no formulário personalizado.
+
+#### Notificações
+
+**Miniaturas não visíveis nas notificações por email**
+
+Quando uma pessoa visualiza uma notificação por email relacionada a uma aprovação de documento, a miniatura do documento não fica visível no email.
+
+Esse problema foi relatado no Gmail.
+
++++
 
 +++**Atualização de manutenção em sexta-feira, 18 de julho de 2024**
 
