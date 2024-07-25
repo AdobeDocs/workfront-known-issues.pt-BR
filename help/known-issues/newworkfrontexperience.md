@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 689e979b0598017911ad86f2f16e30733eadd2bb
+source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
 workflow-type: tm+mt
-source-wordcount: '854'
-ht-degree: 96%
+source-wordcount: '873'
+ht-degree: 92%
 
 ---
 
@@ -25,8 +25,9 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Provas: abrir uma prova abre várias cópias](known-issues-workfront/wf-proofs-two-proofs-open.md) | sexta-feira, 25 de julho de 2024 |
+| [Fazer logon como: a página inicial e os pinos são exibidos de forma imprecisa ao fazer logoff de &quot;Fazer logon como&quot;](known-issues-workfront/wf-login-as-displays-when-logged-out.md) | sexta-feira, 25 de julho de 2024 |
 | [Quadros: o cartão não inclui subtarefas](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 23 de julho de 2024 |
-| [Usuários: não é possível modificar o nível de acesso do usuário](known-issues-workfront/wf-users-cannot-modify-access-level.md) | sexta-feira, 18 de julho de 2024 |
 | [Quadros: erro ao carregar um quadro](known-issues-workfront/wf-boards-error-when-loading-board.md) | sexta-feira, 18 de julho de 2024 |
 | [Documentos: a contagem de documentos é imprecisa](known-issues-workfront/wf-documents-count-only-root-folder.md) | sábado, 28 de junho de 2024 |
 | [Navegação: o botão Voltar não retorna à página anterior](known-issues-workfront/wf-navigation-back-button-not-work.md) | sábado, 28 de junho de 2024 |
@@ -45,12 +46,12 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
+| [Atualizações: os usuários não são notificados sobre atualizações direcionadas](known-issues-workfront/wf-updates-users-not-getting-email.md) | sexta-feira, 25 de julho de 2024 |
+| [Tarefas: as tarefas não têm permissões herdadas](known-issues-workfront/wf-tasks-inherited-permissions-missing.md) | sexta-feira, 25 de julho de 2024 |
+| [Níveis de Acesso: Níveis de acesso duplicados na área de Instalação](known-issues-workfront/wf-access-duplicate-level.md) | sexta-feira, 25 de julho de 2024 |
 | [Projetos: o símbolo de moeda está incorreto ao exportar](known-issues-workfront/wf-projects-currency-symbol-incorrect.md) | sexta-feira, 18 de julho de 2024 |
-| [Formulários personalizados: a lista suspensa é fechada ao selecionar vários valores](known-issues-workfront/wf-custom-forms-dropdown-closes.md) | sexta-feira, 18 de julho de 2024 |
-| [Notificações: as miniaturas não ficam visíveis nas notificações por email](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | sexta-feira, 18 de julho de 2024 |
 | [Formulários personalizados: formulários personalizados não são excluídos do documento](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | sexta-feira, 18 de julho de 2024 |
 | [Não é possível criar exibição para a lista Documentos](known-issues-workfront/wf-documents-cannot-add-new-view.md) | terça-feira, 15 de julho de 2024 |
-| [Portfólios: usuários não conseguem definir o portfólio](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) | terça-feira, 8 de julho de 2024 |
 | [Equipes: não é possível excluir a equipe nem exibir seu proprietário](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11 de abril de 2024 |
 | [Tarefas: erro de Bizcontext ao adicionar ou excluir uma tarefa](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 4 de abril de 2024 |
 | [[!DNL Workfront]: problemas ao enviar um caso de suporte do [!DNL Workfront] na Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2 de agosto de 2022 |
