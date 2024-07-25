@@ -3,7 +3,7 @@ title: "Provas: abrir uma prova abre várias cópias"
 description: '"Quando um usuário abre uma prova, duas guias do navegador são abertas com a mesma prova. ”'
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
+source-git-commit: 0a5eb31cd241a3ee5b878b71863ab3811d6b75ab
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 8%
@@ -15,7 +15,7 @@ ht-degree: 8%
 
 Quando um usuário abre uma prova, duas guias do navegador são abertas com a mesma prova.
 
-Esse problema foi relatado ao usar o Unified Shell
+Esse problema foi relatado ao usar o Unified Shell.
 
 **Solução alternativa**
 
