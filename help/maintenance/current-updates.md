@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 349f5a14e77cd710a3566ece5985caf731969f0f
 workflow-type: tm+mt
 source-wordcount: '4620'
-ht-degree: 94%
+ht-degree: 97%
 
 ---
 
@@ -26,7 +26,7 @@ Para obter atualizações de manutenção anteriores a 2024, consulte [Atualiza�
 
 +++**Atualização de manutenção em sexta-feira, 25 de julho de 2024**
 
-### Atualização de manutenção em 25 de julho de 2024
+### Atualização de manutenção em sexta-feira, 25 de julho de 2024
 
 #### Formulários personalizados
 
@@ -48,13 +48,13 @@ Esse problema foi relatado no Gmail.
 
 +++**Atualização de manutenção em sexta-feira, 18 de julho de 2024**
 
-### Atualização de manutenção em 18 de julho de 2024
+### Atualização de manutenção em sexta-feira, 18 de julho de 2024
 
 #### Ágil
 
 **O Storyboard fica em branco ao adicionar uma subtarefa**
 
-Quando um usuário tenta adicionar uma subtarefa a um storyboard enquanto um filtro é selecionado, a tela fica em branco e o usuário não pode adicionar a subtarefa.
+Quando uma pessoa tenta adicionar uma subtarefa a um storyboard enquanto um filtro está selecionado, a tela fica em branco e não é possível adicionar a subtarefa.
 
 #### Início
 
@@ -103,7 +103,7 @@ Quando uma pessoa tenta fazer uma atribuição avançada a um problema no Workfr
 
 **Erro ao definir configurações de matriz no relatório de Horas**
 
-Ao tentar definir as configurações de matriz em um relatório de Hora, o usuário não consegue definir as configurações e vê o seguinte erro:
+Ao tentar definir as configurações de matriz em um relatório de Horas, a pessoa não consegue definir as configurações e o seguinte erro é exibido:
 
 * “[!UICONTROL Ops! Algo deu errado. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.]”
 
@@ -116,19 +116,19 @@ Ao tentar definir as configurações de matriz em um relatório de Hora, o usuá
 
 #### Início
 
-**O menu de três pontos é ineficaz**
+**O menu de três pontos não funciona**
 
-Quando um usuário clica no menu de três pontos Mais na Lista de trabalho inicial herdada, nenhuma ação é acionada.
+Quando uma pessoa clica no menu de três pontos Mais na Lista de trabalho da Página inicial herdada, nenhuma ação é acionada.
 
 #### Relatórios
 
-**&quot;Nenhum dado para exibir&quot; quando o nome do agrupamento tem barra**
+**“Nenhum dado para exibir” quando o nome do agrupamento tem uma barra ou uma barra invertida**
 
 Quando alguém visualiza um gráfico em um relatório, clica em um agrupamento no gráfico e esse agrupamento tem / ou \ no nome, os detalhes que abrem não exibem os itens no agrupamento e a pessoa vê uma mensagem “Nenhum dado para exibir”.
 
 #### Tarefas
 
-**A função de trabalho não desaparece da lista quando o usuário é atribuído à tarefa**
+**A função de trabalho não desaparece da lista quando alguém é atribuído à tarefa**
 
 Quando uma função de trabalho é atribuída a uma tarefa e essa tarefa é atribuída a um usuário que tem a função de trabalho, a função de trabalho não desaparece da lista de atribuições.
 
