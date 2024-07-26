@@ -4,7 +4,7 @@ description: “Quando alguém tenta editar projetos em massa, a janela de ediç
 hidefromtoc: true
 feature: Projects
 source-git-commit: 609970f97b8b144543ab758039da5f778b3bb29e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
 ht-degree: 100%
 

@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 27b1ff30-ad5c-41f4-992b-56c87b939e69
 source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '133'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->Esse problema foi encerrado em 4 de julho de 2024.
+>Esse problema foi corrigido em 4 de julho de 2024.
 
 Quando alguém visualiza um gráfico em um relatório, clica em um agrupamento no gráfico e esse agrupamento tem / ou \ no nome, os detalhes que abrem não exibem os itens no agrupamento e a pessoa vê uma mensagem “Nenhum dado para exibir”.
 
