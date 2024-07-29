@@ -4,18 +4,21 @@ description: Quando uma pessoa tenta adicionar uma subtarefa a um storyboard enq
 hidefromtoc: true
 feature: Agile
 exl-id: 3d4ad64a-31a3-4205-a469-80bf680659b3
-source-git-commit: 18d44b25277610942a68227b9a3a9c17c874b966
+source-git-commit: e3290a00e93e0faf6b944ac02c2820dc3a26fb4b
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 90%
+source-wordcount: '89'
+ht-degree: 89%
 
 ---
 
 # Agile: o storyboard fica em branco ao adicionar uma subtarefa
 
+
+<!--
 >[!NOTE]
 >
->Esse problema foi corrigido em sexta-feira, 18 de julho de 2024.
+>This issue was fixed on July 18, 2024.
+-->
 
 Quando uma pessoa tenta adicionar uma subtarefa a um storyboard enquanto um filtro está selecionado, a tela fica em branco e não é possível adicionar a subtarefa.
 
