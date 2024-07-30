@@ -3,9 +3,9 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 349f5a14e77cd710a3566ece5985caf731969f0f
+source-git-commit: 3d966ae45f5a1a6c6e34dc49c801186178e7635d
 workflow-type: tm+mt
-source-wordcount: '4620'
+source-wordcount: '4751'
 ht-degree: 97%
 
 ---
@@ -20,9 +20,34 @@ As seguintes atualizações de manutenção foram efetuadas em 2024.
 
 Para obter atualizações de manutenção anteriores a 2024, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
+## Atualizações em agosto de 2024
+
++++**(Planejado) Atualização de manutenção em sexta-feira, 1 de agosto de 2024**
+
+### (Planejado) Atualização de manutenção em sexta-feira, 1 de agosto de 2024
+
+#### Documentos
+
+**Não é possível criar uma exibição para a lista Documentos**
+
+Quando uma pessoa tenta criar uma nova exibição em uma lista Documentos, a tela fica em branco e não é possível criar a exibição.
+
+As exibições já existentes funcionam conforme esperado.
+
+#### Integrações
+
+**Problemas com a integração de Dropbox**
+
+Os seguintes problemas foram relatados em relação à integração com o Dropbox:
+
+* Ao tentar procurar um arquivo no seletor de arquivos do Dropbox, uma mensagem de erro de autorização é exibida e o seletor de arquivos não recupera o arquivo do Dropbox.
+* Ao tentar abrir uma pasta vinculada, a pessoa vê um erro informando que os arquivos ou a pasta não existem mais no Dropbox.
+
+Esses erros ocorrem devido a problemas com o Dropbox, não com o Workfront.
+
++++
+
 ## Atualizações em julho de 2024
-
-
 
 +++**Atualização de manutenção em sexta-feira, 25 de julho de 2024**
 
