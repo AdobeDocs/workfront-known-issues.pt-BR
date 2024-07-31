@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 3d966ae45f5a1a6c6e34dc49c801186178e7635d
 workflow-type: tm+mt
 source-wordcount: '4751'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -55,15 +55,15 @@ Esses erros ocorrem devido a problemas com o Dropbox, não com o Workfront.
 
 #### Formulários personalizados
 
-**A lista suspensa é fechada ao selecionar vários valores**
+**A lista suspensa se fecha ao selecionar vários valores**
 
-Quando um usuário tenta selecionar vários valores em um campo de formulário personalizado, a lista suspensa é fechada após a seleção do primeiro valor.
+Ao tentar selecionar vários valores em um campo de formulário personalizado, a lista suspensa se fecha após selecionar o primeiro valor.
 
 Isso ocorre quando o campo é associado à lógica de exibição no formulário personalizado.
 
 #### Notificações
 
-**Miniaturas não visíveis nas notificações por email**
+**As miniaturas não ficam visíveis nas notificações por email**
 
 Quando uma pessoa visualiza uma notificação por email relacionada a uma aprovação de documento, a miniatura do documento não fica visível no email.
 
@@ -77,29 +77,29 @@ Esse problema foi relatado no Gmail.
 
 #### Ágil
 
-**O Storyboard fica em branco ao adicionar uma subtarefa**
+**O storyboard fica em branco ao adicionar uma subtarefa**
 
 Quando uma pessoa tenta adicionar uma subtarefa a um storyboard enquanto um filtro está selecionado, a tela fica em branco e não é possível adicionar a subtarefa.
 
 #### Início
 
-**Não é possível abrir itens do [!UICONTROL Calendário da Página Inicial] ou da [!UICONTROL Lista de Trabalho]**
+**Não é possível abrir itens a partir do [!UICONTROL calendário da página inicial] ou da [!UICONTROL lista de trabalho]**
 
 Quando uma pessoa tenta abrir um item de trabalho ou uma prova do [!UICONTROL Calendário da página inicial] ou da [!UICONTROL Lista de trabalho da página inicial], o item não abre.
 
-**A página inicial do administrador é exibida quando conectado como outro usuário**
+**A página inicial de admins aparece ao se conectar como outro usuário**
 
-Quando um administrador efetua logon como outro usuário e visualiza a Página inicial desse usuário, a Página inicial do administrador é exibida.
+Quando um(a) admin faz logon como outro usuário e visualiza a página inicial desse usuário, a página inicial de admins é exibida.
 
 #### Provas
 
-**Fechar uma prova abre a página Documentos do Produto**
+**Fechar uma prova leva à página “Documentos do produto”**
 
 Quando uma pessoa que está visualizando uma prova a fecha, ela é direcionada para a página Documentos do projeto, em vez de a página na qual a prova foi aberta.
 
 #### Workfront
 
-**Terminologia personalizada não aplicada**
+**A terminologia personalizada não é aplicada**
 
 A terminologia personalizada definida no modelo de layout não aparece em algumas áreas do Workfront. Em vez disso, a terminologia padrão não personalizada é exibida.
 

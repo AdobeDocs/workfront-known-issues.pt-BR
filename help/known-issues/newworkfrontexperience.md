@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 476d10ffa4de9094a76a011b69b9a7acd11b0339
 workflow-type: tm+mt
 source-wordcount: '843'
-ht-degree: 95%
+ht-degree: 99%
 
 ---
 
@@ -45,7 +45,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 |----------------------------------| ----------------- |
 | [Quadros: o cartão não inclui subtarefas](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 25 de julho de 2024 |
 | [Atualizações: os usuários não são notificados sobre atualizações direcionadas](known-issues-workfront/wf-updates-users-not-getting-email.md) | sexta-feira, 25 de julho de 2024 |
-| [Níveis de Acesso: Níveis de acesso duplicados na área de Instalação](known-issues-workfront/wf-access-duplicate-level.md) | sexta-feira, 25 de julho de 2024 |
+| [Níveis de acesso: níveis de acesso duplicados na área “Configuração”](known-issues-workfront/wf-access-duplicate-level.md) | sexta-feira, 25 de julho de 2024 |
 | [Projetos: o símbolo de moeda está incorreto ao exportar](known-issues-workfront/wf-projects-currency-symbol-incorrect.md) | sexta-feira, 18 de julho de 2024 |
 | [Formulários personalizados: formulários personalizados não são excluídos do documento](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | sexta-feira, 18 de julho de 2024 |
 | [Não é possível criar uma exibição para a lista Documentos](known-issues-workfront/wf-documents-cannot-add-new-view.md) | terça-feira, 15 de julho de 2024 |
