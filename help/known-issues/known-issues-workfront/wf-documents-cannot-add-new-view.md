@@ -4,14 +4,18 @@ description: '"Quando um usuário tenta criar uma nova visualização em uma lis
 hidefromtoc: true
 feature: Digital Content and Documents, Work Management
 exl-id: 19fe57f9-fea3-48da-8c82-51e2991958d7
-source-git-commit: a04d80ecff08c17a0e4006f71e23c841c20581b1
+source-git-commit: 4a75c9135e2b1ba7dab0ab8d69d52b6d1469aa49
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 63%
+source-wordcount: '91'
+ht-degree: 65%
 
 ---
 
 # Documentos: não é possível criar a exibição da lista Documentos
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em sexta-feira, 1 de agosto de 2024.
 
 Quando uma pessoa tenta criar uma nova exibição em uma lista Documentos, a tela fica em branco e não é possível criar a exibição.
 
