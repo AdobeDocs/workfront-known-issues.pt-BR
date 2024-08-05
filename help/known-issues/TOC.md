@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
+source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
 workflow-type: tm+mt
-source-wordcount: '1908'
-ht-degree: 96%
+source-wordcount: '1991'
+ht-degree: 95%
 
 ---
 
@@ -17,15 +17,26 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Notificações: erro Whoops ao definir preferências de notificação](known-issues-workfront/wf-notifications-whoops-error.md)
+      + [Formulários personalizados: o navegador falha ao criar formulários grandes](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)
+      + [Relatórios: os deliveries de relatórios estão atrasados ou ausentes](known-issues-workfront/wf-reports-not-delivered.md)
+      + [Tarefas: problemas com linha do tempo recalculação](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md)
+      + [Formulários personalizados: o construtor de formulários falha ao inserir a lógica de exibição](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md)
+      + [Documentos: clicar em um nome de documento leva a página em branco](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md)
+      + [Formulários personalizados: não é possível rolar o campo de pesquisa externa](known-issues-workfront/wf-custom-forms-cannot-scroll-external-lookup.md)
+      + [Formulários personalizados: campo calculado mostrando valor incorreto](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md)
+      + [Workfront Fusion: não é possível autenticar uma conexão usando o Log da Workfront como funcionalidade](known-issues-workfront/wf-fusion-cannot-use-login-as.md)
+      + [Configuração: &quot;Fazer logon como&quot; leva a uma tela em branco](known-issues-workfront/wf-setup-blank-screen-for-login-as.md)
+      + [API: solicitações para tempo limite](known-issues-workfront/wf-api-request-timing-out.md)
       + [Atualizações: os usuários não são notificados sobre atualizações direcionadas](known-issues-workfront/wf-updates-users-not-getting-email.md)
       + [Provas: abrir uma prova abre várias cópias](known-issues-workfront/wf-proofs-two-proofs-open.md)
-      + [Fazer logon como: a página inicial e os pinos são exibidos de forma imprecisa ao fazer logout de &quot;Fazer logon como&quot;](known-issues-workfront/wf-login-as-displays-when-logged-out.md)
+      + [Fazer logon como: a página inicial e os pinos são exibidos incorretamente ao sair da conta por meio da opção “Fazer logon como”](known-issues-workfront/wf-login-as-displays-when-logged-out.md)
       + [Tarefas: as tarefas não têm permissões herdadas](known-issues-workfront/wf-tasks-inherited-permissions-missing.md)
-      + [Níveis de Acesso: Níveis de acesso duplicados na área Configuração](known-issues-workfront/wf-access-duplicate-level.md)
+      + [Níveis de acesso: níveis de acesso duplicados na área “Configuração”](known-issues-workfront/wf-access-duplicate-level.md)
       + [Projetos: o símbolo de moeda está incorreto ao exportar](known-issues-workfront/wf-projects-currency-symbol-incorrect.md)
-      + [Formulários personalizados: a lista suspensa é fechada ao selecionar vários valores](known-issues-workfront/wf-custom-forms-dropdown-closes.md)
+      + [Formulários personalizados: a lista suspensa se fecha ao selecionar vários valores](known-issues-workfront/wf-custom-forms-dropdown-closes.md)
       + [Quadros: erro ao carregar um quadro](known-issues-workfront/wf-boards-error-when-loading-board.md)
-      + [Provas: provas aprovadas aparecem nos relatórios](known-issues-workfront/wf-proofs-approved-showing-on-reports.md)
+      + [Provas: as provas aprovadas aparecem nos relatórios](known-issues-workfront/wf-proofs-approved-showing-on-reports.md)
       + [Não é possível criar uma exibição para a lista Documentos](known-issues-workfront/wf-documents-cannot-add-new-view.md)
       + [Agile: o storyboard fica em branco ao adicionar uma subtarefa](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)
       + [Usuários: a página de perfil do usuário carrega continuamente](known-issues-workfront/wf-users-profile-continuously-reloads.md)
