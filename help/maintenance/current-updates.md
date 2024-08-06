@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 4a75c9135e2b1ba7dab0ab8d69d52b6d1469aa49
+source-git-commit: 6a969ff30fbc8299786ceda421f615c0c6322a4d
 workflow-type: tm+mt
-source-wordcount: '4749'
-ht-degree: 99%
+source-wordcount: '4858'
+ht-degree: 98%
 
 ---
 
@@ -21,6 +21,30 @@ As seguintes atualizações de manutenção foram efetuadas em 2024.
 Para obter atualizações de manutenção anteriores a 2024, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em agosto de 2024
+
++++**(Planejado) Atualização de manutenção em sexta-feira, 8 de agosto de 2024**
+
+### (Planejado) Atualização de manutenção em sexta-feira, 8 de agosto de 2024
+
+#### Quadros
+
+**O cartão não inclui subtarefas**
+
+Quando uma pessoa visualiza um cartão de uma tarefa que é uma tarefa principal, suas subtarefas não são exibidas no cartão. Em vez disso, o cartão mostra que há 0 subtarefas.
+
+### Relatórios
+
+**As entregas de relatório estão atrasadas ou ausentes**
+
+Os relatórios com deliveries agendados não são entregues conforme esperado. Elas podem estar atrasadas ou podem não ser entregues.
+
+#### Configuração
+
+**&quot;Fazer logon como&quot; abre uma tela em branco**
+
+Quando um administrador faz logon como outro usuário, em vez de ver a conta desse usuário, o administrador vê uma tela em branco.
+
++++
 
 +++**Atualização de manutenção em sexta-feira, 1 de agosto de 2024**
 
