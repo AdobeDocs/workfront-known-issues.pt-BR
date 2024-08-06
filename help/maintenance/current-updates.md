@@ -36,7 +36,7 @@ As exibições já existentes funcionam conforme esperado.
 
 #### Integrações
 
-**Problemas com a integração de Dropbox**
+**Problemas com a integração com o Dropbox**
 
 Os seguintes problemas foram relatados em relação à integração com o Dropbox:
 
@@ -867,7 +867,7 @@ Os seguintes problemas foram relatados em relação aos status do botão [!UICON
 
 Quando um usuário tenta anexar um modelo a um projeto, o seguinte erro é exibido:
 
-“Ops! Um erro inesperado aconteceu. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.”
+“Ops! Algo deu errado. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.”
 
 Isso ocorre quando o usuário não tem permissão de Visualização para um formulário personalizado anexado ao modelo.
 
