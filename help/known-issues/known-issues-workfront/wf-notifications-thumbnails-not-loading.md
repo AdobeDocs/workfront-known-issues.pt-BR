@@ -4,18 +4,22 @@ description: Quando uma pessoa visualiza uma notificação por email relacionada
 hidefromtoc: true
 feature: Updates and Notifications, Digital Content and Documents
 exl-id: 8f378ff6-5a44-40a2-b28e-c613b63a1b76
-source-git-commit: 476d10ffa4de9094a76a011b69b9a7acd11b0339
-workflow-type: ht
-source-wordcount: '70'
+source-git-commit: ebd60c6433e8ef475d1b93f50790cc7305c4678e
+workflow-type: tm+mt
+source-wordcount: '64'
 ht-degree: 100%
 
 ---
 
 # Notificações: as miniaturas não ficam visíveis nas notificações por email
 
+<!--
+
 >[!NOTE]
 >
->Esse problema foi corrigido em terça-feira, 29 de julho de 2024.
+>This issue was fixed on July 29, 2024.
+
+-->
 
 Quando uma pessoa visualiza uma notificação por email relacionada a uma aprovação de documento, a miniatura do documento não fica visível no email.
 
