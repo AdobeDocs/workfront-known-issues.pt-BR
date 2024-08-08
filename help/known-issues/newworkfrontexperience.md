@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ebd60c6433e8ef475d1b93f50790cc7305c4678e
+source-git-commit: e10357f37cd453025e0e3b214cd5dd253719fb21
 workflow-type: tm+mt
-source-wordcount: '934'
-ht-degree: 89%
+source-wordcount: '902'
+ht-degree: 91%
 
 ---
 
@@ -45,16 +45,13 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
+| [Quadros: problemas relacionados a cartões duplicados](known-issues-workfront/wf-boards-some-cards-duplicated.md) | terça-feira, 5 de agosto de 2024 |
 | [Notificações: as miniaturas não ficam visíveis nas notificações por email](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8 de agosto de 2024 |
-| [Quadros: problemas relacionados a cartões duplicados](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 25 de julho de 2024 |
 | [Formulários personalizados: o navegador falha ao criar formulários grandes](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 5 de agosto de 2024 |
-| [Relatórios: as entregas de relatórios estão atrasadas ou ausentes](known-issues-workfront/wf-reports-not-delivered.md) | 5 de agosto de 2024 |
 | [Formulários personalizados: o construtor de formulários trava ao inserir a lógica de exibição](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 5 de agosto de 2024 |
 | [Documentos: Clicar em um nome de documento abre uma página em branco](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md) | 5 de agosto de 2024 |
 | [Formulários personalizados: não é possível rolar o campo de pesquisa externo](known-issues-workfront/wf-custom-forms-cannot-scroll-external-lookup.md) | 5 de agosto de 2024 |
 | [Formulários personalizados: campo calculado mostrando valor incorreto](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 5 de agosto de 2024 |
-| [Configuração: &quot;Fazer logon como&quot; abre uma tela em branco](known-issues-workfront/wf-setup-blank-screen-for-login-as.md) | 5 de agosto de 2024 |
-| [Quadros: o cartão não inclui subtarefas](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 25 de julho de 2024 |
 | [Níveis de acesso: níveis de acesso duplicados na área “Configuração”](known-issues-workfront/wf-access-duplicate-level.md) | sexta-feira, 25 de julho de 2024 |
 | [Projetos: o símbolo de moeda está incorreto ao exportar](known-issues-workfront/wf-projects-currency-symbol-incorrect.md) | sexta-feira, 18 de julho de 2024 |
 | [Formulários personalizados: formulários personalizados não são excluídos do documento](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | sexta-feira, 18 de julho de 2024 |

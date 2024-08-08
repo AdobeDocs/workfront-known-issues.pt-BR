@@ -4,19 +4,18 @@ description: Quando uma pessoa visualiza um cartão de uma tarefa que é uma tar
 hidefromtoc: true
 feature: Agile
 exl-id: 542514fa-6144-475a-a541-e02c392eb302
-source-git-commit: f594e4f6114d0cef27088ee0ad2d92b793bf2bdc
+source-git-commit: da6a28494f7550727031bc4eee4947b86bfd9fea
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '94'
 ht-degree: 100%
 
 ---
 
 # Quadros: o cartão não inclui subtarefas
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on April 4, 2024.-->
+>Esse problema foi corrigido em sexta-feira, 8 de agosto de 2024.
 
 Quando uma pessoa visualiza um cartão de uma tarefa que é uma tarefa principal, suas subtarefas não são exibidas no cartão. Em vez disso, o cartão mostra que há 0 subtarefas.
 
