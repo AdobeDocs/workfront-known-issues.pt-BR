@@ -4,9 +4,9 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e10357f37cd453025e0e3b214cd5dd253719fb21
+source-git-commit: cf88e835ef023ba2a74b732aa4e512820f533950
 workflow-type: tm+mt
-source-wordcount: '902'
+source-wordcount: '910'
 ht-degree: 91%
 
 ---
@@ -25,12 +25,10 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Notificações: erro ao definir preferências de notificação](known-issues-workfront/wf-notifications-whoops-error.md) | terça-feira, 5 de agosto de 2024 |
 | [Tarefas: problemas com o recálculo da linha de tempo](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | terça-feira, 5 de agosto de 2024 |
 | [API: tempo limite de solicitações](known-issues-workfront/wf-api-request-timing-out.md) | terça-feira, 5 de agosto de 2024 |
 | [Provas: abrir uma prova abre várias cópias](known-issues-workfront/wf-proofs-two-proofs-open.md) | sexta-feira, 25 de julho de 2024 |
 | [Quadros: o cartão não inclui subtarefas](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 23 de julho de 2024 |
-| [Quadros: erro ao carregar um quadro](known-issues-workfront/wf-boards-error-when-loading-board.md) | sexta-feira, 18 de julho de 2024 |
 | [Navegação: o botão Voltar não retorna à página anterior](known-issues-workfront/wf-navigation-back-button-not-work.md) | sábado, 28 de junho de 2024 |
 | [Integrações: vincular uma pasta do  [!DNL Google Drive]  não vincula seus ativos](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | quarta-feira, 25 de junho de 2024 |
 | [Quadros: os quadros exibidos não são os do usuário escolhido ao usar a opção [!UICONTROL Fazer logon como]](known-issues-workfront/wf-boards-log-in-as.md) | sábado, 21 de junho de 2024 |
@@ -45,6 +43,9 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
+| [Notificações: erro ao definir preferências de notificação](known-issues-workfront/wf-notifications-whoops-error.md) | sexta-feira, 8 de agosto de 2024 |
+| [Quadros: erro ao carregar um quadro](known-issues-workfront/wf-boards-error-when-loading-board.md) | sexta-feira, 8 de agosto de 2024 |
+| [Notificações: as miniaturas não ficam visíveis nas notificações por email](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | sexta-feira, 8 de agosto de 2024 |
 | [Quadros: problemas relacionados a cartões duplicados](known-issues-workfront/wf-boards-some-cards-duplicated.md) | terça-feira, 5 de agosto de 2024 |
 | [Notificações: as miniaturas não ficam visíveis nas notificações por email](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8 de agosto de 2024 |
 | [Formulários personalizados: o navegador falha ao criar formulários grandes](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 5 de agosto de 2024 |
