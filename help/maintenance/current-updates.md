@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: da6a28494f7550727031bc4eee4947b86bfd9fea
 workflow-type: tm+mt
 source-wordcount: '4856'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -36,19 +36,19 @@ Quando uma pessoa visualiza um cartão de uma tarefa que é uma tarefa principal
 
 **As entregas de relatório estão atrasadas ou ausentes**
 
-Os relatórios com deliveries agendados não são entregues conforme esperado. Elas podem estar atrasadas ou podem não ser entregues.
+Os relatórios com entregas programadas não são entregues conforme o esperado. As entregas podem atrasar ou até mesmo não ser realizadas.
 
 #### Configuração
 
 **&quot;Fazer logon como&quot; abre uma tela em branco**
 
-Quando um administrador faz logon como outro usuário, em vez de ver a conta desse usuário, o administrador vê uma tela em branco.
+Quando um(a) admin faz logon como outro usuário, uma tela em branco aparece em vez da conta desse usuário.
 
 +++
 
 +++**Atualização de manutenção em sexta-feira, 1 de agosto de 2024**
 
-### Atualização de manutenção em 1 de agosto de 2024
+### Atualização de manutenção em 1º de agosto de 2024
 
 #### Documentos
 
