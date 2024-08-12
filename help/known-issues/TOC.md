@@ -3,9 +3,9 @@ user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
 source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1991'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -17,17 +17,17 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
-      + [Notificações: erro Whoops ao definir preferências de notificação](known-issues-workfront/wf-notifications-whoops-error.md)
-      + [Formulários personalizados: o navegador falha ao criar formulários grandes](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)
-      + [Relatórios: os deliveries de relatórios estão atrasados ou ausentes](known-issues-workfront/wf-reports-not-delivered.md)
-      + [Tarefas: problemas com linha do tempo recalculação](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md)
-      + [Formulários personalizados: o construtor de formulários falha ao inserir a lógica de exibição](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md)
-      + [Documentos: clicar em um nome de documento leva a página em branco](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md)
+      + [Notificações: erro “Ops!” ao definir as preferências de notificação](known-issues-workfront/wf-notifications-whoops-error.md)
+      + [Formulários personalizados: o navegador trava ao criar formulários grandes](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)
+      + [Relatórios: as entregas de relatórios estão atrasadas ou ausentes](known-issues-workfront/wf-reports-not-delivered.md)
+      + [Tarefas: problemas com o recálculo da linha do tempo](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md)
+      + [Formulários personalizados: o construtor de formulários trava ao inserir a lógica de exibição](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md)
+      + [Documentos: clicar em um nome de documento abre uma página em branco](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md)
       + [Formulários personalizados: não é possível rolar o campo de pesquisa externa](known-issues-workfront/wf-custom-forms-cannot-scroll-external-lookup.md)
-      + [Formulários personalizados: campo calculado mostrando valor incorreto](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md)
-      + [Workfront Fusion: não é possível autenticar uma conexão usando o Log da Workfront como funcionalidade](known-issues-workfront/wf-fusion-cannot-use-login-as.md)
-      + [Configuração: &quot;Fazer logon como&quot; leva a uma tela em branco](known-issues-workfront/wf-setup-blank-screen-for-login-as.md)
-      + [API: solicitações para tempo limite](known-issues-workfront/wf-api-request-timing-out.md)
+      + [Formulários personalizados: o campo calculado mostra um valor incorreto](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md)
+      + [Workfront Fusion: não é possível autenticar uma conexão usando a funcionalidade Fazer logon como](known-issues-workfront/wf-fusion-cannot-use-login-as.md)
+      + [Configuração: a opção “Fazer logon como” abre uma tela em branco](known-issues-workfront/wf-setup-blank-screen-for-login-as.md)
+      + [API: as solicitações atingem o tempo limite](known-issues-workfront/wf-api-request-timing-out.md)
       + [Atualizações: os usuários não são notificados sobre atualizações direcionadas](known-issues-workfront/wf-updates-users-not-getting-email.md)
       + [Provas: abrir uma prova abre várias cópias](known-issues-workfront/wf-proofs-two-proofs-open.md)
       + [Fazer logon como: a página inicial e os pinos são exibidos incorretamente ao sair da conta por meio da opção “Fazer logon como”](known-issues-workfront/wf-login-as-displays-when-logged-out.md)

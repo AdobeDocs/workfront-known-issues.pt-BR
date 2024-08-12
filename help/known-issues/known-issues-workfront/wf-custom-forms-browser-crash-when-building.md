@@ -1,20 +1,20 @@
 ---
-title: "Formulários personalizados: o navegador falha ao criar formulários grandes"
-description: "Quando uma usuário está criando ou editando um formulário grande no designer de formulários, a navegador pode falhar e o usuário não pode criar ou editar o formulário."
+title: '“Formulários personalizados: o navegador trava ao criar formulários grandes”'
+description: “Ao criar ou editar um formulário grande no designer de formulários, o navegador pode travar e impossibilitar a criação ou edição do formulário.”
 hidefromtoc: true
 feature: Custom Forms
 source-git-commit: c05c388824293dcee4074eb76e2beec6e7cc5d6d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '89'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# Formulários personalizados: o navegador falha ao criar formulários grandes
+# Formulários personalizados: o navegador trava ao criar formulários grandes
 
-Quando um usuário está criando ou editando um formulário grande no designer de formulários, o navegador pode falhar e o usuário não pode criar ou editar o formulário.
+Ao criar ou editar um formulário grande no designer de formulários, o navegador pode travar e impossibilitar a criação ou edição do formulário.
 
-Isso está afetando o designer de formulários. Os formulários podem ser usados em objetos como esperado.
+Isso afeta o designer de formulários. Ainda é possível usar os formulários em objetos conforme esperado.
 
 _Relatado pela primeira vez em terça-feira, 29 de julho de 2024._
