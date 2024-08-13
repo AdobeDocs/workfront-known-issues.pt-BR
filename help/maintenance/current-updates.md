@@ -3,9 +3,9 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: da6a28494f7550727031bc4eee4947b86bfd9fea
+source-git-commit: 550eddafb8d52aae6eb89066d74907cd0bcbb4e9
 workflow-type: tm+mt
-source-wordcount: '4856'
+source-wordcount: '4997'
 ht-degree: 99%
 
 ---
@@ -21,6 +21,41 @@ As seguintes atualizações de manutenção foram efetuadas em 2024.
 Para obter atualizações de manutenção anteriores a 2024, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em agosto de 2024
+
++++**Atualização de manutenção em sexta-feira, 15 de agosto de 2024**
+
+### Atualização de manutenção em 15 de agosto de 2024
+
+#### Quadros
+
+**Problemas relacionados a cartões duplicados**
+
+Os seguintes problemas foram relatados em relação a cartões duplicados em Quadros:
+
+* Um cartão é exibido duas vezes. Isso pode ser resolvido atualizando a página.
+* Se você excluir um dos cartões duplicados, todas as instâncias desse cartão duplicado serão excluídas.
+
+#### Notificações
+
+**Erro ao definir preferências de notificação**
+
+O seguinte erro ocorre ao tentar exibir as preferências de notificação:
+
+“[!UICONTROL Ops! Algo deu errado. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.]”
+
+Esse problema foi relatado nas seguintes áreas:
+
+* Configurações de notificação em um perfil de usuário
+* Área de notificações de eventos em Configuração
+
+#### Projetos
+
+**O símbolo de moeda está incorreto ao exportar**
+
+Ao exportar um problema, o símbolo de moeda da exportação não corresponde à moeda definida no projeto ou no problema.
+
+
++++
 
 +++**Atualização de manutenção em sexta-feira, 8 de agosto de 2024**
 
