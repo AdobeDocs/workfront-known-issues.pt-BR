@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3bd94e7fbed03e3394f01043b3af32f29cc6d09e
+source-git-commit: b6ed840df25684f16f88bc30fe7a8138e37fbe53
 workflow-type: tm+mt
-source-wordcount: '4999'
-ht-degree: 99%
+source-wordcount: '5019'
+ht-degree: 98%
 
 ---
 
@@ -53,6 +53,12 @@ Esse problema foi relatado nas seguintes áreas:
 **O símbolo de moeda está incorreto ao exportar**
 
 Ao exportar um problema, o símbolo de moeda da exportação não corresponde à moeda definida no projeto ou no problema.
+
+#### Provas
+
+**Marcações de prova imprecisas**
+
+As marcações de prova estão desalinhadas nas impressões de PDF recebidas por email do recurso Impressão de prova.
 
 
 +++

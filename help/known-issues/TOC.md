@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
-workflow-type: ht
-source-wordcount: '1991'
-ht-degree: 100%
+source-git-commit: dbbedf12a1af39e5668b7a5288c47f3be327555e
+workflow-type: tm+mt
+source-wordcount: '2058'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,14 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Workfront: várias guias do navegador fazem com que o Workfront faça logoff](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
+      + [Relatórios: não é possível clicar em um relatório da área Campos personalizados da Configuração](known-issues-workfront/wf-reports-cannot-click-on-report.md)
+      + [Solicitações: o usuário pode alterar o status apesar da falta de permissões](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)
+      + [Quadros: a placa conectada está na coluna incorreta](known-issues-workfront/wf-boards-connected-card-incorrect-column.md)
+      + [Workfront Mobile: não é possível entrar sem usar o SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md)
+      + [Relatórios: erro ao exportar relatório](known-issues-workfront/wf-reports-error-cache-content.md)
+      + [Usuários: a configuração de localidade de email do usuário não está sendo salva](known-issues-workfront/wf-users-email-locale-not-saving.md)
+      + [Integrações: erro ao criar uma solicitação do Outlook](known-issues-workfront/wf-integrations-outlook-attachment-error.md)
       + [Notificações: erro “Ops!” ao definir as preferências de notificação](known-issues-workfront/wf-notifications-whoops-error.md)
       + [Formulários personalizados: o navegador trava ao criar formulários grandes](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)
       + [Relatórios: as entregas de relatórios estão atrasadas ou ausentes](known-issues-workfront/wf-reports-not-delivered.md)
