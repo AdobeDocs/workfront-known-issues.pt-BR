@@ -4,22 +4,19 @@ description: Relato de problemas em relação a cartões duplicados em Quadros.
 hidefromtoc: true
 feature: Agile
 exl-id: f08d6464-99df-4b49-be0f-becc8297c6c5
-source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
-workflow-type: ht
-source-wordcount: '63'
+source-git-commit: dfecda276ab8f6da56bbe2442f09d0a6cb0c71de
+workflow-type: tm+mt
+source-wordcount: '69'
 ht-degree: 100%
 
 ---
 
 # Quadros: problemas relacionados a cartões duplicados
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on May 2, 2024.
+>Esse problema foi corrigido em sexta-feira, 15 de agosto de 2024.
 
--->
 
 Os seguintes problemas foram relatados em relação a cartões duplicados em Quadros:
 

@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: dbbedf12a1af39e5668b7a5288c47f3be327555e
+source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
 workflow-type: tm+mt
-source-wordcount: '2058'
-ht-degree: 96%
+source-wordcount: '2106'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,12 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Página inicial: &quot;Sem acesso&quot; é exibido como nome do projeto](known-issues-workfront/wf-home-no-access-project-name.md)
+      + [Documentos: não é possível visualizar documentos com link de visualização](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md)
+      + [Formulários personalizados: exibir erro de conversões de tipo em formulários personalizados](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md)
+      + [Formulários personalizados: não é possível editar campos na página da lista de campos](known-issues-workfront/wf-custom-forms-large-field-causes-crash.md)
+      + [Página inicial: a página inicial falha com o erro &quot;Memória insuficiente&quot;](known-issues-workfront/wf-home-crashes-with-error.md)
+      + [Configuração: problemas ao fazer logout como outro usuário](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md)
       + [Workfront: várias guias do navegador fazem com que o Workfront faça logoff](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
       + [Relatórios: não é possível clicar em um relatório da área Campos personalizados da Configuração](known-issues-workfront/wf-reports-cannot-click-on-report.md)
       + [Solicitações: o usuário pode alterar o status apesar da falta de permissões](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)
