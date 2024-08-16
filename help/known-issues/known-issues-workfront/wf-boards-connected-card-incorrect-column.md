@@ -3,15 +3,19 @@ title: "Quadros: o cartão conectado está na coluna incorreta"
 description: "Problemas relacionados aos cartões conectados na coluna errada."
 hidefromtoc: true
 feature: Agile
-source-git-commit: b6ed840df25684f16f88bc30fe7a8138e37fbe53
+source-git-commit: 5a6d6b7d8866d234340bb816531353495e1e7f1c
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 5%
+source-wordcount: '85'
+ht-degree: 11%
 
 ---
 
 
 # Quadros: a placa conectada está na coluna incorreta
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em sexta-feira, 15 de agosto de 2024.
 
 Os seguintes problemas foram relatados em relação aos cartões conectados na coluna errada:
 
