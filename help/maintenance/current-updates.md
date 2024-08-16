@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: dfecda276ab8f6da56bbe2442f09d0a6cb0c71de
 workflow-type: tm+mt
 source-wordcount: '5017'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -24,7 +24,7 @@ Para obter atualizações de manutenção anteriores a 2024, consulte [Atualiza�
 
 +++**Atualização de manutenção em sexta-feira, 15 de agosto de 2024**
 
-### Atualização de manutenção em 15 de agosto de 2024
+### Atualização de manutenção em sexta-feira, 15 de agosto de 2024
 
 #### Quadros
 
@@ -75,13 +75,13 @@ Quando uma pessoa visualiza um cartão de uma tarefa que é uma tarefa principal
 
 ### Relatórios
 
-**As entregas de relatório estão atrasadas ou ausentes**
+**As entregas de relatórios estão atrasadas ou ausentes**
 
 Os relatórios com entregas programadas não são entregues conforme o esperado. As entregas podem atrasar ou até mesmo não ser realizadas.
 
 #### Configuração
 
-**&quot;Fazer logon como&quot; abre uma tela em branco**
+**A opção “Fazer logon como” abre uma tela em branco**
 
 Quando um(a) admin faz logon como outro usuário, uma tela em branco aparece em vez da conta desse usuário.
 
