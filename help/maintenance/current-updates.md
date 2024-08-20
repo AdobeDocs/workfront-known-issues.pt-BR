@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: dfecda276ab8f6da56bbe2442f09d0a6cb0c71de
+source-git-commit: dfb204f364643c92ebce34916c8a926661dd0383
 workflow-type: tm+mt
-source-wordcount: '5017'
-ht-degree: 99%
+source-wordcount: '5093'
+ht-degree: 97%
 
 ---
 
@@ -21,6 +21,18 @@ As seguintes atualizações de manutenção foram efetuadas em 2024.
 Para obter atualizações de manutenção anteriores a 2024, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 ## Atualizações em agosto de 2024
+
++++**Atualização de manutenção em sexta-feira, 22 de agosto de 2024**
+
+### Atualização de manutenção em 22 de agosto,
+
+#### Relatórios
+
+**Não é possível clicar em um relatório da área Campos Personalizados da Configuração**
+
+Quando um usuário visualiza a área Forms personalizado > Campos da configuração e a visualização inclui o campo Relatórios nativo, os links para os relatórios não funcionam. O usuário deve ser capaz de clicar no nome de um relatório e ser levado ao relatório, mas clicar no nome do relatório é ineficiente.
+
++++
 
 +++**Atualização de manutenção em sexta-feira, 15 de agosto de 2024**
 
