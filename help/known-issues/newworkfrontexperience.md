@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 32bed5a9c917cab2cc3a6ccd1065f38c074ca917
+source-git-commit: 73dd7f585ad53937cbcfacf1fec92036be2cf3a1
 workflow-type: tm+mt
-source-wordcount: '1022'
-ht-degree: 88%
+source-wordcount: '1051'
+ht-degree: 86%
 
 ---
 
@@ -25,6 +25,9 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integrações: não é possível fazer logon no Workfront para Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | quinta-feira, 21 de agosto de 2024 |
+| [Página inicial: &quot;widget.list.view&quot; criado quando o usuário move colunas no widget Página inicial](known-issues-workfront/wf-home-widget-list-view.md) | quinta-feira, 21 de agosto de 2024 |
+| [Documentos: comentários de prova não exibidos em atualizações de documento](known-issues-workfront/wf-documents-proof-updates-not-copied.md) | quinta-feira, 21 de agosto de 2024 |
 | [Página inicial: &quot;Sem acesso&quot; é exibido como nome do projeto](known-issues-workfront/wf-home-no-access-project-name.md) | sexta-feira, 15 de agosto de 2024 |
 | [Página Inicial: falha na página inicial com o erro &quot;Memória insuficiente&quot;](known-issues-workfront/wf-home-crashes-with-error.md) | sexta-feira, 15 de agosto de 2024 |
 | [Workfront: várias guias do navegador fazem com que o Workfront saia](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | sexta-feira, 15 de agosto de 2024 |
