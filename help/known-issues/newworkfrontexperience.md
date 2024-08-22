@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 73dd7f585ad53937cbcfacf1fec92036be2cf3a1
+source-git-commit: 7e512694b62cdcf9db71fe4d658855e7b7e8c335
 workflow-type: tm+mt
-source-wordcount: '1051'
-ht-degree: 96%
+source-wordcount: '1025'
+ht-degree: 97%
 
 ---
 
@@ -26,7 +26,6 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
 | [Integrações: não é possível fazer logon no Workfront para Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | quinta-feira, 21 de agosto de 2024 |
-| [Página inicial: &quot;widget.list.view&quot; criado quando o usuário move colunas no widget Página inicial](known-issues-workfront/wf-home-widget-list-view.md) | quinta-feira, 21 de agosto de 2024 |
 | [Documentos: comentários de prova não exibidos em atualizações de documento](known-issues-workfront/wf-documents-proof-updates-not-copied.md) | quinta-feira, 21 de agosto de 2024 |
 | [Página inicial: “Sem acesso” é exibido como nome do projeto](known-issues-workfront/wf-home-no-access-project-name.md) | sexta-feira, 15 de agosto de 2024 |
 | [Página Inicial: falha na página inicial com o erro “Memória insuficiente”](known-issues-workfront/wf-home-crashes-with-error.md) | sexta-feira, 15 de agosto de 2024 |
@@ -53,13 +52,12 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
+| [Formulários personalizados: o padrão do Forms é Formulários do projeto](known-issues-workfront/wf-custom-forms-default-to-project.md) | sexta-feira, 22 de agosto de 2024 |
 | [Página inicial: o widget de aprovações pendentes mostra documentos excluídos](known-issues-workfront/wf-home-deleted-documents.md) | terça-feira, 19 de agosto de 2024 |
 | [Quadros: o cartão não inclui subtarefas](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | terça-feira, 19 de agosto de 2024 |
 | [Documentos: não é possível visualizar documentos com o link de visualização](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | sexta-feira, 15 de agosto de 2024 |
 | [Formulários personalizados: erro de conversões do tipo de exibição em formulários personalizados](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | sexta-feira, 15 de agosto de 2024 |
-| [Formulários personalizados: não é possível editar campos na página da lista de campos](known-issues-workfront/wf-custom-forms-large-field-causes-crash.md) | sexta-feira, 15 de agosto de 2024 |
 | [Configuração: problemas ao fazer logout como outro usuário](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | sexta-feira, 15 de agosto de 2024 |
-| [Relatórios: não é possível clicar em um relatório da área Campos personalizados da Configuração](known-issues-workfront/wf-reports-cannot-click-on-report.md) | quinta-feira, 14 de agosto de 2024 |
 | [Integrações: erro ao criar uma solicitação do Outlook](known-issues-workfront/wf-integrations-outlook-attachment-error.md) | quinta-feira, 14 de agosto de 2024 |
 | [Notificações: erro “Ops!” ao definir as preferências de notificação](known-issues-workfront/wf-notifications-whoops-error.md) | sexta-feira, 8 de agosto de 2024 |
 | [Quadros: erro ao carregar um quadro](known-issues-workfront/wf-boards-error-when-loading-board.md) | sexta-feira, 8 de agosto de 2024 |
