@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 684f28db9c0eff8a7503912032af176da27dc9e2
 workflow-type: tm+mt
 source-wordcount: '5121'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -34,7 +34,7 @@ As seguintes atualizações de manutenção foram efetuadas em 2024.
 
 **Não é possível clicar em um relatório da área Campos Personalizados da Configuração**
 
-Quando um usuário visualiza a área Forms personalizado > Campos da configuração e a visualização inclui o campo Relatórios nativo, os links para os relatórios não funcionam. O usuário deve ser capaz de clicar no nome de um relatório e ser levado ao relatório, mas clicar no nome do relatório é ineficiente.
+Quando uma pessoa está visualizando a área Formulários personalizados > Campos, da configuração, e a exibição inclui o campo Relatórios nativo, os links para os relatórios não funcionam. A pessoa deveria ser capaz de clicar no nome de um relatório e ser direcionado a ele, mas isso não funciona.
 
 +++
 
@@ -53,7 +53,7 @@ Os seguintes problemas foram relatados em relação a cartões duplicados em Qua
 
 #### Notificações
 
-**Erro ao definir preferências de notificação**
+**Erro ao definir as preferências de notificação**
 
 O seguinte erro ocorre ao tentar exibir as preferências de notificação:
 

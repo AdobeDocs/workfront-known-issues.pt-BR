@@ -5,7 +5,7 @@ role: User
 source-git-commit: 411c1488a5d7ba1c0065f96763c191d609059675
 workflow-type: tm+mt
 source-wordcount: '2139'
-ht-degree: 93%
+ht-degree: 98%
 
 ---
 
@@ -21,18 +21,18 @@ ht-degree: 93%
       + [Página inicial: &quot;widget.list.view&quot; criado quando o usuário move colunas no widget Página inicial](known-issues-workfront/wf-home-widget-list-view.md)
       + [Documentos: comentários de prova não exibidos em atualizações de documento](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
       + [Página inicial: o widget Aprovações pendentes mostra documentos excluídos](known-issues-workfront/wf-home-deleted-documents.md)
-      + [Página inicial: &quot;Sem acesso&quot; é exibido como nome do projeto](known-issues-workfront/wf-home-no-access-project-name.md)
-      + [Documentos: não é possível visualizar documentos com link de visualização](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md)
-      + [Formulários personalizados: exibir erro de conversões de tipo em formulários personalizados](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md)
+      + [Página inicial: “Sem acesso” é exibido como nome do projeto](known-issues-workfront/wf-home-no-access-project-name.md)
+      + [Documentos: não é possível visualizar documentos com o link de visualização](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md)
+      + [Formulários personalizados: erro de conversões do tipo de exibição em formulários personalizados](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md)
       + [Formulários personalizados: não é possível editar campos na página da lista de campos](known-issues-workfront/wf-custom-forms-large-field-causes-crash.md)
-      + [Página inicial: a página inicial falha com o erro &quot;Memória insuficiente&quot;](known-issues-workfront/wf-home-crashes-with-error.md)
+      + [Página inicial: falha na página inicial com o erro “Memória insuficiente”](known-issues-workfront/wf-home-crashes-with-error.md)
       + [Configuração: problemas ao fazer logout como outro usuário](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md)
-      + [Workfront: várias guias do navegador fazem com que o Workfront faça logoff](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
+      + [Workfront: várias guias do navegador fazem com que o Workfront faça logout](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
       + [Relatórios: não é possível clicar em um relatório da área Campos personalizados da Configuração](known-issues-workfront/wf-reports-cannot-click-on-report.md)
-      + [Solicitações: o usuário pode alterar o status apesar da falta de permissões](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)
-      + [Quadros: a placa conectada está na coluna incorreta](known-issues-workfront/wf-boards-connected-card-incorrect-column.md)
-      + [Workfront Mobile: não é possível entrar sem usar o SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md)
-      + [Relatórios: erro ao exportar relatório](known-issues-workfront/wf-reports-error-cache-content.md)
+      + [Solicitações: usuários podem alterar o status apesar da falta de permissões](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)
+      + [Quadros: cartão conectado está na coluna incorreta](known-issues-workfront/wf-boards-connected-card-incorrect-column.md)
+      + [Workfront para dispositivos móveis: não é possível fazer logon sem usar o SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md)
+      + [Relatórios: erro ao exportar o relatório](known-issues-workfront/wf-reports-error-cache-content.md)
       + [Usuários: a configuração de localidade de email do usuário não está sendo salva](known-issues-workfront/wf-users-email-locale-not-saving.md)
       + [Integrações: erro ao criar uma solicitação do Outlook](known-issues-workfront/wf-integrations-outlook-attachment-error.md)
       + [Notificações: erro “Ops!” ao definir as preferências de notificação](known-issues-workfront/wf-notifications-whoops-error.md)
