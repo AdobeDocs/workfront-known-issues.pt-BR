@@ -5,9 +5,9 @@ keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
 source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '467'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 

@@ -1,23 +1,23 @@
 ---
-title: "Formulários personalizados: não é possível editar campos na página da lista de campos"
-description: '"Quando um usuário tenta adicionar um campo grande na página da lista de campos, a página trava com um erro. Uma solução alternativa está disponível.”'
+title: '“Formulários personalizados: não é possível editar campos na página da lista de campos”'
+description: “Quando uma pessoa tenta editar um campo grande na página da lista de campos, a página trava com um erro. Uma solução alternativa está disponível.”
 hidefromtoc: true
 feature: Custom Forms
 source-git-commit: d74148711b4709355ca869f9808bed0cdcf6f6c7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
-ht-degree: 13%
+ht-degree: 100%
 
 ---
 
 
 # Formulários personalizados: não é possível editar campos na página da lista de campos
 
-Quando um usuário tenta adicionar um campo grande na página da lista de campos, a página trava com o seguinte erro:
+Quando uma pessoa tenta editar um campo grande na página da lista de campos, a página trava com o seguinte erro:
 
-&quot;[!UICONTROL Aww Snap, algo deu errado ao exibir esta página. Código de erro 5]&quot;
+“[!UICONTROL Algo deu errado ao exibir esta página. Código de erro 5]”
 
-Esse problema foi relatado com navegadores baseados em Chromium
+Esse problema foi relatado com um navegador baseado em Chromium
 
 **Solução alternativa**
 

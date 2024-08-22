@@ -4,7 +4,7 @@ description: “Um erro ocorre ao tentar exibir as preferências de notificaçã
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: dfecda276ab8f6da56bbe2442f09d0a6cb0c71de
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
 ht-degree: 100%
 
