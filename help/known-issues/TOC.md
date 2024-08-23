@@ -5,7 +5,7 @@ role: User
 source-git-commit: 7e512694b62cdcf9db71fe4d658855e7b7e8c335
 workflow-type: tm+mt
 source-wordcount: '2146'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -19,9 +19,9 @@ ht-degree: 98%
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
       + [Formulários personalizados: o padrão do Forms é Formulários de projeto](known-issues-workfront/wf-custom-forms-default-to-project.md)
       + [Integrações: não é possível fazer logon no Workfront para Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
-      + [Página inicial: &quot;widget.list.view&quot; criado quando o usuário move colunas no widget Página inicial](known-issues-workfront/wf-home-widget-list-view.md)
+      + [Página inicial: “widget.list.view” criados quando usuários movem colunas no dispositivo Página inicial](known-issues-workfront/wf-home-widget-list-view.md)
       + [Documentos: comentários de prova não exibidos em atualizações de documento](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
-      + [Página inicial: o widget Aprovações pendentes mostra documentos excluídos](known-issues-workfront/wf-home-deleted-documents.md)
+      + [Página inicial: o dispositivo Aprovações pendentes mostra documentos excluídos](known-issues-workfront/wf-home-deleted-documents.md)
       + [Página inicial: “Sem acesso” é exibido como nome do projeto](known-issues-workfront/wf-home-no-access-project-name.md)
       + [Documentos: não é possível visualizar documentos com o link de visualização](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md)
       + [Formulários personalizados: erro de conversões do tipo de exibição em formulários personalizados](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md)

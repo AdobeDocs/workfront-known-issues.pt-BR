@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 7e512694b62cdcf9db71fe4d658855e7b7e8c335
 workflow-type: tm+mt
 source-wordcount: '5121'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 99%
 
 >[!NOTE]
 >
->Para obter informações sobre interrupções de manutenção para todos os produtos Adobe, incluindo o Workfront, consulte a [página Status do Adobe](https://status.adobe.com/).
+>Para obter informações sobre interrupções de manutenção para todos os produtos Adobe, incluindo o Workfront, consulte a [página Status da Adobe](https://status.adobe.com/).
 
 Esta página descreve os problemas corrigidos nas atualizações semanais do Workfront.
 
@@ -32,7 +32,7 @@ As seguintes atualizações de manutenção foram efetuadas em 2024.
 
 #### Relatórios
 
-**Não é possível clicar em um relatório da área Campos Personalizados da Configuração**
+**Não é possível clicar em um relatório da área Campos personalizados da Configuração**
 
 Quando uma pessoa está visualizando a área Formulários personalizados > Campos, da configuração, e a exibição inclui o campo Relatórios nativo, os links para os relatórios não funcionam. A pessoa deveria ser capaz de clicar no nome de um relatório e ser direcionado a ele, mas isso não funciona.
 
