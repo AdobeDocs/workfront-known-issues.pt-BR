@@ -4,9 +4,9 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f8183b30f86ffade75a6f80b2d5a4a7befd3b0ae
+source-git-commit: 400c115091c363914a27a6c4c0d90e04a5943aec
 workflow-type: tm+mt
-source-wordcount: '1025'
+source-wordcount: '1015'
 ht-degree: 99%
 
 ---
@@ -29,7 +29,6 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | [Documentos: comentários de prova não exibidos em atualizações de documento](known-issues-workfront/wf-documents-proof-updates-not-copied.md) | quinta-feira, 21 de agosto de 2024 |
 | [Página inicial: “Sem acesso” é exibido como nome do projeto](known-issues-workfront/wf-home-no-access-project-name.md) | sexta-feira, 15 de agosto de 2024 |
 | [Página Inicial: falha na página inicial com o erro “Memória insuficiente”](known-issues-workfront/wf-home-crashes-with-error.md) | sexta-feira, 15 de agosto de 2024 |
-| [Solicitações: o usuário pode alterar o status apesar da falta de permissões](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md) | quinta-feira, 14 de agosto de 2024 |
 | [Workfront para dispositivos móveis: não é possível fazer logon sem usar o SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | quinta-feira, 14 de agosto de 2024 |
 | [Relatórios: erro ao exportar o relatório](known-issues-workfront/wf-reports-error-cache-content.md) | quinta-feira, 14 de agosto de 2024 |
 | [Usuários: a configuração de localidade de email do usuário não está sendo salva](known-issues-workfront/wf-users-email-locale-not-saving.md) | quinta-feira, 14 de agosto de 2024 |
