@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 7e512694b62cdcf9db71fe4d658855e7b7e8c335
+source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
 workflow-type: tm+mt
-source-wordcount: '5121'
-ht-degree: 100%
+source-wordcount: '5247'
+ht-degree: 99%
 
 ---
 
@@ -26,9 +26,33 @@ As seguintes atualizações de manutenção foram efetuadas em 2024.
 
 ## Atualizações em agosto de 2024
 
++++**(Planejado) Atualização de manutenção em sexta-feira, 29 de agosto de 2024**
+
+### (Planejado) Atualização de manutenção em sexta-feira, 29 de agosto de 2024
+
+#### Formulários personalizados
+
+**O padrão do Forms são os formulários de projeto**
+
+Quando um usuário cria um formulário personalizado e seleciona um tipo de objeto para o formulário, o tipo de objeto é ignorado e o formulário é criado como um formulário personalizado do Project.
+
+#### Documentos
+
+**Clicar em um nome de documento abre uma página em branco**
+
+Ao tentar ver detalhes do documento clicando no nome dele em uma lista de documentos, ela desaparece e os detalhes não são exibidos.
+
+#### Início
+
+**O widget Aprovações pendentes mostra documentos excluídos**
+
+Quando uma pessoa visualiza o dispositivo Aprovações pendentes da Página inicial, documentos que foram excluídos são exibidos. Se a pessoa clicar em um desses documentos, será direcionada a uma página em branco.
+
++++
+
 +++**Atualização de manutenção em sexta-feira, 22 de agosto de 2024**
 
-### Atualização de manutenção em 22 de agosto,
+### Atualização de manutenção em sexta-feira, 22 de agosto de 2024
 
 #### Relatórios
 
