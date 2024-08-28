@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
 workflow-type: tm+mt
 source-wordcount: '1048'
-ht-degree: 96%
+ht-degree: 97%
 
 ---
 
@@ -56,7 +56,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | [Usuários: não é possível reativar o usuário](known-issues-workfront/wf-users-reactivate-user.md) | terça-feira, 26 de agosto de 2024 |
 | [Quadros: problemas relacionados a cartões duplicados](known-issues-workfront/wf-boards-some-cards-duplicated.md) | terça-feira, 26 de agosto de 2024 |
 | [Workfront: várias guias do navegador fazem com que o Workfront faça logout](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | sexta-feira, 22 de agosto de 2024 |
-| [Formulários personalizados: o padrão do Forms é Formulários do projeto](known-issues-workfront/wf-custom-forms-default-to-project.md) | sexta-feira, 22 de agosto de 2024 |
+| [Formulários personalizados: formulários permanecem no padrão, formulários de projeto](known-issues-workfront/wf-custom-forms-default-to-project.md) | sexta-feira, 22 de agosto de 2024 |
 | [Página inicial: o dispositivo Aprovações pendentes mostra documentos excluídos](known-issues-workfront/wf-home-deleted-documents.md) | terça-feira, 19 de agosto de 2024 |
 | [Quadros: o cartão não inclui subtarefas](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | terça-feira, 19 de agosto de 2024 |
 | [Documentos: não é possível visualizar documentos com o link de visualização](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | sexta-feira, 15 de agosto de 2024 |

@@ -20,7 +20,7 @@ ht-degree: 98%
       + [Workfront: não é possível usar SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md)
       + [Usuários: não é possível reativar o usuário](known-issues-workfront/wf-users-reactivate-user.md)
       + [Atribuições: o ícone Folga não é exibido ao atribuir tarefas](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md)
-      + [Formulários personalizados: o padrão do Forms é Formulários de projeto](known-issues-workfront/wf-custom-forms-default-to-project.md)
+      + [Formulários personalizados: formulários permanecem no padrão, formulários de projeto](known-issues-workfront/wf-custom-forms-default-to-project.md)
       + [Integrações: não é possível fazer logon no Workfront para Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
       + [Página inicial: “widget.list.view” criados quando usuários movem colunas no dispositivo Página inicial](known-issues-workfront/wf-home-widget-list-view.md)
       + [Documentos: comentários de prova não exibidos em atualizações de documento](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
