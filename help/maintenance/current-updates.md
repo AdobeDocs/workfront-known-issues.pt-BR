@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
+source-git-commit: a24b19521ec110b10d0a6920c54300d0d22ceaba
 workflow-type: tm+mt
-source-wordcount: '5247'
-ht-degree: 99%
+source-wordcount: '5328'
+ht-degree: 98%
 
 ---
 
@@ -34,7 +34,7 @@ As seguintes atualizações de manutenção foram efetuadas em 2024.
 
 **O padrão do Forms são os formulários de projeto**
 
-Quando um usuário cria um formulário personalizado e seleciona um tipo de objeto para o formulário, o tipo de objeto é ignorado e o formulário é criado como um formulário personalizado do Project.
+Quando alguém cria um formulário personalizado e seleciona um tipo de objeto para ele, o tipo de objeto é ignorado e o formulário é criado como um formulário de projeto personalizado.
 
 #### Documentos
 
@@ -47,6 +47,14 @@ Ao tentar ver detalhes do documento clicando no nome dele em uma lista de docume
 **O widget Aprovações pendentes mostra documentos excluídos**
 
 Quando uma pessoa visualiza o dispositivo Aprovações pendentes da Página inicial, documentos que foram excluídos são exibidos. Se a pessoa clicar em um desses documentos, será direcionada a uma página em branco.
+
+#### Usuários
+
+**O campo Local de Email do perfil de usuário foi desabilitado**
+
+Para organizações no IMS, as preferências de idioma são armazenadas no perfil do Adobe Experience Cloud de cada usuário. O campo Local de email no perfil de usuário do Workfront foi desativado (somente para organizações IMS) e uma dica de ferramenta nesse campo fornece instruções sobre como acessar configurações de idioma no perfil de Adobe.
+
+Isso soluciona um problema que, quando um administrador tenta alterar a configuração da localidade de email de um usuário, ela é revertida para inglês.
 
 +++
 
