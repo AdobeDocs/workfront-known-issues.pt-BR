@@ -4,9 +4,9 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: adfed546c37dc86b686598bb5b836838963e00e6
+source-git-commit: c73aa8451c52e4c6f5091b549d9f0a35b8e8d1f8
 workflow-type: tm+mt
-source-wordcount: '1043'
+source-wordcount: '1051'
 ht-degree: 96%
 
 ---
@@ -25,6 +25,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Quadros: o cartão conectado está na coluna incorreta](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | quinta-feira, 28 de agosto de 2024 |
 | [Notificações: os usuários do colaborador não recebem notificações por email](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md) | quinta-feira, 28 de agosto de 2024 |
 | [Workfront: não é possível usar SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) | terça-feira, 26 de agosto de 2024 |
 | [Relatórios: as entregas de relatório estão atrasadas ou ausentes](known-issues-workfront/wf-reports-not-delivered.md) | terça-feira, 26 de agosto de 2024 |
