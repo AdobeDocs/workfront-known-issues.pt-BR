@@ -1,21 +1,17 @@
 ---
-title: '“Página inicial: a página inicial falha com um erro de Memória insuficiente”'
-description: “Quando uma pessoa tenta exibir a nova Página inicial, o site trava com uma mensagem de erro. Uma solução alternativa está disponível.”
+title: "Página inicial: a página inicial falha com um erro de falta de memória"
+description: Quando um usuário tenta visualizar a nova Página inicial, o site trava com uma mensagem de erro. Uma solução alternativa está disponível.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: fc7a07ee94217cbdbd9640e838ad54618dc310ba
+exl-id: befeb093-6376-4c91-a4c4-f956b85660aa
+source-git-commit: adfed546c37dc86b686598bb5b836838963e00e6
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 100%
+source-wordcount: '100'
+ht-degree: 76%
 
 ---
 
-
 # Página inicial: falha na página inicial com o erro “Memória insuficiente”
-
->[!NOTE]
->
->A equipe do produto está avaliando a resolução do problema, que pode exigir melhorias do produto. As melhorias do produto são comunicadas nos Anúncios do produto e não nas Atualizações de manutenção.
 
 Quando uma pessoa tenta exibir a nova Página inicial, o site falha com a seguinte mensagem de erro:
 
