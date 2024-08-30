@@ -2,9 +2,9 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: cc5305d58c51c2944c992682dedbcc61bce56166
+source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
 workflow-type: tm+mt
-source-wordcount: '1671'
+source-wordcount: '1662'
 ht-degree: 97%
 
 ---
@@ -40,7 +40,6 @@ ht-degree: 97%
       + [Quadros: cartão conectado está na coluna incorreta](known-issues-workfront/wf-boards-connected-card-incorrect-column.md)
       + [Workfront para dispositivos móveis: não é possível fazer logon sem usar o SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md)
       + [Relatórios: erro ao exportar o relatório](known-issues-workfront/wf-reports-error-cache-content.md)
-      + [Usuários: a configuração de localidade de email do usuário não está sendo salva](known-issues-workfront/wf-users-email-locale-not-saving.md)
       + [Integrações: erro ao criar uma solicitação do Outlook](known-issues-workfront/wf-integrations-outlook-attachment-error.md)
       + [Notificações: erro “Ops!” ao definir as preferências de notificação](known-issues-workfront/wf-notifications-whoops-error.md)
       + [Formulários personalizados: o navegador trava ao criar formulários grandes](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)

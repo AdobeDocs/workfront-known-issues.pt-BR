@@ -4,22 +4,18 @@ description: Quando alguém no Workfront clica no botão Voltar do navegador, o 
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: cba19c37-ca23-4eb6-93d5-b4ad7ab00c28
-source-git-commit: ad46cd2f9bfab7a64684cb4aca03257b2065d56a
+source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '119'
 ht-degree: 100%
 
 ---
 
 # Navegação: o botão Voltar não retorna à página anterior
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on June 20, 2024.
-
--->
+>A equipe de produtos está avaliando a solução desse problema. Quando esse problema for resolvido, ele será comunicado nos Anúncios do produto e não nas Atualizações de manutenção.
 
 Quando se clica no botão Voltar do navegador no Workfront, uma das situações a seguir pode ocorrer.
 

@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 5883bf2455640b180072be228eae4d11d1c7b6c9
+source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
 workflow-type: tm+mt
-source-wordcount: '1054'
-ht-degree: 94%
+source-wordcount: '1025'
+ht-degree: 95%
 
 ---
 
@@ -31,19 +31,14 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | [Relatórios: as entregas de relatório estão atrasadas ou ausentes](known-issues-workfront/wf-reports-not-delivered.md) | terça-feira, 26 de agosto de 2024 |
 | [Atribuições: o ícone de folga não aparece ao atribuir tarefas](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | terça-feira, 26 de agosto de 2024 |
 | [Integrações: não é possível fazer logon no Workfront para Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | quinta-feira, 21 de agosto de 2024 |
-| [Documentos: comentários de prova não exibidos em atualizações de documento](known-issues-workfront/wf-documents-proof-updates-not-copied.md) | quinta-feira, 21 de agosto de 2024 |
 | [Página inicial: “Sem acesso” é exibido como nome do projeto](known-issues-workfront/wf-home-no-access-project-name.md) | sexta-feira, 15 de agosto de 2024 |
 | [Página Inicial: falha na página inicial com o erro “Memória insuficiente”](known-issues-workfront/wf-home-crashes-with-error.md) | sexta-feira, 15 de agosto de 2024 |
 | [Workfront para dispositivos móveis: não é possível fazer logon sem usar o SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | quinta-feira, 14 de agosto de 2024 |
 | [Relatórios: erro ao exportar o relatório](known-issues-workfront/wf-reports-error-cache-content.md) | quinta-feira, 14 de agosto de 2024 |
-| [Usuários: a configuração de localidade de email do usuário não está sendo salva](known-issues-workfront/wf-users-email-locale-not-saving.md) | quinta-feira, 14 de agosto de 2024 |
-| [Tarefas: problemas com o recálculo da linha do tempo](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | terça-feira, 5 de agosto de 2024 |
 | [API: as solicitações atingem o tempo limite](known-issues-workfront/wf-api-request-timing-out.md) | terça-feira, 5 de agosto de 2024 |
 | [Provas: abrir uma prova abre várias cópias](known-issues-workfront/wf-proofs-two-proofs-open.md) | sexta-feira, 25 de julho de 2024 |
 | [Quadros: o cartão não inclui subtarefas](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 23 de julho de 2024 |
-| [Navegação: o botão Voltar não retorna à página anterior](known-issues-workfront/wf-navigation-back-button-not-work.md) | sábado, 28 de junho de 2024 |
-| [Integrações: vincular uma pasta do  [!DNL Google Drive]  não vincula seus ativos](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | quarta-feira, 25 de junho de 2024 |
-| [Quadros: os quadros exibidos não são os do usuário escolhido ao usar a opção [!UICONTROL Fazer logon como]](known-issues-workfront/wf-boards-log-in-as.md) | sábado, 21 de junho de 2024 |
+| [Integrações: vincular a pasta do  [!DNL Google Drive]  não vincula seus ativos](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | quarta-feira, 25 de junho de 2024 |
 | [Relatórios: erro ao exibir detalhes do relatório agrupado por data personalizada](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | sábado, 14 de junho de 2024 |
 | [Configuração: o banner “Conectado como” não aparece ao fazer logon como outro usuário](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 7 de maio de 2024 |
 
@@ -55,8 +50,8 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
+| [Tarefas: problemas com o recálculo da linha do tempo](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | sábado, 30 de agosto de 2024 |
 | [Workfront: a data é exibida no formato incorreto](known-issues-workfront/wf-home-crashes-with-error.md) | sábado, 30 de agosto de 2024 |
-| [Documentos: Clicar em um nome de documento abre um pager em branco](known-issues-workfront/wf-home-crashes-with-error.md) | sábado, 30 de agosto de 2024 |
 | [Página Inicial: falha na página inicial com o erro “Memória insuficiente”](known-issues-workfront/wf-home-crashes-with-error.md) | sexta-feira, 29 de agosto de 2024 |
 | [Grupos: os subgrupos não são exibidos corretamente](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md) | quinta-feira, 28 de agosto de 2024 |
 | [Usuários: não é possível reativar o usuário](known-issues-workfront/wf-users-reactivate-user.md) | terça-feira, 26 de agosto de 2024 |
@@ -86,6 +81,8 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Quadros: os quadros exibidos não são os do usuário escolhido ao usar a opção [!UICONTROL Fazer logon como]](known-issues-workfront/wf-boards-log-in-as.md) | sábado, 30 de agosto de 2024 |
+| [Navegação: o botão Voltar não retorna à página anterior](known-issues-workfront/wf-navigation-back-button-not-work.md) | sábado, 30 de agosto de 2024 |
 | [Notificações: as miniaturas não ficam visíveis nas notificações por email](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | quarta-feira, 27 de agosto de 2024 |
 | [Página inicial: o dispositivo Meus problemas não exibe problemas fechados ou concluídos](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md) | sexta-feira, 20 de junho de 2024 |
 | [Página inicial: não é possível remover o dispositivo Menções](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md) | quinta-feira, 12 de junho de 2024 |
