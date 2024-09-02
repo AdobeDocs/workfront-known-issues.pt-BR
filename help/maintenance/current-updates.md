@@ -32,19 +32,19 @@ As seguintes atualizações de manutenção foram efetuadas em 2024.
 
 #### Formulários personalizados
 
-**O padrão do Forms são os formulários de projeto**
+**Os formulários retornam ao padrão, os formulários do projeto**
 
 Quando alguém cria um formulário personalizado e seleciona um tipo de objeto para ele, o tipo de objeto é ignorado e o formulário é criado como um formulário de projeto personalizado.
 
 #### Documentos
 
-**Clicar em um nome de documento abre uma página em branco**
+**Clicar no nome de um documento abre uma página em branco**
 
 Ao tentar ver detalhes do documento clicando no nome dele em uma lista de documentos, ela desaparece e os detalhes não são exibidos.
 
 #### Início
 
-**O widget Aprovações pendentes mostra documentos excluídos**
+**O widget de aprovações pendentes mostra documentos excluídos**
 
 Quando uma pessoa visualiza o dispositivo Aprovações pendentes da Página inicial, documentos que foram excluídos são exibidos. Se a pessoa clicar em um desses documentos, será direcionada a uma página em branco.
 

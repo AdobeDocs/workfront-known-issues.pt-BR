@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
 workflow-type: tm+mt
 source-wordcount: '1025'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -29,7 +29,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | [Notificações: os usuários do colaborador não recebem notificações por email](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md) | quinta-feira, 28 de agosto de 2024 |
 | [Workfront: não é possível usar SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) | terça-feira, 26 de agosto de 2024 |
 | [Relatórios: as entregas de relatório estão atrasadas ou ausentes](known-issues-workfront/wf-reports-not-delivered.md) | terça-feira, 26 de agosto de 2024 |
-| [Atribuições: o ícone de folga não aparece ao atribuir tarefas](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | terça-feira, 26 de agosto de 2024 |
+| [Atribuições: o ícone de folga não é exibido ao atribuir tarefas](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | terça-feira, 26 de agosto de 2024 |
 | [Integrações: não é possível fazer logon no Workfront para Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | quinta-feira, 21 de agosto de 2024 |
 | [Página inicial: “Sem acesso” é exibido como nome do projeto](known-issues-workfront/wf-home-no-access-project-name.md) | sexta-feira, 15 de agosto de 2024 |
 | [Página Inicial: falha na página inicial com o erro “Memória insuficiente”](known-issues-workfront/wf-home-crashes-with-error.md) | sexta-feira, 15 de agosto de 2024 |
@@ -54,7 +54,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | [Workfront: a data é exibida no formato incorreto](known-issues-workfront/wf-home-crashes-with-error.md) | sábado, 30 de agosto de 2024 |
 | [Página Inicial: falha na página inicial com o erro “Memória insuficiente”](known-issues-workfront/wf-home-crashes-with-error.md) | sexta-feira, 29 de agosto de 2024 |
 | [Grupos: os subgrupos não são exibidos corretamente](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md) | quinta-feira, 28 de agosto de 2024 |
-| [Usuários: não é possível reativar o usuário](known-issues-workfront/wf-users-reactivate-user.md) | terça-feira, 26 de agosto de 2024 |
+| [Usuários: não é possível reativar um usuário](known-issues-workfront/wf-users-reactivate-user.md) | terça-feira, 26 de agosto de 2024 |
 | [Workfront: várias guias do navegador fazem com que o Workfront faça logout](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | sexta-feira, 22 de agosto de 2024 |
 | [Formulários personalizados: formulários permanecem no padrão, formulários de projeto](known-issues-workfront/wf-custom-forms-default-to-project.md) | sexta-feira, 22 de agosto de 2024 |
 | [Quadros: o cartão não inclui subtarefas](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | terça-feira, 19 de agosto de 2024 |

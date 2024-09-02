@@ -5,7 +5,7 @@ role: User
 source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
 workflow-type: tm+mt
 source-wordcount: '1662'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -21,8 +21,8 @@ ht-degree: 97%
       + [Notificações: os usuários do colaborador não recebem notificações por email](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
       + [Grupos: os subgrupos não são exibidos corretamente](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
       + [Workfront: não é possível usar SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md)
-      + [Usuários: não é possível reativar o usuário](known-issues-workfront/wf-users-reactivate-user.md)
-      + [Atribuições: o ícone Folga não é exibido ao atribuir tarefas](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md)
+      + [Usuários: não é possível reativar um usuário](known-issues-workfront/wf-users-reactivate-user.md)
+      + [Atribuições: o ícone de folga não é exibido ao atribuir tarefas](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md)
       + [Formulários personalizados: formulários permanecem no padrão, formulários de projeto](known-issues-workfront/wf-custom-forms-default-to-project.md)
       + [Integrações: não é possível fazer logon no Workfront para Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
       + [Página inicial: “widget.list.view” criados quando usuários movem colunas no dispositivo Página inicial](known-issues-workfront/wf-home-widget-list-view.md)
