@@ -4,7 +4,7 @@ description: “Os relatórios com entregas programadas não são entregues conf
 hidefromtoc: true
 feature: Reports and Dashboards
 source-git-commit: 99544be489735d604e5fde79ab84575d0c751ad6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
 ht-degree: 100%
 

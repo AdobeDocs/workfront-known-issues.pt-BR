@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Updates and Notifications, Digital Content and Documents
 exl-id: 8f378ff6-5a44-40a2-b28e-c613b63a1b76
 source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 64%
 >
 >Miniaturas não são compatíveis com o Gmail.
 
-Quando um usuário visualiza uma notificação por email relacionada a uma aprovação de documento, a miniatura do documento não fica visível no email. Em vez disso, o usuário vê um ícone de imagem quebrada.
+Quando uma pessoa visualiza uma notificação por email relacionada a uma aprovação de documento, a miniatura do documento não fica visível no email. Em vez disso, a pessoa vê um ícone de imagem quebrada.
 
 Esse problema foi relatado no Gmail.
 
