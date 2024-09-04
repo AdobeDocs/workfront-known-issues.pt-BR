@@ -3,7 +3,7 @@ title: "Quadros: o status do cartão não corresponde ao objeto conectado e igno
 description: "Os cartões na coluna de entrada de uma placa dinâmica exibem informações de status incorretas e não filtram corretamente com base em seu status."
 hidefromtoc: true
 feature: Agile
-source-git-commit: b8edc5a086ca8fe6a21469e625f1f332ca0605ab
+source-git-commit: 9da826677fc6a00f85d5add27c4fa73cf8fc3361
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 5%
