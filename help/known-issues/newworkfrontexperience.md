@@ -4,9 +4,9 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
+source-git-commit: 62011540c9d8a33335ddb97ed15033ff5614657d
 workflow-type: tm+mt
-source-wordcount: '1031'
+source-wordcount: '1014'
 ht-degree: 96%
 
 ---
@@ -39,7 +39,6 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | [Relatórios: erro ao exportar o relatório](known-issues-workfront/wf-reports-error-cache-content.md) | quinta-feira, 14 de agosto de 2024 |
 | [API: as solicitações atingem o tempo limite](known-issues-workfront/wf-api-request-timing-out.md) | terça-feira, 5 de agosto de 2024 |
 | [Provas: abrir uma prova abre várias cópias](known-issues-workfront/wf-proofs-two-proofs-open.md) | sexta-feira, 25 de julho de 2024 |
-| [Quadros: o cartão não inclui subtarefas](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 23 de julho de 2024 |
 | [Integrações: vincular a pasta do  [!DNL Google Drive]  não vincula seus ativos](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | quarta-feira, 25 de junho de 2024 |
 | [Relatórios: erro ao exibir detalhes do relatório agrupado por data personalizada](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | sábado, 14 de junho de 2024 |
 | [Configuração: o banner “Conectado como” não aparece ao fazer logon como outro usuário](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 7 de maio de 2024 |
@@ -54,15 +53,14 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 |----------------------------------| ----------------- |
 | [Tarefas: problemas com o recálculo da linha do tempo](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | sábado, 30 de agosto de 2024 |
 | [Página Inicial: falha na página inicial com o erro “Memória insuficiente”](known-issues-workfront/wf-home-crashes-with-error.md) | sexta-feira, 29 de agosto de 2024 |
-| [Workfront: várias guias do navegador fazem com que o Workfront faça logout](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | sexta-feira, 22 de agosto de 2024 |
+| [Workfront: várias guias do navegador fazem com que o Workfront faça logout](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | sexta-feira, 22 de agosto de 2024 |
 | [Formulários personalizados: formulários permanecem no padrão, formulários de projeto](known-issues-workfront/wf-custom-forms-default-to-project.md) | sexta-feira, 22 de agosto de 2024 |
-| [Quadros: o cartão não inclui subtarefas](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | terça-feira, 19 de agosto de 2024 |
+| [Quadros: o cartão não inclui subtarefas](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | terça-feira, 19 de agosto de 2024 |
 | [Formulários personalizados: erro de conversões do tipo de exibição em formulários personalizados](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | sexta-feira, 15 de agosto de 2024 |
 | [Configuração: problemas ao fazer logout como outro usuário](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | sexta-feira, 15 de agosto de 2024 |
 | [Integrações: erro ao criar uma solicitação do Outlook](known-issues-workfront/wf-integrations-outlook-attachment-error.md) | quinta-feira, 14 de agosto de 2024 |
 | [Notificações: erro “Ops!” ao definir as preferências de notificação](known-issues-workfront/wf-notifications-whoops-error.md) | sexta-feira, 8 de agosto de 2024 |
 | [Quadros: erro ao carregar um quadro](known-issues-workfront/wf-boards-error-when-loading-board.md) | sexta-feira, 8 de agosto de 2024 |
-| [Notificações: as miniaturas não ficam visíveis nas notificações por email](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | sexta-feira, 8 de agosto de 2024 |
 | [Formulários personalizados: o navegador trava ao criar formulários grandes](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 5 de agosto de 2024 |
 | [Formulários personalizados: o construtor de formulários trava ao inserir a lógica de exibição](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 5 de agosto de 2024 |
 | [Formulários personalizados: o campo calculado mostra um valor incorreto](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 5 de agosto de 2024 |
