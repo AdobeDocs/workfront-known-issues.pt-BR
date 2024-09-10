@@ -1,13 +1,13 @@
 ---
-title: "Quadros: o cartão conectado está na coluna incorreta"
-description: Problemas relacionados aos cartões conectados na coluna errada.
+title: '“Quadros: o cartão conectado está na coluna incorreta”'
+description: Relataram-se problemas relacionados a cartões conectados na coluna errada.
 hidefromtoc: true
 feature: Agile
 exl-id: 98c1c3d7-df14-4f4d-9970-f5326870e2e0
 source-git-commit: c73aa8451c52e4c6f5091b549d9f0a35b8e8d1f8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
