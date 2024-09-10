@@ -5,8 +5,8 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
 workflow-type: tm+mt
-source-wordcount: '5452'
-ht-degree: 97%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -34,9 +34,9 @@ As seguintes atualizações de manutenção foram efetuadas em 2024.
 
 **Os subgrupos não são exibidos corretamente**
 
-Quando um usuário visualiza a lista Grupos na área Configuração, ele vê que os subgrupos não estão listados corretamente no grupo principal. O subgrupo é salvo corretamente no grupo pai, mas a lista pode causar confusão.
+Quando uma pessoa visualiza a lista “Grupos” na área “Configuração”, ela vê que os subgrupos não estão listados corretamente no grupo principal. O subgrupo é salvo corretamente no grupo principal, mas a lista pode causar confusão.
 
-Se o usuário abrir o subgrupo, poderá ver na navegação estrutural que o subgrupo foi salvo corretamente no grupo principal.
+Se a pessoa abrir o subgrupo, verá na navegação estrutural que o subgrupo foi salvo corretamente no grupo principal.
 
 #### Usuários
 
@@ -74,11 +74,11 @@ Quando uma pessoa visualiza o dispositivo Aprovações pendentes da Página inic
 
 #### Usuários
 
-**O campo Local de Email do perfil de usuário foi desabilitado**
+**O campo “Localidade do email” do perfil do usuário foi desabilitado**
 
-Para organizações no IMS, as preferências de idioma são armazenadas no perfil do Adobe Experience Cloud de cada usuário. O campo Local de email no perfil de usuário do Workfront foi desativado (somente para organizações IMS) e uma dica de ferramenta nesse campo fornece instruções sobre como acessar configurações de idioma no perfil de Adobe.
+Para organizações no IMS, as preferências de idioma são armazenadas no perfil de cada usuário da Adobe Experience Cloud. O campo “Local do email” no perfil do usuário do Workfront foi desabilitado (somente para organizações do IMS), e uma dica de ferramenta nesse campo fornece instruções para acessar as configurações de idioma no perfil da Adobe.
 
-Isso soluciona um problema que, quando um administrador tenta alterar a configuração da localidade de email de um usuário, ela é revertida para inglês.
+Isso aborda o problema de quando um administrador tenta alterar a configuração da localidade do email para um usuário, mas ela é revertida para inglês.
 
 +++
 

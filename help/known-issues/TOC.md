@@ -4,8 +4,8 @@ user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
 source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
 workflow-type: tm+mt
-source-wordcount: '1708'
-ht-degree: 96%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 96%
       + [Quadros: o status do cartão não corresponde ao objeto conectado e ignora o filtro](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
       + [Painéis: a seleção do botão Exportar em um relatório rola para a parte superior da página](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)
       + [Workfront: a data é exibida no formato incorreto](known-issues-workfront/wf-workfront-date-format-incorrect.md)
-      + [Notificações: os usuários do colaborador não recebem notificações por email](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
+      + [Notificações: os usuários colaboradores não recebem notificações por email](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
       + [Grupos: os subgrupos não são exibidos corretamente](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
       + [Workfront: não é possível usar SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md)
       + [Usuários: não é possível reativar um usuário](known-issues-workfront/wf-users-reactivate-user.md)
