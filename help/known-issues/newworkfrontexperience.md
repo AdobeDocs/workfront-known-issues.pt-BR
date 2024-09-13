@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3a52af7587a41db66d379dad13907baf3064a977
+source-git-commit: 75149041b3a9b35079b7699d41b76166276106e8
 workflow-type: tm+mt
-source-wordcount: '1058'
-ht-degree: 96%
+source-wordcount: '1014'
+ht-degree: 100%
 
 ---
 
@@ -25,8 +25,6 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Agile: a opção Adicionar à iteração é listada duas vezes ao atribuir a equipe de scrum](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md) | sexta-feira, 12 de setembro de 2024 |
-| [API: falha na chamada da API devido a um erro de SQL](known-issues-workfront/wf-api-call-failed-sql-error.md) | sexta-feira, 12 de setembro de 2024 |
 | [Quadros: não é possível visualizar ou baixar documentos do cartão](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | sexta-feira, 5 de setembro de 2024 |
 | [Dispositivo móvel: não é possível fazer logout e faltam informações de perfil do usuário](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md) | quarta-feira, 3 de setembro de 2024 |
 | [Quadros: o status do cartão não corresponde ao objeto conectado e o filtro é ignorado](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | quarta-feira, 3 de setembro de 2024 |
@@ -53,10 +51,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
-| [Atribuições: falha na atribuição de tarefas e permissões herdadas removidas](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md) | sexta-feira, 12 de setembro de 2024 |
-| [Grupos: o status do grupo excluído reaparece](known-issues-workfront/wf-groups-deleted-status-reappears.md) | sexta-feira, 12 de setembro de 2024 |
-| [Página inicial: o dispositivo Aprovações pendentes mostra documentos excluídos](known-issues-workfront/wf-home-deleted-documents.md) | sexta-feira, 12 de setembro de 2024 |
-| [Notificações: os usuários colaboradores não recebem notificações por email](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | sexta-feira, 12 de setembro de 2024 |
 | [Tarefas: problemas com o recálculo da linha do tempo](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | sábado, 30 de agosto de 2024 |
 | [Página Inicial: falha na página inicial com o erro “Memória insuficiente”](known-issues-workfront/wf-home-crashes-with-error.md) | sexta-feira, 29 de agosto de 2024 |
 | [Workfront: várias guias do navegador fazem com que o Workfront faça logout](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | sexta-feira, 22 de agosto de 2024 |
@@ -64,6 +58,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | [Quadros: o cartão não inclui subtarefas](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | terça-feira, 19 de agosto de 2024 |
 | [Formulários personalizados: erro de conversões do tipo de exibição em formulários personalizados](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | sexta-feira, 15 de agosto de 2024 |
 | [Configuração: problemas ao fazer logout como outro usuário](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | sexta-feira, 15 de agosto de 2024 |
+| [Integrações: erro ao criar uma solicitação do Outlook](known-issues-workfront/wf-integrations-outlook-attachment-error.md) | quinta-feira, 14 de agosto de 2024 |
 | [Notificações: erro “Ops!” ao definir as preferências de notificação](known-issues-workfront/wf-notifications-whoops-error.md) | sexta-feira, 8 de agosto de 2024 |
 | [Quadros: erro ao carregar um quadro](known-issues-workfront/wf-boards-error-when-loading-board.md) | sexta-feira, 8 de agosto de 2024 |
 | [Formulários personalizados: o navegador trava ao criar formulários grandes](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 5 de agosto de 2024 |
