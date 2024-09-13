@@ -1,18 +1,18 @@
 ---
-title: "Quadros: o status do cartão não corresponde ao objeto conectado e ignora o filtro"
-description: "Os cartões na coluna de entrada de uma placa dinâmica exibem informações de status incorretas e não filtram corretamente com base em seu status."
+title: '“Quadros: o status do cartão não corresponde ao objeto conectado e o filtro é ignorado”'
+description: Os cartões na coluna de entrada de um quadro dinâmico exibem informações de status incorretas e não filtram corretamente com base em seus status.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 9da826677fc6a00f85d5add27c4fa73cf8fc3361
-workflow-type: tm+mt
+exl-id: 28c0e503-f634-45ba-b957-824fcbbcfe77
+source-git-commit: 1564d40acb9cd6c9e6bbf8496aac7a8076ba5b35
+workflow-type: ht
 source-wordcount: '68'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
+# Quadros: o status do cartão não corresponde ao objeto conectado e o filtro é ignorado
 
-# Quadros: o status do cartão não corresponde ao objeto conectado e ignora o filtro
-
-Os cartões na coluna de entrada de um quadro dinâmico exibem informações de status incorretas e não filtram corretamente com base em seu status.
+Os cartões na coluna de entrada de um quadro dinâmico exibem informações de status incorretas e não filtram corretamente com base em seus status.
 
 _Relatado pela primeira vez em sexta-feira, 8 de agosto de 2024._

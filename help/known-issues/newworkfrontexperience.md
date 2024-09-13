@@ -5,9 +5,9 @@ keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: 62011540c9d8a33335ddb97ed15033ff5614657d
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '1014'
+ht-degree: 100%
 
 ---
 
@@ -26,8 +26,8 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
 | [Quadros: não é possível visualizar ou baixar documentos do cartão](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | sexta-feira, 5 de setembro de 2024 |
-| [Dispositivo móvel: não é possível fazer logoff e informações de perfil de usuário ausentes](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md) | quarta-feira, 3 de setembro de 2024 |
-| [Quadros: o status do cartão não corresponde ao objeto conectado e ignora o filtro](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | quarta-feira, 3 de setembro de 2024 |
+| [Dispositivo móvel: não é possível fazer logout e faltam informações de perfil do usuário](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md) | quarta-feira, 3 de setembro de 2024 |
+| [Quadros: o status do cartão não corresponde ao objeto conectado e o filtro é ignorado](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | quarta-feira, 3 de setembro de 2024 |
 | [Painéis: a seleção do botão Exportar em um relatório rola para a parte superior da página](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md) | quarta-feira, 3 de setembro de 2024 |
 | [Quadros: o cartão conectado está na coluna incorreta](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | quinta-feira, 28 de agosto de 2024 |
 | [Workfront: não é possível usar SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) | terça-feira, 26 de agosto de 2024 |

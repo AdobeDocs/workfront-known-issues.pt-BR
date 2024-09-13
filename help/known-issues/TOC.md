@@ -3,9 +3,9 @@ user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
 source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '1708'
+ht-degree: 100%
 
 ---
 
@@ -18,8 +18,8 @@ ht-degree: 0%
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
       + [Quadros: não é possível visualizar ou baixar documentos do cartão](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md)
-      + [Dispositivo móvel: não é possível fazer logoff e informações de perfil de usuário ausentes](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
-      + [Quadros: o status do cartão não corresponde ao objeto conectado e ignora o filtro](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
+      + [Dispositivo móvel: não é possível fazer logout e faltam informações de perfil do usuário](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
+      + [Quadros: o status do cartão não corresponde ao objeto conectado e o filtro é ignorado](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
       + [Painéis: a seleção do botão Exportar em um relatório rola para a parte superior da página](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)
       + [Workfront: a data é exibida no formato incorreto](known-issues-workfront/wf-workfront-date-format-incorrect.md)
       + [Notificações: os usuários colaboradores não recebem notificações por email](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)

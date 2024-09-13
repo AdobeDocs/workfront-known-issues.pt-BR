@@ -4,9 +4,9 @@ description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '5452'
+ht-degree: 100%
 
 ---
 
@@ -40,7 +40,7 @@ Se a pessoa abrir o subgrupo, verá na navegação estrutural que o subgrupo foi
 
 #### Usuários
 
-**Não é possível reativar o usuário**
+**Não é possível reativar um usuário**
 
 Quando alguém tenta reativar um usuário usando a opção “Reativar usuário” no menu “Mais”, é possível selecionar um nível de acesso para o usuário, mas a alteração não é salva. Em vez disso, o seguinte erro é exibido:
 

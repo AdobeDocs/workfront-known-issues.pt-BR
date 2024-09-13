@@ -1,13 +1,13 @@
 ---
-title: "Usuários: não é possível reativar o usuário"
-description: Quando um usuário tenta reativar um usuário usando a opção Reativar usuário no menu Mais, ele pode selecionar um nível de acesso para o usuário, mas a alteração não é salva. Em vez disso, um erro é exibido. Uma solução alternativa está disponível.
+title: '“Usuários: não é possível reativar um usuário”'
+description: Quando alguém tenta reativar um usuário usando a opção Reativar usuário do menu Mais, é possível selecionar um nível de acesso para o usuário, mas a alteração não é salva. Em vez disso, um erro é exibido. Uma solução alternativa está disponível.
 hidefromtoc: true
 feature: People Teams and Groups
 exl-id: 771c1393-ed95-4556-b053-e3e91348f5ac
 source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '125'
-ht-degree: 66%
+ht-degree: 100%
 
 ---
 

@@ -1,17 +1,17 @@
 ---
-title: "Dispositivo móvel: não é possível fazer logoff e faltam informações de perfil do usuário"
-description: "A opção de logout no aplicativo móvel não permite que alguns usuários façam logout com êxito. Suas páginas de perfil de usuário também aparecem em branco e geram uma mensagem de erro."
+title: '“Dispositivo móvel: não é possível fazer logout e faltam informações de perfil do usuário”'
+description: A opção de logout no aplicativo móvel não permite que alguns usuários façam logout com êxito. Suas páginas de perfil de usuário também aparecem em branco e geram uma mensagem de erro.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 9da826677fc6a00f85d5add27c4fa73cf8fc3361
-workflow-type: tm+mt
+exl-id: 1713c576-5df6-424a-a90e-d615c38c751a
+source-git-commit: 1564d40acb9cd6c9e6bbf8496aac7a8076ba5b35
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
-
-# Dispositivo móvel: não é possível fazer logoff e informações de perfil de usuário ausentes
+# Dispositivo móvel: não é possível fazer logout e faltam informações de perfil do usuário
 
 A opção de logout no aplicativo móvel não permite que alguns usuários façam logout com êxito. Suas páginas de perfil de usuário também aparecem em branco e geram uma mensagem de erro.
 
