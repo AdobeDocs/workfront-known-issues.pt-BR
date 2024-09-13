@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
-workflow-type: ht
-source-wordcount: '5452'
-ht-degree: 100%
+source-git-commit: 73c65fa752d5bf75f4ec03c18bc06930fc1f4a7b
+workflow-type: tm+mt
+source-wordcount: '5526'
+ht-degree: 99%
 
 ---
 
@@ -25,6 +25,20 @@ Para obter atualizações de manutenção anteriores a 2024, consulte [Atualiza�
 As seguintes atualizações de manutenção foram efetuadas em 2024.
 
 ## Atualizações em setembro de 2024
+
++++**Atualização de manutenção em sexta-feira, 12 de setembro de 2024**
+
+### Atualização de manutenção em sexta-feira, 12 de setembro de 2024
+
+#### Integrações
+
+**Erro ao criar uma solicitação do Outlook**
+
+Quando uma pessoa tenta criar uma solicitação do Workfront para integração com o Outlook e adiciona um anexo, Ela vê a mensagem: “Algo deu errado. Tente novamente mais tarde.”
+
+A solicitação é criada e há uma pasta para anexos de email na solicitação, mas a pasta fica vazia e o anexo não é adicionado à solicitação.
+
++++
 
 +++**Atualização de manutenção em sexta-feira, 5 de setembro de 2024**
 

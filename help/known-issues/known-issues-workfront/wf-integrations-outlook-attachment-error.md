@@ -1,17 +1,21 @@
 ---
-title: '“Integrações: erro ao criar uma solicitação do Outlook”'
-description: '“Quando uma pessoa tenta criar uma solicitação do Workfront para integração com o Outlook e adiciona um anexo, ela vê a mensagem: Algo deu errado. Tente novamente mais tarde.”'
+title: "Integrações: erro ao criar uma solicitação do Outlook"
+description: 'Quando uma pessoa tenta criar uma solicitação do Workfront para integração com o Outlook e adiciona um anexo, ela vê a mensagem: Algo deu errado. Tente novamente mais tarde.'
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Work Management
-source-git-commit: bdf56413a3b704ef6020bd2093c6bddbb3b64913
-workflow-type: ht
-source-wordcount: '107'
-ht-degree: 100%
+exl-id: cd7e5de2-eb82-4cb6-a8e7-ed59b120fffd
+source-git-commit: 73c65fa752d5bf75f4ec03c18bc06930fc1f4a7b
+workflow-type: tm+mt
+source-wordcount: '113'
+ht-degree: 90%
 
 ---
 
-
 # Integrações: erro ao criar uma solicitação do Outlook
+
+>[!NOTE]
+>
+>Esse artigo foi corrigido em sexta-feira, 12 de setembro de 2024.
 
 Quando uma pessoa tenta criar uma solicitação do Workfront para integração com o Outlook e adiciona um anexo, Ela vê a mensagem: “Algo deu errado. Tente novamente mais tarde.”
 

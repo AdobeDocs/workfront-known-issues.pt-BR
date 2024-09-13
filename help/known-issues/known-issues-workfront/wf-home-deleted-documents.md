@@ -4,18 +4,14 @@ description: Quando uma pessoa visualiza o dispositivo Aprovações pendentes da
 hidefromtoc: true
 feature: Get Started with Workfront, Digital Content and Documents
 exl-id: 82fa6159-ae27-4391-9690-8d4679c5b91c
-source-git-commit: adfed546c37dc86b686598bb5b836838963e00e6
-workflow-type: ht
-source-wordcount: '90'
+source-git-commit: 73c65fa752d5bf75f4ec03c18bc06930fc1f4a7b
+workflow-type: tm+mt
+source-wordcount: '84'
 ht-degree: 100%
 
 ---
 
 # Página inicial: o dispositivo Aprovações pendentes mostra documentos excluídos
-
->[!NOTE]
->
->Esse problema foi corrigido em sexta-feira, 29 de agosto de 2024.
 
 Quando uma pessoa visualiza o dispositivo Aprovações pendentes da Página inicial, documentos que foram excluídos são exibidos. Se a pessoa clicar em um desses documentos, será direcionada a uma página em branco.
 
