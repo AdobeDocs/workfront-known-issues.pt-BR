@@ -4,14 +4,18 @@ description: Os cartões na coluna de entrada de um quadro dinâmico exibem info
 hidefromtoc: true
 feature: Agile
 exl-id: 28c0e503-f634-45ba-b957-824fcbbcfe77
-source-git-commit: 1564d40acb9cd6c9e6bbf8496aac7a8076ba5b35
-workflow-type: ht
-source-wordcount: '68'
+source-git-commit: c94e9f4cbe23fe5f9e681eb672585dca237f0c79
+workflow-type: tm+mt
+source-wordcount: '74'
 ht-degree: 100%
 
 ---
 
 # Quadros: o status do cartão não corresponde ao objeto conectado e o filtro é ignorado
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em sábado, 13 de setembro de 2024.
 
 Os cartões na coluna de entrada de um quadro dinâmico exibem informações de status incorretas e não filtram corretamente com base em seus status.
 
