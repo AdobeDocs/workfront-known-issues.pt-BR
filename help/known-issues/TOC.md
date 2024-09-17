@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 75149041b3a9b35079b7699d41b76166276106e8
+source-git-commit: ae9a8c6a8186b240b5482f51a08565d222301843
 workflow-type: tm+mt
-source-wordcount: '1708'
-ht-degree: 100%
+source-wordcount: '1746'
+ht-degree: 97%
 
 ---
 
@@ -17,12 +17,17 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Atribuições: a atribuição de tarefas falha e as permissões herdadas são removidas](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md)
+      + [Grupos: o status do grupo excluído reaparece](known-issues-workfront/wf-groups-deleted-status-reappears.md)
+      + [API: falha na chamada à API devido a um erro de SQL](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md)
+      + [Agile: a opção Adicionar à iteração é listada duas vezes ao atribuir a equipe de scrum](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md)
+      + [Provas: usuários ativos aparecem como desativados](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md)
       + [Quadros: não é possível visualizar ou baixar documentos do cartão](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md)
       + [Dispositivo móvel: não é possível fazer logout e faltam informações de perfil do usuário](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
       + [Quadros: o status do cartão não corresponde ao objeto conectado e o filtro é ignorado](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
       + [Painéis: a seleção do botão Exportar em um relatório rola para a parte superior da página](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)
       + [Workfront: a data é exibida no formato incorreto](known-issues-workfront/wf-workfront-date-format-incorrect.md)
-      + [Notificações: os usuários colaboradores não recebem notificações por email](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
+      + [Notificações: os usuários colaboradores não recebem notificações por email](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md)
       + [Grupos: os subgrupos não são exibidos corretamente](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
       + [Workfront: não é possível usar SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md)
       + [Usuários: não é possível reativar um usuário](known-issues-workfront/wf-users-reactivate-user.md)
