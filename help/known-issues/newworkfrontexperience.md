@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c94e9f4cbe23fe5f9e681eb672585dca237f0c79
+source-git-commit: 5346638be033d65ee86c7e991a70cea32fbbcc7f
 workflow-type: tm+mt
-source-wordcount: '1026'
-ht-degree: 97%
+source-wordcount: '1055'
+ht-degree: 96%
 
 ---
 
@@ -25,15 +25,18 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [API: falha na chamada da API devido a um erro de SQL](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | sexta-feira, 12 de setembro de 2024 |
 | [Agile: a opção Adicionar à iteração é listada duas vezes ao atribuir a equipe de scrum](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md) | sexta-feira, 12 de setembro de 2024 |
 | [Provas: usuários ativos aparecem como desativados](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md) | sexta-feira, 12 de setembro de 2024 |
 | [Quadros: não é possível visualizar ou baixar documentos do cartão](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | sexta-feira, 5 de setembro de 2024 |
 | [Dispositivo móvel: não é possível fazer logout e faltam informações de perfil do usuário](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md) | quarta-feira, 3 de setembro de 2024 |
+| [Quadros: o status do cartão não corresponde ao objeto conectado e o filtro é ignorado](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | quarta-feira, 3 de setembro de 2024 |
 | [Painéis: a seleção do botão Exportar em um relatório rola para a parte superior da página](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md) | quarta-feira, 3 de setembro de 2024 |
 | [Quadros: o cartão conectado está na coluna incorreta](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | quinta-feira, 28 de agosto de 2024 |
 | [Workfront: não é possível usar SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) | terça-feira, 26 de agosto de 2024 |
 | [Relatórios: as entregas de relatório estão atrasadas ou ausentes](known-issues-workfront/wf-reports-not-delivered.md) | terça-feira, 26 de agosto de 2024 |
 | [Atribuições: o ícone de folga não é exibido ao atribuir tarefas](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | terça-feira, 26 de agosto de 2024 |
+| [Integrações: não é possível fazer logon no Workfront para Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | quinta-feira, 21 de agosto de 2024 |
 | [Página inicial: “Sem acesso” é exibido como nome do projeto](known-issues-workfront/wf-home-no-access-project-name.md) | sexta-feira, 15 de agosto de 2024 |
 | [Workfront para dispositivos móveis: não é possível fazer logon sem usar o SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | quinta-feira, 14 de agosto de 2024 |
 | [Relatórios: erro ao exportar o relatório](known-issues-workfront/wf-reports-error-cache-content.md) | quinta-feira, 14 de agosto de 2024 |
@@ -55,7 +58,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | [Página inicial: o dispositivo Aprovações pendentes mostra documentos excluídos](known-issues-workfront/wf-home-deleted-documents.md) | sexta-feira, 12 de setembro de 2024 |
 | [Notificações: os usuários colaboradores não recebem notificações por email](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | sexta-feira, 12 de setembro de 2024 |
 | [Tarefas: problemas com o recálculo da linha do tempo](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | sábado, 30 de agosto de 2024 |
-| [Workfront: várias guias do navegador fazem com que o Workfront faça logout](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | sexta-feira, 22 de agosto de 2024 |
 | [Formulários personalizados: formulários permanecem no padrão, formulários de projeto](known-issues-workfront/wf-custom-forms-default-to-project.md) | sexta-feira, 22 de agosto de 2024 |
 | [Quadros: o cartão não inclui subtarefas](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | terça-feira, 19 de agosto de 2024 |
 | [Formulários personalizados: erro de conversões do tipo de exibição em formulários personalizados](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | sexta-feira, 15 de agosto de 2024 |
@@ -77,6 +79,7 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront: várias guias do navegador fazem com que o Workfront faça logout](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | quinta-feira, 18 de setembro de 2024 |
 | [Formulários personalizados: o campo calculado mostra um valor incorreto](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | sexta-feira, 12 de setembro de 2024 |
 | [Página Inicial: falha na página inicial com o erro “Memória insuficiente”](known-issues-workfront/wf-home-crashes-with-error.md) | sexta-feira, 12 de setembro de 2024 |
 | [Quadros: os quadros exibidos não são os do usuário escolhido ao usar a opção [!UICONTROL Fazer logon como]](known-issues-workfront/wf-boards-log-in-as.md) | sábado, 30 de agosto de 2024 |
