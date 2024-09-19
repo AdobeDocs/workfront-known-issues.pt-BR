@@ -5,7 +5,7 @@ role: User
 source-git-commit: ae9a8c6a8186b240b5482f51a08565d222301843
 workflow-type: tm+mt
 source-wordcount: '1746'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -17,10 +17,10 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
-      + [Atribuições: a atribuição de tarefas falha e as permissões herdadas são removidas](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md)
+      + [Atribuições: a atribuição de tarefa falha e as permissões herdadas são removidas](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md)
       + [Grupos: o status do grupo excluído reaparece](known-issues-workfront/wf-groups-deleted-status-reappears.md)
-      + [API: falha na chamada à API devido a um erro de SQL](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md)
-      + [Agile: a opção Adicionar à iteração é listada duas vezes ao atribuir a equipe de scrum](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md)
+      + [API: falha na chamada da API devido a um erro de SQL](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md)
+      + [Ágil: a opção Adicionar à iteração é listada duas vezes ao atribuir a equipe de scrum](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md)
       + [Provas: usuários ativos aparecem como desativados](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md)
       + [Quadros: não é possível visualizar ou baixar documentos do cartão](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md)
       + [Dispositivo móvel: não é possível fazer logout e faltam informações de perfil do usuário](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
