@@ -1,17 +1,21 @@
 ---
-title: '“Workfront para dispositivos móveis: não é possível fazer logon sem usar o SSO”'
-description: “Quando uma pessoa faz logon no aplicativo do Workfront para dispositivos móveis, é necessário usar um SSO para fazer logon. A pessoa não pode usar suas credenciais do Workfront ou a Adobe ID.”
+title: "Workfront Mobile: não é possível entrar sem usar o SSO"
+description: Quando uma pessoa faz logon no aplicativo do Workfront para dispositivos móveis, é necessário usar um SSO para fazer logon. A pessoa não pode usar suas credenciais do Workfront ou a Adobe ID.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: b6ed840df25684f16f88bc30fe7a8138e37fbe53
-workflow-type: ht
-source-wordcount: '86'
-ht-degree: 100%
+exl-id: fd3d2bc1-cb0c-4cf6-be39-7c5c3f7ac74b
+source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
+workflow-type: tm+mt
+source-wordcount: '92'
+ht-degree: 91%
 
 ---
 
-
 # Workfront para dispositivos móveis: não é possível fazer logon sem usar o SSO
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em sexta-feira, 19 de setembro de 2024.
 
 Quando uma pessoa faz logon no aplicativo do Workfront para dispositivos móveis, é necessário usar um SSO para fazer logon. A pessoa não pode usar suas credenciais do Workfront ou a Adobe ID.
 

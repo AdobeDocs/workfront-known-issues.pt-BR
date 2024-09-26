@@ -4,9 +4,9 @@ description: Problemas conhecidos relatados para  [!DNL Adobe Workfront]  Aplica
 keywords: novo arquivo, adicionar arquivo
 exl-id: 9f48d0f8-b4e8-4bd8-b317-ff406e97cb1b
 feature: Work Management
-source-git-commit: b6ed840df25684f16f88bc30fe7a8138e37fbe53
-workflow-type: ht
-source-wordcount: '81'
+source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
+workflow-type: tm+mt
+source-wordcount: '57'
 ht-degree: 100%
 
 ---
@@ -19,22 +19,21 @@ Esta página contém problemas identificados atualmente o Aplicativo móvel [!DN
 >
 >Para obter informações sobre tempo de atividade ou interrupções do servidor, consulte [https://status.adobe.com/pt](https://status.adobe.com/pt). Para obter informações sobre problemas corrigidos recentemente, consulte [[!DNL Workfront] Atualizações de manutenção](../maintenance/current-updates.md).
 
-<!--**There are currently no known issues for [!DNL Workfront Mobile]**
-
--->
+**No momento, não há problemas conhecidos no[!DNL Workfront Mobile]**
 
 
+<!--
+## New
 
-## Novo(a)
+These recently reported issues are currently under review.
 
-Estes problemas recentemente relatados estão atualmente em análise.
-
-| **Problema** | **Última modificação** |
+| **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront para dispositivos móveis: não é possível fazer logon sem usar o SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | quinta-feira, 14 de agosto de 2024 |
 
-## Problemas atuais
 
-| Problema | Última modificação |
+## Current Issues
+
+|Issue  |Last Modified   | 
 |---|---|
-| Texto do problema | DD/MM/AAAA |
+|Issue text  | YYYY/MM/DD  | 
+-->

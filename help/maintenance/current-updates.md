@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
+source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
 workflow-type: tm+mt
-source-wordcount: '5578'
-ht-degree: 99%
+source-wordcount: '5723'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,30 @@ Para obter atualizações de manutenção anteriores a 2024, consulte [Atualiza�
 As seguintes atualizações de manutenção foram efetuadas em 2024.
 
 ## Atualizações em setembro de 2024
+
++++**Atualização de manutenção em sexta-feira, 26 de setembro de 2024**
+
+### Atualização de manutenção em sexta-feira, 26 de setembro de 2024
+
+#### Ágil
+
+**A opção Adicionar à iteração é listada duas vezes ao atribuir a equipe de scrum**
+
+Ao atribuir uma tarefa ou problema a uma equipe ágil de scrum, a opção “Adicionar à iteração” aparece duas vezes no menu Mais. Isso não afeta a capacidade de atribuir a equipe e não aparece para equipes ágeis sem scrum.
+
+#### Formulários personalizados
+
+**Lista de campos do Editor de Cálculo limitada a 200 itens**
+
+No Editor de cálculo para campos calculados em formulários personalizados, a lista de campos de um objeto agora está limitada a 200 itens para melhorar o desempenho do sistema. Se você souber o nome do campo, poderá pesquisá-lo usando a opção de digitação antecipada em vez de rolar pela lista.
+
+#### Relatórios
+
+**As entregas de relatórios estão atrasadas ou ausentes**
+
+Os relatórios com entregas programadas não são entregues conforme o esperado. As entregas podem atrasar ou até mesmo não ser realizadas.
+
++++
 
 +++**Atualização de manutenção em sexta-feira, 19 de setembro de 2024**
 
