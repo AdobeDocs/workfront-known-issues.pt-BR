@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
 workflow-type: tm+mt
-source-wordcount: '432'
-ht-degree: 96%
+source-wordcount: '430'
+ht-degree: 97%
 
 ---
 
@@ -25,6 +25,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Provas: criar prova falha para documentos vinculados do AEM através do Fusion](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | sexta-feira, 3 de outubro de 2024 |
 | [Agile: o storyboard fica em branco ao adicionar uma subtarefa](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | sábado, 26 de julho de 2024 |
 | [Provas: abrir uma prova abre várias cópias](known-issues-workfront/wf-proofs-two-proofs-open.md) | sexta-feira, 25 de julho de 2024 |
 | [Integrações: vincular a pasta do  [!DNL Google Drive]  não vincula seus ativos](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | quarta-feira, 25 de junho de 2024 |
@@ -38,7 +39,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Proof: o conteúdo é colado incorretamente na seção Atualizações do Visualizador de Revisão de Texto para Desktop](known-issues-workfront-proof/proof-wrong-content-pastes-in-viewer-updates.md) | sexta-feira, 19 de setembro de 2024 |
 | [Documentos: não é possível visualizar documentos com o link de visualização](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | sexta-feira, 15 de agosto de 2024 |
 | [Notificações: as miniaturas não ficam visíveis nas notificações por email](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | terça-feira, 8 de julho de 2024 |
 | [Não é possível criar uma exibição para a lista Documentos](known-issues-workfront/wf-documents-cannot-add-new-view.md) | terça-feira, 15 de julho de 2024 |

@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
 workflow-type: tm+mt
-source-wordcount: '1804'
-ht-degree: 96%
+source-wordcount: '1845'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Logon como redireciona para logon ou causa erro](known-issues-workfront/wf-login-as-redirects-to-login.md)
+      + [Página inicial: &quot;Marcar como concluído&quot; fecha o painel de resumo do widget Meus problemas](known-issues-workfront/wf-home-mark-as-done-closes-summary.md)
+      + [Projetos: não é possível compartilhar projetos devido ao erro &quot;acesso para excluir&quot;](known-issues-workfront/wf-projects-sharing-access-error.md)
+      + [Provas: falha ao criar prova para documentos vinculados do AEM por meio do Fusion](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md)
       + [Quadros: erro ao mover cartões ou atribuir usuários](known-issues-workfront/wf-boards-error-moving-cards.md)
       + [Relatórios: tempos de carregamento longos do Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
       + [Relatórios: não é possível rolar a tela para ver todo o relatório do gráfico](known-issues-workfront/wf-reports-unable-to-scroll.md)

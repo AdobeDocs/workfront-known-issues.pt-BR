@@ -1,22 +1,26 @@
 ---
-title: "Quadros: erro ao carregar um quadro"
-description: "Quando um usuário tenta carregar um quadro, o quadro não é carregado e o usuário vê uma mensagem de erro."
+title: '“Quadros: erro ao carregar um quadro”'
+description: Não é possível carregar um quadro, e uma mensagem de erro aparece.
 hidefromtoc: true
 feature: Agile
-source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
+exl-id: 5ba4609f-9ad1-4fda-af28-913286acc327
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 26%
+source-wordcount: '90'
+ht-degree: 100%
 
 ---
 
-
 # Quadros: erro ao carregar um quadro
 
-Quando um usuário tenta carregar um quadro, o quadro não é carregado e o usuário vê a seguinte mensagem:
+>[!NOTE]
+>
+>Esse artigo foi corrigido em sexta-feira, 3 de outubro de 2024.
 
-&quot;[!UICONTROL Erro ao carregar o quadro]&quot;
+Não é possível carregar um quadro, e a seguinte mensagem aparece.
 
-&quot;[!UICONTROL Algo deu errado ao carregar este quadro. Atualize a página para tentar novamente ou entre em contato com o suporte e informe a ID de erro abaixo se o problema persistir.]”
+“[!UICONTROL Erro ao carregar o quadro]”
+
+“[!UICONTROL Algo deu errado ao carregar este quadro. Atualize a página para tentar novamente ou entre em contato com o suporte e informe a ID de erro abaixo se o problema persistir.]”
 
 _Relatado pela primeira vez em sexta-feira, 27 de junho de 2024._

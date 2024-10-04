@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
 workflow-type: tm+mt
-source-wordcount: '5723'
-ht-degree: 98%
+source-wordcount: '5906'
+ht-degree: 97%
 
 ---
 
@@ -23,6 +23,47 @@ Essas atualizações também incluem outras correções de erros menores ou meno
 Para obter atualizações de manutenção anteriores a 2024, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 As seguintes atualizações de manutenção foram efetuadas em 2024.
+
+## Atualizações em outubro de 2024
+
++++**Atualização de manutenção em sexta-feira, 3 de outubro de 2024**
+
+### Atualização de manutenção em 3 de outubro de 2024
+
+#### Quadros
+
+**Cartões conectados arquivados não sincronizados**
+
+Para solucionar problemas de desempenho, os cartões conectados que são arquivados não são mais sincronizados. As alterações feitas na tarefa ou problema do Workfront não são refletidas nos cartões arquivados. Se você restaurar um cartão, ele será sincronizado novamente.
+
+#### Formulários personalizados
+
+**Exibir erro de conversões de tipo em formulários personalizados**
+
+Campos de rich text fazem com que apareça o seguinte erro em formulários personalizados:
+
+“Erro: não são permitidas conversões de Tipo de exibição entre texto e rich text.”
+
+Isso pode ocorrer nas seguintes circunstâncias:
+
+* A pessoa começa a editar os formulários, mas clica em Aplicar sem fazer alterações.
+* A pessoa está criando um formulário personalizado.
+
+Em ambos os casos, campos de rich text estão causando os problemas.
+
+#### Notificações
+
+**Os usuários do colaborador não recebem notificações por email**
+
+Os usuários com licença de colaborador não estão recebendo emails de notificação. Isso pode afetar os emails de notificação instantânea e os emails de resumo diário.
+
+#### Provas
+
+**Assinaturas eletrônicas não podem ser adicionadas ao usar SSO para Prova**
+
+Ao usar o SSO para fazer logon no Proof, os usuários não podem definir uma prova para exigir assinaturas eletrônicas.
+
++++
 
 ## Atualizações em setembro de 2024
 

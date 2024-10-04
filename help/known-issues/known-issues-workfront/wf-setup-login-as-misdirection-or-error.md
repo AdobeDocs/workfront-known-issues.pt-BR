@@ -1,17 +1,21 @@
 ---
-title: '“Configuração: problemas ao fazer logout como outro usuário”'
-description: “Quando um administrador faz logon como outro usuário e tenta fazer logout, podem ocorrer problemas.”
+title: "Configuração: problemas ao fazer logout como outro usuário"
+description: Quando um administrador faz logon como outro usuário e tenta fazer logoff, podem ocorrer problemas.
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
-workflow-type: ht
-source-wordcount: '80'
-ht-degree: 100%
+exl-id: 722f58b5-7fce-401d-8ae4-8c1522cfde6e
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+workflow-type: tm+mt
+source-wordcount: '86'
+ht-degree: 70%
 
 ---
 
-
 # Configuração: problemas ao fazer logout como outro usuário
+
+>[!NOTE]
+>
+>Esse artigo foi corrigido em sábado, 20 de setembro de 2024.
 
 Quando um administrador faz logon como outro usuário e tenta fazer logout, os seguintes problemas podem ocorrer:
 

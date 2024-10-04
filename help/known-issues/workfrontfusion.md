@@ -4,9 +4,9 @@ description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Fusion]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '185'
 ht-degree: 88%
 
 ---
@@ -25,10 +25,8 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: problemas de armazenamento de dados](known-issues-workfront-fusion/fusion-data-store-issues.md) | sexta-feira, 26 de setembro de 2024 |
-| [Workfront Fusion: os detalhes da execução são exibidos como processando](known-issues-workfront-fusion/fusion-execution-details-display-processing.md) | sexta-feira, 26 de setembro de 2024 |
+| [Provas: criar prova falha para documentos vinculados do AEM através do Fusion](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | sexta-feira, 3 de outubro de 2024 |
 | [Workfront Fusion: a fila do Webhook não está sendo processada](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md) | sexta-feira, 19 de setembro de 2024 |
-| [Workfront Fusion: 401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md) | quarta-feira, 27 de agosto de 2024 |
 | [API: as solicitações atingem o tempo limite](known-issues-workfront/wf-api-request-timing-out.md) | terça-feira, 5 de agosto de 2024 |
 
 {style="table-layout:auto"}
