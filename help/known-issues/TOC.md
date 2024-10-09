@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
 workflow-type: tm+mt
-source-wordcount: '1845'
-ht-degree: 94%
+source-wordcount: '1888'
+ht-degree: 92%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Documentos: não é possível mover documentos do objeto Guia Documentos](known-issues-workfront/wf-documents-cannot-move-from-object.md)
+      + [Quadros: opções de status duplicadas para tarefas e problemas](known-issues-workfront/wf-boards-duplicate-status-options.md)
+      + [Página inicial: os campos personalizados excluídos persistem nos widgets de projetos, tarefas e problemas](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)
+      + [Prioridades: Agrupamentos impedem a classificação e a edição em linha](known-issues-workfront/wf-home-priorities-grouping-limitations.md)
       + [Logon como redireciona para logon ou causa erro](known-issues-workfront/wf-login-as-redirects-to-login.md)
       + [Página inicial: &quot;Marcar como concluído&quot; fecha o painel de resumo do widget Meus problemas](known-issues-workfront/wf-home-mark-as-done-closes-summary.md)
       + [Projetos: não é possível compartilhar projetos devido ao erro &quot;acesso para excluir&quot;](known-issues-workfront/wf-projects-sharing-access-error.md)
@@ -205,6 +209,7 @@ ht-degree: 94%
 + [!DNL Workfront Proof] {#proof}
    + [Problemas conhecidos no  [!DNL Workfront Proof]](workfrontproof.md)
    + Problemas atuais no [!DNL Workfront Proof] {#proof-current}
+      + [Workfront Mobile: links de email de prova não abrem no iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md)
       + [Workfront Proof: o conteúdo é colado incorretamente na seção Atualizações do Visualizador de provas de desktop](known-issues-workfront-proof/proof-wrong-content-pastes-in-viewer-updates.md)
       + [[!UICONTROL Workfront Proof]: não é possível reordenar ativos ao criar uma prova](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]: carimbo de data e hora incorreto no [!UICONTROL Resumo da prova]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
