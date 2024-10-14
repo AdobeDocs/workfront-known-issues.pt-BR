@@ -1,17 +1,21 @@
 ---
-title: '“API: as solicitações atingem o tempo limite”'
-description: “As solicitações feitas por meio da API do Workfront atingem o tempo limite.”
+title: "API: tempo limite de solicitações"
+description: As solicitações feitas por meio da API do Workfront atingem o tempo limite.
 hidefromtoc: true
 feature: Workfront API, Workfront Fusion
-source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
-workflow-type: ht
-source-wordcount: '44'
-ht-degree: 100%
+exl-id: 48cdb8e2-8409-4b0e-9c27-e494156bccc1
+source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
+workflow-type: tm+mt
+source-wordcount: '50'
+ht-degree: 92%
 
 ---
 
-
 # API: as solicitações atingem o tempo limite
+
+>[!NOTE]
+>
+>Esse artigo foi corrigido em quinta-feira, 9 de outubro de 2024.
 
 As solicitações feitas por meio da API do Workfront atingem o tempo limite.
 

@@ -1,17 +1,21 @@
 ---
-title: '“Relatórios: erro ao exportar o relatório”'
-description: “Quando uma pessoa tenta exportar um relatório, ele não é exportado, e um erro é exibido.”
+title: "Relatórios: erro ao exportar relatório"
+description: Quando um usuário tenta exportar um relatório, ele não é exportado e o usuário vê um erro.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: b6ed840df25684f16f88bc30fe7a8138e37fbe53
-workflow-type: ht
-source-wordcount: '65'
-ht-degree: 100%
+exl-id: 864081d8-177c-422f-a46c-10ebac5c9fa1
+source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
+workflow-type: tm+mt
+source-wordcount: '90'
+ht-degree: 45%
 
 ---
 
-
 # Relatórios: erro ao exportar o relatório
+
+>[!NOTE]
+>
+>Esse problema foi encerrado porque não pode ser corrigido. Recomendamos não incluir uma Coluna de relatórios em um relatório que você pretende exportar.
 
 Quando um usuário tenta exportar um relatório, ele não é exportado, e o seguinte erro é exibido:
 

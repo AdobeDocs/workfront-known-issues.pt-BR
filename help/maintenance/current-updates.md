@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
 workflow-type: tm+mt
-source-wordcount: '5906'
-ht-degree: 97%
+source-wordcount: '6157'
+ht-degree: 94%
 
 ---
 
@@ -25,6 +25,49 @@ Para obter atualizações de manutenção anteriores a 2024, consulte [Atualiza�
 As seguintes atualizações de manutenção foram efetuadas em 2024.
 
 ## Atualizações em outubro de 2024
+
++++**Atualização de manutenção em sexta-feira, 10 de outubro de 2024**
+
+### Atualização de manutenção em 10 de outubro de 2024
+
+#### Quadros
+
+**Erro ao mover cartões ou atribuir usuários**
+
+Ao mover cartões ou atribuir usuários, ocasionalmente a ação não prossegue e, em vez disso, produz o erro &quot;Resposta não bem-sucedida: Código de status recebido 502&quot; após um atraso.
+
+**Erro ao carregar um quadro**
+
+Não é possível carregar um quadro, e a seguinte mensagem aparece.
+
+&quot;Erro ao carregar o quadro&quot;
+
+&quot;Algo deu errado ao carregar este quadro. Atualize a página e tente novamente ou entre em contato com o suporte com a ID de erro abaixo se o problema persistir.&quot;
+
+#### Início
+
+**&quot;Marcar como Concluído&quot; fecha o painel de resumo do widget Meus Problemas**
+
+Ao tentar usar o botão &quot;Marcar como concluído&quot; no painel de resumo de um problema aberto pelo widget Meus problemas, o painel de resumo é fechado inesperadamente.
+
+**As configurações do widget Modelo de layout não adicionam a coluna**
+
+Ao selecionar um campo para adicionar a um widget por meio das configurações do widget Modelo de layout, um campo pode ser selecionado, mas a coluna correspondente não aparece no widget.
+
+#### Tarefas
+
+**Problemas com o recálculo da linha de tempo**
+
+Os seguintes problemas foram relatados em relação ao recálculo da linha do tempo:
+
+* Ao atualizar a duração de uma tarefa na linha do tempo, o sistema demora bastante para recalcular.
+* Quando o recálculo é concluído, as datas podem ser (ou permanecer) desabilitadas, como se a linha do tempo ainda estivesse sendo recalculada.
+
+**Despesas de tarefa não exibidas**
+
+Depois de adicionar uma despesa a uma tarefa, a despesa não aparece nas informações da tarefa apesar da confirmação da API de que foi inserida.
+
++++
 
 +++**Atualização de manutenção em sexta-feira, 3 de outubro de 2024**
 
