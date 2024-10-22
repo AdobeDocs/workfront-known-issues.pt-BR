@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
+source-git-commit: c97902d01cc405c209eda11c53eb8b55ec5f9a6c
 workflow-type: tm+mt
-source-wordcount: '6157'
-ht-degree: 94%
+source-wordcount: '6368'
+ht-degree: 91%
 
 ---
 
@@ -25,6 +25,51 @@ Para obter atualizações de manutenção anteriores a 2024, consulte [Atualiza�
 As seguintes atualizações de manutenção foram efetuadas em 2024.
 
 ## Atualizações em outubro de 2024
+
++++**(Planejado) Atualização de manutenção em sexta-feira, 24 de outubro de 2024**
+
+### (Planejado) Atualização de manutenção em sexta-feira, 24 de outubro de 2024
+
+#### Formulários personalizados
+
+**Não é possível atualizar dados personalizados em projetos concluídos**
+
+Quando um usuário tenta atualizar dados personalizados em um projeto concluído, não é possível atualizar os dados e é exibida a seguinte mensagem:
+
+&quot;Não é possível concluir a operação de um projeto com o status Concluído.&quot;
+
+#### Projetos
+
+**Não é possível adicionar problemas ao projeto concluído**
+
+Quando um usuário tenta adicionar um problema a um projeto com o status Concluído, ele não consegue adicionar o problema. Isso pode ocorrer mesmo se a opção &quot;Adicionar e editar problemas&quot; estiver ativada
+
+**O gráfico de Gantt não é preciso**
+
+Quando um usuário visualiza o Gráfico de Gantt e alterna as visualizações, o Gráfico de Gantt não mostra dados precisos ou não mostra dados.
+
++++
+
+
++++**Atualização de manutenção em sexta-feira, 17 de outubro de 2024**
+
+### Atualização de manutenção em 17 de outubro de 2024
+
+#### Provas
+
+**Provas mostram data imprecisa**
+
+As datas listadas na lista de documentos estão mostrando a data em que a primeira versão do documento foi criada, em vez da data em que a versão mais recente foi criada.
+
+### Planilhas de horas
+
+Quando um usuário tenta registrar as horas em uma folha de horas com status Enviado ou Fechado, não é possível registrar as horas.
+
+Esse é o comportamento esperado e não deve ser considerado um problema.
+
+Anteriormente, os usuários podiam registrar horas em folhas de horas enviadas ou fechadas.
+
++++
 
 +++**Atualização de manutenção em sexta-feira, 10 de outubro de 2024**
 
