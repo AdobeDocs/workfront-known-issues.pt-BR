@@ -3,9 +3,9 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2044929db057509bea6200631336e53b76d4a1ff
+source-git-commit: 2f464b30a14ac8e8b8ce862e818c4d30c7cdf66f
 workflow-type: tm+mt
-source-wordcount: '6368'
+source-wordcount: '6375'
 ht-degree: 91%
 
 ---
@@ -67,7 +67,7 @@ Quando um usuário tenta registrar as horas em uma folha de horas com status Env
 
 Esse é o comportamento esperado e não deve ser considerado um problema.
 
-Anteriormente, os usuários podiam registrar horas em folhas de horas enviadas ou fechadas.
+Anteriormente, os usuários podiam registrar horas em folhas de horas enviadas ou fechadas por meio da API do Workfront ou do Workfront Fusion.
 
 +++
 
