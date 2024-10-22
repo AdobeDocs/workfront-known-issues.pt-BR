@@ -4,9 +4,9 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
+source-git-commit: e33394c2aede0544d104c2b115b9ca302dcdb465
 workflow-type: tm+mt
-source-wordcount: '1028'
+source-wordcount: '1010'
 ht-degree: 93%
 
 ---
@@ -25,11 +25,9 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Quadros: opções de status duplicadas para tarefas e problemas](known-issues-workfront/wf-boards-duplicate-status-options.md) | quinta-feira, 9 de outubro de 2024 |
 | [Workfront Mobile: links de email de prova não serão abertos no iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | quinta-feira, 9 de outubro de 2024 |
 | [Relatórios: tempos de carregamento longos do Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | sexta-feira, 19 de setembro de 2024 |
 | [API: falha na chamada da API devido a um erro de SQL](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | sexta-feira, 12 de setembro de 2024 |
-| [Quadros: não é possível visualizar ou baixar documentos do cartão](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | sexta-feira, 5 de setembro de 2024 |
 | [Quadros: o status do cartão não corresponde ao objeto conectado e o filtro é ignorado](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | quarta-feira, 3 de setembro de 2024 |
 | [Quadros: o cartão conectado está na coluna incorreta](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | quinta-feira, 28 de agosto de 2024 |
 | [Workfront: não é possível usar SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) | terça-feira, 26 de agosto de 2024 |
