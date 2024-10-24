@@ -3,15 +3,19 @@ title: "Formulários personalizados: não é possível atualizar dados personali
 description: “”
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: 6e06225c52775894d03605b0dbbf0182e43e53ed
+source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
 workflow-type: tm+mt
-source-wordcount: '57'
-ht-degree: 7%
+source-wordcount: '63'
+ht-degree: 15%
 
 ---
 
 
 # Formulários personalizados: não é possível atualizar dados personalizados em projetos concluídos
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em sexta-feira, 24 de outubro de 2024.
 
 Quando um usuário tenta atualizar dados personalizados em um projeto concluído, não é possível atualizar os dados e é exibida a seguinte mensagem:
 

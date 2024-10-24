@@ -3,9 +3,9 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2f464b30a14ac8e8b8ce862e818c4d30c7cdf66f
+source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
 workflow-type: tm+mt
-source-wordcount: '6375'
+source-wordcount: '6442'
 ht-degree: 91%
 
 ---
@@ -26,9 +26,15 @@ As seguintes atualizações de manutenção foram efetuadas em 2024.
 
 ## Atualizações em outubro de 2024
 
-+++**(Planejado) Atualização de manutenção em sexta-feira, 24 de outubro de 2024**
++++**Atualização de manutenção em sexta-feira, 24 de outubro de 2024**
 
-### (Planejado) Atualização de manutenção em sexta-feira, 24 de outubro de 2024
+### Atualização de manutenção em 24 de outubro de 2024
+
+#### Atribuições
+
+**O ícone de folga não aparece ao atribuir tarefas**
+
+quando uma pessoa atribui uma tarefa e começa a digitar o nome do designado que tem uma folga programada durante a tarefa, os ícones de usuário na área de atribuições sugeridas não exibem o ícone de folga (avião). Se o usuário continuar digitando para que o nome seja exibido na área de usuários e equipes, o ícone não será exibido.
 
 #### Formulários personalizados
 

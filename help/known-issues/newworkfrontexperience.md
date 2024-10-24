@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f40e0fdd778b01e2fea1c5369bfbf979009cd839
+source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
 workflow-type: tm+mt
-source-wordcount: '1068'
-ht-degree: 89%
+source-wordcount: '1053'
+ht-degree: 90%
 
 ---
 
@@ -25,13 +25,14 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Relatórios: a opção Mostrar filtro/Ocultar filtro está ausente](known-issues-workfront/wf-reports-show-filter-missing.md) | sexta-feira, 24 de outubro de 2024 |
+| [Página Inicial: a porcentagem concluída está cortada](known-issues-workfront/wf-home-percent-complete-inaccurate.md) | sexta-feira, 24 de outubro de 2024 |
 | [Workfront Mobile: links de email de prova não serão abertos no iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | quinta-feira, 9 de outubro de 2024 |
 | [Relatórios: tempos de carregamento longos do Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | sexta-feira, 19 de setembro de 2024 |
 | [API: falha na chamada da API devido a um erro de SQL](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | sexta-feira, 12 de setembro de 2024 |
 | [Quadros: o status do cartão não corresponde ao objeto conectado e o filtro é ignorado](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | quarta-feira, 3 de setembro de 2024 |
 | [Quadros: o cartão conectado está na coluna incorreta](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | quinta-feira, 28 de agosto de 2024 |
 | [Workfront: não é possível usar SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) | terça-feira, 26 de agosto de 2024 |
-| [Atribuições: o ícone de folga não é exibido ao atribuir tarefas](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | terça-feira, 26 de agosto de 2024 |
 | [Página inicial: “Sem acesso” é exibido como nome do projeto](known-issues-workfront/wf-home-no-access-project-name.md) | sexta-feira, 15 de agosto de 2024 |
 | [Workfront para dispositivos móveis: não é possível fazer logon sem usar o SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | quinta-feira, 14 de agosto de 2024 |
 | [Integrações: vincular a pasta do  [!DNL Google Drive]  não vincula seus ativos](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | quarta-feira, 25 de junho de 2024 |
@@ -46,11 +47,9 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
-| [Projetos: o gráfico de Gantt não é preciso](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md) | quarta-feira, 22 de outubro de 2024 |
+| [API: as solicitações atingem o tempo limite](known-issues-workfront/wf-api-request-timing-out.md) | sexta-feira, 24 de outubro de 2024 |
 | [Provas: não é possível fechar o visualizador de provas](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | quarta-feira, 22 de outubro de 2024 |
-| [Projetos: não é possível adicionar problemas ao projeto concluído](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md) | quarta-feira, 22 de outubro de 2024 |
 | [Notificações: os usuários colaboradores não recebem notificações por email](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | quarta-feira, 22 de outubro de 2024 |
-| [Formulários personalizados: não é possível atualizar dados personalizados em projetos concluídos](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md) | quarta-feira, 22 de outubro de 2024 |
 | [Página inicial: a área Prioridades pode ser acessada quando estiver desabilitada](known-issues-workfront/wf-home-priorities-accessible.md) | quarta-feira, 22 de outubro de 2024 |
 | [Página inicial: o widget Minhas aprovações não está funcionando](known-issues-workfront/wf-home-my-approval-not-working.md) | quarta-feira, 22 de outubro de 2024 |
 | [Provas: não é possível criar provas no ambiente de Pré-visualização](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md) | quarta-feira, 22 de outubro de 2024 |
