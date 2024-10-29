@@ -3,15 +3,19 @@ title: "Página inicial: a área Prioridades pode ser acessada quando estiver de
 description: "Quando a área Prioridades for desativada por um administrador do Workfront, os usuários ainda poderão acessá-la. Isso pode ocorrer mesmo se a opção Prioridades aparecer desativada (esmaecida)."
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 6e06225c52775894d03605b0dbbf0182e43e53ed
+source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 4%
+source-wordcount: '90'
+ht-degree: 11%
 
 ---
 
 
 # Página inicial: a área Prioridades pode ser acessada quando tiver sido desativada
+
+>[!NOTE]
+>
+>Esse artigo foi corrigido em sexta-feira, 24 de outubro de 2024.
 
 Quando a área Prioridades for desativada por um administrador do Workfront, os usuários ainda poderão acessá-la. Isso pode ocorrer mesmo se a opção Prioridades aparecer desativada (esmaecida).
 
