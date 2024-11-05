@@ -3,9 +3,9 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
+source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
 workflow-type: tm+mt
-source-wordcount: '6442'
+source-wordcount: '6472'
 ht-degree: 91%
 
 ---
@@ -25,6 +25,14 @@ Para obter atualizações de manutenção anteriores a 2024, consulte [Atualiza�
 As seguintes atualizações de manutenção foram efetuadas em 2024.
 
 ## Atualizações em outubro de 2024
+
++++**Atualização de manutenção em sexta-feira, 31 de outubro de 2024**
+
+### Atualização de manutenção em 31 de outubro de 2024
+
+Esta atualização contém apenas correções de erros pequenos ou menos importantes. O Suporte da Workfront enviará uma notificação quando um problema enviado for corrigido.
+
++++
 
 +++**Atualização de manutenção em sexta-feira, 24 de outubro de 2024**
 
@@ -55,7 +63,6 @@ Quando um usuário tenta adicionar um problema a um projeto com o status Conclu�
 Quando um usuário visualiza o Gráfico de Gantt e alterna as visualizações, o Gráfico de Gantt não mostra dados precisos ou não mostra dados.
 
 +++
-
 
 +++**Atualização de manutenção em sexta-feira, 17 de outubro de 2024**
 
