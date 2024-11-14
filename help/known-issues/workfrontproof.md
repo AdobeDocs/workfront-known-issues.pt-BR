@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 6e06225c52775894d03605b0dbbf0182e43e53ed
+source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
 workflow-type: tm+mt
-source-wordcount: '448'
-ht-degree: 93%
+source-wordcount: '442'
+ht-degree: 96%
 
 ---
 
@@ -25,8 +25,8 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Provas: não é possível fechar o visualizador de provas](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | quarta-feira, 12 de novembro de 2024 |
 | [Workfront Mobile: links de email de prova não serão abertos no iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | quinta-feira, 9 de outubro de 2024 |
-| [Provas: criar prova falha para documentos vinculados do AEM através do Fusion](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | sexta-feira, 3 de outubro de 2024 |
 | [Agile: o storyboard fica em branco ao adicionar uma subtarefa](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | sábado, 26 de julho de 2024 |
 | [Provas: abrir uma prova abre várias cópias](known-issues-workfront/wf-proofs-two-proofs-open.md) | sexta-feira, 25 de julho de 2024 |
 | [Integrações: vincular a pasta do  [!DNL Google Drive]  não vincula seus ativos](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | quarta-feira, 25 de junho de 2024 |

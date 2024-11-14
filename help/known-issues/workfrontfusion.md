@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Fusion]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
+source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 83%
+source-wordcount: '177'
+ht-degree: 88%
 
 ---
 
@@ -25,7 +25,6 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Provas: criar prova falha para documentos vinculados do AEM através do Fusion](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | sexta-feira, 3 de outubro de 2024 |
 | [API: as solicitações atingem o tempo limite](known-issues-workfront/wf-api-request-timing-out.md) | terça-feira, 5 de agosto de 2024 |
 
 {style="table-layout:auto"}

@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados na nova experiência do  [!DNL Adobe
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
+source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
 workflow-type: tm+mt
-source-wordcount: '1071'
-ht-degree: 88%
+source-wordcount: '1157'
+ht-degree: 81%
 
 ---
 
@@ -25,13 +25,25 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Folhas de horas: os usuários do colaborador têm o botão &quot;Enviar para aprovação&quot;](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md) | quinta-feira, 13 de novembro de 2024 |
+| [Notificações: notificações por email de atualizações que não estão sendo enviadas](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | quinta-feira, 13 de novembro de 2024 |
+| [Formulários personalizados: não é possível adicionar os campos de tarefa &quot;estimateByHours&quot; ou &quot;hoursPerPoint&quot;](known-issues-workfront/wf-custom-forms-invalid-fields.md) | quinta-feira, 13 de novembro de 2024 |
+| [Documentos: a aprovação de &quot;adição rápida&quot; não inclui a entrada de prazo final para novas versões](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md) | quinta-feira, 13 de novembro de 2024 |
+| [Modelos de layout: os administradores não podem editar os modelos de layout da página inicial](known-issues-workfront/wf-layout-templates-unable-to-edit-home.md) | quinta-feira, 13 de novembro de 2024 |
+| [Usuários: a marca &quot;Não Registrado&quot; persiste após o logon](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md) | quinta-feira, 13 de novembro de 2024 |
+| [Workfront: Usuários do colaborador não podem acessar Programas ou Portfolio](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | quinta-feira, 13 de novembro de 2024 |
+| [Aprovações: o filtro &quot;Todos&quot; exclui aprovações enviadas pessoalmente](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md) | quinta-feira, 13 de novembro de 2024 |
+| [Tarefas: duração de Dias Decorridos incorreta para tarefas pai com filhos](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md) | quinta-feira, 13 de novembro de 2024 |
+| [Relatórios: a edição em massa nas listas de gráficos não responde](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | quinta-feira, 13 de novembro de 2024 |
+| [Workfront: falha ao carregar as guias do navegador abertas](known-issues-workfront/wf-workfront-browser-tabs-error.md) | quarta-feira, 12 de novembro de 2024 |
+| [Relatórios: falha ao carregar os relatórios](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | quarta-feira, 12 de novembro de 2024 |
+| [Planejador de recursos: não é possível acessar o Planejador de recursos](known-issues-workfront/wf-resource-planner-inaccessible.md) | quarta-feira, 12 de novembro de 2024 |
+| [Página inicial: o widget Minhas tarefas não carrega](known-issues-workfront/wf-home-task-widget-wont-load.md) | quarta-feira, 12 de novembro de 2024 |
 | [Modelos de layout: campos de dados personalizados não são exibidos quando adicionados ao Resumo da Tarefa por meio do Modelo de layout](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | terça-feira, 4 de novembro de 2024 |
 | [Página inicial: o widget Minhas atualizações não está funcionando](known-issues-workfront/wf-home-my-updates-not-working.md) | terça-feira, 4 de novembro de 2024 |
 | [Documentos: o botão Opções de aprovação não aparece nos documentos](known-issues-workfront/wf-documents-missing-approval-button.md) | terça-feira, 4 de novembro de 2024 |
 | [Página inicial: erros do widget de tarefas novas e concluídas](known-issues-workfront/wf-home-to-do-new-complete-error.md) | terça-feira, 4 de novembro de 2024 |
-| [Página Inicial: a porcentagem concluída está cortada](known-issues-workfront/wf-home-percent-complete-inaccurate.md) | sexta-feira, 24 de outubro de 2024 |
 | [Workfront Mobile: links de email de prova não serão abertos no iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | quinta-feira, 9 de outubro de 2024 |
-| [Relatórios: tempos de carregamento longos do Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | sexta-feira, 19 de setembro de 2024 |
 | [API: falha na chamada da API devido a um erro de SQL](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | sexta-feira, 12 de setembro de 2024 |
 | [Quadros: o status do cartão não corresponde ao objeto conectado e o filtro é ignorado](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | quarta-feira, 3 de setembro de 2024 |
 | [Quadros: o cartão conectado está na coluna incorreta](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | quinta-feira, 28 de agosto de 2024 |
@@ -51,15 +63,10 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | **Problema** | **Última modificação** |
 |----------------------------------| ----------------- |
 | [API: as solicitações atingem o tempo limite](known-issues-workfront/wf-api-request-timing-out.md) | sexta-feira, 24 de outubro de 2024 |
-| [Provas: não é possível fechar o visualizador de provas](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | quarta-feira, 22 de outubro de 2024 |
-| [Notificações: os usuários colaboradores não recebem notificações por email](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | quarta-feira, 22 de outubro de 2024 |
-| [Página inicial: o widget Minhas aprovações não está funcionando](known-issues-workfront/wf-home-my-approval-not-working.md) | quarta-feira, 22 de outubro de 2024 |
 | [Provas: não é possível criar provas no ambiente de Pré-visualização](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md) | quarta-feira, 22 de outubro de 2024 |
 | [Projetos: não é possível compartilhar projetos devido ao erro &quot;acesso para excluir&quot;](known-issues-workfront/wf-projects-sharing-access-error.md) | sexta-feira, 3 de outubro de 2024 |
-| [Provas: criar prova falha para documentos vinculados do AEM através do Fusion](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | sexta-feira, 3 de outubro de 2024 |
 | [Integrações: não é possível fazer logon no Workfront para Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | quarta-feira, 24 de setembro de 2024 |
 | [Grupos: o status do grupo excluído reaparece](known-issues-workfront/wf-groups-deleted-status-reappears.md) | sexta-feira, 12 de setembro de 2024 |
-| [Página inicial: o dispositivo Aprovações pendentes mostra documentos excluídos](known-issues-workfront/wf-home-deleted-documents.md) | sexta-feira, 12 de setembro de 2024 |
 | [Formulários personalizados: formulários permanecem no padrão, formulários de projeto](known-issues-workfront/wf-custom-forms-default-to-project.md) | sexta-feira, 22 de agosto de 2024 |
 | [Configuração: problemas ao fazer logout como outro usuário](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | sexta-feira, 15 de agosto de 2024 |
 | [Notificações: erro “Ops!” ao definir as preferências de notificação](known-issues-workfront/wf-notifications-whoops-error.md) | sexta-feira, 8 de agosto de 2024 |
@@ -76,6 +83,8 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Notificações: os usuários colaboradores não recebem notificações por email](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | quarta-feira, 12 de novembro de 2024 |
+| [Relatórios: tempos de carregamento longos do Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | quarta-feira, 12 de novembro de 2024 |
 | [Notificações: os emails de notificação de documentos não podem exibir visualizações de imagem](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md) | quarta-feira, 29 de outubro de 2024 |
 | [Relatórios: erro ao exportar o relatório](known-issues-workfront/wf-reports-error-cache-content.md) | terça-feira, 14 de outubro de 2024 |
 | [Página inicial: os campos personalizados excluídos persistem nos widgets de projetos, tarefas e problemas](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | quarta-feira, 8 de outubro de 2024 |
