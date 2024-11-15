@@ -4,20 +4,18 @@ description: Quando alguém visualiza uma prova no visualizador de provas e tent
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: b35d21a3-6d8b-48af-87fc-e0f63cf0194c
-source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
+source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 93%
+source-wordcount: '118'
+ht-degree: 94%
 
 ---
 
 # Provas: não é possível fechar o visualizador de provas
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on October 24, 2024.
--->
+>Esse problema foi corrigido em quarta-feira, 12 de novembro de 2024.
 
 Quando alguém visualiza uma prova no visualizador de provas e tenta fechá-la clicando em X no canto superior direito, a prova não é fechada.
 

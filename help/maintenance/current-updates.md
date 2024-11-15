@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
+source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
 workflow-type: tm+mt
-source-wordcount: '6506'
-ht-degree: 91%
+source-wordcount: '6582'
+ht-degree: 89%
 
 ---
 
@@ -25,6 +25,24 @@ Para obter atualizações de manutenção anteriores a 2024, consulte [Atualiza�
 As seguintes atualizações de manutenção foram efetuadas em 2024.
 
 ## Atualizações em novembro de 2024
+
++++**Atualização de manutenção em sexta-feira, 14 de novembro de 2024**
+
+### Atualização de manutenção em 14 de novembro de 2024
+
+#### Início
+
+**Erros de itens por- fazer para os itens por- fazer novos e concluídos**
+
+Ao tentar criar uma nova tarefa ou concluir uma tarefa existente no widget Página inicial da tarefa, os usuários encontram um erro e não podem criar ou concluir a tarefa.
+
+#### Usuários
+
+**Caixa de seleção &quot;Enviar emails de convite para essas pessoas&quot; ausente**
+
+Ao importar novos usuários para o Workfront, a caixa de seleção &quot;Enviar emails de convite para essas pessoas&quot; não aparece na janela de diálogo.
+
++++
 
 +++**Atualização de manutenção em sexta-feira, 7 de novembro de 2024**
 
@@ -52,7 +70,7 @@ Esta atualização contém apenas correções de erros pequenos ou menos importa
 
 **O ícone de folga não aparece ao atribuir tarefas**
 
-quando uma pessoa atribui uma tarefa e começa a digitar o nome do designado que tem uma folga programada durante a tarefa, os ícones de usuário na área de atribuições sugeridas não exibem o ícone de folga (avião). Se o usuário continuar digitando para que o nome seja exibido na área de usuários e equipes, o ícone não será exibido.
+Quando um usuário atribui uma tarefa e começa a digitar o nome do designado que tem folga programada durante a tarefa, os ícones de usuário na área Atribuições sugeridas não exibem o ícone de folga (avião). Se o usuário continuar digitando para que o nome seja exibido na área de usuários e equipes, o ícone não será exibido.
 
 #### Formulários personalizados
 
@@ -84,7 +102,7 @@ Quando um usuário visualiza o Gráfico de Gantt e alterna as visualizações, o
 
 As datas listadas na lista de documentos estão mostrando a data em que a primeira versão do documento foi criada, em vez da data em que a versão mais recente foi criada.
 
-### Planilhas de horas
+#### Planilhas de horas
 
 Quando um usuário tenta registrar as horas em uma folha de horas com status Enviado ou Fechado, não é possível registrar as horas.
 

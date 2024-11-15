@@ -3,18 +3,20 @@ title: '"Aprovações: o filtro "Todos" exclui aprovações enviadas pessoalment
 description: 'Ao exibir aprovações no widget Minhas aprovações na Página inicial ou na página Minhas atualizações, a lista não inclui aprovações enviadas pelo usuário, mesmo quando o filtro está definido como "Todos".'
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
+source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 10%
+source-wordcount: '88'
+ht-degree: 4%
 
 ---
 
 # Aprovações: o filtro &quot;Todos&quot; exclui aprovações enviadas pessoalmente
 
->[!NOTE]
+<!--
+>>[!NOTE]
 >
->Esse problema foi corrigido em sexta-feira, 20 de junho de 2024.
+>This issue was fixed on June 20, 2024.
+-->
 
 Ao visualizar aprovações no widget Minhas aprovações na Página inicial ou na página Minhas atualizações, a lista não inclui aprovações enviadas pelo usuário mesmo quando o filtro está definido como &quot;Todos&quot;.
 

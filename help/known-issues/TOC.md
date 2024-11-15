@@ -2,9 +2,9 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 8b921bed9b740195decf545195baaa495c05c1e8
+source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
 workflow-type: tm+mt
-source-wordcount: '2120'
+source-wordcount: '2125'
 ht-degree: 82%
 
 ---
@@ -28,6 +28,7 @@ ht-degree: 82%
       + [Tarefas: duração de Dias Decorridos incorreta para tarefas pai com tarefas filho](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
       + [Relatórios: a edição em massa nas listas de gráficos não responde](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md)
       + [Workfront: falha ao carregar as guias do navegador abertas](known-issues-workfront/wf-workfront-browser-tabs-error.md)
+      + [Relatórios: falha ao carregar relatórios](known-issues-workfront/wf-reports-fail-to-load.md)
       + [Planejador de recursos: não é possível acessar o Planejador de recursos](known-issues-workfront/wf-resource-planner-inaccessible.md)
       + [Página inicial: o widget Minhas tarefas não carrega](known-issues-workfront/wf-home-task-widget-wont-load.md)
       + [Modelos de layout: campos de dados personalizados não são exibidos quando adicionados ao Resumo da tarefa por meio do Modelo de layout](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
