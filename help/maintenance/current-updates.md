@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
+source-git-commit: c0bf0412970cb1bab476b59413ed44e0b432c9ec
 workflow-type: tm+mt
-source-wordcount: '6582'
-ht-degree: 89%
+source-wordcount: '6739'
+ht-degree: 87%
 
 ---
 
@@ -25,6 +25,38 @@ Para obter atualizações de manutenção anteriores a 2024, consulte [Atualiza�
 As seguintes atualizações de manutenção foram efetuadas em 2024.
 
 ## Atualizações em novembro de 2024
+
++++**Atualização de manutenção em sexta-feira, 21 de novembro de 2024**
+
+### Atualização de manutenção em 21 de novembro de 2024
+
+#### Painéis
+
+**Não é possível interagir com as barras de relatório do gráfico de barras nos painéis**
+
+Ao tentar clicar ou passar o mouse sobre uma barra em um relatório de gráfico de barras em um painel, o menu de detalhes não abre ou nenhuma dica de ferramenta é exibida, respectivamente.
+
+#### Projetos
+
+**Falha ao carregar os projetos**
+
+Ao navegar para um projeto, a página ocasionalmente falha ao carregar qualquer conteúdo.
+
+#### Relatórios
+
+**A edição em massa nas listas de gráficos não responde**
+
+Quando um usuário visualiza um gráfico em um relatório e seleciona vários itens na lista para edição em massa, o cursor desaparece e as caixas de texto para a edição em massa ficam sem resposta.
+
+**Botões Editar e Excluir sem resposta nos relatórios de folha de horas**
+
+Ao tentar clicar nos ícones Editar ou Excluir em um relatório de folha de horas, não há resposta.
+
+**Falha ao carregar relatórios contendo campos de digitação antecipada**
+
+Ao abrir um relatório que contém campos de digitação antecipada personalizados, o relatório ocasionalmente não é carregado e exibe uma mensagem de erro.
+
++++
 
 +++**Atualização de manutenção em sexta-feira, 14 de novembro de 2024**
 

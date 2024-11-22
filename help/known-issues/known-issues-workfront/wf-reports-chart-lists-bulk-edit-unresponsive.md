@@ -3,14 +3,19 @@ title: "Relatórios: a edição em massa nas listas de gráficos não responde"
 description: Quando um usuário visualiza um gráfico em um relatório e seleciona vários itens na lista para edição em massa, o cursor desaparece e as caixas de texto para a edição em massa ficam sem resposta.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
+exl-id: 7833bf90-076d-423a-9f0a-8354881a9a69
+source-git-commit: c0bf0412970cb1bab476b59413ed44e0b432c9ec
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 4%
+source-wordcount: '92'
+ht-degree: 10%
 
 ---
 
 # Relatórios: a edição em massa nas listas de gráficos não responde
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em sexta-feira, 21 de novembro de 2024.
 
 Quando um usuário visualiza um gráfico em um relatório e seleciona vários itens na lista para edição em massa, o cursor desaparece e as caixas de texto para a edição em massa ficam sem resposta.
 

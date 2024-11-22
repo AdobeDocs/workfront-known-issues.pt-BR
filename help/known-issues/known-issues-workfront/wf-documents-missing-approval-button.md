@@ -3,14 +3,19 @@ title: "Documentos: o botão de opções de aprovação não aparece nos documen
 description: Quando um usuário atribuído como aprovador para um documento navega até o documento para tomar uma decisão de aprovação, o botão de opções de aprovação não é exibido.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
+exl-id: 5172fa74-f3bc-4fe0-abdf-30ef640ef247
+source-git-commit: c0bf0412970cb1bab476b59413ed44e0b432c9ec
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 5%
+source-wordcount: '74'
+ht-degree: 13%
 
 ---
 
 # Documentos: o botão de opções de aprovação não aparece nos documentos
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em quinta-feira, 13 de novembro de 2024.
 
 Quando um usuário atribuído como aprovador para um documento navega até o documento para tomar uma decisão de aprovação, o botão de opções de aprovação não é exibido.
 
