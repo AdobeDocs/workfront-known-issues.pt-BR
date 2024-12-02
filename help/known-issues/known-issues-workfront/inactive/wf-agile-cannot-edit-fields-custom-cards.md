@@ -1,5 +1,5 @@
 ---
-title: '“Agile: não é possível editar campos a partir de formulários personalizados em cartões”'
+title: 'Ágil: não é possível editar campos de formulários personalizados em cartões'
 description: Quando um campo em um cartão no Quadro Kanban é extraído de um formulário personalizado, os usuários não podem editar esse campo diretamente do cartão.
 exl-id: 3edad5bb-7deb-45ea-a89c-6587c34bea12
 feature: Agile

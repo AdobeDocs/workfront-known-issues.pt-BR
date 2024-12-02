@@ -1,5 +1,5 @@
 ---
-title: '“Provas: falha ao gerar provas compactadas”'
+title: 'Provas: falha ao gerar provas comprimidas'
 description: Quando uma pessoa tenta criar uma prova comprimida e dois ou mais arquivos de prova têm o mesmo nome, a prova não é gerada.
 hidefromtoc: true
 feature: Digital Content and Documents

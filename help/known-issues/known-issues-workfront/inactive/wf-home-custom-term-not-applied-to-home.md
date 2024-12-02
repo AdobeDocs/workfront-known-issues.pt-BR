@@ -1,5 +1,5 @@
 ---
-title: '“Página inicial: a terminologia personalizada não é aplicada à área da página inicial”'
+title: 'Página inicial: a terminologia personalizada não é aplicada à área da página inicial'
 description: A área da página inicial exibe nomes padrão para objetos em vez da terminologia definida pela organização. Esse problema foi relatado em várias áreas.
 exl-id: d15afc61-25f7-4fd8-9f9a-db94ed392082
 hidefromtoc: true

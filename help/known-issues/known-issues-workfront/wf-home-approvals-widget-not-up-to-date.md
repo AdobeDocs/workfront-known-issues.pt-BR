@@ -1,5 +1,5 @@
 ---
-title: '“Página inicial: o dispositivo de aprovações não é preciso”'
+title: 'Página inicial: o dispositivo de aprovações não é preciso'
 description: O dispositivo Aguardando minhas aprovações na nova experiência da Página inicial não exibe as aprovações com precisão.
 hidefromtoc: true
 feature: Digital Content and Documents

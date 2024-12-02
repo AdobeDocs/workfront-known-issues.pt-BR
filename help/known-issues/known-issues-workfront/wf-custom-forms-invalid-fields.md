@@ -1,9 +1,10 @@
 ---
-title: '"Formulários personalizados: não é possível adicionar os campos de tarefa "estimateByHours" ou "hoursPerPoint"'
-description: 'Quando um usuário tenta adicionar os campos "estimateByHours" ou "hoursPerPoint" a um formulário personalizado no construtor de formulários, uma mensagem de erro é exibida: "Esta expressão personalizada é inválida. Tente novamente."'
+title: 'Formulários personalizados: não é possível adicionar campos de tarefa "estimateByHours" ou "hoursPerPoint"'
+description: 'Quando um usuário tenta adicionar os campos "estimateByHours" ou "hoursPerPoint" a um formulário personalizado no construtor de formulários, uma mensagem de erro é exibida: "Esta expressão personalizada é inválida. Tente novamente".'
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
+exl-id: 018ad614-9ba8-43bf-8c0e-f90cd322e6ee
+source-git-commit: 894de7cfbd8798d700cd7707edae4a3e86902bec
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 4%

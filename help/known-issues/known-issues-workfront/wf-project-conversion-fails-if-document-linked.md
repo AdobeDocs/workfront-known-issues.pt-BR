@@ -1,11 +1,11 @@
 ---
-title: '“Projeto: não é possível converter problema em projeto se um documento estiver em anexo”'
+title: 'Projeto: não é possível converter problema em projeto se um documento estiver em anexo.'
 description: Quando um problema tem um documento em anexo e alguém tentar converter esse problema em um projeto, a conversão falha e o projeto não é criado. Um erro é exibido.
 hidefromtoc: true
 feature: Projects, Work Management, Digital Content and Documents
 exl-id: 9c133ddd-4001-4d1a-ad96-f7a0a57fe9a1
 source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 100%
 

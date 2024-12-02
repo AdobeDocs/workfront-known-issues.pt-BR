@@ -1,5 +1,5 @@
 ---
-title: '“Quadros: erro ao carregar um quadro”'
+title: 'Quadros: erro ao carregar um quadro'
 description: Não é possível carregar um quadro, e uma mensagem de erro aparece.
 hidefromtoc: true
 feature: Agile

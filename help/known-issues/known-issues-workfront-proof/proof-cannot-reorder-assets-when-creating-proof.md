@@ -1,5 +1,5 @@
 ---
-title: "Workfront Proof: não é possível reordenar ativos ao criar uma prova"
+title: 'Workfront Proof: não é possível reordenar ativos ao criar uma prova'
 description: quando um usuário no Workfront Proof tenta reordenar os ativos que serão combinados em uma prova, não é possível arrastar os arquivos e a ordem dos arquivos não é alterada.
 hidefromtoc: true
 feature: Digital Content and Documents

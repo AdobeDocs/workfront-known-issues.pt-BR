@@ -1,11 +1,11 @@
 ---
-title: '“Provas: abrir uma prova abre várias cópias”'
-description: “Ao abrir uma prova, duas guias do navegador são abertas com a mesma prova. ”
+title: 'Provas: abrir uma prova abre várias cópias'
+description: 'Ao abrir uma prova, duas guias do navegador são abertas com a mesma prova. '
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: c09e199c-0b72-4791-930c-eed14dd2ffbf
 source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 100%
 

@@ -1,5 +1,5 @@
 ---
-title: '“Página inicial: o dispositivo Aprovações pendentes mostra documentos excluídos”'
+title: 'Página inicial: o dispositivo Aprovações pendentes mostra documentos excluídos'
 description: Quando uma pessoa visualiza o dispositivo Aprovações pendentes da Página inicial, documentos que foram excluídos são exibidos. Se a pessoa clicar em um desses documentos, será direcionada a uma página em branco.
 hidefromtoc: true
 feature: Get Started with Workfront, Digital Content and Documents

@@ -1,5 +1,5 @@
 ---
-title: '“Relatórios: erro ao exibir detalhes do relatório agrupado por data personalizada”'
+title: 'Relatórios: erro ao exibir detalhes do relatório agrupado por data personalizada'
 description: Ao visualizar um relatório e clicar nos detalhes, se o relatório estiver agrupado por um campo de data personalizada, os detalhes não são carregados e um erro é exibido.
 hidefromtoc: true
 feature: Reports and Dashboards

@@ -1,5 +1,5 @@
 ---
-title: "Provas: falha ao criar prova para documentos vinculados do AEM por meio do Fusion"
+title: 'Provas: falha ao criar prova para documentos vinculados do AEM por meio do Fusion'
 description: Ao tentar converter um documento em uma prova que foi vinculada ao Workfront a partir do AEM usando o Fusion, o processo fica preso e a prova nunca é gerada.
 hidefromtoc: true
 feature: Digital Content and Documents, Workfront Fusion

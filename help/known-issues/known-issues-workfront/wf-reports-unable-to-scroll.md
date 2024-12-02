@@ -1,9 +1,10 @@
 ---
-title: "Relatórios: não é possível rolar a tela para ver o relatório do gráfico inteiro"
-description: "Ao exibir um relatório de gráfico grande, a barra de rolagem não é exibida, impedindo que os usuários rolem pelo relatório inteiro."
+title: 'Relatórios: não é possível rolar a tela para ver todo o relatório do gráfico'
+description: Ao exibir um relatório de gráfico grande, a barra de rolagem não é exibida, impedindo que os usuários rolem pelo relatório inteiro.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
+exl-id: b3b41b41-2bb6-40e3-9579-434349b7302f
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 6%

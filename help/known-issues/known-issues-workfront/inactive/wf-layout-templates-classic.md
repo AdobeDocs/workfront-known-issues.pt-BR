@@ -1,5 +1,5 @@
 ---
-title: '“Modelos de layout: os modelos de layout causam inconsistências nos relatórios”'
+title: 'Modelos de layout: modelos de layout causam inconsistências nos relatórios'
 description: Os modelos de layout da experiência clássica do Workfront não estão mais disponíveis na interface, mas ainda podem afetar os dados. Isso pode causar inconsistências em campos afetados por modelos de layout (como “Compartilhado com”) em relatórios ou painéis.
 hidefromtoc: true
 feature: System Setup and Administration

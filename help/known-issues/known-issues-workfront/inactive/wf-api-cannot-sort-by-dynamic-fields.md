@@ -1,6 +1,6 @@
 ---
 title: 'API: não é possível classificar por campos dinâmicos'
-description: '''A API do Workfront não permite a classificação por campos dinâmicos. ”'
+description: 'A API do Workfront não permite a classificação por campos dinâmicos. '
 hidefromtoc: true
 exl-id: f681fca8-7def-4fe4-9ab1-18dd6e2502d6
 feature: Workfront API

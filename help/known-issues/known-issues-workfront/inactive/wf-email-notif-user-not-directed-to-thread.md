@@ -1,5 +1,5 @@
 ---
-title: '“Notificações por email: o usuário não é direcionado à thread de comentários”'
+title: 'Notificações por email: o usuário não é direcionado ao thread de comentários'
 description: Quando um usuário clica no link Comentário em uma notificação por email, ele é direcionado para a parte superior da área [!UICONTROL Atualizações] e não para a thread de comentários à qual está tentando responder.
 exl-id: 335c2867-eae5-46e8-a7d5-8b9b35e66e31
 feature: Updates and Notifications

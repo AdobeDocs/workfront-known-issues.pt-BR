@@ -1,5 +1,5 @@
 ---
-title: '“Formulários personalizados: erro ao editar campos de texto descritivo”'
+title: 'Formulários personalizados: erro ao editar campos de texto descritivo'
 description: Quando uma pessoa tenta editar o texto descritivo em um formulário personalizado, ele não é salvo um erro é exibido. Uma solução alternativa está disponível.
 hidefromtoc: true
 feature: Custom Forms

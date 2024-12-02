@@ -1,5 +1,5 @@
 ---
-title: '“Página inicial: as tarefas em projetos com status Aprovado ou Em planejamento não são incluídas em Minhas tarefas ou na Lista de trabalho da página inicial”'
+title: 'Página inicial: as tarefas em projetos com status Aprovado ou Em planejamento não são incluídas em Minhas tarefas ou na Lista de trabalho da página inicial'
 description: As tarefas de projetos com o status Aprovado ou Em planejamento não são exibidas na Página inicial. Uma solução alternativa está disponível.
 hidefromtoc: true
 feature: Get Started with Workfront

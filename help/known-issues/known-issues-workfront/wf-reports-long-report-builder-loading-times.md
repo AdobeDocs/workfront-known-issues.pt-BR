@@ -1,5 +1,5 @@
 ---
-title: "Relatórios: tempos de carregamento longos do Report Builder"
+title: 'Relatórios: tempos de carregamento longos do Report Builder'
 description: O Report Builder leva um tempo estendido para ser carregado, em alguns casos até um minuto.
 hidefromtoc: true
 feature: Reports and Dashboards

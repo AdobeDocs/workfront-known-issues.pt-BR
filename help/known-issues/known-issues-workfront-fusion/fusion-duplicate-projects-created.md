@@ -1,5 +1,5 @@
 ---
-title: '“Workfront Fusion: projetos duplicados criados a partir de um mesmo módulo”'
+title: 'Workfront Fusion: projetos duplicados criados a partir de um mesmo módulo'
 description: Quando um módulo “Criar projeto” é usado durante uma execução de cenário, dois projetos idênticos são criados. Isso pode causar confusão ao usar os projetos no Workfront.
 hidefromtoc: true
 feature: Workfront Fusion

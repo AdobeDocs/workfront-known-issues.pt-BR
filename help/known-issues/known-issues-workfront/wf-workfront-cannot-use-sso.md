@@ -1,11 +1,11 @@
 ---
-title: '“Workfront: não é possível usar SSO”'
+title: 'Workfront: não é possível usar SSO'
 description: A funcionalidade do Workfront que usa SSO retorna um erro.
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 372bab9a-fd77-41eb-a806-34e99ce55b17
 source-git-commit: 9a8c1695bc2469c3c29849e7ed735a71c347bcce
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 100%
 

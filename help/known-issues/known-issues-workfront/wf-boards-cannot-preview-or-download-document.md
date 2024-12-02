@@ -1,5 +1,5 @@
 ---
-title: '“Quadros: não é possível visualizar ou baixar documentos do cartão”'
+title: 'Quadros: não é possível visualizar ou baixar documentos do cartão'
 description: Documentos do Word (.docx) não podem ser visualizados ou baixados da seção de documentos da exibição detalhada do cartão.
 hidefromtoc: true
 feature: Agile

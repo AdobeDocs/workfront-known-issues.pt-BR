@@ -1,15 +1,15 @@
 ---
-title: '“Notificações: erro ‘Ops!’ ao definir as preferências de notificação”'
-description: “Um erro ocorre ao tentar exibir as preferências de notificação.”
+title: 'Notificações: erro “Ops!” ao definir as preferências de notificação'
+description: Ao tentar exibir as preferências de notificação, o usuário vê um erro.
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: dfecda276ab8f6da56bbe2442f09d0a6cb0c71de
-workflow-type: ht
+exl-id: 6258c5e6-e16b-4bf6-92e8-c4ab3d3866ce
+source-git-commit: 9a8c1695bc2469c3c29849e7ed735a71c347bcce
+workflow-type: tm+mt
 source-wordcount: '86'
-ht-degree: 100%
+ht-degree: 86%
 
 ---
-
 
 # Notificações: erro “Ops!” ao definir as preferências de notificação
 

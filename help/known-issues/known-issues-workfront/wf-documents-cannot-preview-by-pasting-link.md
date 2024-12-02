@@ -1,11 +1,11 @@
 ---
-title: '“Documentos: não é possível visualizar documentos com o link de visualização”'
+title: 'Documentos: não é possível visualizar documentos com o link de visualização'
 description: Os usuários não podem exibir uma visualização de documento.
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: ef149cc4-fe45-4f90-a0f8-850db9c33425
 source-git-commit: 5883bf2455640b180072be228eae4d11d1c7b6c9
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 100%
 

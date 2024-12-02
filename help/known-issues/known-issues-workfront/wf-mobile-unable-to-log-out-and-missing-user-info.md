@@ -1,5 +1,5 @@
 ---
-title: '“Dispositivo móvel: não é possível fazer logout e faltam informações de perfil do usuário”'
+title: 'Dispositivo móvel: não é possível fazer logout e faltam informações de perfil do usuário'
 description: A opção de logout no aplicativo móvel não permite que alguns usuários façam logout com êxito. Suas páginas de perfil de usuário também aparecem em branco e geram uma mensagem de erro.
 hidefromtoc: true
 feature: Get Started with Workfront

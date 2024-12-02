@@ -1,5 +1,5 @@
 ---
-title: '“Provas: a prova impede a conversão de tarefa ou problema em projeto”'
+title: 'Provas: a prova impede a conversão de tarefa ou problema em projeto'
 description: Quando um usuário tenta converter uma tarefa ou problema que inclui uma prova gerada pela Web em um projeto, o projeto não é criado e o usuário vê uma mensagem. Uma solução alternativa está disponível.
 hidefromtoc: true
 feature: Digital Content and Documents, Projects, Tasks, Work Management

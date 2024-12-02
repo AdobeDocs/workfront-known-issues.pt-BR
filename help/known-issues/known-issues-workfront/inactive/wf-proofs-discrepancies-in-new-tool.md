@@ -1,5 +1,5 @@
 ---
-title: '“Provas: problemas ao processar arquivos estáticos”'
+title: 'Provas: problemas ao processar arquivos estáticos'
 description: Recentemente, o Workfront alterou sua ferramenta de processamento de provas de um provedor terceirizado para uma solução interna e descobriu algumas discrepâncias nos recursos de ambos os sistemas. Essas discrepâncias podem causar problemas no processamento de arquivos estáticos, especialmente arquivos PDF, Word e PPT. Uma solução alternativa está disponível.
 hidefromtoc: true
 feature: Digital Content and Documents

@@ -1,5 +1,5 @@
 ---
-title: "Relatórios: a edição em massa nas listas de gráficos não responde"
+title: 'Relatórios: a edição em massa nas listas de gráficos não responde'
 description: Quando um usuário visualiza um gráfico em um relatório e seleciona vários itens na lista para edição em massa, o cursor desaparece e as caixas de texto para a edição em massa ficam sem resposta.
 hidefromtoc: true
 feature: Reports and Dashboards

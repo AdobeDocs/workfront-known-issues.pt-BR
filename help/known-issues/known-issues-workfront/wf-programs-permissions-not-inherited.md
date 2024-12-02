@@ -1,5 +1,5 @@
 ---
-title: '“Programas: quando o acesso do usuário ao programa é atualizado, todo o acesso a ele é perdido”'
+title: 'Programas: quando o acesso do usuário ao programa é atualizado, todo o acesso a ele é perdido'
 description: Quando alguém tenta atualizar o acesso do usuário a um programa, todos os outros grupos, equipes, funções e usuários perdem o acesso a esse programa. Isso inclui permissões herdadas do portfólio.
 hidefromtoc: true
 feature: Work Management

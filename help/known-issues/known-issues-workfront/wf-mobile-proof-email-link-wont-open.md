@@ -1,9 +1,10 @@
 ---
-title: "Workfront Mobile: links de email de prova não abrem no iPhone"
+title: 'Workfront Mobile: links de email de prova não abrem no iPhone'
 description: Quando um usuário tenta abrir uma prova por meio de um link de email em seu telefone, o usuário é redirecionado para uma página do navegador que eventualmente exibe um erro informando que o link é incorreto.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
+exl-id: 6279839d-6e91-4a5b-9acf-3afa1cb1c543
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 4%

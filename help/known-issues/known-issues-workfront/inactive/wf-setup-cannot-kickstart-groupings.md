@@ -1,5 +1,5 @@
 ---
-title: '“Configuração: não é possível utilizar o [!UICONTROL Início] para configurar agrupamentos”'
+title: 'Configuração: não é possível utilizar o [!UICONTROL Início rápido] para configurar agrupamentos'
 description: Quando um usuário tenta usar o [!UICONTROL Início] em um agrupamento, a importação não é bem-sucedida e uma mensagem de erro é exibida.
 hidefromtoc: true
 feature: System Setup and Administration

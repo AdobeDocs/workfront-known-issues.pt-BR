@@ -1,9 +1,10 @@
 ---
-title: "Planejador de recursos: não é possível acessar o Planejador de recursos"
+title: 'Planejador de recursos: não é possível acessar o Planejador de recursos'
 description: Quando um usuário tenta acessar o Planejador de recursos, a página não é carregada e, em vez disso, exibe caixas de erro ou uma mensagem de erro.
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
+exl-id: 2562d740-c8db-4358-898a-fb2408c2026b
+source-git-commit: 894de7cfbd8798d700cd7707edae4a3e86902bec
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 14%

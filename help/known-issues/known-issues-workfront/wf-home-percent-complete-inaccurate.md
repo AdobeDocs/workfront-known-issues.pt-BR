@@ -1,5 +1,5 @@
 ---
-title: "Página inicial: a porcentagem concluída está cortada"
+title: 'Página inicial: o percentual concluído está cortado'
 description: Quando um usuário visualiza uma lista na página inicial, a coluna Porcentagem concluída é parcialmente cortada e o usuário não consegue ver a porcentagem concluída precisa dos objetos.
 hidefromtoc: true
 feature: Get Started with Workfront

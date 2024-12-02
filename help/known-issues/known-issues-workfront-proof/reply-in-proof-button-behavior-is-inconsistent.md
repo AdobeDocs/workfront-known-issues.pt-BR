@@ -1,5 +1,5 @@
 ---
-title: '“Página inicial: o comportamento do botão Responder na prova é inconsistente”'
+title: 'Página inicial: o comportamento do botão Responder na prova é inconsistente'
 description: Quando um usuário na nova experiência do [!DNL Adobe Workfront] visualiza uma prova no painel direito na [!UICONTROL Página inicial], e clica em [!UICONTROL Responder na prova] em um comentário, é exibida uma caixa de texto onde ele pode fazer uma atualização na área [!UICONTROL Atualizações do documento] em vez de ser direcionado ao Visualizador de provas como pretendido.
 exl-id: f9e08d81-135c-4b04-a239-2fb0fcc87ae5
 hidefromtoc: true
@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
 workflow-type: tm+mt
 source-wordcount: '173'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 

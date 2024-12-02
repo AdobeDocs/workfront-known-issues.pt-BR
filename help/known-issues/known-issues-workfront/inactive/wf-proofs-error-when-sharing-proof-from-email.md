@@ -1,5 +1,5 @@
 ---
-title: '“Provas: erro ao compartilhar prova do link de email”'
+title: 'Provas: erro ao compartilhar prova do link de email'
 description: Quando uma prova é compartilhada com um convidado e esse convidado tenta usar a opção Compartilhar esta prova com outra pessoa no email, ele recebe um erro ao tentar informar um endereço de email para compartilhar a prova. O campo de email fica vermelho e o usuário vê um erro.
 hidefromtoc: true
 feature: Digital Content and Documents

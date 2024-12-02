@@ -1,5 +1,5 @@
 ---
-title: '“Workfront Proof: os dados de pesquisa nem sempre são precisos”'
+title: 'Prova do Workfront: os dados de pesquisa nem sempre são precisos'
 description: Os dados exibidos na página de resultados dentro da prova nem sempre mostram as informações mais atualizadas. Recomenda-se criar uma visualização personalizada e usá-la para obter as informações mais atualizadas sobre os dados.
 hidefromtoc: true
 feature: Workfront Proof

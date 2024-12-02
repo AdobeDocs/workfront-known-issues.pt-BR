@@ -1,5 +1,5 @@
 ---
-title: '“Provas: as provas são criadas lentamente no ambiente Visualização”'
+title: 'Provas: as provas são criadas lentamente no ambiente Visualização'
 description: Quando um usuário cria uma prova no ambiente Visualização, ela é criada de maneira muito lenta.
 hidefromtoc: true
 feature: Digital Content and Documents

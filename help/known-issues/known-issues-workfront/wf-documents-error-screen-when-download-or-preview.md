@@ -1,5 +1,5 @@
 ---
-title: '“Documentos: tela de erro ao baixar ou visualizar um ativo”'
+title: 'Documentos: tela de erro ao baixar ou visualizar um ativo'
 description: Quando alguém tenta baixar ou visualizar um ativo no Workfront, a pessoa é redirecionada para uma tela de erro.
 hidefromtoc: true
 feature: Digital Content and Documents

@@ -1,5 +1,5 @@
 ---
-title: '“Painel: grande margem em branco ao imprimir o painel para PDF”'
+title: 'Painel: grande margem em branco ao imprimir o painel para PDF'
 description: Quando uma pessoa imprime um painel para PDF usando a orientação paisagem, o PDF mostra uma grande margem em branco no lado direito.
 hidefromtoc: true
 feature: Reports and Dashboards

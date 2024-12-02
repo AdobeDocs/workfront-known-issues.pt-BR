@@ -1,5 +1,5 @@
 ---
-title: '“Folhas de horas: folhas de horas fixadas levam a uma página em branco”'
+title: 'Folhas de horas: folhas de horas fixadas levam a uma página em branco'
 description: Quando uma pessoa clica em um pino no Workfront que deveria levar à sua folha de horas, em vez disso, o pino leva a uma página em branco. Uma solução alternativa está disponível.
 hidefromtoc: true
 feature: Timesheets

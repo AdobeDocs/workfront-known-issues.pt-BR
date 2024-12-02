@@ -1,6 +1,6 @@
 ---
-title: '“Relatórios: os links públicos para um relatório não estão funcionando”'
-description: “Ao clicar em um link público para um relatório, ocorre um erro. O erro específico depende do navegador utilizado. ”
+title: 'Relatórios: os links públicos para um relatório não estão funcionando'
+description: 'Ao clicar em um link público para um relatório, ocorre um erro. O erro específico depende do navegador utilizado. '
 hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 12fe08b3-1aa5-442e-ab23-ecc6d491359c

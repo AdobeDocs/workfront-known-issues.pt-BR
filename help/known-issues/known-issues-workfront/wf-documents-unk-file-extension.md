@@ -1,5 +1,5 @@
 ---
-title: '“Documentos: extensão de arquivo UNK ao vincular documentos da integração”'
+title: 'Documentos: extensão de arquivo UNK ao vincular documentos da integração'
 description: Quando alguém vincula um documento de uma integração de documentos, esse documento aparece no Workfront com uma extensão de arquivo UNK.
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Digital Content and Documents

@@ -1,15 +1,15 @@
 ---
-title: "Workfront Fusion: problemas de armazenamento de dados"
-description: "Os seguintes problemas foram relatados em relação a campos booleanos em armazenamentos de dados: os armazenamentos de dados não retornam nenhum valor para campos que tenham o valor EMPTY, e os usuários não podem definir valores como FALSE diretamente no armazenamento de dados."
+title: 'Workfront Fusion: problemas de armazenamento de dados'
+description: 'Os seguintes problemas foram relatados em relação a campos booleanos em armazenamentos de dados: os armazenamentos de dados não retornam nenhum valor para campos que tenham o valor VAZIO e os usuários não podem definir valores como FALSO diretamente no armazenamento de dados.'
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+exl-id: 1e0c807c-dab0-46ab-bdfa-f0a99f5db986
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 10%
 
 ---
-
 
 # Workfront Fusion: problemas de armazenamento de dados
 

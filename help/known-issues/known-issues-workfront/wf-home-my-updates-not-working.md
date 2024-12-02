@@ -1,5 +1,5 @@
 ---
-title: "Página inicial: o widget Minhas atualizações não está funcionando"
+title: 'Página inicial: o widget Minhas atualizações não está funcionando'
 description: Quando um usuário tenta visualizar o widget Minhas atualizações na Página inicial, o widget não é exibido e o usuário vê uma mensagem.
 hidefromtoc: true
 feature: Get Started with Workfront

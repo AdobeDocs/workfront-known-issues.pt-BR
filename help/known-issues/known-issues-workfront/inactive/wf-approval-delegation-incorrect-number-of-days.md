@@ -1,5 +1,5 @@
 ---
-title: '“Aprovações: a delegação de aprovação é definida com o número incorreto de dias”'
+title: 'Aprovações: a delegação de aprovação é definida com o número incorreto de dias'
 description: Quando um usuário programa a Folga pessoal e delega suas aprovações para esse período, a delegação de aprovação pode incluir dias antes ou depois do horário agendado.
 exl-id: 8d978983-b663-442b-9935-75ecbd359a43
 feature: Approvals

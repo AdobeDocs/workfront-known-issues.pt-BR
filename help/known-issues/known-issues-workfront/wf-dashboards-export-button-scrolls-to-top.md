@@ -1,5 +1,5 @@
 ---
-title: '“Painéis: a seleção do botão Exportar em um relatório rola para a parte superior da página”'
+title: 'Painéis: a seleção do botão Exportar em um relatório rola para a parte superior da página'
 description: Ao clicar no botão Exportar em um relatório de um painel, a janela rola para a parte superior da página, exigindo a rolagem para baixo para chegar ao menu de opções de exportação aberto.
 hidefromtoc: true
 feature: Reports and Dashboards

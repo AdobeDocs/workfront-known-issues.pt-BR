@@ -1,5 +1,5 @@
 ---
-title: '“Aprovações: muitos redirecionamentos”'
+title: 'Aprovações: muitos redirecionamentos'
 description: Ao receber um email de notificação de aprovação e clicar em Tomar uma decisão quanto à aprovação, a pessoa não é direcionada ao objeto que precisa de aprovação. Em vez disso, um erro é exibido para o usuário.
 hidefromtoc: true
 feature: Updates and Notifications

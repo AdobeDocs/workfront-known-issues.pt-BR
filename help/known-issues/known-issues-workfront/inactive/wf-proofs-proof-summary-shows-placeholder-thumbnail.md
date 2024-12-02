@@ -1,5 +1,5 @@
 ---
-title: '“Provas: o [!UICONTROL Resumo de impressão] não mostra a miniatura da imagem”'
+title: 'Provas: o [!UICONTROL Resumo de impressão] não mostra a miniatura da imagem'
 description: Quando um usuário visualiza a página [!UICONTROL Resumo de impressão] de uma prova no [!DNL Workfront], a miniatura da prova não é exibida. Em vez disso, uma imagem simples de espaço reservado é exibida.
 hidefromtoc: true
 exl-id: e3ad759d-59a2-4c2b-b4a1-14a75c9d85d2

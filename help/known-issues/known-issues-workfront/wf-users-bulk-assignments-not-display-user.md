@@ -1,11 +1,11 @@
 ---
-title: '“Usuários: usuários ausentes ao fazer atribuições em massa”'
-description: “Quando alguém tenta fazer atribuições em massa e uma função de trabalho é atribuída à tarefa, os usuários com essa função não aparecem na lista e o atribuidor não pode selecioná-los. ”
+title: 'Usuários: usuários ausentes ao fazer atribuições em massa'
+description: 'Quando alguém tenta fazer atribuições em massa e uma função de trabalho é atribuída à tarefa, os usuários com essa função de trabalho não aparecem na lista e o usuário atribuidor não pode selecioná-los. '
 hidefromtoc: true
 feature: People Teams and Groups
 exl-id: a2331209-b8b4-402a-8478-7eb220c579bb
 source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 100%
 

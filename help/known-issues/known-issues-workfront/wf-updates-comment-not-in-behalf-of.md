@@ -1,5 +1,5 @@
 ---
-title: "Atualizações: os comentários não são exibidos em nome de"
+title: 'Atualizações: os comentários não são exibidos em nome de'
 description: Quando um administrador faz logon como outro usuário e faz um comentário, o comentário é atribuído a esse usuário, em vez de ser atribuído ao administrador em nome do usuário.
 hidefromtoc: true
 feature: Updates and Notifications

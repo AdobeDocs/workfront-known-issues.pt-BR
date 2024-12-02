@@ -1,11 +1,11 @@
 ---
-title: '“Integrações: problemas com a integração com o Dropbox”'
+title: 'Integrações: problemas com a integração com o Dropbox'
 description: Relato de problemas em relação à integração com o Dropbox.
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Digital Content and Documents
 exl-id: 58df9050-d71a-4fee-834b-8b15b20f4946
 source-git-commit: 4a75c9135e2b1ba7dab0ab8d69d52b6d1469aa49
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 100%
 

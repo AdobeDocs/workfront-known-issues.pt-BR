@@ -1,5 +1,5 @@
 ---
-title: '“Formulários personalizados: um erro ‘Ops!’ ocorre ao configurar um campo calculado”'
+title: 'Formulários personalizados: ocorre um erro ao configurar um campo calculado'
 description: Quando um usuário cria ou edita um campo calculado em um formulário personalizado e inclui um campo personalizado na expressão do campo calculado, a expressão é considerada inválida. O botão Salvar está desativado e o usuário não consegue sair do campo personalizado. Além disso, o usuário vê uma mensagem de erro “Ops!” abaixo do campo.
 hidefromtoc: true
 feature: Custom Forms
@@ -7,7 +7,7 @@ exl-id: e499c680-2fdf-40cb-a1fa-b0d4ae799ad2
 source-git-commit: 688d728782638489aacc76a1a12c38ab12215f8e
 workflow-type: tm+mt
 source-wordcount: '176'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 

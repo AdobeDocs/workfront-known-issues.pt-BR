@@ -1,5 +1,5 @@
 ---
-title: '“Modelo de layout: a página de aterrissagem está incorreta”'
+title: 'Modelo de layout: a página de aterrissagem está incorreta'
 description: Quando uma pessoa com uma licença Solicitante é atribuído a um modelo de layout que tem a página Solicitações definida como página de destino, ela é direcionado para a página inicial como se ela fosse a página de destino definida.
 hidefromtoc: true
 feature: System Setup and Administration

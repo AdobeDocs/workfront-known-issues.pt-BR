@@ -1,5 +1,5 @@
 ---
-title: '“Painéis: os gráficos de relatório exibidos em um painel usam cores diferentes das exibidas no relatório”'
+title: 'Painéis: os gráficos de relatório exibidos em um painel usam cores diferentes das exibidas no relatório'
 description: Quando um usuário visualiza um gráfico de relatório em um painel, as cores usadas são diferentes de quando o usuário visualiza o relatório em si. Isso pode causar confusão se o usuário espera que uma determinada cor tenha um determinado significado.
 exl-id: cfd8b018-c0d9-447a-b318-42938bd82edd
 feature: Reports and Dashboards

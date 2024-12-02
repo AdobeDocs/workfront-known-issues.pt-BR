@@ -1,5 +1,5 @@
 ---
-title: '“Grupos: não é possível adicionar um subgrupo”'
+title: 'Grupos: não é possível adicionar um subgrupo'
 description: Quando alguém tenta adicionar um subgrupo já existente a um grupo, o botão Salvar não funciona e o subgrupo não é adicionado.
 hidefromtoc: true
 feature: People Teams and Groups

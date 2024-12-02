@@ -1,5 +1,5 @@
 ---
-title: 'Página inicial: o dispositivo Solicitações não exibe todas as equipes atribuídas'
+title: 'Página inicial: o widget Solicitações não exibe todas as equipes atribuídas'
 description: Quando uma pessoa visualiza o dispositivo Solicitações na experiência da nova Página inicial, as solicitações são exibidas como tendo apenas uma equipe atribuída, mesmo que tenham mais de uma.
 hidefromtoc: true
 feature: Get Started with Workfront
@@ -7,7 +7,7 @@ exl-id: 464174a6-5b4e-4cea-a00b-db76bb16a04d
 source-git-commit: 374c88a6a4e8890968220ae51b3fea303e0d7628
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 100%
+ht-degree: 91%
 
 ---
 

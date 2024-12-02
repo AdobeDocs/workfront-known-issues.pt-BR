@@ -1,5 +1,5 @@
 ---
-title: '“Página inicial: o dispositivo Meus problemas não exibe problemas fechados ou concluídos”'
+title: 'Página inicial: o dispositivo Meus problemas não exibe problemas fechados ou concluídos'
 description: O dispositivo Meus problemas na Página inicial não exibe problemas fechados ou concluídos. Isso pode ocorrer mesmo que o filtro esteja definido para exibir esses problemas.
 hidefromtoc: true
 feature: Get Started with Workfront

@@ -1,11 +1,11 @@
 ---
-title: '“Projetos: o símbolo de moeda está incorreto ao exportar”'
+title: 'Projetos: o símbolo de moeda está incorreto ao exportar '
 description: Ao exportar um problema, o símbolo de moeda da exportação não corresponde à moeda definida no projeto ou no problema.
 hidefromtoc: true
 feature: Projects, Work Management
 exl-id: c5af8e07-d3d7-490e-9223-6fa67d0339ed
 source-git-commit: dfecda276ab8f6da56bbe2442f09d0a6cb0c71de
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 100%
 

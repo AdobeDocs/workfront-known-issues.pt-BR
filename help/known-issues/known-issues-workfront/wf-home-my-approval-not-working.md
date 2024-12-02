@@ -1,5 +1,5 @@
 ---
-title: "Página inicial: o widget Minhas aprovações não está funcionando"
+title: 'Página inicial: o widget Minhas aprovações não está funcionando'
 description: Quando um usuário tenta visualizar o widget Minhas aprovações na página inicial, o widget não é exibido e o usuário vê uma mensagem.
 hidefromtoc: true
 feature: Get Started with Workfront

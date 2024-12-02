@@ -1,15 +1,15 @@
 ---
-title: '“Hora: o tipo de hora filtrado não é o padrão ao registrar a hora”'
-description: “Quando uma pessoa registra a hora, o tipo de hora pré-selecionado é a Hora da tarefa em vez do tipo de hora filtrado para esse projeto.”
+title: 'Hora: o tipo de hora filtrado não é o padrão ao registrar a hora'
+description: Quando um usuário registra tempo, o tipo de hora pré-selecionado é Tempo da tarefa em vez do tipo de hora filtrado para esse projeto.
 hidefromtoc: true
 feature: Timesheets, Work Management
-source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
-workflow-type: ht
+exl-id: 35ce305b-994f-42ee-a911-14f922ad9c39
+source-git-commit: 18d44b25277610942a68227b9a3a9c17c874b966
+workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 100%
+ht-degree: 83%
 
 ---
-
 
 # Hora: o tipo de hora filtrado não é o padrão ao registrar a hora
 

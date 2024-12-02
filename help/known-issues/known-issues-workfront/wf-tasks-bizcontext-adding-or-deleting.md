@@ -1,5 +1,5 @@
 ---
-title: '“Tarefas: erro de Bizcontext ao adicionar ou excluir uma tarefa”'
+title: 'Tarefas: erro de Bizcontext ao adicionar ou excluir uma tarefa'
 description: Quando uma pessoa tenta adicionar ou excluir uma tarefa, ela não é adicionada ou excluída e um erro de Bizcontext é exibido.
 hidefromtoc: true
 feature: Tasks

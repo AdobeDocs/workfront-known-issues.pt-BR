@@ -1,5 +1,5 @@
 ---
-title: '“Documentos: o ícone de fluxo de trabalho de prova não é exibido”'
+title: 'Documentos: o ícone de fluxo de trabalho de prova não é exibido'
 description: Quando um usuário na nova experiência do  [!DNL Workfront]  cria uma prova, o ícone de status de prova “SOCD” às vezes não é exibido na lista Documentos até que o usuário atualize a página.
 exl-id: ed99c9f3-412d-4e56-9b0a-84a1d53bdcfc
 hidefromtoc: true

@@ -1,5 +1,5 @@
 ---
-title: '“Relatórios: o filtro de relatório não retorna os resultados esperados”'
+title: 'Relatórios: o filtro de relatório não retorna os resultados esperados'
 description: Um filtro em um relatório pode não retornar todos os resultados esperados. Uma solução alternativa está disponível.
 hidefromtoc: true
 feature: Reports and Dashboards

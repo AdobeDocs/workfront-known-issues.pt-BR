@@ -1,15 +1,15 @@
 ---
-title: '“Workfront Fusion: não é possível autenticar uma conexão usando a funcionalidade Fazer logon como”'
-description: “Ao criar uma conexão no Workfront Fusion, não é possível autenticar a conexão se você tiver feito logon como outro usuário.”
+title: 'Workfront Fusion: não é possível autenticar uma conexão usando a funcionalidade Fazer logon como'
+description: Ao criar uma conexão no Workfront Fusion, um usuário não pode autenticar a conexão enquanto estiver conectado como outro usuário.
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: c05c388824293dcee4074eb76e2beec6e7cc5d6d
-workflow-type: ht
+exl-id: 2cd5e6df-d56c-43e1-948c-78c3c83dbbbb
+source-git-commit: 9a8c1695bc2469c3c29849e7ed735a71c347bcce
+workflow-type: tm+mt
 source-wordcount: '78'
-ht-degree: 100%
+ht-degree: 75%
 
 ---
-
 
 # Workfront Fusion: não é possível autenticar uma conexão usando a funcionalidade Fazer logon como
 

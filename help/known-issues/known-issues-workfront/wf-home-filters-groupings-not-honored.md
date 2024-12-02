@@ -1,5 +1,5 @@
 ---
-title: '“Nova Página inicial: os padrões de filtro e agrupamento de dispositivos não seguem o modelo de layout”'
+title: 'Nova Página inicial: os padrões de filtro e agrupamento de widgets não seguem o modelo de layout'
 description: Quando alguém visualiza os dispositivos Meus projetos, Minhas tarefas ou Meus problemas na experiência da nova Página inicial, o filtro e o agrupamento padrão desses dispositivos não são a configuração padrão do modelo de layout atribuído a essa pessoa.
 hidefromtoc: true
 feature: Get Started with Workfront
@@ -7,7 +7,7 @@ exl-id: d7038535-98ff-405b-9c2b-d6474dc568c9
 source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
 workflow-type: tm+mt
 source-wordcount: '191'
-ht-degree: 100%
+ht-degree: 93%
 
 ---
 

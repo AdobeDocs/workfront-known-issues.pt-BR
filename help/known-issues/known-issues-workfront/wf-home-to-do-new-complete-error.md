@@ -1,5 +1,5 @@
 ---
-title: "Página inicial: erros do widget de tarefas novas e concluídas"
+title: 'Página inicial: erros do widget de pendências para pendências novas e concluídas'
 description: Ao tentar criar uma nova tarefa ou concluir uma tarefa existente no widget Página inicial da tarefa, os usuários encontram um erro e não podem criar ou concluir a tarefa.
 hidefromtoc: true
 feature: Get Started with Workfront

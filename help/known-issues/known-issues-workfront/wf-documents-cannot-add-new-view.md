@@ -1,11 +1,11 @@
 ---
 title: Não é possível criar uma exibição para a lista Documentos
-description: “Quando uma pessoa tenta criar uma nova exibição em uma lista Documentos, a tela fica em branco e não é possível criar a exibição. ”
+description: 'Quando uma pessoa tenta criar uma nova exibição em uma lista Documentos, a tela fica em branco e não é possível criar a exibição. '
 hidefromtoc: true
 feature: Digital Content and Documents, Work Management
 exl-id: 19fe57f9-fea3-48da-8c82-51e2991958d7
 source-git-commit: 4a75c9135e2b1ba7dab0ab8d69d52b6d1469aa49
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 100%
 

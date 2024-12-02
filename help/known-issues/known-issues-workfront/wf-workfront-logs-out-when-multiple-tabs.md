@@ -1,5 +1,5 @@
 ---
-title: '“Workfront: várias guias do navegador fazem com que o Workfront faça logout”'
+title: 'Workfront: várias guias do navegador fazem com que o Workfront faça logout'
 description: Quando uma pessoa tem várias guias do navegador abertas, o Workfront pode fazer logout automaticamente.
 hidefromtoc: true
 feature: Get Started with Workfront

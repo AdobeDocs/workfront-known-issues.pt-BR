@@ -1,6 +1,6 @@
 ---
-title: "Workfront Proof: erro 500 ao acessar o Workfront Proof por meio da API ou do Workfront Fusion"
-description: "Quando um usuário acessa a ação getAllProofs da API de prova, o servidor do Workfront Proof retorna a mensagem: 500 Erro interno do servidor"
+title: 'Workfront Proof: erro 500 ao acessar o Workfront Proof por meio da API ou do Workfront Fusion'
+description: 'Quando um usuário acessa a ação getAllProofs da API de prova, o servidor do Workfront Proof retorna a mensagem: 500 Erro interno do servidor'
 hidefromtoc: true
 feature: Workfront Proof
 exl-id: 3c968354-58e2-43fc-8c27-2670683ac862

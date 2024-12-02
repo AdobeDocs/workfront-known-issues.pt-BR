@@ -1,5 +1,5 @@
 ---
-title: '“Provas: não é possível fechar o visualizador de provas”'
+title: 'Provas: não é possível fechar o visualizador de provas'
 description: Quando alguém visualiza uma prova no visualizador de provas e tenta fechá-la clicando em X no canto superior direito, a prova não é fechada. Uma solução alternativa está disponível.
 hidefromtoc: true
 feature: Digital Content and Documents

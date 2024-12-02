@@ -1,5 +1,5 @@
 ---
-title: '“Provas: as provas não são exibidas nos relatórios como aprovadas”'
+title: 'Provas: as provas não são exibidas nos relatórios como aprovadas'
 description: Quando uma pessoa visualiza um relatório que inclui decisões de aprovação de prova, o relatório não mostra a decisão como Aprovado para todas as provas aprovadas. Quando o usuário visualiza a prova em si, pode ver que ela foi aprovada.
 hidefromtoc: true
 feature: Digital Content and Documents

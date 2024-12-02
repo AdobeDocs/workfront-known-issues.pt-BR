@@ -1,6 +1,6 @@
 ---
-title: '“Notificações: os usuários colaboradores não recebem notificações por email”'
-description: “Os usuários com licença de colaborador não estão recebendo emails de notificação. Isso pode afetar os emails de notificação instantânea e os emails de resumo diário. ”
+title: 'Notificações: os usuários colaboradores não recebem notificações por email '
+description: 'Os usuários com licença de colaborador não estão recebendo emails de notificação. Isso pode afetar os emails de notificação instantânea e os emails de resumo diário. '
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: b4b6e898-1a30-4f47-919b-40d938e916f3

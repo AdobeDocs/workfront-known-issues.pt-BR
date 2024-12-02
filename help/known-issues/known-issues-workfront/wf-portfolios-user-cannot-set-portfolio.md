@@ -1,5 +1,5 @@
 ---
-title: "Portfolio: o usuário não pode definir o portfólio"
+title: 'Portfólios: usuários não conseguem definir o portfólio'
 description: Usuários não podem alterar portfólios em um projeto se não tiverem acesso ao portfólio.
 hidefromtoc: true
 feature: Work Management
@@ -7,7 +7,7 @@ exl-id: 38ad277a-2087-486c-8715-93e275488697
 source-git-commit: 83768065b8ab38a516a5f1a51039ad6df05b5788
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 

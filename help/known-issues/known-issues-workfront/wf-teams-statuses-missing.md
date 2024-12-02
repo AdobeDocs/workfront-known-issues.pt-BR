@@ -1,5 +1,5 @@
 ---
-title: "Equipes: problemas com a configuração dos status da equipe para o botão Concluído"
+title: 'Equipes: problemas na configuração dos status da equipe para o botão Concluído '
 description: Problemas relacionados aos status do botão [!UICONTROL Concluído] ao editar ou criar uma equipe foram relatados. Uma solução alternativa está disponível.
 hidefromtoc: true
 feature: People Teams and Groups

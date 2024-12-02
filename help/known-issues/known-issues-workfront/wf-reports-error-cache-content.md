@@ -1,5 +1,5 @@
 ---
-title: "Relatórios: erro ao exportar relatório"
+title: 'Relatórios: erro ao exportar o relatório'
 description: Quando um usuário tenta exportar um relatório, ele não é exportado e o usuário vê um erro.
 hidefromtoc: true
 feature: Reports and Dashboards
@@ -7,7 +7,7 @@ exl-id: 864081d8-177c-422f-a46c-10ebac5c9fa1
 source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 45%
+ht-degree: 51%
 
 ---
 

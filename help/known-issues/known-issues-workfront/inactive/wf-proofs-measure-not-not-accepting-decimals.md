@@ -1,5 +1,5 @@
 ---
-title: '“Provas: a ferramenta de medição não aceita pontos decimais”'
+title: 'Provas: a ferramenta de medição não aceita pontos decimais'
 description: Quando um usuário visualiza uma prova, abre a ferramenta de medição e tenta colocar um número com um ponto decimal em qualquer caixa, o ponto decimal não é exibido. Se o usuário inserir um ponto decimal antes de inserir qualquer dígito, a caixa exibirá um erro NaN.
 hidefromtoc: true
 exl-id: 841658aa-2ff2-4c10-95b7-db3bb27c9809

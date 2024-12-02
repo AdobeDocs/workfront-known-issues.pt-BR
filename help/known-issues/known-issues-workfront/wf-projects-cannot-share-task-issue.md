@@ -1,5 +1,5 @@
 ---
-title: '“Projetos: o menu Compartilhamento não carrega”'
+title: 'Projetos: o menu Compartilhamento não carrega '
 description: Quando alguém tenta compartilhar uma tarefa ou problema, o menu Conceder acesso X a carrega continuamente e não é possível compartilhar a tarefa ou problema.
 hidefromtoc: true
 feature: Projects, Tasks, Work Management

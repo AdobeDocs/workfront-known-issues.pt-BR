@@ -1,5 +1,5 @@
 ---
-title: '“Página inicial: problemas de resumo na página inicial ao usar navegadores diferentes do Chrome”'
+title: 'Página inicial: problemas de resumo na página inicial ao usar navegadores diferentes do Chrome'
 description: Quando um usuário visualiza sua página inicial em um navegador diferente do Chrome, ele pode ter vários problemas.
 exl-id: 7e1935e4-2814-4527-a65a-301f4b9a9669
 hidefromtoc: true
@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 374c88a6a4e8890968220ae51b3fea303e0d7628
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 100%
+ht-degree: 91%
 
 ---
 

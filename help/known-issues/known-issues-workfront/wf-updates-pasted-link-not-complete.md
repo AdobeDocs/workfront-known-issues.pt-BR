@@ -1,5 +1,5 @@
 ---
-title: '“Atualizações: o link copiado não é colado corretamente”'
+title: 'Atualizações: o link copiado não é colado corretamente'
 description: Se alguém copiar um link de uma atualização ao clicar com o botão direito do mouse e selecionar Copiar endereço do link e, logo após, colar o link em uma atualização, o link não será colado corretamente. Somente a primeira parte do link é um link e o restante do URL é ignorado.
 hidefromtoc: true
 feature: Updates and Notifications

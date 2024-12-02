@@ -1,5 +1,5 @@
 ---
-title: '“Agile: discrepância em pontos concluídos de uma iteração''”'
+title: 'Agile: discrepância em pontos concluídos de uma iteração'
 description: O número exibido de Pontos concluídos no Storyboard às vezes não corresponde ao número real de pontos concluídos para as histórias em uma iteração
 exl-id: 65696b39-e2ab-409e-8bd3-811f399f4622
 feature: Agile

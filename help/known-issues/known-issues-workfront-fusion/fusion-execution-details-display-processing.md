@@ -1,15 +1,15 @@
 ---
-title: "Workfront Fusion: os detalhes de execução são exibidos como processamento"
-description: "Quando um usuário tenta visualizar os detalhes de uma execução, ele vê que a execução exibe o símbolo de processamento muito tempo após a conclusão da execução."
+title: 'Workfront Fusion: os detalhes da execução são exibidos como processamento'
+description: Quando um usuário tenta visualizar os detalhes de uma execução, ele vê que a execução exibe o emblema de processamento muito tempo após a conclusão da execução.
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+exl-id: 6b7e25da-2ce8-4343-b0b4-973ed1e38bf0
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 11%
 
 ---
-
 
 # Workfront Fusion: os detalhes da execução são exibidos como processamento
 

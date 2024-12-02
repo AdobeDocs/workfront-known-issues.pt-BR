@@ -1,9 +1,10 @@
 ---
-title: "Página inicial: o widget Minhas tarefas não é carregado"
+title: 'Página inicial: o widget Minhas tarefas não carrega'
 description: Quando um usuário tenta visualizar o widget Minhas tarefas na Página inicial, o widget falha ao exibir qualquer conteúdo que parece estar travando o carregamento.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
+exl-id: 2c06927e-dce5-41a1-983f-212b88acb5c8
+source-git-commit: 894de7cfbd8798d700cd7707edae4a3e86902bec
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 14%

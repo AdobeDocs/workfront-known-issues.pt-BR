@@ -1,13 +1,13 @@
 ---
-title: '“Quadros: os quadros exibidos não são os do usuário escolhido ao usar a opção Fazer logon como”'
+title: 'Quadros: o quadro não é exibido como usuário ao usar Fazer logon como'
 description: Quando um administrador ou administrador de grupo faz logon como outro usuário e visualiza Quadros, os quadros exibidos são os quadros do administrador, não os quadros do usuário.
 hidefromtoc: true
 feature: Agile
 exl-id: fe845e13-82fd-417b-8dd6-c40345c7c6da
 source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '108'
-ht-degree: 100%
+ht-degree: 88%
 
 ---
 

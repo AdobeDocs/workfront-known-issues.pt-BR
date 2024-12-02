@@ -1,5 +1,5 @@
 ---
-title: "Workfront: as configurações do ZScaler podem causar redução no desempenho"
+title: 'Workfront: as configurações do ZScaler podem causar redução no desempenho'
 description: O serviço Web do ZScaler usa http/1.1 por padrão, o que pode causar redução de desempenho no Workfront.
 hidefromtoc: true
 feature: System Setup and Administration

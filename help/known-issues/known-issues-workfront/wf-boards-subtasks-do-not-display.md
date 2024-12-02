@@ -1,5 +1,5 @@
 ---
-title: '“Quadros: o cartão não inclui nenhuma subtarefa”'
+title: 'Quadros: o cartão não inclui subtarefas'
 description: Quando uma pessoa visualiza um cartão de uma tarefa que é uma tarefa principal, suas subtarefas não são exibidas no cartão. Em vez disso, o cartão mostra que há 0 subtarefas.
 hidefromtoc: true
 feature: Agile

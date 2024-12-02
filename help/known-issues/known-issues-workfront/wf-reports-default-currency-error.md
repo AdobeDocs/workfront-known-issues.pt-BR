@@ -1,5 +1,5 @@
 ---
-title: '“Relatórios: o relatório não é carregado quando a moeda padrão é USD”'
+title: 'Relatórios: o relatório não é carregado quando a moeda padrão é USD'
 description: Quando alguém tenta visualizar um relatório que tem a moeda padrão como USD, o relatório não carrega.
 hidefromtoc: true
 feature: Reports and Dashboards

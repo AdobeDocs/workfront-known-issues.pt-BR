@@ -1,5 +1,5 @@
 ---
-title: '“Status: não é possível reutilizar o status excluído anteriormente”'
+title: 'Status: não é possível reutilizar o status excluído anteriormente'
 description: Não é possível criar um status com a mesma chave de um status excluído anteriormente, e uma mensagem é exibida.
 hidefromtoc: true
 feature: Work Management, Projects, Tasks

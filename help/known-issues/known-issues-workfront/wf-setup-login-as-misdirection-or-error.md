@@ -1,5 +1,5 @@
 ---
-title: "Configuração: problemas ao fazer logout como outro usuário"
+title: 'Configuração: problemas ao fazer logout como outro usuário'
 description: Quando um administrador faz logon como outro usuário e tenta fazer logoff, podem ocorrer problemas.
 hidefromtoc: true
 feature: System Setup and Administration
@@ -7,7 +7,7 @@ exl-id: 722f58b5-7fce-401d-8ae4-8c1522cfde6e
 source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
 workflow-type: tm+mt
 source-wordcount: '86'
-ht-degree: 70%
+ht-degree: 80%
 
 ---
 

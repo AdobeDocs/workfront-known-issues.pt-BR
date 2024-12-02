@@ -1,13 +1,13 @@
 ---
-title: '“Página inicial: a página inicial falha com um erro de memória insuficiente”'
+title: 'Página inicial: a página inicial falha com um erro de falta de memória'
 description: Quando uma pessoa tenta exibir a nova página inicial, o site falha com uma mensagem de erro. Uma solução alternativa está disponível.
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: befeb093-6376-4c91-a4c4-f956b85660aa
 source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 100%
+ht-degree: 93%
 
 ---
 

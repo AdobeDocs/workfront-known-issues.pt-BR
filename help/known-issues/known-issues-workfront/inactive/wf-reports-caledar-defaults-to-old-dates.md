@@ -1,5 +1,5 @@
 ---
-title: '“Relatórios: o calendário tem como padrão datas antigas”'
+title: 'Relatórios: o calendário utiliza datas antigas como padrão'
 description: Quando um usuário navega para um calendário, o calendário carrega um intervalo de datas aleatório no passado (por exemplo, uma semana a partir do ano 1800).
 exl-id: 2897967c-32c3-4ee7-ae9d-608d45f40fa3
 hidefromtoc: true

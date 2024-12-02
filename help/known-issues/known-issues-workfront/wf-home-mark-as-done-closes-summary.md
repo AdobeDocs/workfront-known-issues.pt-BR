@@ -1,15 +1,15 @@
 ---
-title: "Página inicial: marcar como concluído fecha o painel de resumo do widget Meus problemas"
-description: "Ao tentar usar o botão Marcar como concluído no painel de resumo de um problema aberto pelo widget Meus problemas, o painel de resumo é fechado inesperadamente."
+title: 'Página inicial: marcar como concluído fecha o painel de resumo do widget Meus problemas'
+description: Ao tentar usar o botão Marcar como concluído no painel de resumo de um problema aberto pelo widget Meus problemas, o painel de resumo é fechado inesperadamente.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
+exl-id: 3df55091-6285-4a15-9436-80fa08839acf
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 11%
 
 ---
-
 
 # Página inicial: &quot;Marcar como concluído&quot; fecha o painel de resumo do widget Meus problemas
 

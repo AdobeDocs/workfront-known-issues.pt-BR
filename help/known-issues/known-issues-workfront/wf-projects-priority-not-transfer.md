@@ -1,5 +1,5 @@
 ---
-title: '“Projetos: projetos criados a partir de um problema usando um modelo não refletem a prioridade definida no modelo”'
+title: 'Projetos: projetos criados a partir de um problema usando um modelo não refletem a prioridade definida no modelo'
 description: Quando uma pessoa converte um problema em um projeto usando um modelo, a prioridade do projeto recém-criado não corresponde à prioridade definida no modelo.
 hidefromtoc: true
 feature: Projects

@@ -1,5 +1,5 @@
 ---
-title: '“Quadros: os cartões movidos para uma determinada coluna retornam à coluna original após a atualização”'
+title: 'Quadros: os cartões movidos para uma coluna diferente retornam à coluna original após a atualização'
 description: Quando uma pessoa move um cartão para uma coluna diferente e, em seguida, atualiza a página ou retorna ao quadro, o cartão retorna à coluna original.
 hidefromtoc: true
 feature: Agile

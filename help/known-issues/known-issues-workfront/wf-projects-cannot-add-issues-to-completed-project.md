@@ -1,15 +1,15 @@
 ---
-title: "Projetos: não é possível adicionar problemas a projetos concluídos"
-description: "Quando um usuário tenta adicionar um problema a um projeto com o status Concluído, ele não consegue adicionar o problema. Isso pode ocorrer mesmo se a opção Adicionar e editar problemas estiver ativada."
+title: 'Projetos: não é possível adicionar problemas a projetos concluídos'
+description: Quando um usuário tenta adicionar um problema a um projeto com o status Concluído, ele não consegue adicionar o problema. Isso pode ocorrer mesmo se a opção Adicionar e editar problemas estiver ativada.
 hidefromtoc: true
 feature: Projects, Work Management
-source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
+exl-id: 5eb027a4-5c06-4e73-abc5-f12d5b36e49e
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 11%
 
 ---
-
 
 # Projetos: não é possível adicionar problemas a projetos concluídos
 

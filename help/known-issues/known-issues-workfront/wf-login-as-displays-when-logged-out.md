@@ -1,13 +1,13 @@
 ---
-title: '“Fazer logon como: a página inicial e os pinos são exibidos incorretamente ao sair da conta por meio da opção Fazer logon como”'
+title: 'Fazer logon como: a página inicial e os pinos são exibidos de forma imprecisa ao fazer logout de Fazer logon como'
 description: Quando um usuário que se conectou como outro usuário sai da conta deste usuário, os seguintes problemas aparecem em sua tela inicial.
 hidefromtoc: true
 feature: System Setup and Administration, Get Started with Workfront
 exl-id: 3614563d-7f53-4632-b09f-2874133aa217
 source-git-commit: e3290a00e93e0faf6b944ac02c2820dc3a26fb4b
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 100%
+ht-degree: 87%
 
 ---
 

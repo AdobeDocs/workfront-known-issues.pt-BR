@@ -1,5 +1,5 @@
 ---
-title: 'Documentos: as opções das Atividades de prova levam à página de logon'
+title: 'Documentos: as opções de Atividades de revisão abrem a página de logon'
 description: Quando um usuário visualiza a página Detalhes do documento e clica em uma opção no menu Atividades de prova, ele é direcionado a uma página de logon em vez da página de destino pretendida.
 hidefromtoc: true
 feature: Digital Content and Documents
@@ -7,7 +7,7 @@ exl-id: 637fa798-9d23-497c-a50b-e40deaa4fd61
 source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
 workflow-type: tm+mt
 source-wordcount: '114'
-ht-degree: 100%
+ht-degree: 92%
 
 ---
 

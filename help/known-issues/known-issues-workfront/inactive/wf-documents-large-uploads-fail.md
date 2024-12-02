@@ -1,5 +1,5 @@
 ---
-title: '“Documentos: erro ao fazer upload de um arquivo grande”'
+title: 'Documentos: erro ao fazer upload de um arquivo grande'
 description: Quando um usuário tenta fazer upload de um arquivo grande (mais de 25 MB), o upload não é realizado e o erro “Falha ao fazer upload do arquivo” é exibido.
 hidefromtoc: true
 feature: Digital Content and Documents

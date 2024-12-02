@@ -1,5 +1,5 @@
 ---
-title: '“Listas: o nome de exibição não é aplicado ao agrupamento de campo personalizado”'
+title: 'Listas: o nome de exibição não é aplicado ao agrupamento de campo personalizado'
 description: Quando um usuário agrupa uma lista por um campo personalizado e altera o nome de exibição no Modo de texto, o nome original do campo é exibido.
 exl-id: 70fda3fe-336c-4ee5-a47c-b1095e470865
 hidefromtoc: true

@@ -1,6 +1,6 @@
 ---
-title: 'Tarefas: as horas não são salvas ao inserir horas no painel [!UICONTROL Resumo da tarefa]'
-description: “Quando um usuário tenta inserir horas para uma tarefa no Painel de resumo da tarefa, as horas não são salvas. Isso ocorre quando o usuário deixa o cursor no quadrado onde inseriu as horas e rola a tela até o [!UICONTROL Painel de resumo].”
+title: 'Tarefas: as horas não são salvas ao inseri-las no painel [!UICONTROL Resumo da tarefa]'
+description: 'Quando um usuário tenta inserir horas para uma tarefa no Painel de resumo da tarefa, as horas não são salvas. Isso ocorre quando o usuário deixa o cursor no quadrado onde inseriu as horas e rola a tela até o [!UICONTROL Painel de resumo].   '
 hidefromtoc: true
 feature: Tasks, Timesheets
 exl-id: edf5ea1f-a75f-4df4-987a-53d2d3563579

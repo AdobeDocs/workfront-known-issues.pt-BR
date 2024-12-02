@@ -1,5 +1,5 @@
 ---
-title: "Documentos: o botão de opções de aprovação não aparece nos documentos"
+title: 'Documentos: o botão de opções de aprovação não aparece nos documentos'
 description: Quando um usuário atribuído como aprovador para um documento navega até o documento para tomar uma decisão de aprovação, o botão de opções de aprovação não é exibido.
 hidefromtoc: true
 feature: Digital Content and Documents

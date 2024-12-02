@@ -1,10 +1,11 @@
 ---
-title: '“API: falha na chamada da API devido a um erro de SQL”'
-description: “Ao fazer uma chamada de API, a chamada falha devido a um erro de SQL.”
+title: 'API: falha na chamada da API devido a um erro de SQL'
+description: Ao fazer uma chamada de API, a chamada falha devido a um erro de SQL.
 hidefromtoc: true
 feature: Workfront API
-source-git-commit: c94e9f4cbe23fe5f9e681eb672585dca237f0c79
-workflow-type: ht
+exl-id: 6c52b502-0ac4-4102-940f-6dbabb0bf91c
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
+workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 100%
 

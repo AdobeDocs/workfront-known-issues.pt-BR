@@ -1,15 +1,15 @@
 ---
-title: '“Formulários personalizados: não é possível editar campos na página da lista de campos”'
-description: “Quando uma pessoa tenta editar um campo grande na página da lista de campos, a página trava com um erro. Uma solução alternativa está disponível.”
+title: 'Formulários personalizados: não é possível editar campos na página da lista de campos'
+description: Quando um usuário tenta adicionar um campo grande na página da lista de campos, a página trava com um erro. Uma solução alternativa está disponível.
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: 2531eb3fd75a0f6c9b26780f521c61b2be464e83
-workflow-type: ht
+exl-id: 40c19c34-c8bb-4fa2-b7c3-ef617361c7be
+source-git-commit: 9a8c1695bc2469c3c29849e7ed735a71c347bcce
+workflow-type: tm+mt
 source-wordcount: '113'
-ht-degree: 100%
+ht-degree: 82%
 
 ---
-
 
 # Formulários personalizados: não é possível editar campos na página da lista de campos
 

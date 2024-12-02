@@ -1,5 +1,5 @@
 ---
-title: '“Documentos: problemas com a lista de documentos”'
+title: 'Documentos: problemas com a lista de documentos '
 description: Este artigo descreve problemas recentes que foram relatados em relação à lista de documentos.
 hidefromtoc: true
 feature: Digital Content and Documents

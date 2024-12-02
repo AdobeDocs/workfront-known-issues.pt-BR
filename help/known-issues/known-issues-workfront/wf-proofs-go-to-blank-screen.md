@@ -1,5 +1,5 @@
 ---
-title: '“Provas: clicar no nome da prova abre uma tela em branco”'
+title: 'Provas: clicar no nome da prova abre uma tela em branco'
 description: Quando alguém no visualizador de provas da Web clica no nome da prova para abri-la, ocorre o direcionamento para uma tela em branco, em vez da prova.
 hidefromtoc: true
 feature: Digital Content and Documents

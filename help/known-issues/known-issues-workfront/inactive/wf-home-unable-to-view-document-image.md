@@ -1,5 +1,5 @@
 ---
-title: '“Casa: não é possível exibir a imagem do documento na Lista de trabalho”'
+title: 'Página inicial: não é possível exibir a imagem do documento na Lista de trabalho'
 description: Quando um usuário clica em uma miniatura .docx para visualizar um documento, um player de vídeo é aberto e não é possível ver o documento.
 exl-id: 63b02355-0857-4da2-98d4-190ed4219b89
 hidefromtoc: true
@@ -7,7 +7,7 @@ feature: Get Started with Workfront, Digital Content and Documents
 source-git-commit: 374c88a6a4e8890968220ae51b3fea303e0d7628
 workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 100%
+ht-degree: 91%
 
 ---
 

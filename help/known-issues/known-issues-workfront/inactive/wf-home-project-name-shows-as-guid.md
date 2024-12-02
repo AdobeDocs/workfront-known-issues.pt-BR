@@ -1,5 +1,5 @@
 ---
-title: '“Página inicial: o nome do projeto é exibido como uma GUID na Lista de trabalho”'
+title: 'Página inicial: o Nome do projeto é exibido como uma GUID na Lista de trabalho'
 description: Quando um usuário precisa aprovar uma prova para a qual não tem acesso e sua Lista de trabalho na [!UICONTROL Página inicial] está classificada pelo Nome do projeto, o usuário não poderá ver o nome do projeto e a GUID será exibida.
 exl-id: ca75430f-42ea-4239-9756-fd8d4f4aba89
 hidefromtoc: true
@@ -7,7 +7,7 @@ feature: Get Started with Workfront, Projects
 source-git-commit: 374c88a6a4e8890968220ae51b3fea303e0d7628
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 100%
+ht-degree: 91%
 
 ---
 

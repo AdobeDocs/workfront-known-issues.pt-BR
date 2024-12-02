@@ -1,5 +1,5 @@
 ---
-title: '“Agile: problemas ao mover cartões no quadro Agile”'
+title: 'Ágil: problemas ao mover cartões no quadro Ágil'
 description: Vários problemas foram relatados ao mover cartões no quadro Agile.
 exl-id: ef347a24-efe6-4b11-b108-4db540005604
 feature: Agile

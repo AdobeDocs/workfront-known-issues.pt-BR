@@ -1,5 +1,5 @@
 ---
-title: '“Integrações: não é possível fazer logon no Workfront para Outlook”'
+title: 'Integrações: não é possível fazer logon no Workfront para Outlook'
 description: Quando alguém tenta fazer logon no Workfront para Outlook, o botão não responde e não é possível fazer logon.
 hidefromtoc: true
 feature: Workfront Integrations and Apps

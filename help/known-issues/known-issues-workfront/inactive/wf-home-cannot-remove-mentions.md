@@ -1,5 +1,5 @@
 ---
-title: '“Página inicial: não é possível remover o dispositivo Menções”'
+title: 'Página inicial: não é possível remover o dispositivo Menções'
 description: Não é possível remover o dispositivo Menções da nova página inicial.
 hidefromtoc: true
 feature: Get Started with Workfront

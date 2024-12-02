@@ -1,15 +1,15 @@
 ---
-title: "Relatórios: a opção Mostrar filtro/Ocultar filtro está ausente"
-description: "Quando um usuário está visualizando um relatório, as opções Mostrar filtro e Ocultar filtro não estão visíveis."
+title: 'Relatórios: a opção Mostrar filtro/Ocultar filtro está ausente'
+description: Quando um usuário está visualizando um relatório, as opções Mostrar filtro e Ocultar filtro não estão visíveis.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
+exl-id: 4bd85c63-c7d5-41af-8a2f-2ebcdba84ca4
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 15%
 
 ---
-
 
 # Relatórios: a opção Mostrar filtro/Ocultar filtro está ausente
 

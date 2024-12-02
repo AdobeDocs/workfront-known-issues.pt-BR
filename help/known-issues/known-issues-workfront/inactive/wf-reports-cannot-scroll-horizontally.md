@@ -1,5 +1,5 @@
 ---
-title: '“Relatórios: não é possível rolar o relatório horizontalmente ao visualizar no painel”'
+title: 'Relatórios: não é possível rolar o relatório horizontalmente ao visualizá-lo no painel'
 description: Se um usuário estiver visualizando um relatório em um painel e tentar rolar o relatório horizontalmente, o relatório não rola ou os cabeçalhos da coluna ficarão atrás das colunas reais. Se o relatório tiver um grande número de colunas, rolar horizontalmente pode bloquear a página.
 exl-id: d308ee88-9265-4fa7-8574-ec7d5eb9d306
 hidefromtoc: true

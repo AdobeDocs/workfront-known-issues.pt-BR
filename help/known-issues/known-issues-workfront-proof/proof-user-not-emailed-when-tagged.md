@@ -1,5 +1,5 @@
 ---
-title: '“Provas: o usuário não recebe um email ao ser marcado em um comentário de prova”'
+title: 'Provas: o usuário não recebe um email ao ser marcado em um comentário de prova'
 description: Quando um usuário é marcado em um comentário de prova usando o formato @nome, ele não recebe uma notificação por email sobre o comentário.
 hidefromtoc: true
 exl-id: 5773ba30-7826-428c-8878-f8d2b3368f30
