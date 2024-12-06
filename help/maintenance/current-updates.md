@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: c0bf0412970cb1bab476b59413ed44e0b432c9ec
+source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
 workflow-type: tm+mt
-source-wordcount: '6739'
-ht-degree: 87%
+source-wordcount: '7142'
+ht-degree: 82%
 
 ---
 
@@ -24,7 +24,77 @@ Para obter atualizações de manutenção anteriores a 2024, consulte [Atualiza�
 
 As seguintes atualizações de manutenção foram efetuadas em 2024.
 
+## Atualizações em dezembro de 2024
+
++++**Atualização de manutenção em sexta-feira, 5 de dezembro de 2024**
+
+### Atualização de manutenção em 5 de dezembro de 2024
+
+#### Formulários personalizados
+
+**Não é possível adicionar os campos de tarefa &quot;estimateByHours&quot; ou &quot;hoursPerPoint&quot;**
+
+Quando um usuário tenta adicionar os campos &quot;estimateByHours&quot; ou &quot;hoursPerPoint&quot; a um formulário personalizado no construtor de formulários, uma mensagem de erro é exibida: &quot;Esta expressão personalizada é inválida. Tente novamente&quot;.
+
+**A lógica de exibição não funciona em formulários personalizados**
+
+Quando um usuário insere informações em um formulário personalizado com lógica de exibição, os campos que devem aparecer com base na lógica de exibição não aparecem.
+
+#### Início
+
+**Os contribuidores exibiram o botão &quot;Trabalhar nisto&quot; não funcional**
+
+Os usuários do Colaborador têm acesso a um botão &quot;Trabalhar nisso&quot; não funcional no widget Meu trabalho na Página inicial.
+
+#### Relatórios
+
+**Trimestres personalizados não aparecem nos prompts do relatório**
+
+Quando um usuário está executando um relatório com um prompt baseado em data, trimestres personalizados não aparecem na lista de seleções do prompt.
+
++++
+
 ## Atualizações em novembro de 2024
+
++++**Atualização de manutenção em sexta-feira, 28 de novembro de 2024**
+
+### Atualização de manutenção em 28 de novembro de 2024
+
+#### Projetos
+
+**Não é possível compartilhar projetos devido ao erro &quot;acesso para excluir&quot;**
+
+Ao tentar compartilhar um projeto, o usuário recebe um erro: &quot;Você não tem acesso suficiente para excluir este projeto&quot;. Isso ocorre mesmo que o usuário não tente excluir o projeto, assim como o usuário que é o Proprietário do projeto e tem acesso ao Compartilhamento e Gerenciamento.
+
+#### Relatórios
+
+O campo **Nome da Categoria não está vinculado ao formulário personalizado**
+
+Ao visualizar uma lista em um relatório contendo um campo Nome da categoria, o conteúdo da coluna Nome da categoria não pode ser clicado para abrir o formulário personalizado correspondente.
+
+**Cores personalizadas do grupo em relatórios que não funcionam**
+
+Ao atribuir uma cor personalizada a um grupo no Report Builder, a seleção de cores não aparece ao executar o relatório.
+
+**Longos tempos de carregamento para relatórios**
+
+Os relatórios demoram muito para serem carregados. Isso afeta a exibição de relatórios, bem como a edição e criação de relatórios no construtor de relatórios.
+
+**Campo de hora ausente para campos de data/hora calculados em prompts de relatório**
+
+Quando um relatório é executado, um campo Data/Hora personalizado é usado como um prompt e o campo de seleção de hora não aparece na interface do prompt.
+
+**Não é possível exibir relatórios/painéis compartilhados**
+
+Quando um usuário tenta acessar um relatório ou painel que foi compartilhado com ele, o relatório ou painel não pode ser acessado.
+
+#### Planilhas de horas
+
+**Os usuários do colaborador têm o botão &quot;Enviar para aprovação&quot;**
+
+Embora não seja possível inserir horas em folhas de horas, os usuários com nível de acesso de Colaborador têm um botão &quot;Enviar para aprovação&quot; que podem clicar.
+
++++
 
 +++**Atualização de manutenção em sexta-feira, 21 de novembro de 2024**
 

@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 8bb5041a13374ce5dde6a1db173487f50d049f17
+source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
 workflow-type: tm+mt
-source-wordcount: '2132'
-ht-degree: 81%
+source-wordcount: '2166'
+ht-degree: 80%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 81%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Aprovações: aprovações delegadas que não aparecem para delegados](known-issues-workfront/wf-approvals-delegation-not-working.md)
+      + [Documentos: erro &quot;Alterações não salvas&quot; ao adicionar um formulário a um documento](known-issues-workfront/wf-documents-unsaved-changes-error.md)
+      + [Tarefas: o campo Pronto para Iniciar não é atualizado apesar dos predecessores concluídos](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md)
+      + [Workfront: o formato de data muda em todo o aplicativo](known-issues-workfront/wf-workfront-date-format-changing.md)
       + [Workfront: as configurações do ZScaler podem causar redução no desempenho](known-issues-workfront//wf-workfront-zscaler.md)
       + [Folhas de horas: os usuários do colaborador têm o botão &quot;Enviar para aprovação&quot;](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md)
       + [Notificações: notificações por email de atualizações que não estão sendo enviadas](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md)
