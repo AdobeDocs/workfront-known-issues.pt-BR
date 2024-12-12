@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
+source-git-commit: c99217ec17f8bacf7593c9e337c74952efb6c69b
 workflow-type: tm+mt
-source-wordcount: '2166'
-ht-degree: 80%
+source-wordcount: '2214'
+ht-degree: 78%
 
 ---
 
@@ -17,6 +17,12 @@ ht-degree: 80%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Formulários personalizados: os dados personalizados não são mostrados no painel Resumo](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md)
+      + [Agile: não é possível editar histórias em massa em uma iteração](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md)
+      + [Provas: não é possível adicionar recipients à prova](known-issues-workfront/wf-proofs-cannot-add-recipients.md)
+      + [Provas: o nome da prova não aparece na guia do navegador](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md)
+      + [Tarefas: erro ao adicionar tarefas pessoais](known-issues-workfront/wf-tasks-add-more-tasks-whoops.md)
+      + [Provas: as provas do Webcapture não geram](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md)
       + [Aprovações: aprovações delegadas que não aparecem para delegados](known-issues-workfront/wf-approvals-delegation-not-working.md)
       + [Documentos: erro &quot;Alterações não salvas&quot; ao adicionar um formulário a um documento](known-issues-workfront/wf-documents-unsaved-changes-error.md)
       + [Tarefas: o campo Pronto para Iniciar não é atualizado apesar dos predecessores concluídos](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md)
@@ -170,7 +176,7 @@ ht-degree: 80%
       + [Atualizações: o link no comentário vai para uma tela em branco](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
       + [Equipes: não é possível excluir a equipe nem exibir seu proprietário](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
       + [Provas: a prova impede a conversão de tarefa ou problema em projeto](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
-      + [Tarefas: erro de Bizcontext ao adicionar ou excluir uma tarefa](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
+      + [Tarefas: erro de banco de dados ao adicionar ou excluir uma tarefa (erro de contexto de Bizkout anterior)](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
       + [Modelo de layout: a página de aterrissagem está incorreta](known-issues-workfront/wf-layout-template-set-to-home-not-request.md)
       + [Relatórios: o filtro de relatório não retorna os resultados esperados](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [Projeto: não é possível converter um problema em projeto se uma prova da Web estiver anexada](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)

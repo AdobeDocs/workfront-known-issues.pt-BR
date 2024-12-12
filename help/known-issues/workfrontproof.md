@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: c0bf0412970cb1bab476b59413ed44e0b432c9ec
+source-git-commit: 15525c915fd95ffaf04f5ee4725c23856cabed1a
 workflow-type: tm+mt
-source-wordcount: '428'
-ht-degree: 97%
+source-wordcount: '452'
+ht-degree: 93%
 
 ---
 
@@ -39,6 +39,9 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Provas: não é possível adicionar recipients à prova](known-issues-workfront/wf-proofs-cannot-add-recipients.md) | quinta-feira, 11 de dezembro de 2024 |
+| [Provas: o nome da prova não aparece na guia do navegador](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | quinta-feira, 11 de dezembro de 2024 |
+| [Provas: provas do Webcapture não geram](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | quinta-feira, 11 de dezembro de 2024 |
 | [Documentos: não é possível visualizar documentos com o link de visualização](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | sexta-feira, 15 de agosto de 2024 |
 | [Notificações: as miniaturas não ficam visíveis nas notificações por email](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | terça-feira, 8 de julho de 2024 |
 | [Não é possível criar uma exibição para a lista Documentos](known-issues-workfront/wf-documents-cannot-add-new-view.md) | terça-feira, 15 de julho de 2024 |
