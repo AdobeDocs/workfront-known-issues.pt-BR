@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
+source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
 workflow-type: tm+mt
-source-wordcount: '7142'
-ht-degree: 82%
+source-wordcount: '7288'
+ht-degree: 81%
 
 ---
 
@@ -25,6 +25,36 @@ Para obter atualizações de manutenção anteriores a 2024, consulte [Atualiza�
 As seguintes atualizações de manutenção foram efetuadas em 2024.
 
 ## Atualizações em dezembro de 2024
+
++++**Atualização de manutenção em sexta-feira, 19 de dezembro de 2024**
+
+### Atualização de manutenção em 19 de dezembro de 2024
+
+Esta atualização contém apenas correções de erros pequenos ou menos importantes. O Suporte da Workfront enviará uma notificação quando um problema enviado for corrigido.
+
++++
+
++++**Atualização de manutenção em sexta-feira, 12 de dezembro de 2024**
+
+### Atualização de manutenção em 12 de dezembro de 2024
+
+#### Painéis
+
+**A coluna desaparece quando usada para classificação em um relatório de painel**
+
+Ao classificar um relatório colocado em um painel por uma coluna, ela desaparece e o conteúdo não é classificado.
+
+#### Relatórios
+
+**A coluna do grupo sob a opção de gráfico causa um erro**
+
+Ao ativar a opção &quot;Group column under chart&quot; em um relatório com um gráfico, a seguinte mensagem de erro é exibida: &quot;Ocorreu um erro e estamos trabalhando para resolver o problema. Para continuar com seu trabalho, tente atualizar esta página do navegador.“
+
+**Ícones de Edição e Exclusão em Massa ausentes nos relatórios**
+
+Ao tentar editar ou excluir vários itens de relatório em massa, os ícones Editar e Excluir ocasionalmente não são exibidos.
+
++++
 
 +++**Atualização de manutenção em sexta-feira, 5 de dezembro de 2024**
 

@@ -4,10 +4,10 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 15525c915fd95ffaf04f5ee4725c23856cabed1a
+source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
 workflow-type: tm+mt
-source-wordcount: '1165'
-ht-degree: 81%
+source-wordcount: '1135'
+ht-degree: 82%
 
 ---
 
@@ -25,14 +25,9 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Agile: não é possível editar histórias em massa em uma iteração](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md) | sexta-feira, 5 de dezembro de 2024 |
-| [Aprovações: aprovações delegadas não aparecem para delegados](known-issues-workfront/wf-approvals-delegation-not-working.md) | sexta-feira, 5 de dezembro de 2024 |
 | [Documentos: erro de &quot;Alterações não salvas&quot; ao adicionar um formulário a um documento](known-issues-workfront/wf-documents-unsaved-changes-error.md) | sexta-feira, 5 de dezembro de 2024 |
-| [Tarefas: o campo Pronto para Iniciar não é atualizado apesar dos predecessores concluídos](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md) | quarta-feira, 3 de dezembro de 2024 |
-| [Workfront: o formato de data é alterado no aplicativo](known-issues-workfront/wf-workfront-date-format-changing.md) | quarta-feira, 3 de dezembro de 2024 |
 | [Integrações: não é possível fazer logon no Workfront para Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | quarta-feira, 3 de dezembro de 2024 |
 | [Tarefas: problemas com o recálculo da linha do tempo](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | quarta-feira, 3 de dezembro de 2024 |
-| [Documentos: a aprovação de &quot;adição rápida&quot; não inclui a entrada de prazo final para novas versões](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md) | quinta-feira, 13 de novembro de 2024 |
 | [Usuários: a marca &quot;Não Registrado&quot; persiste após o logon](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md) | quinta-feira, 13 de novembro de 2024 |
 | [Workfront: falha ao carregar as guias do navegador abertas](known-issues-workfront/wf-workfront-browser-tabs-error.md) | quarta-feira, 12 de novembro de 2024 |
 | [Workfront Mobile: links de email de prova não serão abertos no iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | quinta-feira, 9 de outubro de 2024 |
@@ -54,11 +49,10 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | ---------------------------------- | ----------------- |
+| [Formulários personalizados: não é possível adicionar os campos de tarefa &quot;estimateByHours&quot; ou &quot;hoursPerPoint&quot;](known-issues-workfront/wf-custom-forms-invalid-fields.md) | sábado, 20 de dezembro de 2024 |
 | [Formulários personalizados: os dados personalizados não são mostrados no painel Resumo](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | quinta-feira, 11 de dezembro de 2024 |
-| [Provas: não é possível adicionar recipients à prova](known-issues-workfront/wf-proofs-cannot-add-recipients.md) | quinta-feira, 11 de dezembro de 2024 |
 | [Provas: o nome da prova não aparece na guia do navegador](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | quinta-feira, 11 de dezembro de 2024 |
 | [Tarefas: erro ao adicionar tarefas pessoais](known-issues-workfront/wf-tasks-add-more-tasks-whoops.md) | quinta-feira, 11 de dezembro de 2024 |
-| [Provas: provas do Webcapture não geram](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | quinta-feira, 11 de dezembro de 2024 |
 | [Relatórios: a edição em massa nas listas de gráficos não responde](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | quarta-feira, 3 de dezembro de 2024 |
 | [Relatórios: tempos de carregamento longos do Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | sexta-feira, 21 de novembro de 2024 |
 | [API: as solicitações atingem o tempo limite](known-issues-workfront/wf-api-request-timing-out.md) | sexta-feira, 24 de outubro de 2024 |
@@ -79,6 +73,9 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Provas: provas do Webcapture não geram](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | sábado, 20 de dezembro de 2024 |
+| [Workfront: o formato de data é alterado no aplicativo](known-issues-workfront/wf-workfront-date-format-changing.md) | sábado, 20 de dezembro de 2024 |
+| [Aprovações: aprovações delegadas não aparecem para delegados](known-issues-workfront/wf-approvals-delegation-not-working.md) | sábado, 20 de dezembro de 2024 |
 | [Tarefas: erro de banco de dados ao adicionar ou excluir uma tarefa (anteriormente erro de Bizcontext)](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | quarta-feira, 10 de dezembro de 2024 |
 | [Modelos de layout: campos de dados personalizados não são exibidos quando adicionados ao Resumo da Tarefa por meio do Modelo de layout](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | terça-feira, 4 de novembro de 2024 |
 | [Notificações: notificações por email de atualizações que não estão sendo enviadas](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | sexta-feira, 5 de dezembro de 2024 |

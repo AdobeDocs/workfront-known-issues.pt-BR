@@ -3,14 +3,19 @@ title: 'Tarefas: o campo Pronto para Iniciar não é atualizado apesar dos prede
 description: O campo Pronto para Iniciar de uma tarefa com predecessores falha ao atualizar para Verdadeiro, apesar de todos os predecessores necessários estarem marcados como Concluído.
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
+exl-id: 1eb9441c-ffd0-4953-9e5c-61e8e32b8600
+source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 5%
+source-wordcount: '76'
+ht-degree: 13%
 
 ---
 
 # Tarefas: o campo Pronto para Iniciar não é atualizado apesar dos predecessores concluídos
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em terça-feira, 9 de dezembro de 2024.
 
 O campo Pronto para Iniciar de uma tarefa com predecessores falha ao atualizar para Verdadeiro, apesar de todos os predecessores necessários estarem marcados como Concluído.
 

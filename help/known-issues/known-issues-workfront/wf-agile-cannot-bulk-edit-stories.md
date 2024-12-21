@@ -3,15 +3,19 @@ title: 'Agile: não é possível editar histórias em massa em uma iteração'
 description: Quando um usuário tenta editar histórias em massa em uma iteração, o botão Editar não responde e o usuário não pode editar as histórias em massa.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 15525c915fd95ffaf04f5ee4725c23856cabed1a
+exl-id: eebec1d6-b6be-49d1-816c-75d7b6b59094
+source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 5%
+source-wordcount: '74'
+ht-degree: 13%
 
 ---
 
-
 # Agile: não é possível editar histórias em massa em uma iteração
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em sexta-feira, 19 de dezembro de 2024.
 
 Quando um usuário tenta editar histórias em massa em uma iteração, o botão Editar não responde e o usuário não pode editar as histórias em massa.
 
