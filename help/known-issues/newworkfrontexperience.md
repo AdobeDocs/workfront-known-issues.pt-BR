@@ -4,10 +4,10 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
+source-git-commit: be24594ee77ab33b5bec2e1fcd6219fa6ccebbe2
 workflow-type: tm+mt
-source-wordcount: '1195'
-ht-degree: 79%
+source-wordcount: '1230'
+ht-degree: 77%
 
 ---
 
@@ -54,6 +54,10 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | ---------------------------------- | ----------------- |
+| [Quadros: não é possível mover o cartão para uma coluna diferente](known-issues-workfront/wf-boards-cannot-move-card-to-column.md) | sexta-feira, 2 de janeiro de 2025 |
+| [Formulários personalizados: mensagem &quot;Campos inválidos&quot; ao editar um formulário personalizado](known-issues-workfront/wf-custom-forms-blank-required-field.md) | sexta-feira, 2 de janeiro de 2025 |
+| [Usuários: a atualização de usuários em massa é muito lenta](known-issues-workfront/wf-users-bulk-update-takes-long-time.md) | sexta-feira, 2 de janeiro de 2025 |
+| [Formulários personalizados: os botões de opção são listados horizontalmente](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md) | sexta-feira, 2 de janeiro de 2025 |
 | [Solicitações e problemas: Erro com atribuições de usuário avançadas](known-issues-workfront/wf-issues-advanced-user-assignment-error.md) | sexta-feira, 2 de janeiro de 2025 |
 | [Formulários personalizados: não é possível adicionar os campos de tarefa &quot;estimateByHours&quot; ou &quot;hoursPerPoint&quot;](known-issues-workfront/wf-custom-forms-invalid-fields.md) | sábado, 20 de dezembro de 2024 |
 | [Formulários personalizados: os dados personalizados não são mostrados no painel Resumo](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | quinta-feira, 11 de dezembro de 2024 |

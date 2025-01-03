@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
+source-git-commit: be24594ee77ab33b5bec2e1fcd6219fa6ccebbe2
 workflow-type: tm+mt
-source-wordcount: '2268'
-ht-degree: 76%
+source-wordcount: '2299'
+ht-degree: 75%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 76%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Quadros: não é possível mover o cartão para uma coluna diferente](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)
+      + [Formulários personalizados: mensagem &quot;Campos inválidos&quot; ao editar um formulário personalizado](known-issues-workfront/wf-custom-forms-blank-required-field.md)
+      + [Usuários: a atualização de usuários em massa é muito lenta](known-issues-workfront/wf-users-bulk-update-takes-long-time.md)
+      + [Formulários personalizados: os botões de opção são listados horizontalmente](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md)
       + [Atualizações: as horas registradas não são exibidas no rótulo Registrar tempo na área Atualizações](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md)
       + [Relatórios: os prompts de relatório são carregados lentamente](known-issues-workfront/wf-reports-prompts-load-slowly.md)
       + [Notificações: as notificações por push para o aplicativo Workfront Mobile não estão funcionando](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md)
