@@ -4,10 +4,10 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e35f7b857de061973467ddd90400dea51f3a2b59
+source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
 workflow-type: tm+mt
-source-wordcount: '1246'
-ht-degree: 76%
+source-wordcount: '1217'
+ht-degree: 77%
 
 ---
 
@@ -25,12 +25,13 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Página inicial: botões de aprovação não aparecem no widget Aguardando Aprovação](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md) | sexta-feira, 9 de janeiro de 2025 |
+| [Usuários: Conta duplicada criada ao alterar o administrador do sistema](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | sexta-feira, 9 de janeiro de 2025 |
+| [Projetos: a condição de atraso não se aplica conforme esperado](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | sexta-feira, 9 de janeiro de 2025 |
 | [Formulários personalizados: o formulário personalizado aparece no formato herdado](known-issues-workfront/wf-custom-forms-legacy-form-appears.md) | quinta-feira, 3 de janeiro de 2024 |
 | [Registro de cobrança: as horas não são salvas](known-issues-workfront/wf-billing-record-hours-not-saved.md) | quinta-feira, 3 de janeiro de 2024 |
-| [Atualizações: as horas registradas não são exibidas no rótulo de Tempo de Log na área Atualizações](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md) | quarta-feira, 2 de janeiro de 2024 |
 | [Relatórios: os prompts de relatório são carregados lentamente](known-issues-workfront/wf-reports-prompts-load-slowly.md) | quarta-feira, 2 de janeiro de 2024 |
 | [Notificações: as notificações por push para o aplicativo Workfront Mobile não estão funcionando](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | quarta-feira, 2 de janeiro de 2024 |
-| [Documentos: a área Documentos não exibe todos os documentos](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md) | quarta-feira, 2 de janeiro de 2024 |
 | [Formulários personalizados: erro ao editar um formulário personalizado por meio da coluna](known-issues-workfront/wf-custom-forms-error-when-editing.md) | quarta-feira, 2 de janeiro de 2024 |
 | [Documentos: erro de &quot;Alterações não salvas&quot; ao adicionar um formulário a um documento](known-issues-workfront/wf-documents-unsaved-changes-error.md) | sexta-feira, 5 de dezembro de 2024 |
 | [Integrações: não é possível fazer logon no Workfront para Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | quarta-feira, 3 de dezembro de 2024 |
@@ -59,17 +60,13 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | [Quadros: não é possível mover o cartão para uma coluna diferente](known-issues-workfront/wf-boards-cannot-move-card-to-column.md) | sexta-feira, 2 de janeiro de 2025 |
 | [Formulários personalizados: mensagem &quot;Campos inválidos&quot; ao editar um formulário personalizado](known-issues-workfront/wf-custom-forms-blank-required-field.md) | sexta-feira, 2 de janeiro de 2025 |
 | [Usuários: a atualização de usuários em massa é muito lenta](known-issues-workfront/wf-users-bulk-update-takes-long-time.md) | sexta-feira, 2 de janeiro de 2025 |
-| [Formulários personalizados: os botões de opção são listados horizontalmente](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md) | sexta-feira, 2 de janeiro de 2025 |
 | [Solicitações e problemas: Erro com atribuições de usuário avançadas](known-issues-workfront/wf-issues-advanced-user-assignment-error.md) | sexta-feira, 2 de janeiro de 2025 |
-| [Formulários personalizados: não é possível adicionar os campos de tarefa &quot;estimateByHours&quot; ou &quot;hoursPerPoint&quot;](known-issues-workfront/wf-custom-forms-invalid-fields.md) | sábado, 20 de dezembro de 2024 |
 | [Formulários personalizados: os dados personalizados não são mostrados no painel Resumo](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | quinta-feira, 11 de dezembro de 2024 |
 | [Provas: o nome da prova não aparece na guia do navegador](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | quinta-feira, 11 de dezembro de 2024 |
-| [Tarefas: erro ao adicionar tarefas pessoais](known-issues-workfront/wf-tasks-add-more-tasks-whoops.md) | quinta-feira, 11 de dezembro de 2024 |
 | [Relatórios: a edição em massa nas listas de gráficos não responde](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | quarta-feira, 3 de dezembro de 2024 |
 | [Relatórios: tempos de carregamento longos do Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | sexta-feira, 21 de novembro de 2024 |
 | [API: as solicitações atingem o tempo limite](known-issues-workfront/wf-api-request-timing-out.md) | sexta-feira, 24 de outubro de 2024 |
 | [Integrações: não é possível fazer logon no Workfront para Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | quarta-feira, 24 de setembro de 2024 |
-| [Grupos: o status do grupo excluído reaparece](known-issues-workfront/wf-groups-deleted-status-reappears.md) | sexta-feira, 12 de setembro de 2024 |
 | [Formulários personalizados: formulários permanecem no padrão, formulários de projeto](known-issues-workfront/wf-custom-forms-default-to-project.md) | sexta-feira, 22 de agosto de 2024 |
 | [Configuração: problemas ao fazer logout como outro usuário](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | sexta-feira, 15 de agosto de 2024 |
 | [Notificações: erro “Ops!” ao definir as preferências de notificação](known-issues-workfront/wf-notifications-whoops-error.md) | sexta-feira, 8 de agosto de 2024 |

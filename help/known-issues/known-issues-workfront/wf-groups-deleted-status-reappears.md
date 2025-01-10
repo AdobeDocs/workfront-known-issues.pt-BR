@@ -4,14 +4,18 @@ description: Depois de excluir o status de um grupo, apesar de o grupo não exib
 hidefromtoc: true
 feature: People Teams and Groups
 exl-id: 061bfacc-5350-4e5f-91c1-89b32835d6e5
-source-git-commit: 15525c915fd95ffaf04f5ee4725c23856cabed1a
+source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 59%
+source-wordcount: '122'
+ht-degree: 63%
 
 ---
 
 # Grupos: problemas ao excluir o status do grupo
+
+>[!NOTE]
+>
+>Esse problema foi encerrado porque não pôde ser reproduzido.
 
 Os seguintes problemas foram relatados em relação à exclusão dos status de grupo:
 
