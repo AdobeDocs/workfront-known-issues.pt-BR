@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
+source-git-commit: 72d8b7becf9d5a009c04108f3492bd19d1261a8c
 workflow-type: tm+mt
-source-wordcount: '2336'
-ht-degree: 74%
+source-wordcount: '2356'
+ht-degree: 73%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 74%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Tarefas: as horas registradas permanecem no projeto anterior depois de movidas](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md)
+      + [Relatórios: os filtros de relatório de horas incluem datas incorretas](/help/known-issues/known-issues-workfront/wf-reports-hour-report-filter-wrong-dates.md)
+      + [Folhas de horas: total de horas incorreto](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md)
       + [Página inicial: os botões de aprovação não aparecem no widget Aguardando aprovação](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md)
       + [Usuários: Conta duplicada criada ao alterar o administrador do sistema](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md)
       + [Projetos: a condição atrasada não é aplicada conforme esperado](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)

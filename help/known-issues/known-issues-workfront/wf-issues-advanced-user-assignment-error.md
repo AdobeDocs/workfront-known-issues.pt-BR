@@ -3,15 +3,19 @@ title: 'Solicitações e problemas: erro nas atribuições avançadas de usuári
 description: Quando um usuário tenta fazer uma Atribuição avançada de usuário em uma solicitação ou problema, o usuário não é atribuído e o usuário vê um erro.
 hidefromtoc: true
 feature: Requests, Work Management
-source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
+exl-id: 9310726c-646e-46f0-a419-a232086f4738
+source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 25%
+source-wordcount: '107'
+ht-degree: 29%
 
 ---
 
-
 # Solicitações e problemas: erro nas atribuições avançadas de usuário
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em sexta-feira, 16 de janeiro de 2025.
 
 Quando um usuário tenta fazer uma Atribuição avançada de usuário em uma solicitação ou problema, o usuário não é atribuído e o usuário vê o seguinte erro:
 

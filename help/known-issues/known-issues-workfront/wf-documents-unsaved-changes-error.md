@@ -3,20 +3,19 @@ title: 'Documentos: erro "Alterações não salvas" ao adicionar um formulário 
 description: Ao adicionar um formulário a um documento, um erro "Alterações não salvas" é exibido e impede a interação com o aplicativo.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
+exl-id: 18911774-ab76-458a-8c59-87695e151d2c
+source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 5%
+source-wordcount: '93'
+ht-degree: 11%
 
 ---
 
 # Documentos: erro &quot;Alterações não salvas&quot; ao adicionar um formulário a um documento
 
-<!--
 >[!NOTE]
 >
->This article was fixed on October 10, 2024.
--->
+>Esse artigo foi corrigido em sexta-feira, 16 de janeiro de 2025.
 
 Ao adicionar um formulário a um documento, um erro &quot;Alterações não salvas&quot; é exibido e impede a interação com o aplicativo.
 
