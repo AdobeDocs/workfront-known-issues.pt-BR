@@ -3,19 +3,19 @@ title: 'Usuários: a atualização de usuários em massa é muito lenta'
 description: Quando um usuário tenta editar usuários em massa, a janela de edição demora muito para abrir. Isso é verdade mesmo com apenas dois usuários, mas mais usuários levam ainda mais tempo.
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: be24594ee77ab33b5bec2e1fcd6219fa6ccebbe2
+exl-id: 937bf534-e401-4a2f-9193-af935cfa5337
+source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 4%
+source-wordcount: '90'
+ht-degree: 11%
 
 ---
-
 
 # Usuários: a atualização de usuários em massa é muito lenta
 
 >[!NOTE]
 >
->Esse problema foi relatado somente para ambientes de sandbox.
+>Esse artigo foi corrigido em quarta-feira, 21 de janeiro de 2025.
 
 Quando um usuário tenta editar usuários em massa, a janela de edição demora muito para abrir. Isso é verdade mesmo com apenas dois usuários, mas mais usuários levam ainda mais tempo.
 
