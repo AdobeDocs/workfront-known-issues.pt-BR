@@ -1,26 +1,27 @@
 ---
 title: 'Documentos: erro ao usar um link público para um documento'
-description: Quando alguém clica em um link público que leva a um documento do Workfront, ocorre um erro.
+description: Quando um usuário clica em um link público para ir a um documento no Workfront, ele vê um erro.
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: c5ef7b1b-7652-4a41-980d-210b7b48a586
-source-git-commit: d34df8cd575d6b17a02bc4ed25fa5ca891c2afe7
+source-git-commit: 154faa161413258aae76968495cb464b17d71857
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 100%
+source-wordcount: '80'
+ht-degree: 31%
 
 ---
 
 # Documentos: erro ao usar um link público para um documento
 
+<!--
 >[!NOTE]
 >
->Esse problema foi resolvido.
+>This issue has been resolved.-->
 
-Quando alguém clica em um link público que leva a um documento do Workfront, ocorre um dos seguintes erros:
+Quando um usuário clica em um link público para ir para um documento no Workfront, ele vê o seguinte erro: &quot;Esse documento não existe mais&quot;.
 
-* Erro 500
-* “[!UICONTROL Ops! Algo deu errado. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.]”
+**Solução alternativa**
 
+Se o usuário estiver conectado, poderá exibir o documento conforme esperado.
 
-_Relatado pela primeira vez em sexta-feira, 30 de maio de 2024._
+_Relatado pela primeira vez em sábado, 10 de janeiro de 2025._

@@ -4,10 +4,10 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
+source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
 workflow-type: tm+mt
-source-wordcount: '1189'
-ht-degree: 79%
+source-wordcount: '1174'
+ht-degree: 81%
 
 ---
 
@@ -25,17 +25,15 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Provas: não é possível marcar determinados usuários](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | sexta-feira, 30 de janeiro de 2025 |
+| [Documentos: erro ao usar um link público para um documento](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md) | sexta-feira, 30 de janeiro de 2025 |
+| [Tarefas: filtros e exibições no nível do projeto disponíveis para tarefas](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md) | sexta-feira, 30 de janeiro de 2025 |
 | [Relatórios: os campos personalizados de digitação antecipada na análise não respondem](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md) | sexta-feira, 23 de janeiro de 2025 |
-| [Fazer logon como: o modelo de layout da Página Inicial do Administrador é exibido](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md) | sexta-feira, 23 de janeiro de 2025 |
-| [Usuários: Editando erro de taxa de custo](/help/known-issues/known-issues-workfront/wf-users-edit-cost-rate-error.md) | sexta-feira, 23 de janeiro de 2025 |
 | [Tarefas: as horas registradas permanecem no projeto anterior depois de movidas](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md) | sexta-feira, 16 de janeiro de 2025 |
-| [Relatórios: os filtros de relatório de horas incluem datas incorretas](/help/known-issues/known-issues-workfront/wf-reports-hour-report-filter-wrong-dates.md) | sexta-feira, 16 de janeiro de 2025 |
 | [Folhas de horas: total de horas incorreto](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md) | sexta-feira, 16 de janeiro de 2025 |
 | [Página inicial: botões de aprovação não aparecem no widget Aguardando Aprovação](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md) | sexta-feira, 9 de janeiro de 2025 |
 | [Usuários: Conta duplicada criada ao alterar o administrador do sistema](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | sexta-feira, 9 de janeiro de 2025 |
 | [Projetos: a condição de atraso não se aplica conforme esperado](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | sexta-feira, 9 de janeiro de 2025 |
-| [Registro de cobrança: as horas não são salvas](known-issues-workfront/wf-billing-record-hours-not-saved.md) | quinta-feira, 3 de janeiro de 2024 |
-| [Notificações: as notificações por push para o aplicativo Workfront Mobile não estão funcionando](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | quarta-feira, 2 de janeiro de 2024 |
 | [Integrações: não é possível fazer logon no Workfront para Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | quarta-feira, 3 de dezembro de 2024 |
 | [Tarefas: problemas com o recálculo da linha do tempo](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | quarta-feira, 3 de dezembro de 2024 |
 | [Workfront: falha ao carregar as guias do navegador abertas](known-issues-workfront/wf-workfront-browser-tabs-error.md) | quarta-feira, 12 de novembro de 2024 |
@@ -58,7 +56,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | ---------------------------------- | ----------------- |
-| [Quadros: não é possível mover o cartão para uma coluna diferente](known-issues-workfront/wf-boards-cannot-move-card-to-column.md) | sexta-feira, 2 de janeiro de 2025 |
 | [Formulários personalizados: os dados personalizados não são mostrados no painel Resumo](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | quinta-feira, 11 de dezembro de 2024 |
 | [Relatórios: a edição em massa nas listas de gráficos não responde](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | quarta-feira, 3 de dezembro de 2024 |
 | [Relatórios: tempos de carregamento longos do Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | sexta-feira, 21 de novembro de 2024 |
@@ -79,6 +76,7 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Fazer logon como: o modelo de layout da Página Inicial do Administrador é exibido](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md) | sexta-feira, 23 de janeiro de 2025 |
 | [Relatórios: os prompts de relatório são carregados lentamente](known-issues-workfront/wf-reports-prompts-load-slowly.md) | quarta-feira, 16 de janeiro de 2024 |
 | [Provas: provas do Webcapture não geram](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | sábado, 20 de dezembro de 2024 |
 | [Workfront: o formato de data é alterado no aplicativo](known-issues-workfront/wf-workfront-date-format-changing.md) | sábado, 20 de dezembro de 2024 |

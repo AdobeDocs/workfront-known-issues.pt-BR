@@ -3,14 +3,19 @@ title: 'Relatórios: os filtros de relatório de horas incluem datas incorretas'
 description: Ao filtrar um relatório de horas para mostrar apenas uma data específica, uma data adjacente diferente é incluída no relatório. Esse problema parece estar relacionado às configurações de fuso horário.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
+exl-id: 1a158dd0-8f24-4d2d-b8e6-36330d4131b4
+source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 5%
+source-wordcount: '104'
+ht-degree: 10%
 
 ---
 
 # Relatórios: os filtros de relatório de horas incluem datas incorretas
+
+>[!NOTE]
+>
+>Esse artigo foi corrigido em sexta-feira, 30 de janeiro de 2025.
 
 Ao filtrar um relatório de horas para mostrar apenas uma data específica, uma data adjacente diferente é incluída no relatório. Esse problema parece estar relacionado às configurações de fuso horário.
 

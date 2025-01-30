@@ -3,15 +3,19 @@ title: 'Notificações: as notificações por push para o aplicativo Workfront M
 description: Quando ocorre um evento que deve acionar uma notificação por push para o aplicativo Workfront Mobile, a notificação não é recebida.
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 0031b3acdaba091cc83ae44b9d47fb473dae6053
+exl-id: 5f2fab99-d825-4abf-ae4a-d03de6d10de2
+source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 4%
+source-wordcount: '87'
+ht-degree: 11%
 
 ---
 
-
 # Notificações: as notificações por push para o aplicativo Workfront Mobile não estão funcionando
+
+>[!NOTE]
+>
+>Esse artigo foi corrigido em quinta-feira, 22 de janeiro de 2025.
 
 Quando ocorre um evento que deve acionar uma notificação por push para o aplicativo Workfront Mobile, a notificação não é recebida.
 
