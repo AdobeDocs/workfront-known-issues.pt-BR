@@ -4,10 +4,10 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
+source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
 workflow-type: tm+mt
-source-wordcount: '1174'
-ht-degree: 81%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,7 +25,9 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Provas: não é possível marcar determinados usuários](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | sexta-feira, 30 de janeiro de 2025 |
+| [Modelos de layout: as exibições excluídas ainda estão disponíveis](/help/known-issues/known-issues-workfront/wf-layout-templates-deleted-views-available.md) | quarta-feira, 11 de fevereiro de 2025 |
+| [Formulários personalizados: empresas ausentes no campo personalizado de digitação antecipada](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) | quarta-feira, 11 de fevereiro de 2025 |
+| [Documentos: não é possível carregar a lista de documentos da pasta do AEM](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | quarta-feira, 11 de fevereiro de 2025 |
 | [Documentos: erro ao usar um link público para um documento](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md) | sexta-feira, 30 de janeiro de 2025 |
 | [Tarefas: filtros e exibições no nível do projeto disponíveis para tarefas](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md) | sexta-feira, 30 de janeiro de 2025 |
 | [Relatórios: os campos personalizados de digitação antecipada na análise não respondem](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md) | sexta-feira, 23 de janeiro de 2025 |
@@ -56,6 +58,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | ---------------------------------- | ----------------- |
+| [Provas: provas aprovadas aparecem nos relatórios](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | quarta-feira, 11 de fevereiro de 2025 |
 | [Formulários personalizados: os dados personalizados não são mostrados no painel Resumo](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | quinta-feira, 11 de dezembro de 2024 |
 | [Relatórios: a edição em massa nas listas de gráficos não responde](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | quarta-feira, 3 de dezembro de 2024 |
 | [Relatórios: tempos de carregamento longos do Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | sexta-feira, 21 de novembro de 2024 |
@@ -84,7 +87,7 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 | [Tarefas: erro de banco de dados ao adicionar ou excluir uma tarefa (anteriormente erro de Bizcontext)](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | quarta-feira, 10 de dezembro de 2024 |
 | [Modelos de layout: campos de dados personalizados não são exibidos quando adicionados ao Resumo da Tarefa por meio do Modelo de layout](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | terça-feira, 4 de novembro de 2024 |
 | [Notificações: notificações por email de atualizações que não estão sendo enviadas](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | sexta-feira, 5 de dezembro de 2024 |
-| [Workfront: Usuários do colaborador não podem acessar Programas ou Portfolio](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | sexta-feira, 5 de dezembro de 2024 |
+| [Workfront: Usuários do colaborador não podem acessar Programas ou Portfólios](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | sexta-feira, 5 de dezembro de 2024 |
 | [Workfront: as configurações do ZScaler podem causar redução no desempenho](known-issues-workfront//wf-workfront-zscaler.md) | quinta-feira, 20 de novembro de 2024 |
 | [Notificações: os usuários colaboradores não recebem notificações por email](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | quarta-feira, 12 de novembro de 2024 |
 | [Relatórios: tempos de carregamento longos do Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | quarta-feira, 12 de novembro de 2024 |

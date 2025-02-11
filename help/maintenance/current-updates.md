@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
+source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
 workflow-type: tm+mt
-source-wordcount: '410'
-ht-degree: 39%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,6 +23,20 @@ Essas atualizações também incluem outras correções de erros menores ou meno
 Para obter atualizações de manutenção anteriores a 2025, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 As seguintes atualizações de manutenção foram efetuadas em 2025.
+
+## Atualizações em fevereiro de 2025
+
++++**Atualização de manutenção em sexta-feira, 6 de fevereiro de 2025**
+
+### Atualização de manutenção em sexta-feira, 6 de fevereiro de 2025
+
+#### Listas
+
+**Não é possível editar a lista de tarefas após carregar a prova**
+
+Ao fazer upload de uma prova em um projeto, a lista de tarefas desse projeto não pode ser editada em linha até que a página seja atualizada ou a prova termine o upload.
+
++++
 
 ## Atualizações em janeiro de 2025
 

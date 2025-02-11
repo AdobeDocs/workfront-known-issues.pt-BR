@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
+source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
 workflow-type: tm+mt
-source-wordcount: '2391'
-ht-degree: 72%
+source-wordcount: '2413'
+ht-degree: 71%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 72%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Modelos de layout: as exibições excluídas ainda estão disponíveis](/help/known-issues/known-issues-workfront/wf-layout-templates-deleted-views-available.md)
+      + [Formulários personalizados: empresas ausentes no campo personalizado de digitação antecipada](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md)
+      + [Documentos: não é possível carregar a lista de documentos da pasta do AEM](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md)
       + [Provas: não é possível marcar determinados usuários](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md)
       + [Tarefas: filtros e exibições no nível do projeto disponíveis para tarefas](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md)
       + [Relatórios: os campos personalizados de digitação antecipada no detalhamento não respondem](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md)
@@ -57,7 +60,7 @@ ht-degree: 72%
       + [Documentos: a aprovação de &quot;adição rápida&quot; não inclui a entrada de prazo final para novas versões](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md)
       + [Modelos de layout: os administradores não conseguem editar os modelos de layout da página inicial](known-issues-workfront/wf-layout-templates-unable-to-edit-home.md)
       + [Usuários: a tag &quot;Não registrado&quot; persiste após o logon](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md)
-      + [Workfront: os usuários do Colaborador não podem acessar Programas ou Portfolio](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md)
+      + [Workfront: os usuários do Colaborador não podem acessar Programas ou Portfólios](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md)
       + [Aprovações: o filtro &quot;Todos&quot; exclui aprovações enviadas pessoalmente](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md)
       + [Tarefas: duração de Dias Decorridos incorreta para tarefas pai com tarefas filho](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
       + [Relatórios: a edição em massa nas listas de gráficos não responde](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md)
@@ -86,7 +89,7 @@ ht-degree: 72%
       + [Logon como redireciona para logon ou causa erro](known-issues-workfront/wf-login-as-redirects-to-login.md)
       + [Página inicial: &quot;Marcar como concluído&quot; fecha o painel de resumo do widget Meus problemas](known-issues-workfront/wf-home-mark-as-done-closes-summary.md)
       + [Projetos: não é possível compartilhar projetos devido ao erro &quot;acesso para excluir&quot;](known-issues-workfront/wf-projects-sharing-access-error.md)
-      + [Provas: falha ao criar prova para documentos vinculados do AEM por meio do Fusion](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md)
+      + [Provas: falha ao criar prova para documentos vinculados do AEM pelo Fusion](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md)
       + [Quadros: erro ao mover cartões ou atribuir usuários](known-issues-workfront/wf-boards-error-moving-cards.md)
       + [Relatórios: tempos de carregamento longos do Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
       + [Relatórios: não é possível rolar a tela para ver todo o relatório do gráfico](known-issues-workfront/wf-reports-unable-to-scroll.md)
