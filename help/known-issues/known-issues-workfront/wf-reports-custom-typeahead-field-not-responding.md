@@ -3,14 +3,19 @@ title: 'Relatórios: os campos personalizados de digitação antecipada no detal
 description: Quando um usuário tenta editar um campo de digitação antecipada personalizado dentro da tabela de detalhamento de um relatório de gráfico, o campo não responde corretamente - o texto não pode ser inserido, ele exclui esporadicamente o texto de entrada ou causa falha ocasional na página.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
+exl-id: 7eee2b05-a7a1-4f45-94a6-2f771da9ba6d
+source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 3%
+source-wordcount: '110'
+ht-degree: 9%
 
 ---
 
 # Relatórios: os campos personalizados de digitação antecipada no detalhamento não respondem
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em sexta-feira, 6 de fevereiro de 2025.
 
 Quando um usuário tenta editar um campo de digitação antecipada personalizado na tabela de detalhamento de um relatório de gráfico, o campo não responde corretamente: o texto não pode ser inserido, ele exclui esporadicamente o texto de entrada ou causa falha ocasional na página.
 

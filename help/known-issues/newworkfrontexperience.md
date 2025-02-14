@@ -4,10 +4,10 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
+source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1192'
+ht-degree: 80%
 
 ---
 
@@ -30,7 +30,6 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | [Documentos: não é possível carregar a lista de documentos da pasta do AEM](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | quarta-feira, 11 de fevereiro de 2025 |
 | [Documentos: erro ao usar um link público para um documento](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md) | sexta-feira, 30 de janeiro de 2025 |
 | [Tarefas: filtros e exibições no nível do projeto disponíveis para tarefas](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md) | sexta-feira, 30 de janeiro de 2025 |
-| [Relatórios: os campos personalizados de digitação antecipada na análise não respondem](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md) | sexta-feira, 23 de janeiro de 2025 |
 | [Tarefas: as horas registradas permanecem no projeto anterior depois de movidas](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md) | sexta-feira, 16 de janeiro de 2025 |
 | [Folhas de horas: total de horas incorreto](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md) | sexta-feira, 16 de janeiro de 2025 |
 | [Página inicial: botões de aprovação não aparecem no widget Aguardando Aprovação](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md) | sexta-feira, 9 de janeiro de 2025 |
@@ -59,7 +58,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | **Problema** | **Última modificação** |
 | ---------------------------------- | ----------------- |
 | [Provas: provas aprovadas aparecem nos relatórios](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | quarta-feira, 11 de fevereiro de 2025 |
-| [Formulários personalizados: os dados personalizados não são mostrados no painel Resumo](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | quinta-feira, 11 de dezembro de 2024 |
 | [Relatórios: a edição em massa nas listas de gráficos não responde](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | quarta-feira, 3 de dezembro de 2024 |
 | [Relatórios: tempos de carregamento longos do Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | sexta-feira, 21 de novembro de 2024 |
 | [API: as solicitações atingem o tempo limite](known-issues-workfront/wf-api-request-timing-out.md) | sexta-feira, 24 de outubro de 2024 |
@@ -79,6 +77,7 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Provas: não é possível criar provas para vídeos vinculados do AEM através do Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | sexta-feira, 13 de fevereiro de 2025 |
 | [Fazer logon como: o modelo de layout da Página Inicial do Administrador é exibido](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md) | sexta-feira, 23 de janeiro de 2025 |
 | [Relatórios: os prompts de relatório são carregados lentamente](known-issues-workfront/wf-reports-prompts-load-slowly.md) | quarta-feira, 16 de janeiro de 2024 |
 | [Provas: provas do Webcapture não geram](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | sábado, 20 de dezembro de 2024 |

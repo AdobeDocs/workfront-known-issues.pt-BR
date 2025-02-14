@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
+source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '545'
+ht-degree: 33%
 
 ---
 
@@ -25,6 +25,24 @@ Para obter atualizações de manutenção anteriores a 2025, consulte [Atualiza�
 As seguintes atualizações de manutenção foram efetuadas em 2025.
 
 ## Atualizações em fevereiro de 2025
+
++++**Atualização de manutenção em sexta-feira, 13 de fevereiro de 2025**
+
+### Atualização de manutenção em sexta-feira, 13 de fevereiro de 2025
+
+#### Formulários personalizados
+
+**Dados personalizados não mostrados no painel Resumo**
+
+Quando um cliente está visualizando o painel Resumo de uma tarefa, os dados personalizados que devem aparecer no painel Resumo não estão presentes. Isso pode ocorrer mesmo que o modelo de layout das tarefas inclua os campos personalizados.
+
+#### Relatórios
+
+**Problemas de exibição de prompt**
+
+Ao acessar um relatório solicitado com um grande número de solicitações, a caixa de diálogo de solicitação não permite a rolagem para acessar todas as solicitações ou o botão Executar relatório.
+
++++
 
 +++**Atualização de manutenção em sexta-feira, 6 de fevereiro de 2025**
 
