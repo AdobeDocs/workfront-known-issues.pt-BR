@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
+source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
 workflow-type: tm+mt
-source-wordcount: '545'
-ht-degree: 33%
+source-wordcount: '649'
+ht-degree: 30%
 
 ---
 
@@ -25,6 +25,30 @@ Para obter atualizações de manutenção anteriores a 2025, consulte [Atualiza�
 As seguintes atualizações de manutenção foram efetuadas em 2025.
 
 ## Atualizações em fevereiro de 2025
+
++++**Atualização de manutenção em sexta-feira, 20 de fevereiro de 2025**
+
+### Atualização de manutenção em sexta-feira, 20 de fevereiro de 2025
+
+#### Notificações
+
+**Atrasos de emails e notificações no aplicativo**
+
+Quando ocorre um evento que deve acionar notificações por email ou no aplicativo, as notificações não são enviadas no momento do evento e, em vez disso, levam mais de algumas horas para serem enviadas.
+
+#### Tarefas
+
+**Hora registrada restante no projeto anterior depois de movida**
+
+Depois que as tarefas são movidas para um novo projeto, o total de horas do projeto original inclui horas para as tarefas movidas. As tarefas ainda retêm corretamente as horas reportadas no novo projeto.
+
+#### Planilhas de horas
+
+**Total de horas incorreto**
+
+O cálculo do total de horas da folha de horas ocasionalmente mostra uma soma incorreta.
+
++++
 
 +++**Atualização de manutenção em sexta-feira, 13 de fevereiro de 2025**
 
