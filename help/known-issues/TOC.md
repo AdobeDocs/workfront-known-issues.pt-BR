@@ -2,9 +2,9 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
+source-git-commit: a2d7e98c114ca65872e60c4d9b507f90d663e5df
 workflow-type: tm+mt
-source-wordcount: '2424'
+source-wordcount: '2438'
 ht-degree: 71%
 
 ---
@@ -17,6 +17,9 @@ ht-degree: 71%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Modelo de layout: seção de iterações personalizadas inacessível](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md)
+      + [Notificações: emails duplicados](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md)
+      + [Workfront Fusion: erro de conexão de cenário](/help/known-issues/known-issues-workfront/wf-fusion-scenario-connection-error.md)
       + [Provas: não é possível criar provas para vídeos vinculados do AEM por meio do Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md)
       + [Modelos de layout: as exibições excluídas ainda estão disponíveis](/help/known-issues/known-issues-workfront/wf-layout-templates-deleted-views-available.md)
       + [Formulários personalizados: empresas ausentes no campo personalizado de digitação antecipada](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md)
