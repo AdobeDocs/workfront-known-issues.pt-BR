@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
+source-git-commit: 4b156962d5d83984311eb4a3124a6fc864d23249
 workflow-type: tm+mt
-source-wordcount: '649'
-ht-degree: 30%
+source-wordcount: '693'
+ht-degree: 29%
 
 ---
 
@@ -25,6 +25,18 @@ Para obter atualizações de manutenção anteriores a 2025, consulte [Atualiza�
 As seguintes atualizações de manutenção foram efetuadas em 2025.
 
 ## Atualizações em fevereiro de 2025
+
++++**Atualização de manutenção em sexta-feira, 27 de fevereiro de 2025**
+
+### Atualização de manutenção em sexta-feira, 27 de fevereiro de 2025
+
+#### Grupos
+
+**Não é possível compartilhar o nível de acesso de administrador**
+
+Ao tentar compartilhar o nível de acesso de administrador com um grupo, a caixa para marcar cada grupo não responde e o grupo não obtém o nível de acesso esperado.
+
++++
 
 +++**Atualização de manutenção em sexta-feira, 20 de fevereiro de 2025**
 

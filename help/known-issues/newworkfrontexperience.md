@@ -4,10 +4,10 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: a2d7e98c114ca65872e60c4d9b507f90d663e5df
+source-git-commit: 4b156962d5d83984311eb4a3124a6fc864d23249
 workflow-type: tm+mt
-source-wordcount: '1153'
-ht-degree: 81%
+source-wordcount: '1162'
+ht-degree: 80%
 
 ---
 
@@ -26,9 +26,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | **Problema** | **Última modificação** |
 | ----------------------------------------------------------------- | ----------------- |
 | [Modelo de layout: seção de iterações personalizadas inacessível](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md) | terça-feira, 24 de fevereiro de 2025 |
-| [Notificações: emails duplicados](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md) | terça-feira, 24 de fevereiro de 2025 |
 | [Provas: não é possível marcar determinados usuários](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | sexta-feira, 20 de fevereiro de 2025 |
-| [Documentos: não é possível carregar a lista de documentos da pasta do AEM](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | quarta-feira, 11 de fevereiro de 2025 |
 | [Tarefas: filtros e exibições no nível do projeto disponíveis para tarefas](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md) | sexta-feira, 30 de janeiro de 2025 |
 | [Usuários: Conta duplicada criada ao alterar o administrador do sistema](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | sexta-feira, 9 de janeiro de 2025 |
 | [Tarefas: problemas com o recálculo da linha do tempo](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | quarta-feira, 3 de dezembro de 2024 |
@@ -52,6 +50,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | ---------------------------------- | ----------------- |
+| [Página inicial: botões de aprovação não aparecem no widget Aguardando Aprovação](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md) | sexta-feira, 27 de fevereiro de 2025 |
 | [Provas: provas aprovadas aparecem nos relatórios](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | quarta-feira, 11 de fevereiro de 2025 |
 | [Relatórios: tempos de carregamento longos do Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | sexta-feira, 21 de novembro de 2024 |
 | [Integrações: não é possível fazer logon no Workfront para Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | quarta-feira, 24 de setembro de 2024 |
@@ -70,6 +69,8 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Notificações: emails duplicados](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md) | sexta-feira, 27 de fevereiro de 2025 |
+| [Documentos: não é possível carregar a lista de documentos da pasta do AEM](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | sexta-feira, 27 de fevereiro de 2025 |
 | [Integrações: não é possível fazer logon no Workfront para Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | sexta-feira, 20 de fevereiro de 2025 |
 | [Projetos: a condição de atraso não se aplica conforme esperado](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | terça-feira, 20 de janeiro de 2025 |
 | [Formulários personalizados: empresas ausentes no campo personalizado de digitação antecipada](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) | sexta-feira, 20 de fevereiro de 2025 |
