@@ -4,10 +4,10 @@ description: Quando alguém tenta fazer logon no Workfront para Outlook, o botã
 hidefromtoc: true
 feature: Workfront Integrations and Apps
 exl-id: 5ea65906-84c8-4aad-a4d9-a10b577a4c4c
-source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
+source-git-commit: c60a7c70346bda8d794899c6d924c8f3605f1c9e
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 71%
+source-wordcount: '68'
+ht-degree: 69%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 71%
 
 >[!NOTE]
 >
->Esse problema foi encerrado porque não pôde ser reproduzido.
+>Esse problema foi corrigido em 19 de outubro de 2023.
 
 Quando um usuário tenta fazer logon no Workfront para Outlook, o botão não responde e o usuário não consegue fazer logon.
 

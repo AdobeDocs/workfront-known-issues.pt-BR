@@ -4,14 +4,18 @@ description: Ao visualizar um relatório e clicar nos detalhes, se o relatório 
 hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 9ab83394-c192-4a5f-922c-f0fef7df99ca
-source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
+source-git-commit: 88f86485714bb836ddd3f82f37452eb8d3d2e9bf
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '119'
 ht-degree: 100%
 
 ---
 
 # Relatórios: erro ao exibir detalhes do relatório agrupado por data personalizada
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em sexta-feira, 25 de julho de 2024.
 
 Ao visualizar um relatório e clicar nos detalhes, se o relatório estiver agrupado por um campo de data personalizada, os detalhes não são carregados e o seguinte erro é exibido:
 

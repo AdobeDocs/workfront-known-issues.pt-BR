@@ -4,10 +4,10 @@ description: 'Os usuários com licença de colaborador não estão recebendo ema
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: b4b6e898-1a30-4f47-919b-40d938e916f3
-source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
+source-git-commit: 42c42ae1f68161fe7e8647e6b74c9a5806bf4a92
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 100%
+source-wordcount: '68'
+ht-degree: 91%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->A equipe do produto está avaliando a resolução do problema, que pode exigir melhorias do produto. As melhorias do produto são comunicadas nos Anúncios do produto e não nas Atualizações de manutenção.
+>Esse problema foi resolvido em 11 de novembro de 2024
 
 Os usuários com licença de colaborador não estão recebendo emails de notificação. Isso pode afetar os emails de notificação instantânea e os emails de resumo diário.
 
