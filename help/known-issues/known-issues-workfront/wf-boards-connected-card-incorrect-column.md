@@ -4,22 +4,19 @@ description: Relataram-se problemas relacionados a cartões conectados na coluna
 hidefromtoc: true
 feature: Agile
 exl-id: 98c1c3d7-df14-4f4d-9970-f5326870e2e0
-source-git-commit: c73aa8451c52e4c6f5091b549d9f0a35b8e8d1f8
+source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '85'
 ht-degree: 100%
 
 ---
 
 # Quadros: cartão conectado está na coluna incorreta
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on August 15, 2024.
+>Esse problema foi corrigido em sexta-feira, 10 de outubro de 2024.
 
--->
 
 Os seguintes problemas foram relatados em relação a cartões conectados na coluna errada:
 

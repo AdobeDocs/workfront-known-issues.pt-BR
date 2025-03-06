@@ -4,20 +4,20 @@ description: Ao usar o widget Aguardando aprovação na Página inicial, os bot�
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 9e3c4d32-680e-4839-a0b8-8a70d16e5465
-source-git-commit: 4b156962d5d83984311eb4a3124a6fc864d23249
+source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 7%
+source-wordcount: '75'
+ht-degree: 14%
 
 ---
 
 # Página inicial: os botões de aprovação não aparecem no widget Aguardando aprovação
 
-<!--
+
 >[!NOTE]
 >
->This issue was fixed on February 13, 2025.
--->
+>Esse problema foi corrigido em quarta-feira, 4 de março de 2025.
+
 
 Ao usar o widget Aguardando aprovação na Página inicial, os botões para selecionar uma decisão de aprovação não são exibidos.
 

@@ -3,14 +3,19 @@ title: 'Tarefas: filtros e exibições no nível do projeto disponíveis para ta
 description: Ao abrir o filtro ou exibir listas de uma tarefa, os filtros e os modos de exibição criados no nível do projeto são exibidos na lista de opções.
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
+exl-id: 3f28e60d-8c19-432b-94af-be217d607cad
+source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 5%
+source-wordcount: '78'
+ht-degree: 12%
 
 ---
 
 # Tarefas: filtros e exibições no nível do projeto disponíveis para tarefas
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em sábado, 21 de fevereiro de 2025.
 
 Ao abrir o filtro ou exibir listas de uma tarefa, os filtros e os modos de exibição criados no nível do projeto são exibidos na lista de opções.
 

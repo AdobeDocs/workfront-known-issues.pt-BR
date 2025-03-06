@@ -4,10 +4,10 @@ description: A funcionalidade do Workfront que usa SSO retorna um erro.
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 372bab9a-fd77-41eb-a806-34e99ce55b17
-source-git-commit: 9a8c1695bc2469c3c29849e7ed735a71c347bcce
+source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 100%
+source-wordcount: '102'
+ht-degree: 89%
 
 ---
 
@@ -15,8 +15,9 @@ ht-degree: 100%
 
 >[!NOTE]
 >
+>* Esse problema foi corrigido em sexta-feira, 5 de setembro de 2024.
 >* Esse problema foi relatado no ambiente da sandbox de visualização e no ambiente da sandbox de atualização personalizada.
->* Esse problema foi relatado para organizações que usam SSOs legados (não da Adobe).
+>* Esse problema foi relatado para organizações que usam o SSO herdado (não Adobe).
 
 A funcionalidade do Workfront que usa SSO retorna o seguinte erro:
 
