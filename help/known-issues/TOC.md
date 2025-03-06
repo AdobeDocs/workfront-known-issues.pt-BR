@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 3b0bd3d5de463bc58c4bbbf54d407632dadab58d
+source-git-commit: bde5a0c3f09e6a238224e03ecae168f6d5cda677
 workflow-type: tm+mt
-source-wordcount: '2446'
-ht-degree: 71%
+source-wordcount: '2355'
+ht-degree: 69%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 71%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Fazer logon como: administradores de grupo não podem fazer logon como outro usuário](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md)
       + [Integrações: erro do outlookIdentityToken ao usar o Workfront para Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md)
       + [Modelo de layout: seção de iterações personalizadas inacessível](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md)
       + [Notificações: emails duplicados](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md)
@@ -180,30 +181,18 @@ ht-degree: 71%
       + [Relatórios: erro ao exibir detalhes do relatório agrupado por data personalizada](known-issues-workfront/wf-reports-error-with-custom-date-field.md)
       + [Página inicial: o dispositivo de aprovações não é preciso](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
       + [Planejamento de recursos: o botão [!UICONTROL Mais] não está visível](known-issues-workfront/wf-resource-management-more-button-not-visible.md)
-      + [Status: não é possível reutilizar o status excluído anteriormente](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
       + [Página inicial: não é possível remover o dispositivo Menções](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
       + [Navegação: o botão Voltar não retorna à página anterior](known-issues-workfront/wf-navigation-back-button-not-work.md)
       + [Documentos: erro ao usar um link público para um documento](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md)
       + [Provas: não é possível fechar o visualizador de provas](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
-      + [Projetos: o menu Compartilhamento não carrega](known-issues-workfront/wf-projects-cannot-share-task-issue.md)
-      + [Relatórios: os links públicos para um relatório não estão funcionando](known-issues-workfront/wf-reports-public-link-not-working.md)
-      + [[!UICONTROL Planejador de recursos]: não é possível compartilhar o filtro](known-issues-workfront/wf-resource-planner-cannot-share-filter.md)
       + [A data de conclusão efetiva é exibida como N/A](known-issues-workfront/wf-projects-completion-date-is-na.md)
       + [Tarefas: a função de trabalho não desaparece da lista quando o usuário é atribuído à tarefa](known-issues-workfront/wf-tasks-assigning-user-with-role.md)
       + [Usuários: usuários ausentes ao fazer atribuições em massa](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
-      + [Formulários personalizados: erro ao editar campos de texto descritivo](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)
-      + [Grupos: não é possível adicionar um subgrupo](known-issues-workfront/wf-groups-cannot-add-subgroup.md)
-      + [Atualizações: pessoas marcadas não conseguem ver quem as marcou](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)
       + [Documentos: tela de erro ao baixar ou visualizar um ativo](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md)
-      + [Programas: quando o acesso do usuário ao programa é atualizado, todo o acesso a ele é perdido](known-issues-workfront/wf-programs-permissions-not-inherited.md)
       + [Documentos: extensão de arquivo UNK ao vincular documentos da integração](known-issues-workfront/wf-documents-unk-file-extension.md)
-      + [Atualizações: copiar e colar uma menção não notifica o usuário mencionado](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
       + [Projetos: projetos criados a partir de um problema usando um modelo não refletem a prioridade definida no modelo](known-issues-workfront/wf-projects-priority-not-transfer.md)
       + [Folhas de horas: folhas de horas fixadas levam a uma página em branco](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
-      + [Configuração: o banner “Conectado como” não aparece ao fazer logon com outro usuário.](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
       + [Moderadores de prova não conseguem editar as permissões](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
-      + [[!DNL Workfront Goals]: não é possível excluir a meta](known-issues-workfront/wf-goals-cannot-delete-goal.md)
-      + [Usuários: não é possível modificar o nível de acesso do usuário](known-issues-workfront/wf-users-cannot-modify-access-level.md)
       + [Atualizações: o link no comentário vai para uma tela em branco](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
       + [Equipes: não é possível excluir a equipe nem exibir seu proprietário](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
       + [Provas: a prova impede a conversão de tarefa ou problema em projeto](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
@@ -212,7 +201,6 @@ ht-degree: 71%
       + [Relatórios: o filtro de relatório não retorna os resultados esperados](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [Projeto: não é possível converter um problema em projeto se uma prova da Web estiver anexada](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)
       + [Atualizações: solicitantes não podem adicionar imagens às atualizações](known-issues-workfront/wf-updates-requestors-not-add-image.md)
-      + [Quadros: o cartão não inclui subtarefas](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
       + [Quadros: problemas relacionados a cartões duplicados](known-issues-workfront/wf-boards-some-cards-duplicated.md)
       + [Provas: falha ao gerar provas comprimidas](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
       + [Nova [!UICONTROL Página inicial]: os padrões de filtro e agrupamento de widgets não seguem o modelo de layout](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
