@@ -4,10 +4,10 @@ description: Quando um usuário clica em uma miniatura .docx para visualizar um 
 exl-id: 63b02355-0857-4da2-98d4-190ed4219b89
 hidefromtoc: true
 feature: Get Started with Workfront, Digital Content and Documents
-source-git-commit: 374c88a6a4e8890968220ae51b3fea303e0d7628
+source-git-commit: ddcea9054f51049698bbe7eb059efe304a31f7d9
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 91%
+source-wordcount: '107'
+ht-degree: 81%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 91%
 
 >[!NOTE]
 >
->A equipe de produtos está avaliando a solução desse problema. Quando esse problema for resolvido, ele será comunicado nos Anúncios do produto e não nas Atualizações de manutenção.
+>A funcionalidade relacionada a esse problema foi descontinuada.
 
 Quando um usuário clica em uma miniatura [!UICONTROL .docx] para visualizar um documento, um player de vídeo é aberto e não é possível ver o documento.
 

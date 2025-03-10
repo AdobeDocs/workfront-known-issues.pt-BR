@@ -4,10 +4,10 @@ description: Quando um usuário na nova experiência do [!DNL Adobe Workfront] v
 exl-id: f9e08d81-135c-4b04-a239-2fb0fcc87ae5
 hidefromtoc: true
 feature: Workfront Proof
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+source-git-commit: ddcea9054f51049698bbe7eb059efe304a31f7d9
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 95%
+source-wordcount: '154'
+ht-degree: 88%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->A equipe do produto está avaliando a resolução do problema, que pode exigir melhorias do produto. As melhorias do produto são comunicadas nos Anúncios do produto e não nas Atualizações de manutenção.
+>A funcionalidade relacionada a esse problema foi descontinuada.
 
 Quando um usuário na nova experiência do [!DNL Adobe Workfront] visualiza uma prova no painel direito na [!UICONTROL Página inicial], e clica em [!UICONTROL Responder na prova] em um comentário, é exibida uma caixa de texto onde ele pode fazer uma atualização na área [!UICONTROL Atualizações] do documento em vez de ser direcionado ao [!UICONTROL Visualizador de provas] como pretendido.
 
