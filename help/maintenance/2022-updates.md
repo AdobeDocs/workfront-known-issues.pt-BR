@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront em 2022
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
 feature: Get Started with Workfront
-source-git-commit: 8dc177a194ae32bcb135910badc7fdb2c42e530d
+source-git-commit: 003a38b5009e80e1b65c23354c8fb9b38d6a7819
 workflow-type: tm+mt
-source-wordcount: '16797'
-ht-degree: 100%
+source-wordcount: '16794'
+ht-degree: 99%
 
 ---
 
@@ -1079,14 +1079,13 @@ Como resultado dessas correções de erros, o endereço de email usado para envi
 
 Anteriormente, os endereços de email de prova continham o subdomínio de sua organização. Por exemplo, notifications@[company domain].my.workfront.com
 
-Agora, a criação de perfis de endereços de email não contém mais um subdomínio de organização. Todas as notificações por email de prova serão enviadas pelo seguinte endereço: notification@my.workfront.com
+Agora, a criação de perfis de endereços de email não contém mais um subdomínio de organização. Todas as notificações por email de prova serão enviadas pelo seguinte endereço: `notification@my.workfront.com`
 
 Como resultado, recomendamos que você execute as seguintes ações caso ainda não tenha feito:
 
-* Atualize seus filtros de spam para aceitar emails de notification@my.workfront.com
-* Atualize suas listas de permissões para aceitar emails de notification@my.workfront.com
-
-**As opções de usuário não podem ser modificadas após a configuração inicial em Modelos de fluxo de trabalho**
+* Atualize seus filtros de spam para aceitar emails de `notification@my.workfront.com`
+* Atualizar suas listas de permissões para aceitar emails de `notification@my.workfront.com`
+  **As opções de usuário não podem ser modificadas após a configuração inicial em Modelos de fluxo de trabalho**
 
 *[!DNL Workfront Proof]*
 
