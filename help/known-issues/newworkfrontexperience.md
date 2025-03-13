@@ -4,10 +4,10 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8e83060ba2fddb328ca6750d6eb72b2d9e860e6a
+source-git-commit: 77776e8134a24a6b85a01ac97029306f389437ef
 workflow-type: tm+mt
-source-wordcount: '977'
-ht-degree: 79%
+source-wordcount: '971'
+ht-degree: 78%
 
 ---
 
@@ -27,7 +27,6 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | ----------------------------------------------------------------- | ----------------- |
 | [Provas: não é possível marcar determinados usuários](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | sexta-feira, 20 de fevereiro de 2025 |
 | [Usuários: Conta duplicada criada ao alterar o administrador do sistema](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | sexta-feira, 9 de janeiro de 2025 |
-| [Tarefas: problemas com o recálculo da linha do tempo](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | quarta-feira, 3 de dezembro de 2024 |
 | [Workfront: falha ao carregar as guias do navegador abertas](known-issues-workfront/wf-workfront-browser-tabs-error.md) | quarta-feira, 12 de novembro de 2024 |
 | [Página inicial: “Sem acesso” é exibido como nome do projeto](known-issues-workfront/wf-home-no-access-project-name.md) | sexta-feira, 15 de agosto de 2024 |
 | [Integrações: vincular a pasta do  [!DNL Google Drive]  não vincula seus ativos](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | quarta-feira, 25 de junho de 2024 |
