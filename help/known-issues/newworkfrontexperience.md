@@ -4,9 +4,9 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9a60d4716a7f940fbbb344fa955f4d0d16edc2f4
+source-git-commit: 9369fd311a0d3610cc431ce51bcfb4bf25a20005
 workflow-type: tm+mt
-source-wordcount: '985'
+source-wordcount: '984'
 ht-degree: 77%
 
 ---
@@ -25,7 +25,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Provas: a geração de prova é extremamente lenta](/help/known-issues/known-issues-workfront/wf-proofs-generation-takes-long-time.md) | terça-feira, 17 de março de 2025 |
+| [Provas: a geração de prova é lenta](/help/known-issues/known-issues-workfront/wf-proofs-generation-takes-long-time.md) | terça-feira, 17 de março de 2025 |
 | [Projetos: o status de progresso do projeto não é atualizado automaticamente para Atrasado](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md) | sexta-feira, 13 de março de 2025 |
 | [Provas: não é possível marcar determinados usuários](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | sexta-feira, 20 de fevereiro de 2025 |
 | [Usuários: Conta duplicada criada ao alterar o administrador do sistema](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | sexta-feira, 9 de janeiro de 2025 |
