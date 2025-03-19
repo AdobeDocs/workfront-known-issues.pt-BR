@@ -2,9 +2,9 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 70391ab9ea91c84b22e23049bc1e791e55a8829f
+source-git-commit: 067fc125293bbfe30f6b8ded8ef71d440506e7eb
 workflow-type: tm+mt
-source-wordcount: '1725'
+source-wordcount: '1731'
 ht-degree: 65%
 
 ---
@@ -220,6 +220,7 @@ ht-degree: 65%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problemas conhecidos no Workfront Fusion](workfrontfusion.md)
    + Problemas atuais no [!DNL Workfront Fusion] {#fusion-current}
+      + [Workfront Fusion: o cenário não está em execução](known-issues-workfront-fusion/fusion-scenario-not-running.md)
       + [Workfront Fusion: iniciar a configuração &quot;De agora em diante&quot; processando todos os dados](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
       + [Workfront Fusion: não é possível adicionar ou excluir usuários do Workfront Fusion](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
       + [Workfront Fusion: 401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)
