@@ -4,10 +4,10 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2fd0fec1215ca576b4873f84ed564f31650e3567
+source-git-commit: f9c3efc48b0a3978f38986959e52652bf3509daf
 workflow-type: tm+mt
-source-wordcount: '973'
-ht-degree: 78%
+source-wordcount: '975'
+ht-degree: 77%
 
 ---
 
@@ -25,7 +25,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Provas: a geração de prova é lenta](/help/known-issues/known-issues-workfront/wf-proofs-generation-very-slow.md) | terça-feira, 17 de março de 2025 |
+| [Página inicial: não é possível enviar respostas do widget de Menções](/help/known-issues/known-issues-workfront/wf-home-mention-replies-not-sent.md) | sexta-feira, 20 de março de 2025 |
 | [Provas: não é possível marcar determinados usuários](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | sexta-feira, 20 de fevereiro de 2025 |
 | [Usuários: Conta duplicada criada ao alterar o administrador do sistema](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | sexta-feira, 9 de janeiro de 2025 |
 | [Workfront: falha ao carregar as guias do navegador abertas](known-issues-workfront/wf-workfront-browser-tabs-error.md) | quarta-feira, 12 de novembro de 2024 |
