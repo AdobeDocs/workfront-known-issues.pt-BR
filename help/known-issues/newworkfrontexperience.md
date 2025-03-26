@@ -4,9 +4,9 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f9c3efc48b0a3978f38986959e52652bf3509daf
+source-git-commit: b1a44fbf96213a612d5667f49ed1757aac6a2345
 workflow-type: tm+mt
-source-wordcount: '975'
+source-wordcount: '983'
 ht-degree: 77%
 
 ---
@@ -52,6 +52,7 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Filtros: a lista suspensa desaparece ao clicar na barra de rolagem](known-issues-workfront/wf-filter-scroll-bar.md) | quinta-feira, 26 de março de 2025 |
 | [Equipes: não é possível excluir a equipe nem exibir seu proprietário](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | sexta-feira, 13 de março de 2025 |
 | [Página inicial: “Sem acesso” é exibido como nome do projeto](known-issues-workfront/wf-home-no-access-project-name.md) | sexta-feira, 13 de março de 2025 |
 | [Integrações: erro do outlookIdentityToken ao usar o Workfront para Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md) | quarta-feira, 4 de março de 2025 |
