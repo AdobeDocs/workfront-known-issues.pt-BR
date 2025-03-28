@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f9c3efc48b0a3978f38986959e52652bf3509daf
+source-git-commit: 1a9af831359c7d61ab477f693e873dbfb6c58efa
 workflow-type: tm+mt
-source-wordcount: '827'
-ht-degree: 30%
+source-wordcount: '857'
+ht-degree: 31%
 
 ---
 
@@ -26,7 +26,13 @@ As seguintes atualizações de manutenção foram efetuadas em 2025.
 
 ## Atualizações em março de 2025
 
++++**Atualização de manutenção em sexta-feira, 27 de março de 2025**
 
+### Atualização de manutenção em sexta-feira, 27 de março de 2025
+
+Esta atualização contém apenas correções de erros pequenos ou menos importantes. O Suporte da Workfront enviará uma notificação quando um problema enviado for corrigido.
+
++++
 
 +++**Atualização de manutenção em sexta-feira, 20 de março de 2025**
 
