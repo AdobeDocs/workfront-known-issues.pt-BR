@@ -2,9 +2,9 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 9f1db9c48f25e3e0eddc4ae214b1ef6600597696
+source-git-commit: 545032a42d837620d24a0cac7a16bbecb1d945e4
 workflow-type: tm+mt
-source-wordcount: '1772'
+source-wordcount: '1794'
 ht-degree: 63%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 63%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Painéis: o painel personalizado não abre](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md)
       + [Solicitações: os URLs de código incorporados não carregam a fila de solicitações corretamente](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)
       + [Relatórios: usuários em diferentes fusos horários obtêm resultados de relatório diferentes](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md)
       + [Usuários: administradores de grupo não podem desativar usuários](known-issues-workfront/wf-users-group-admins-cannot-deactivate-users.md)
@@ -225,6 +226,7 @@ ht-degree: 63%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problemas conhecidos no Workfront Fusion](workfrontfusion.md)
    + Problemas atuais no [!DNL Workfront Fusion] {#fusion-current}
+      + [Workfront Fusion: as opções de Assinatura de evento do Workfront versão 2 não estão disponíveis ao conectar-se a um ambiente de sandbox](/help/known-issues/known-issues-workfront-fusion/fusion-event-subs-v1-sandbox.md)
       + [Workfront Fusion: o cenário não está em execução](known-issues-workfront-fusion/fusion-scenario-not-running.md)
       + [Workfront Fusion: iniciar a configuração &quot;De agora em diante&quot; processando todos os dados](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
       + [Workfront Fusion: não é possível adicionar ou excluir usuários do Workfront Fusion](known-issues-workfront-fusion/fusion-cannot-manage-users.md)

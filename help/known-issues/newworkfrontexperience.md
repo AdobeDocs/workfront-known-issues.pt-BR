@@ -4,9 +4,9 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f4dc1e1d5296a8fc10b25c30985fac9a578ce7d6
+source-git-commit: 1ffbb90dba272020f484e3f1d05fffbe88c55f64
 workflow-type: tm+mt
-source-wordcount: '1000'
+source-wordcount: '995'
 ht-degree: 76%
 
 ---
@@ -25,6 +25,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Painéis: o painel personalizado não abre](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md) | sexta-feira, 3 de abril de 2025 |
 | [Solicitações: as URLs de código inseridas não carregam a fila de solicitações corretamente](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md) | sexta-feira, 27 de março de 2025 |
 | [Relatórios: usuários em diferentes fusos horários obtêm resultados de relatório diferentes](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md) | sexta-feira, 27 de março de 2025 |
 | [Provas: não é possível marcar determinados usuários](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | sexta-feira, 20 de fevereiro de 2025 |
@@ -41,7 +42,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | **Problema** | **Última modificação** |
 | ---------------------------------- | ----------------- |
 | [Usuários: administradores de grupo não podem desativar usuários](known-issues-workfront/wf-users-group-admins-cannot-deactivate-users.md) | sexta-feira, 27 de março de 2025 |
-| [Atualizações: alguns usuários não podem ver imagens ou documentos anexados a comentários](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | terça-feira, 10 de março de 2025 |
 | [Fazer logon como: administradores de grupo não podem fazer logon como outro usuário](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | sexta-feira, 6 de março de 2025 |
 | [[!DNL Workfront]: problemas ao enviar um caso de suporte do [!DNL Workfront] na Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2 de agosto de 2022 |
 
