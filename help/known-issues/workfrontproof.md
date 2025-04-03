@@ -4,9 +4,9 @@ description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 70391ab9ea91c84b22e23049bc1e791e55a8829f
+source-git-commit: ab447226ac968d1efee5a8846e8aa1f02661af47
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '416'
 ht-degree: 87%
 
 ---
@@ -63,7 +63,6 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 | [Provas: as provas são criadas lentamente no ambiente Visualização](known-issues-workfront-proof/proof-dependency-rules-multichoice.md) | 9 de junho de 2023 |
 | [Provas: as provas são criadas lentamente no ambiente Visualização](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 8 de junho de 2023 |
 | [[!DNL Workfront Proof]: erro 500 ao acessar o [!DNL Workfront Proof]  por meio da API ou do  [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 25 de maio de 2023 |
-| [Documentos: as opções das [!UICONTROL Atividades de prova] levam à página de logon](known-issues-workfront/inactive/wf-documents-taken-to-login-screen.md) | 21 de abril de 2023, 2023 |
 | [Provas: a ferramenta de medição não aceita separadores decimais](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) | 27 de março de 2023 |
 | [Documentos: erro 404 ao acessar um documento vinculado no [!DNL SharePoint]](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md) | 23 de março de 2023 |
 | [Documentos: problemas com a lista de documentos](known-issues-workfront/inactive/wf-documents-list-missing-elements.md) | 23 de março de 2023 |
