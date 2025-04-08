@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 1ffbb90dba272020f484e3f1d05fffbe88c55f64
+source-git-commit: 7694737e6f8bc14d4c166be918bbe96948b930f8
 workflow-type: tm+mt
-source-wordcount: '891'
-ht-degree: 32%
+source-wordcount: '964'
+ht-degree: 31%
 
 ---
 
@@ -25,6 +25,24 @@ Para obter atualizações de manutenção anteriores a 2025, consulte [Atualiza�
 As seguintes atualizações de manutenção foram efetuadas em 2025.
 
 ## Atualizações em abril de 2025
+
++++**(Planejado) Atualização de manutenção em sexta-feira, 10 de abril de 2025**
+
+### **(Planejado) Atualização de manutenção em sexta-feira, 10 de abril de 2025**
+
+#### Painéis
+
+**O painel personalizado não abre**
+
+Quando um usuário visualiza um objeto e tenta abrir um painel personalizado anexado ao objeto, o painel não abre.
+
+#### Relatórios
+
+**Users in different time zones get different report results**
+
+Os usuários em fusos horários diferentes que usam o seletor de datas para obter um relatório para uma determinada data obtêm resultados diferentes para esse relatório.
+
++++
 
 +++**Atualização de manutenção em sexta-feira, 3 de abril de 2025**
 
