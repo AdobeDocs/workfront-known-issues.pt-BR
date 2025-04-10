@@ -4,14 +4,18 @@ description: 'Quando um administrador de grupo tenta desativar um usuário em se
 hidefromtoc: true
 feature: People Teams and Groups
 exl-id: e8ddb19d-a9fd-4acf-b92e-6d5a227317c0
-source-git-commit: f4dc1e1d5296a8fc10b25c30985fac9a578ce7d6
+source-git-commit: cb008302e356aebf208353058a6fada352155c61
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 5%
+source-wordcount: '99'
+ht-degree: 11%
 
 ---
 
 # Usuários: administradores de grupo não podem desativar usuários
+
+>[!NOTE]
+>
+>O problema foi corrigido em sexta-feira, 10 de abril de 2025.
 
 Quando um administrador de grupo tenta desativar um usuário em seu grupo inicial, o usuário não é desativado e o administrador de grupo vê a mensagem &quot;Você não tem acesso suficiente para executar essa operação.&quot;
 
