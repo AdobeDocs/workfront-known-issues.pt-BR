@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 545032a42d837620d24a0cac7a16bbecb1d945e4
+source-git-commit: 769cf7631661402b5add6e719838358859e25a21
 workflow-type: tm+mt
-source-wordcount: '1794'
-ht-degree: 63%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 63%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Modelos: não é possível compartilhar com o acesso ao Contribute](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md)
       + [Painéis: o painel personalizado não abre](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md)
       + [Solicitações: os URLs de código incorporados não carregam a fila de solicitações corretamente](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)
       + [Relatórios: usuários em diferentes fusos horários obtêm resultados de relatório diferentes](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md)
