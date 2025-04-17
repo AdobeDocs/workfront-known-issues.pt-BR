@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 769cf7631661402b5add6e719838358859e25a21
+source-git-commit: e75c9fdb389dacf156c21a6a82f61470a4758375
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1806'
+ht-degree: 61%
 
 ---
 
@@ -16,7 +16,8 @@ ht-degree: 0%
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
-   + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+   + Problemas atuais em [!DNL Adobe Workfront] {#wf-current}
+      + [Documentos: as miniaturas de documentos não são exibidas](known-issues-workfront/wf-documents-thumbnails-not-display.md)
       + [Modelos: não é possível compartilhar com o acesso ao Contribute](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md)
       + [Painéis: o painel personalizado não abre](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md)
       + [Solicitações: os URLs de código incorporados não carregam a fila de solicitações corretamente](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)
@@ -200,7 +201,7 @@ ht-degree: 0%
 
 + [!DNL Workfront Proof] {#proof}
    + [Problemas conhecidos no  [!DNL Workfront Proof]](workfrontproof.md)
-   + Problemas atuais no [!DNL Workfront Proof] {#proof-current}
+   + Problemas atuais em [!DNL Workfront Proof] {#proof-current}
       + [Workfront Mobile: links de email de prova não abrem no iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md)
       + [[!UICONTROL Workfront Proof]: não é possível reordenar ativos ao criar uma prova](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]: carimbo de data e hora incorreto no [!UICONTROL Resumo da prova]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
@@ -220,13 +221,13 @@ ht-degree: 0%
       + [O relatório [!UICONTROL Aprovação de prova] não determina com precisão os prazos](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
       + [[!UICONTROL Página inicial]: provas concluídas presas na [!UICONTROL lista de trabalho]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)
       + [Documentos: o ícone de fluxo de trabalho de prova não é exibido](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md)
-   + Problemas resolvidos no [!DNL Workfront] Proof {#proof-resolved}
+   + Problemas resolvidos na prova [!DNL Workfront] {#proof-resolved}
       + [Provas: as provas são exibidas com o status “[!UICONTROL Gerando prova]” por períodos muito longos](known-issues-workfront-proof/resolved-issues-proof/generating-proof-for-excessive-amounts-of-time.md)
 
 
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problemas conhecidos no Workfront Fusion](workfrontfusion.md)
-   + Problemas atuais no [!DNL Workfront Fusion] {#fusion-current}
+   + Problemas atuais em [!DNL Workfront Fusion] {#fusion-current}
       + [Workfront Fusion: as opções de Assinatura de evento do Workfront versão 2 não estão disponíveis ao conectar-se a um ambiente de sandbox](/help/known-issues/known-issues-workfront-fusion/fusion-event-subs-v1-sandbox.md)
       + [Workfront Fusion: o cenário não está em execução](known-issues-workfront-fusion/fusion-scenario-not-running.md)
       + [Workfront Fusion: iniciar a configuração &quot;De agora em diante&quot; processando todos os dados](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
@@ -241,11 +242,11 @@ ht-degree: 0%
       + [[!DNL Workfront Fusion]:  [!DNL Fusion] o módulo retorna o erro 404 sem mais informações](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [Os links de ajuda no aplicativo do [!DNL Workfront Fusion] não abrem as respectivas páginas de ajuda](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
-+ [!UICONTROL Adobe Workfront Goals] {#goals}
++ [!UICONTROL Metas do Adobe Workfront] {#goals}
    + [Problemas conhecidos no  [!DNL Workfront Goals]](workfrontgoals.md)
 + [!DNL Workfront Library] {#library}
    + [Problemas conhecidos no  [!DNL Workfront Library]](workfrontlibrary.md)
-+ Aplicativo móvel do[!DNL Workfront] {#mobile}
++ Aplicativo móvel [!DNL Workfront] {#mobile}
    + [Problemas conhecidos no aplicativo móvel do  [!DNL Workfront] ](workfrontmobile.md)
 + [!DNL Workfront Scenario Planner] {#scenarioplanner}
    + [Problemas conhecidos no  [!DNL Workfront Scenario Planner]](workfrontscenarioplanner.md)
