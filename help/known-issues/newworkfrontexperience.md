@@ -4,9 +4,9 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e75c9fdb389dacf156c21a6a82f61470a4758375
+source-git-commit: e32c9244e39877d2a541d4911348c5adee553c62
 workflow-type: tm+mt
-source-wordcount: '954'
+source-wordcount: '940'
 ht-degree: 78%
 
 ---
@@ -27,7 +27,6 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | ----------------------------------------------------------------- | ----------------- |
 | [Modelos: não é possível compartilhar com o acesso ao Contribute](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md) | sábado, 11 de abril de 2025 |
 | [Provas: não é possível marcar determinados usuários](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | sexta-feira, 20 de fevereiro de 2025 |
-| [Workfront: falha ao carregar as guias do navegador abertas](known-issues-workfront/wf-workfront-browser-tabs-error.md) | quarta-feira, 12 de novembro de 2024 |
 | [Integrações: vincular a pasta do  [!DNL Google Drive]  não vincula seus ativos](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | quarta-feira, 25 de junho de 2024 |
 
 {style="table-layout:auto"}
@@ -50,6 +49,7 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront: falha ao carregar as guias do navegador abertas](known-issues-workfront/wf-workfront-browser-tabs-error.md) | quarta-feira, 22 de abril de 2025 |
 | [Filtros: a lista suspensa desaparece ao clicar na barra de rolagem](known-issues-workfront/wf-filter-scroll-bar.md) | quinta-feira, 26 de março de 2025 |
 | [Equipes: não é possível excluir a equipe nem exibir seu proprietário](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | sexta-feira, 13 de março de 2025 |
 | [Página inicial: “Sem acesso” é exibido como nome do projeto](known-issues-workfront/wf-home-no-access-project-name.md) | sexta-feira, 13 de março de 2025 |
@@ -78,7 +78,6 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 | [Página Inicial: falha na página inicial com o erro “Memória insuficiente”](known-issues-workfront/wf-home-crashes-with-error.md) | sexta-feira, 5 de setembro de 2024 |
 | [Relatórios: não é possível rolar a tela para ver o relatório de gráfico inteiro](known-issues-workfront/wf-reports-unable-to-scroll.md) | sexta-feira, 19 de setembro de 2024 |
 | [Workfront: várias guias do navegador fazem com que o Workfront faça logout](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | quinta-feira, 18 de setembro de 2024 |
-| [Formulários personalizados: o campo calculado mostra um valor incorreto](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | sexta-feira, 12 de setembro de 2024 |
 | [Página Inicial: falha na página inicial com o erro “Memória insuficiente”](known-issues-workfront/wf-home-crashes-with-error.md) | sexta-feira, 12 de setembro de 2024 |
 | [Quadros: os quadros exibidos não são os do usuário escolhido ao usar a opção [!UICONTROL Fazer logon como]](known-issues-workfront/wf-boards-log-in-as.md) | sábado, 30 de agosto de 2024 |
 | [Navegação: o botão Voltar não retorna à página anterior](known-issues-workfront/wf-navigation-back-button-not-work.md) | sábado, 30 de agosto de 2024 |
@@ -101,7 +100,6 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 | [[!UICONTROL Página inicial]: o dispositivo “[!UICONTROL Menções]” na nova [!UICONTROL página inicial] não está limitado a mensagens em que a pessoa esteja marcada](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md) | 25 de setembro de 2023 |
 | [[!UICONTROL Página inicial]: a visualização de dispositivos na nova [!UICONTROL Página inicial] não exibe o nome correto do objeto](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 7 de setembro de 2023 |
 | [Provas: as provas não são exibidas nos relatórios como aprovadas](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | 3 de agosto de 2023 |
-| [[!UICONTROL Configuração]: não é possível exportar logs de auditoria](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md) | 20 de julho de 2023 |
 | [Provas: as provas são criadas lentamente no ambiente Visualização](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 8 de junho de 2023 |
 | [Filtros: não é possível compartilhar um filtro em um relatório em um painel](known-issues-workfront/inactive/wf-filters-cannot-share-from-report-on-dashboard.md) | 11 de abril de 2023 |
 | [Provas: a ferramenta de medição não aceita separadores decimais](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) | 27 de março de 2023 |

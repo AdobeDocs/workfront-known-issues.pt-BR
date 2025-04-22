@@ -4,9 +4,9 @@ description: Ao visualizar um campo calculado que faz referência a valores de u
 hidefromtoc: true
 feature: Custom Forms
 exl-id: a6768daa-f248-4311-8274-3ad4310faad7
-source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
+source-git-commit: e32c9244e39877d2a541d4911348c5adee553c62
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '110'
 ht-degree: 100%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->A equipe do produto está avaliando a resolução do problema, que pode exigir melhorias do produto. As melhorias do produto são comunicadas nos Anúncios do produto e não nas Atualizações de manutenção.
+>Esse problema foi corrigido em sexta-feira, 10 de outubro de 2024.
 
 Ao visualizar um campo calculado que faz referência a valores de um campo de pesquisa externa de seleção múltipla, o campo calculado exibe apenas um valor selecionado. Isso pode ocorrer mesmo que você selecione vários valores e eles apareçam durante a edição do campo.
 

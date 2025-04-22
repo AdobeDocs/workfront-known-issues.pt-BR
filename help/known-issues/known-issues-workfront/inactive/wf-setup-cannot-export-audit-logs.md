@@ -4,10 +4,10 @@ description: Quando um usuário tenta exportar um grande número de logs de audi
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: a9a7b551-58ba-412f-bef4-b0dae16d2611
-source-git-commit: 52b204d63eda7752c90a4481aa2050e695cd4cc7
+source-git-commit: e32c9244e39877d2a541d4911348c5adee553c62
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 95%
+source-wordcount: '79'
+ht-degree: 93%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->A equipe de produtos está avaliando a solução desse problema. Quando esse problema for resolvido, ele será comunicado nos Anúncios do produto e não nas Atualizações de manutenção.
+>Esse problema foi corrigido em terça-feira, 4 de novembro de 2024.
 
 Quando um usuário tenta exportar um grande número de logs de auditoria, eles não são exportados. Não há indicação alguma de falha na exportação.
 
