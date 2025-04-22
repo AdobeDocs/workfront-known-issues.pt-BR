@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: e75c9fdb389dacf156c21a6a82f61470a4758375
+source-git-commit: ad58881526869c966792584b9a139c2759e7282d
 workflow-type: tm+mt
-source-wordcount: '1806'
-ht-degree: 61%
+source-wordcount: '1625'
+ht-degree: 68%
 
 ---
 
@@ -50,50 +50,29 @@ ht-degree: 61%
       + [Página inicial: os botões de aprovação não aparecem no widget Aguardando aprovação](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md)
       + [Usuários: Conta duplicada criada ao alterar o administrador do sistema](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md)
       + [Projetos: a condição atrasada não é aplicada conforme esperado](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)
-      + [Formulários personalizados: o formulário personalizado aparece no formato herdado](known-issues-workfront/wf-custom-forms-legacy-form-appears.md)
       + [Registro de cobrança: as horas não são salvas](known-issues-workfront/wf-billing-record-hours-not-saved.md)
       + [Quadros: não é possível mover o cartão para uma coluna diferente](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)
-      + [Formulários personalizados: mensagem &quot;Campos inválidos&quot; ao editar um formulário personalizado](known-issues-workfront/wf-custom-forms-blank-required-field.md)
       + [Usuários: a atualização de usuários em massa é muito lenta](known-issues-workfront/wf-users-bulk-update-takes-long-time.md)
-      + [Formulários personalizados: os botões de opção são listados horizontalmente](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md)
-      + [Atualizações: as horas registradas não são exibidas no rótulo Registrar tempo na área Atualizações](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md)
       + [Relatórios: os prompts de relatório são carregados lentamente](known-issues-workfront/wf-reports-prompts-load-slowly.md)
       + [Notificações: as notificações por push para o aplicativo Workfront Mobile não estão funcionando](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md)
-      + [Documentos: a área Documentos não exibe todos os documentos](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md)
-      + [Formulários personalizados: erro ao editar formulário personalizado por meio de coluna](known-issues-workfront/wf-custom-forms-error-when-editing.md)
-      + [Solicitações e problemas: erro nas atribuições avançadas de usuário](known-issues-workfront/wf-issues-advanced-user-assignment-error.md)
       + [Formulários personalizados: os dados personalizados não são mostrados no painel Resumo](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md)
-      + [Agile: não é possível editar histórias em massa em uma iteração](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md)
-      + [Provas: não é possível adicionar recipients à prova](known-issues-workfront/wf-proofs-cannot-add-recipients.md)
-      + [Provas: o nome da prova não aparece na guia do navegador](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md)
-      + [Tarefas: erro ao adicionar tarefas pessoais](known-issues-workfront/wf-tasks-add-more-tasks-whoops.md)
       + [Provas: as provas do Webcapture não geram](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md)
       + [Aprovações: aprovações delegadas que não aparecem para delegados](known-issues-workfront/wf-approvals-delegation-not-working.md)
-      + [Documentos: erro &quot;Alterações não salvas&quot; ao adicionar um formulário a um documento](known-issues-workfront/wf-documents-unsaved-changes-error.md)
-      + [Tarefas: o campo Pronto para Iniciar não é atualizado apesar dos predecessores concluídos](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md)
       + [Workfront: o formato de data muda em todo o aplicativo](known-issues-workfront/wf-workfront-date-format-changing.md)
       + [Workfront: as configurações do ZScaler podem causar redução no desempenho](known-issues-workfront//wf-workfront-zscaler.md)
-      + [Folhas de horas: os usuários do colaborador têm o botão &quot;Enviar para aprovação&quot;](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md)
       + [Notificações: notificações por email de atualizações que não estão sendo enviadas](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md)
-      + [Formulários personalizados: não é possível adicionar campos de tarefa &quot;estimateByHours&quot; ou &quot;hoursPerPoint&quot;](known-issues-workfront/wf-custom-forms-invalid-fields.md)
-      + [Documentos: a aprovação de &quot;adição rápida&quot; não inclui a entrada de prazo final para novas versões](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md)
-      + [Modelos de layout: os administradores não conseguem editar os modelos de layout da página inicial](known-issues-workfront/wf-layout-templates-unable-to-edit-home.md)
       + [Usuários: a tag &quot;Não registrado&quot; persiste após o logon](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md)
       + [Workfront: os usuários do Colaborador não podem acessar Programas ou Portfólios](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md)
       + [Aprovações: o filtro &quot;Todos&quot; exclui aprovações enviadas pessoalmente](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md)
       + [Tarefas: duração de Dias Decorridos incorreta para tarefas pai com tarefas filho](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
       + [Relatórios: a edição em massa nas listas de gráficos não responde](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md)
       + [Workfront: falha ao carregar as guias do navegador abertas](known-issues-workfront/wf-workfront-browser-tabs-error.md)
-      + [Relatórios: falha ao carregar relatórios](known-issues-workfront/wf-reports-fail-to-load.md)
       + [Modelos de layout: campos de dados personalizados não são exibidos quando adicionados ao Resumo da tarefa por meio do Modelo de layout](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
-      + [Página inicial: o widget Minhas atualizações não está funcionando](known-issues-workfront/wf-home-my-updates-not-working.md)
-      + [Documentos: o botão de opções de aprovação não aparece nos documentos](known-issues-workfront/wf-documents-missing-approval-button.md)
       + [Integrações: as integrações do JumpSeat falham para organizações no Unified Shell](known-issues-workfront/wf-integrations-jumpseat-error-with-unified-shell.md)
       + [Notificações: os emails de notificação de documentos não conseguem exibir visualizações de imagem](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
       + [Provas: não é possível criar provas no ambiente de Pré-visualização](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md)
       + [Página inicial: os campos personalizados excluídos persistem nos widgets de projetos, tarefas e problemas](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)
       + [Prioridades: Agrupamentos impedem a classificação e a edição em linha](known-issues-workfront/wf-home-priorities-grouping-limitations.md)
-      + [Projetos: não é possível compartilhar projetos devido ao erro &quot;acesso para excluir&quot;](known-issues-workfront/wf-projects-sharing-access-error.md)
       + [Relatórios: não é possível rolar a tela para ver todo o relatório do gráfico](known-issues-workfront/wf-reports-unable-to-scroll.md)
       + [Grupos: o status do grupo excluído reaparece](known-issues-workfront/wf-groups-deleted-status-reappears.md)
       + [Notificações: os usuários colaboradores não recebem notificações por email](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md)

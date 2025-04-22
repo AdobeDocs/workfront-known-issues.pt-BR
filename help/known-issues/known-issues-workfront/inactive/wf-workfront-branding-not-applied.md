@@ -1,13 +1,13 @@
 ---
 title: 'Workfront: marcas não disponíveis'
-description: Quando um usuário faz upload de arquivos na área “Identidade visual” da configuração, o upload dos arquivos parece correto. No entanto, se um usuário exibir o menu principal, não verá o logotipo. Em vez disso, a pessoa vê uma mensagem de erro.
+description: A atribuição de marca não está disponível para organizações que migraram para o Adobe Admin Console, Adobe Unified Shell ou Adobe IMS (Identity Management System).
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 0c7e5ebf-c09a-45fd-a017-c1607cef8b78
-source-git-commit: edbb0ac85506450aaf5b5147525fe50f2089b119
+source-git-commit: 838c8ed34b72916597a4a28ec00a5711bba3fe23
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 56%
+source-wordcount: '181'
+ht-degree: 39%
 
 ---
 

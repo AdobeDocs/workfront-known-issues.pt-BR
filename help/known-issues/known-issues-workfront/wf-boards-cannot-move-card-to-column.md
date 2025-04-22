@@ -4,7 +4,7 @@ description: Quando um usuário tenta mover um cartão para outra coluna, o cart
 hidefromtoc: true
 feature: Agile
 exl-id: adac7c77-8517-4b7e-ae55-ad72cace8d54
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
+source-git-commit: 838c8ed34b72916597a4a28ec00a5711bba3fe23
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 11%
@@ -15,7 +15,7 @@ ht-degree: 11%
 
 >[!NOTE]
 >
->Esse artigo foi corrigido em sexta-feira, 30 de janeiro de 2025.
+>Esse problema foi corrigido em sexta-feira, 30 de janeiro de 2025.
 
 Quando um usuário tenta mover um cartão para outra coluna, o cartão não se move e o usuário vê a seguinte mensagem:
 

@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: e75c9fdb389dacf156c21a6a82f61470a4758375
+source-git-commit: f352217ebfb597ea74b02a99c639b27bb3eed53d
 workflow-type: tm+mt
-source-wordcount: '423'
-ht-degree: 86%
+source-wordcount: '414'
+ht-degree: 87%
 
 ---
 
@@ -27,7 +27,6 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | -----------------------------------------------------------------| ----------------- |
 | [Provas: a geração de prova é lenta](/help/known-issues/known-issues-workfront/wf-proofs-generation-very-slow.md) | terça-feira, 17 de março de 2025 |
 | [Provas: não é possível marcar determinados usuários](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | sexta-feira, 20 de fevereiro de 2025 |
-| [Documentos: a área Documentos não exibe todos os documentos](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md) | quarta-feira, 2 de janeiro de 2024 |
 | [Integrações: vincular a pasta do  [!DNL Google Drive]  não vincula seus ativos](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | quarta-feira, 25 de junho de 2024 |
 
 {style="table-layout:auto"}

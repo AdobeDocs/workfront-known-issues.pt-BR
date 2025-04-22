@@ -4,7 +4,7 @@ description: Os seguintes problemas foram relatados em relação ao recálculo d
 hidefromtoc: true
 feature: Tasks, Work Management
 exl-id: 43211889-8c49-4f40-adca-2a2922c5b8dc
-source-git-commit: 77776e8134a24a6b85a01ac97029306f389437ef
+source-git-commit: 838c8ed34b72916597a4a28ec00a5711bba3fe23
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 88%
@@ -15,7 +15,7 @@ ht-degree: 88%
 
 >[!NOTE]
 >
->Esse artigo foi corrigido em terça-feira, 10 de março de 2025.
+>Esse problema foi corrigido em terça-feira, 10 de março de 2025.
 
 Os seguintes problemas foram relatados em relação ao recálculo da linha do tempo:
 
