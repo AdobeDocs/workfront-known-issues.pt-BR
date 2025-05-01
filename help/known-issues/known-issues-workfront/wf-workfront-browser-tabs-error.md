@@ -4,10 +4,10 @@ description: 'Quando um usuário tem as guias do navegador do Workfront abertas 
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: ac9ec88e-2edd-44de-9925-f2936a0feebf
-source-git-commit: 77776e8134a24a6b85a01ac97029306f389437ef
+source-git-commit: ef202b88d094e783b2b4e288aea68ccbb71c175f
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 4%
+source-wordcount: '115'
+ht-degree: 8%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->A correção para esse problema está sendo lançada gradualmente.
+>Esse problema foi resolvido.
 
 Quando um usuário tem as guias do navegador do Workfront abertas por tempo suficiente para que o Workfront exija outro logon, em vez de solicitar que o usuário faça logon novamente, a página exibe um erro: &quot;500-001a: Falha ao carregar a página&quot;.
 
