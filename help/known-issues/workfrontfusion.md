@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Fusion]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 7694737e6f8bc14d4c166be918bbe96948b930f8
+source-git-commit: 889157407be97219b0a258c038f5094b197238b1
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 76%
+source-wordcount: '185'
+ht-degree: 83%
 
 ---
 
@@ -25,7 +25,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: as opções da versão 2 da Assinatura de Evento do Workfront não estão disponíveis ao conectar-se a um ambiente de Sandbox](/help/known-issues/known-issues-workfront-fusion/fusion-event-subs-v1-sandbox.md) | sexta-feira, 3 de abril de 2025 |
+| Nenhum(a) |  |
 
 {style="table-layout:auto"}
 

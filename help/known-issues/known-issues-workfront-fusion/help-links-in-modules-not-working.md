@@ -4,7 +4,7 @@ description: Os links de ajuda no [!DNL Workfront Fusion] não abrem as páginas
 hidefromtoc: true
 exl-id: 3775d0c6-6bca-4727-b03e-4a0659cb3267
 feature: Workfront Fusion
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+source-git-commit: 889157407be97219b0a258c038f5094b197238b1
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 100%
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->O problema foi corrigido em 25 de abril de 2023.
+>Esse problema foi corrigido em terça-feira, 5 de maio de 2025.
 
 Os links de ajuda no [!DNL Workfront Fusion] não abrem as páginas de ajuda desejadas. Em vez disso, todos os links de ajuda do [!DNL Fusion] abrem a página inicial da documentação do [!DNL Workfront]. Nessa landing page, você pode pesquisar as informações necessárias.
 
