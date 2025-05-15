@@ -3,9 +3,9 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3dd2b146d100d75f3b756c461b52faf917768537
+source-git-commit: 55507ca9bb62e46af3b896819faeeacc8262c660
 workflow-type: tm+mt
-source-wordcount: '1086'
+source-wordcount: '1129'
 ht-degree: 34%
 
 ---
@@ -25,6 +25,18 @@ Para obter atualizações de manutenção anteriores a 2025, consulte [Atualiza�
 As seguintes atualizações de manutenção foram efetuadas em 2025.
 
 ## Atualizações em maio de 2025
+
++++**Atualização de manutenção em sexta-feira, 15 de maio de 2025**
+
+### Atualização de manutenção em sexta-feira, 15 de maio de 2025
+
+#### Relatórios
+
+**Erro ao visualizar um relatório com uma exibição de marco**
+
+Quando um usuário tenta visualizar um relatório com uma exibição de marco disponível para ativação do, o relatório não é carregado e exibe um erro.
+
++++
 
 +++**Atualização de manutenção em sexta-feira, 8 de maio de 2025**
 
