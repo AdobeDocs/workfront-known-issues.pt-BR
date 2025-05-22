@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 9a3bf766e9660d24c6fe9899712f6011980a4c04
+source-git-commit: 62326cae8815b0ee835a882fbedd9b1615369a5f
 workflow-type: tm+mt
-source-wordcount: '1629'
-ht-degree: 68%
+source-wordcount: '1635'
+ht-degree: 67%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 68%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais em [!DNL Adobe Workfront] {#wf-current}
+      + [O botão Planejador de recursos: exportar está desativado](/help/known-issues/known-issues-workfront/wf-resourcing-export-button-disabled.md)
       + [Provas: fechar provas redireciona para a lista de documentos](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md)
       + [Documentos: as miniaturas de documentos não são exibidas](known-issues-workfront/wf-documents-thumbnails-not-display.md)
       + [Modelos: não é possível compartilhar com o acesso ao Contribute](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md)

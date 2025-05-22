@@ -4,19 +4,18 @@ description: Quando um usuário tenta marcar outro usuário em uma prova, ocasio
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 43ab6e92-f8f4-4cb3-8fe5-6e2708474e06
-source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
+source-git-commit: 62326cae8815b0ee835a882fbedd9b1615369a5f
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 6%
+source-wordcount: '64'
+ht-degree: 15%
 
 ---
 
 # Provas: não é possível marcar determinados usuários
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on February 7, 2025.-->
+>Esse problema foi corrigido em sábado, 7 de fevereiro de 2025.
 
 Quando um usuário tenta marcar outro usuário em uma prova, ocasionalmente alguns usuários não estarão disponíveis no campo de digitação antecipada.
 
