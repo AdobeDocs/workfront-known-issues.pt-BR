@@ -2,9 +2,9 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 7b73c768009d730f95684e6cc3fb46dbd08c9afe
+source-git-commit: 624dbff910e8d2a8ae29704f94b3dc348a249be0
 workflow-type: tm+mt
-source-wordcount: '1643'
+source-wordcount: '1651'
 ht-degree: 67%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 67%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais em [!DNL Adobe Workfront] {#wf-current}
+      + [Pesquisa: a Pesquisa avançada não retorna os resultados esperados](/help/known-issues/known-issues-workfront/wf-search-advanced-not-working.md)
       + [Usuários: o selo &quot;Aprovação pendente&quot; é exibido em novos usuários](known-issues-workfront/wf-users-pending-approval.md)
       + [O botão Planejador de recursos: exportar está desativado](/help/known-issues/known-issues-workfront/wf-resourcing-export-button-disabled.md)
       + [Provas: fechar provas redireciona para a lista de documentos](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md)
