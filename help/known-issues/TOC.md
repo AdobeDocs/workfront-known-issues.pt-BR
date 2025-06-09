@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 2366fa99ff22001b52a8cfc37526b1d3ab84e56e
+source-git-commit: 2d481e92c9f1ac680d0381970028a1e341cdfa65
 workflow-type: tm+mt
-source-wordcount: '1656'
-ht-degree: 67%
+source-wordcount: '1669'
+ht-degree: 66%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 67%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais em [!DNL Adobe Workfront] {#wf-current}
+      + [Provas: não é possível abrir a prova do link direto](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md)
+      + [Relatórios: o detalhamento de gráfico inclui resultados imprecisos](known-issues-workfront/wf-reports-chart-drilldown-inaccurate.md)
       + [Folhas de horas: as folhas de horas não são geradas corretamente](known-issues-workfront/wf-timesheets-one-week-created.md)
       + [Pesquisa: a Pesquisa avançada não retorna os resultados esperados](/help/known-issues/known-issues-workfront/wf-search-advanced-not-working.md)
       + [Usuários: o selo &quot;Aprovação pendente&quot; é exibido em novos usuários](known-issues-workfront/wf-users-pending-approval.md)
