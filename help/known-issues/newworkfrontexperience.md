@@ -4,10 +4,10 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2d481e92c9f1ac680d0381970028a1e341cdfa65
+source-git-commit: d4655e47130729985089c2ab6880e4db4f43294a
 workflow-type: tm+mt
-source-wordcount: '952'
-ht-degree: 77%
+source-wordcount: '939'
+ht-degree: 78%
 
 ---
 
@@ -26,7 +26,6 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | **Problema** | **Última modificação** |
 | ----------------------------------------------------------------- | ----------------- |
 | [Relatórios: o detalhamento de gráfico inclui resultados imprecisos](known-issues-workfront/wf-reports-chart-drilldown-inaccurate.md) | terça-feira, 9 de junho de 2025 |
-| [Folhas de horas: as folhas de horas não foram geradas corretamente](known-issues-workfront/wf-timesheets-one-week-created.md) | quarta-feira, 3 de junho de 2025 |
 | [Integrações: vincular a pasta do  [!DNL Google Drive]  não vincula seus ativos](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | quarta-feira, 25 de junho de 2024 |
 
 {style="table-layout:auto"}
@@ -38,7 +37,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | **Problema** | **Última modificação** |
 | ---------------------------------- | ----------------- |
 | [Provas: não é possível abrir a prova do link direto](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md) | terça-feira, 9 de junho de 2025 |
-| [Planejador de recursos: o botão Exportar está desabilitado](/help/known-issues/known-issues-workfront/wf-resourcing-export-button-disabled.md) | sexta-feira, 29 de maio de 2025 |
 | [Usuários: o selo &quot;Aprovação pendente&quot; é exibido para novos usuários](known-issues-workfront/wf-users-pending-approval.md) | sábado, 23 de maio de 2025 |
 | [Documentos: as miniaturas de documentos não são exibidas](known-issues-workfront/wf-documents-thumbnails-not-display.md) | sexta-feira, 17 de abril de 2025 |
 | [[!DNL Workfront]: problemas ao enviar um caso de suporte do [!DNL Workfront] na Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2 de agosto de 2022 |
