@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 2d481e92c9f1ac680d0381970028a1e341cdfa65
+source-git-commit: 93003ab8b3f6b5fe38255c08e43da37ebcfd5887
 workflow-type: tm+mt
-source-wordcount: '419'
-ht-degree: 84%
+source-wordcount: '393'
+ht-degree: 85%
 
 ---
 
@@ -40,7 +40,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | [Provas: não é possível abrir a prova do link direto](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md) | terça-feira, 9 de junho de 2025 |
 | [Documentos: as miniaturas de documentos não são exibidas](known-issues-workfront/wf-documents-thumbnails-not-display.md) | sexta-feira, 17 de abril de 2025 |
 | [Atualizações: alguns usuários não podem ver imagens ou documentos anexados a comentários](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | terça-feira, 10 de março de 2025 |
-| [Provas: provas aprovadas aparecem nos relatórios](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | quarta-feira, 11 de fevereiro de 2025 |
 | [Notificações: as miniaturas não ficam visíveis nas notificações por email](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | terça-feira, 8 de julho de 2024 |
 | [Página inicial: o dispositivo de aprovações não é preciso](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 8 de maio de 2024 |
 
@@ -60,7 +59,6 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 | [[!DNL Workfront Proof]: não é possível expandir o fluxo de trabalho](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 25 de outubro de 2023 |
 | [Prova do Workfront: os dados do painel nem sempre são precisos](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md) | 19 de setembro de 2023 |
 | [Prova do Workfront: os dados de pesquisa nem sempre são precisos](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md) | 19 de setembro de 2023 |
-| [Provas: as provas não são exibidas nos relatórios como aprovadas](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | 3 de agosto de 2023 |
 | [Provas: as provas são criadas lentamente no ambiente Visualização](known-issues-workfront-proof/proof-dependency-rules-multichoice.md) | 9 de junho de 2023 |
 | [Provas: as provas são criadas lentamente no ambiente Visualização](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 8 de junho de 2023 |
 | [[!DNL Workfront Proof]: erro 500 ao acessar o [!DNL Workfront Proof]  por meio da API ou do  [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 25 de maio de 2023 |
@@ -76,7 +74,6 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 | [Provas: provas não são compartilhadas com usuários no Fluxo de trabalho de prova](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18 de setembro de 2022 |
 | [Provas: o campo [!UICONTROL Estágios de prova ativos] está em branco](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md) | 14 de setembro de 2022 |
 | [[!DNL Workfront Proof]: não é possível adicionar um usuário à prova marcando-o em um comentário](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 23 de março de 2022 |
-| [[!UICONTROL Página inicial]: o comportamento do botão [!UICONTROL Responder na prova] é inconsistente](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 21 de junho de 2021 |
 | [[!DNL Workfront Proof]: [!UICONTROL O relatório Aprovação de prova] não determina com precisão os prazos](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 21 de abril de 2021 |
 | [Documentos: o ícone de fluxo de trabalho de prova não é exibido](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 5 de março de 2021 |
 
