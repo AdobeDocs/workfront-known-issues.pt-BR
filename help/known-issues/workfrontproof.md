@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 93003ab8b3f6b5fe38255c08e43da37ebcfd5887
+source-git-commit: c11e453722792402e6c4f0a1a7e993632856999b
 workflow-type: tm+mt
-source-wordcount: '393'
-ht-degree: 85%
+source-wordcount: '407'
+ht-degree: 82%
 
 ---
 
@@ -51,6 +51,7 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Provas: não é possível adicionar usuários a uma prova por nome no ambiente de Pré-visualização](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | terça-feira, 16 de junho de 2025 |
 | [Provas: fechando redirecionamentos de prova para a lista de documentos](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | quinta-feira, 14 de maio de 2025 |
 | [Provas: não é possível criar provas para vídeos vinculados do AEM através do Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | sexta-feira, 13 de fevereiro de 2025 |
 | [Provas: provas do Webcapture não geram](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | sábado, 20 de dezembro de 2024 |

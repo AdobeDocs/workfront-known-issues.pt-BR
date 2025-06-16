@@ -2,9 +2,9 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: f12b3c44b09592dcd079286b40028b677e794f05
+source-git-commit: 76bdfa40874b920e2245c8e81d53068ca4055ac1
 workflow-type: tm+mt
-source-wordcount: '1390'
+source-wordcount: '1403'
 ht-degree: 68%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 68%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais em [!DNL Adobe Workfront] {#wf-current}
+      + [Provas: não é possível adicionar usuários a uma prova por nome no ambiente de Pré-visualização](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md)
       + [Provas: não é possível abrir a prova do link direto](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md)
       + [Relatórios: o detalhamento de gráfico inclui resultados imprecisos](known-issues-workfront/wf-reports-chart-drilldown-inaccurate.md)
       + [Folhas de horas: as folhas de horas não são geradas corretamente](known-issues-workfront/wf-timesheets-one-week-created.md)
