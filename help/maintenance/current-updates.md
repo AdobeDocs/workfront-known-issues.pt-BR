@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: d4655e47130729985089c2ab6880e4db4f43294a
+source-git-commit: f1eb46ee67560fe897317c76eec9dfec801f21f7
 workflow-type: tm+mt
-source-wordcount: '1321'
-ht-degree: 31%
+source-wordcount: '1360'
+ht-degree: 30%
 
 ---
 
@@ -26,9 +26,17 @@ As seguintes atualizações de manutenção foram efetuadas em 2025.
 
 ## Atualizações em junho de 2025
 
-+++**Semana de atualizações de manutenção de 9 a 13 de junho de 2025**
++++**Semana de atualizações de manutenção de 15 a 21 de junho de 2025**
 
-### Atualização de manutenção semana de 9 a 13 de junho de 2025
+### Atualização de manutenção semanal de 15 a 21 de junho de 2025
+
+As atualizações desta semana incluem apenas correções de erros menores ou menos importantes. O Suporte da Workfront enviará uma notificação quando um problema enviado for corrigido.
+
++++
+
++++**Semana de atualizações de manutenção de 8 a 14 de junho de 2025**
+
+### Atualização de manutenção semana de 8 a 14 de junho de 2025
 
 #### Planejador de recursos
 
@@ -44,9 +52,9 @@ Quando um usuário tenta gerar folhas de horas e a geração é definida como &q
 
 +++
 
-+++**Semana de atualizações de manutenção de 2 a 6 de junho de 2025**
++++**Semana de atualizações de manutenção de 1 a 7 de junho de 2025**
 
-### Atualização de manutenção semana de 2 a 6 de junho de 2025
+### Atualização de manutenção semana de 1 a 7 de junho de 2025
 
 ### Pesquisar
 
@@ -58,9 +66,9 @@ Quando um usuário usa a Pesquisa avançada, os resultados esperados não são r
 
 ## Atualizações em maio de 2025
 
-+++**Atualizações de manutenção na semana de 26 a 30 de maio de 2025**
++++**Atualizações de manutenção na semana de 25 a 31 de maio de 2025**
 
-### Atualização de manutenção semana de 26 a 30 de maio de 2025
+### Atualização de manutenção da semana de 25 a 31 de maio de 2025
 
 As atualizações desta semana incluem apenas correções de erros menores ou menos importantes. O Suporte da Workfront enviará uma notificação quando um problema enviado for corrigido.
 
