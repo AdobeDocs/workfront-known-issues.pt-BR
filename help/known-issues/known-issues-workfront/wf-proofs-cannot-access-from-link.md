@@ -3,15 +3,19 @@ title: 'Provas: não é possível abrir a prova do link direto'
 description: Quando um usuário tenta abrir uma prova de um link direto, a prova não abre. Isso pode ocorrer mesmo se o usuário estiver em um workflow para a prova ou se for um administrador do Workfront.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 2d481e92c9f1ac680d0381970028a1e341cdfa65
+exl-id: 3ae84ebe-8c5b-4977-9417-f003c503c074
+source-git-commit: e98c29b84e022c2c8101f21f2cae5b74bda3718e
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 4%
+source-wordcount: '113'
+ht-degree: 9%
 
 ---
 
-
 # Provas: não é possível abrir a prova do link direto
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em terça-feira, 23 de junho de 2025.
 
 Quando um usuário tenta abrir uma prova de um link direto, a prova não abre. Isso pode ocorrer mesmo se o usuário estiver em um workflow para a prova ou se for um administrador do Workfront.
 
