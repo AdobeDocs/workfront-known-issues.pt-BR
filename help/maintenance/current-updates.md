@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e98c29b84e022c2c8101f21f2cae5b74bda3718e
+source-git-commit: 833fe5b1c0483baa3243fc02679f5515ed75b67f
 workflow-type: tm+mt
-source-wordcount: '1421'
-ht-degree: 29%
+source-wordcount: '1463'
+ht-degree: 28%
 
 ---
 
@@ -35,6 +35,14 @@ As seguintes atualizações de manutenção foram efetuadas em 2025.
 **Não é possível abrir a prova do link direto**
 
 Quando um usuário tenta abrir uma prova de um link direto, a prova não abre. Isso pode ocorrer mesmo se o usuário estiver em um workflow para a prova ou se for um administrador do Workfront.
+
+#### Relatórios
+
+**O detalhamento de gráfico inclui resultados imprecisos**
+
+Quando um usuário está visualizando um relatório de gráfico e tenta detalhar um agrupamento específico, os detalhes incluem resultados que não estão no agrupamento selecionado.
+
+Esse problema foi relatado em relatórios agrupados por data.
 
 +++
 

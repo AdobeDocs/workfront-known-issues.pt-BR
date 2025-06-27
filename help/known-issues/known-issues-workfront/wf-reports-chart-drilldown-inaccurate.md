@@ -3,15 +3,19 @@ title: 'Relatórios: o detalhamento de gráfico inclui resultados imprecisos'
 description: Quando um usuário está visualizando um relatório de gráfico e tenta detalhar um agrupamento específico, os detalhes incluem resultados que não estão no agrupamento selecionado.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 7e8d8298a1a4eb4b739833280b94a2b00c707c47
+exl-id: 36291406-ea73-4ef0-9af8-571fc82f85da
+source-git-commit: 833fe5b1c0483baa3243fc02679f5515ed75b67f
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 5%
+source-wordcount: '85'
+ht-degree: 11%
 
 ---
 
-
 # Relatórios: o detalhamento de gráfico inclui resultados imprecisos
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em sexta-feira, 26 de junho de 2025.
 
 Quando um usuário está visualizando um relatório de gráfico e tenta detalhar um agrupamento específico, os detalhes incluem resultados que não estão no agrupamento selecionado.
 
