@@ -2,9 +2,9 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 3fbede430b19640e45981dd0771bc66d509f2e4f
+source-git-commit: ddb39855b501df99cd0ad13c72f53487839c45ca
 workflow-type: tm+mt
-source-wordcount: '1441'
+source-wordcount: '1450'
 ht-degree: 66%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 66%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais em [!DNL Adobe Workfront] {#wf-current}
+      + [Projetos: erro ao adicionar um projeto a um programa](/help/known-issues/known-issues-workfront/wf-projects-error-when-adding-to-program.md)
       + [Configuração: não é possível fazer logon como outro usuário](known-issues-workfront/wf-setup-cannot-login-as-in-preview.md)
       + [Integrações: problemas com a integração do Workfront para Slack](known-issues-workfront/wf-integrations-slack-integration-not-working.md)
       + [Tarefas: a área Aprovações desaparece da navegação à esquerda](known-issues-workfront/wf-tasks-approvals-tab-disappears.md)

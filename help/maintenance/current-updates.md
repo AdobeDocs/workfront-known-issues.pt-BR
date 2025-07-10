@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 833fe5b1c0483baa3243fc02679f5515ed75b67f
+source-git-commit: ddb39855b501df99cd0ad13c72f53487839c45ca
 workflow-type: tm+mt
-source-wordcount: '1463'
-ht-degree: 28%
+source-wordcount: '1522'
+ht-degree: 27%
 
 ---
 
@@ -23,6 +23,20 @@ Essas atualizações também incluem outras correções de erros menores ou meno
 Para obter atualizações de manutenção anteriores a 2025, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 As seguintes atualizações de manutenção foram efetuadas em 2025.
+
+## Atualizações em julho de 2025
+
++++**Semana de atualizações de manutenção de 6 a 12 de julho de 2025**
+
+### Atualizações de manutenção na semana de 6 a 12 de julho
+
+### Projetos
+
+**Não é possível mover o projeto para o programa especificado**
+
+Quando um usuário tenta mover um projeto para um programa, o projeto não é movido. Isso pode ocorrer mesmo que o usuário tenha recebido uma mensagem informando que o projeto foi movido com êxito.
+
++++
 
 ## Atualizações em junho de 2025
 

@@ -4,9 +4,9 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3fbede430b19640e45981dd0771bc66d509f2e4f
+source-git-commit: ddb39855b501df99cd0ad13c72f53487839c45ca
 workflow-type: tm+mt
-source-wordcount: '953'
+source-wordcount: '955'
 ht-degree: 74%
 
 ---
@@ -38,7 +38,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | ---------------------------------- | ----------------- |
-| [Projetos: não é possível mover o projeto para o programa especificado](/help/known-issues/known-issues-workfront/wf-projects-cannot-move-to-program.md) | sábado, 20 de junho de 2025 |
+| [Projetos: erro ao adicionar um projeto a um programa](/help/known-issues/known-issues-workfront/wf-projects-error-when-adding-to-program.md) | sexta-feira, 10 de julho de 2025 |
 | [Workfront: objetos fora de sincronia entre o Workfront e o Snowflake](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | quarta-feira, 17 de junho de 2025 |
 | [Usuários: o selo &quot;Aprovação pendente&quot; é exibido para novos usuários](known-issues-workfront/wf-users-pending-approval.md) | sábado, 23 de maio de 2025 |
 | [Documentos: as miniaturas de documentos não são exibidas](known-issues-workfront/wf-documents-thumbnails-not-display.md) | sexta-feira, 17 de abril de 2025 |
