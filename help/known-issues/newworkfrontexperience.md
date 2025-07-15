@@ -4,10 +4,10 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ddb39855b501df99cd0ad13c72f53487839c45ca
+source-git-commit: 798be3dd7ef5e7bf0ecf14484242f7758ac9d9a4
 workflow-type: tm+mt
-source-wordcount: '955'
-ht-degree: 74%
+source-wordcount: '963'
+ht-degree: 73%
 
 ---
 
@@ -52,6 +52,7 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Permissões: as permissões do objeto não foram herdadas corretamente](known-issues-workfront/wf-permissions-not-inherited-correctly.md) | quarta-feira, 15 de julho de 2025 |
 | [Provas: não é possível adicionar usuários a uma prova por nome no ambiente de Pré-visualização](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | terça-feira, 16 de junho de 2025 |
 | [Provas: fechando redirecionamentos de prova para a lista de documentos](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | quinta-feira, 14 de maio de 2025 |
 | [Filtros: a lista suspensa desaparece ao clicar na barra de rolagem](known-issues-workfront/wf-filter-scroll-bar.md) | quinta-feira, 26 de março de 2025 |
