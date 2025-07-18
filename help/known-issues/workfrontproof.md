@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: e98c29b84e022c2c8101f21f2cae5b74bda3718e
+source-git-commit: 23747b7f1257a4c52760d0d9448e7e2bb9ef0a91
 workflow-type: tm+mt
-source-wordcount: '399'
-ht-degree: 83%
+source-wordcount: '381'
+ht-degree: 87%
 
 ---
 
@@ -25,7 +25,6 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Provas: a geração de prova é lenta](/help/known-issues/known-issues-workfront/wf-proofs-generation-very-slow.md) | terça-feira, 17 de março de 2025 |
 | [Provas: não é possível marcar determinados usuários](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | sexta-feira, 20 de fevereiro de 2025 |
 | [Integrações: vincular a pasta do  [!DNL Google Drive]  não vincula seus ativos](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | quarta-feira, 25 de junho de 2024 |
 
@@ -38,7 +37,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
 | [Documentos: as miniaturas de documentos não são exibidas](known-issues-workfront/wf-documents-thumbnails-not-display.md) | sexta-feira, 17 de abril de 2025 |
-| [Atualizações: alguns usuários não podem ver imagens ou documentos anexados a comentários](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | terça-feira, 10 de março de 2025 |
 | [Notificações: as miniaturas não ficam visíveis nas notificações por email](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | terça-feira, 8 de julho de 2024 |
 | [Página inicial: o dispositivo de aprovações não é preciso](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 8 de maio de 2024 |
 
