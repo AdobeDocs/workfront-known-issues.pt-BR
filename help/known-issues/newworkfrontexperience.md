@@ -4,9 +4,9 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 26bd9f2b4dd14d378f555a63b6599a7cd8beeb58
+source-git-commit: 69833d9af1ea8ca2eea02cf1e37ddcb7ed6b229e
 workflow-type: tm+mt
-source-wordcount: '954'
+source-wordcount: '960'
 ht-degree: 74%
 
 ---
@@ -25,6 +25,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Provas: não é possível marcar usuários em comentários de prova](known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | sábado, 18 de julho de 2025 |
 | [Permissões: as permissões do objeto não foram herdadas corretamente](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md) | quinta-feira, 16 de julho de 2025 |
 | [Tarefas: a área Aprovações desaparece da navegação à esquerda](known-issues-workfront/wf-tasks-approvals-tab-disappears.md) | sábado, 27 de junho de 2025 |
 | [Integrações: vincular a pasta do  [!DNL Google Drive]  não vincula seus ativos](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | quarta-feira, 25 de junho de 2024 |
@@ -37,7 +38,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | ---------------------------------- | ----------------- |
-| [Projetos: erro ao adicionar um projeto a um programa](/help/known-issues/known-issues-workfront/wf-projects-error-when-adding-to-program.md) | sexta-feira, 10 de julho de 2025 |
+| [Provas: não é possível marcar usuários em comentários de prova](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | sexta-feira, 10 de julho de 2025 |
 | [Workfront: objetos fora de sincronia entre o Workfront e o Snowflake](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | quarta-feira, 17 de junho de 2025 |
 | [Usuários: o selo &quot;Aprovação pendente&quot; é exibido para novos usuários](known-issues-workfront/wf-users-pending-approval.md) | sábado, 23 de maio de 2025 |
 | [Documentos: as miniaturas de documentos não são exibidas](known-issues-workfront/wf-documents-thumbnails-not-display.md) | sexta-feira, 17 de abril de 2025 |
