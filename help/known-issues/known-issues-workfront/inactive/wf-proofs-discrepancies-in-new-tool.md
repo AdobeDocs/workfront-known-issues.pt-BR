@@ -4,7 +4,7 @@ description: Recentemente, o Workfront alterou sua ferramenta de processamento d
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: b2b6ba28-6bc3-4a74-9b25-74cc77659631
-source-git-commit: 2631a7a9cd6c07feae192cb0e29f168929fc9f3c
+source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 100%
@@ -24,3 +24,6 @@ O Workfront está trabalhando na atualização de suas bibliotecas para correspo
 Por enquanto, se você tiver problemas com o processamento desses arquivos, recomendamos exportar as páginas para JPG ou PNG e processar as provas dessa forma.
 
 _Relatado pela primeira vez em quarta-feira, 15 de agosto de 2023._
+
+<!--CHECK ME - NO VIEWS APRIL-JUNE 2025-->
+

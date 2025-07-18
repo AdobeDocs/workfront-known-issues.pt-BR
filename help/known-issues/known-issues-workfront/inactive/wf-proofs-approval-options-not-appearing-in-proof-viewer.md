@@ -4,7 +4,7 @@ description: Quando um usuário tenta aprovar uma prova no Visualizador de prova
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 17e0aa9a-d7f6-490a-b491-ef74371b787e
-source-git-commit: 2631a7a9cd6c07feae192cb0e29f168929fc9f3c
+source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 93%
@@ -24,3 +24,5 @@ Quando um usuário tenta aprovar uma prova no [!UICONTROL Visualizador de prova 
 Aprove o documento a partir da página [!UICONTROL Detalhes do documento] no [!DNL Workfront].
 
 _Relatado pela primeira vez em 12 de junho de 2023._
+
+<!--CHECK ME - NO VIEWS APRIL-JUNE 2025-->

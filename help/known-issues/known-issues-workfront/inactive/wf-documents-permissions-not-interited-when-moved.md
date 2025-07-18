@@ -4,7 +4,7 @@ description: 'Quando um usuário move um documento para um projeto diferente, o 
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 56dfaf55-7438-4569-b9a1-b62fbdd3f4d9
-source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
+source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 100%
@@ -30,3 +30,7 @@ Quando um usuário move um documento para um projeto diferente, o documento não
 Como alternativa, você pode anotar a ID do documento (encontrada no URL da página [!UICONTROL Detalhes do documento]) e entrar em contato com o suporte ao cliente do [!DNL Workfront].
 
 _Relatado pela primeira vez em 6 de janeiro de 2023._
+
+
+
+<!--CHECK ME - 1 VIEW APRIL-JUNE 2025-->
