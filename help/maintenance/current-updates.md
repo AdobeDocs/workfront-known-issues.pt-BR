@@ -3,9 +3,9 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 5ec1db8c8e20fa50225e9dfba3b71c157c883587
+source-git-commit: 07785bc2688bd08ce2877bf37ddcf856467da24f
 workflow-type: tm+mt
-source-wordcount: '1629'
+source-wordcount: '1646'
 ht-degree: 25%
 
 ---
@@ -30,7 +30,11 @@ As seguintes atualizações de manutenção foram efetuadas em 2025.
 
 ### Atualização de manutenção da semana de 20 a 26 de julho de 2025
 
-As atualizações desta semana incluem apenas correções de erros menores ou menos importantes. O Suporte da Workfront enviará uma notificação quando um problema enviado for corrigido.
+#### Provas
+
+**Não é possível marcar usuários em comentários de prova**
+
+Quando um usuário tenta marcar outro usuário em um comentário de prova e começa a digitar o nome dele, ele não aparece na lista e não pode ser selecionado para ser marcado.
 
 +++
 
