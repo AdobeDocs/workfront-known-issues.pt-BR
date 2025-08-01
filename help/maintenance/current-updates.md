@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 07785bc2688bd08ce2877bf37ddcf856467da24f
+source-git-commit: 32b7c00b3338bc4d1152b1b0748843daaa58a115
 workflow-type: tm+mt
-source-wordcount: '1646'
-ht-degree: 25%
+source-wordcount: '1740'
+ht-degree: 24%
 
 ---
 
@@ -29,6 +29,18 @@ As seguintes atualizações de manutenção foram efetuadas em 2025.
 +++**Semana de atualizações de manutenção de 20 a 26 de julho de 2025**
 
 ### Atualização de manutenção da semana de 20 a 26 de julho de 2025
+
+#### Projetos
+
+**O aviso agora é exibido quando a linha do tempo não foi recalculada**
+
+Os usuários agora verão um ícone de aviso quando a linha do tempo do projeto não for recalculada. Ao passar o mouse sobre esse ícone, o usuário vê a seguinte mensagem:
+
+&quot;A linha do tempo do projeto está incorreta. Os gerentes de projeto podem precisar recalcular manualmente a linha do tempo.&quot;
+
+Ocasionalmente, as linhas do tempo podem não ser recalculadas porque um projeto é extremamente complexo. Por exemplo, um projeto que tenha várias dependências, um grande número de tarefas, vários predecessores entre projetos ou vários recuos de tarefas podem ser afetados.
+
+Anteriormente, não havia nenhuma indicação de que uma linha do tempo não tivesse sido recalculada.
 
 #### Provas
 
