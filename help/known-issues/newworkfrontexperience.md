@@ -4,10 +4,10 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 07785bc2688bd08ce2877bf37ddcf856467da24f
+source-git-commit: 17a909d31fc171dae062b760366ad2fed541883e
 workflow-type: tm+mt
-source-wordcount: '952'
-ht-degree: 74%
+source-wordcount: '944'
+ht-degree: 75%
 
 ---
 
@@ -26,7 +26,6 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | **Problema** | **Última modificação** |
 | ----------------------------------------------------------------- | ----------------- |
 | [Permissões: as permissões do objeto não foram herdadas corretamente](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md) | quinta-feira, 16 de julho de 2025 |
-| [Tarefas: a área Aprovações desaparece da navegação à esquerda](known-issues-workfront/wf-tasks-approvals-tab-disappears.md) | sábado, 27 de junho de 2025 |
 | [Integrações: vincular a pasta do  [!DNL Google Drive]  não vincula seus ativos](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | quarta-feira, 25 de junho de 2024 |
 
 {style="table-layout:auto"}

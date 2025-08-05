@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 0c440c0387e3d981351c943cdc097bb283b0e1de
+source-git-commit: 17a909d31fc171dae062b760366ad2fed541883e
 workflow-type: tm+mt
-source-wordcount: '1760'
-ht-degree: 24%
+source-wordcount: '1801'
+ht-degree: 23%
 
 ---
 
@@ -26,9 +26,9 @@ As seguintes atualizações de manutenção foram efetuadas em 2025.
 
 ## Atualizações em agosto de 2025
 
-+++**Semana de atualizações de manutenção de 27 de julho a 3 de agosto de 2025**
++++**Semana de atualizações de manutenção de 27 de julho a 2 de agosto de 2025**
 
-### Atualizações de manutenção semana de 27 de julho a 3 de agosto de 2025
+### Atualizações de manutenção semana de 27 de julho a 2 de agosto de 2025
 
 #### Projetos
 
@@ -41,6 +41,12 @@ Os usuários agora verão um ícone de aviso quando a linha do tempo do projeto 
 Ocasionalmente, as linhas do tempo podem não ser recalculadas porque um projeto é extremamente complexo. Por exemplo, um projeto que tenha várias dependências, um grande número de tarefas, vários predecessores entre projetos ou vários recuos de tarefas podem ser afetados.
 
 Anteriormente, não havia nenhuma indicação de que uma linha do tempo não tivesse sido recalculada.
+
+#### Tarefas
+
+**A área Aprovações desaparece da navegação à esquerda**
+
+Quando um usuário está visualizando uma tarefa, a área Aprovações pode desaparecer da navegação à esquerda. Remover e adicionar a área Aprovações ao Modelo de layout resolve o problema, mas o problema pode ocorrer novamente.
 
 +++
 
