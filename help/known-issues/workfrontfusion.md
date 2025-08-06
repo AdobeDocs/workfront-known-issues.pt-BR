@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Fusion]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 889157407be97219b0a258c038f5094b197238b1
+source-git-commit: 8329afea4d9cdd80c6e9dba9636dcf8b27c910e4
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 83%
+source-wordcount: '194'
+ht-degree: 79%
 
 ---
 
@@ -45,6 +45,7 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion: as atualizações do webhook não são salvas automaticamente](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md) | quinta-feira, 6 de agosto de 2025 |
 | [Provas: não é possível criar provas para vídeos vinculados do AEM através do Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | sexta-feira, 13 de fevereiro de 2025 |
 | [Workfront Fusion: inicie a configuração &quot;De agora em diante&quot; processando todos os dados](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | quarta-feira, 29 de outubro de 2024 |
 | [Workfront Fusion: campo ausente do módulo](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | terça-feira, 5 de fevereiro de 2024 |
