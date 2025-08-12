@@ -4,10 +4,10 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 17a909d31fc171dae062b760366ad2fed541883e
+source-git-commit: 58539ae80132638236be9b90e0dad35be139f8ce
 workflow-type: tm+mt
-source-wordcount: '944'
-ht-degree: 75%
+source-wordcount: '957'
+ht-degree: 74%
 
 ---
 
@@ -36,6 +36,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | ---------------------------------- | ----------------- |
+| [Documentos: usuários adicionados como aprovadores após a conclusão da aprovação não são notificados](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | quarta-feira, 12 de agosto de 2025 |
 | [Provas: não é possível marcar usuários em comentários de prova](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | sexta-feira, 10 de julho de 2025 |
 | [Workfront: objetos fora de sincronia entre o Workfront e o Snowflake](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | quarta-feira, 17 de junho de 2025 |
 | [Usuários: o selo &quot;Aprovação pendente&quot; é exibido para novos usuários](known-issues-workfront/wf-users-pending-approval.md) | sábado, 23 de maio de 2025 |
