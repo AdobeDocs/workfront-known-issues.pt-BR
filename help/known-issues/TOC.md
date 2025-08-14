@@ -2,9 +2,9 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 58539ae80132638236be9b90e0dad35be139f8ce
+source-git-commit: 85b451aa1e811e9423c700bf2df36582665e0d2c
 workflow-type: tm+mt
-source-wordcount: '1378'
+source-wordcount: '1370'
 ht-degree: 67%
 
 ---
@@ -108,7 +108,6 @@ ht-degree: 67%
       + [Provas: erro ao compartilhar prova do link de email](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md)
       + [[!UICONTROL Página inicial]: a visualização de dispositivos na nova [!UICONTROL Página inicial] não exibe o nome correto do objeto](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
       + [[!UICONTROL Página inicial]: o dispositivo [!UICONTROL Solicitações] não exibe todas as equipes atribuídas](known-issues-workfront/inactive/wf-home-request-shows-one-team.md)
-      + [Modelos de layout: modelos de layout causam inconsistências nos relatórios](known-issues-workfront/inactive/wf-layout-templates-classic.md)
       + [[!UICONTROL Página inicial]: o dispositivo “[!UICONTROL Menções]” na nova [!UICONTROL página inicial] não está limitado a mensagens em que o usuário está marcado](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md)
       + [[!UICONTROL Configuração]: não é possível exportar logs de auditoria](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md)
       + [Provas: as provas são criadas lentamente no ambiente de visualização](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md)
