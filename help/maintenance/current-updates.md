@@ -3,9 +3,9 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 9fb1fd8ba321c8b86a5f56228c4c64b668036754
+source-git-commit: 2b38481cecee37d6b1afcca93630566261378292
 workflow-type: tm+mt
-source-wordcount: '1879'
+source-wordcount: '1957'
 ht-degree: 22%
 
 ---
@@ -26,13 +26,33 @@ As seguintes atualizações de manutenção foram efetuadas em 2025.
 
 ## Atualizações em agosto de 2025
 
++++**Semana de atualizações de manutenção de 17 a 23 de agosto de 2025**
+
+### Semana de atualização de manutenção de 17 a 25 de agosto de 2025
+
+#### Projetos
+
+**Erro ao adicionar um projeto a um programa**
+
+Quando um usuário tenta adicionar um projeto existente a um programa, o projeto não é adicionado e o usuário vê a seguinte mensagem de erro:
+
+&quot;Erro ao carregar o conteúdo secundário...&quot;
+
+**Os projetos exportados contêm Horas Efetivas imprecisas**
+
+Quando um usuário exporta um projeto para o Excel, a coluna Horas efetivas não exibe os dados corretos.
+
++++
+
 +++**Semana de atualizações de manutenção de 10 a 16 de agosto de 2025**
 
 ### Semana de atualização de manutenção de 10 a 16 de agosto de 2025
 
 As atualizações desta semana incluem apenas correções de erros menores ou menos importantes. O Suporte da Workfront enviará uma notificação quando um problema enviado for corrigido.
 
-++++++**Semana de Atualizações de Manutenção de 3 a 9 de agosto de 2025**
++++
+
++++**Semana de Atualizações de Manutenção de 3 a 9 de agosto de 2025**
 
 ### Semana de atualização de manutenção de 3 a 9 de agosto de 2025
 
