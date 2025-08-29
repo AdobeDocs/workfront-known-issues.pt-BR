@@ -4,7 +4,7 @@ description: Quando um campo em um cartão no Quadro Kanban é extraído de um f
 exl-id: 3edad5bb-7deb-45ea-a89c-6587c34bea12
 feature: Agile
 hidefromtoc: true
-source-git-commit: 688d728782638489aacc76a1a12c38ab12215f8e
+source-git-commit: d9a6571d614a6bdead444b4b1d3f9d03c0963752
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 100%
@@ -24,3 +24,4 @@ Quando um campo em um cartão no Quadro Kanban é extraído de um formulário pe
 Abra a tarefa e edite o campo a janela [!UICONTROL Editar tarefa].
 
 _Reportado pela primeira vez em 12 de abril de 2022._
+
