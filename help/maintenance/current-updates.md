@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2b38481cecee37d6b1afcca93630566261378292
+source-git-commit: a66310d736a326ea77557db8547b232caff4ee60
 workflow-type: tm+mt
-source-wordcount: '1957'
-ht-degree: 22%
+source-wordcount: '2091'
+ht-degree: 20%
 
 ---
 
@@ -24,11 +24,33 @@ Para obter atualizações de manutenção anteriores a 2025, consulte [Atualiza�
 
 As seguintes atualizações de manutenção foram efetuadas em 2025.
 
+## Atualizações em setembro de 2025
+
++++**Semana de atualizações de manutenção de 31 de agosto a 6 de setembro de 2025**
+
+### Semana de atualização de manutenção de 31 de agosto a 6 de setembro de 2025
+
+#### API
+
+**Novas medidas de proteção para evitar sobrecarga de Assinaturas de Eventos**
+
+Inscrições em eventos foi projetado para fornecer entrega confiável de eventos para todos os usuários. Para garantir isso, foram implementadas salvaguardas para evitar a produção excessiva de eventos por parte de um único usuário, o que poderia causar possíveis problemas de qualidade de serviço para todos os usuários. Como resultado, um usuário que está produzindo muitos eventos em uma taxa alta em um curto período de tempo pode enfrentar sandboxing e atrasos de entrega de eventos.
+
++++
+
 ## Atualizações em agosto de 2025
+
++++**Semana de atualizações de manutenção de 24 a 30 de agosto de 2025**
+
+### Semana de atualização de manutenção de 24-30 de agosto de 2025
+
+As atualizações desta semana incluem apenas correções de erros menores ou menos importantes. O Suporte da Workfront enviará uma notificação quando um problema enviado for corrigido.
+
++++
 
 +++**Semana de atualizações de manutenção de 17 a 23 de agosto de 2025**
 
-### Semana de atualização de manutenção de 17 a 25 de agosto de 2025
+### Semana de atualização de manutenção de 17 a 23 de agosto de 2025
 
 #### Projetos
 
