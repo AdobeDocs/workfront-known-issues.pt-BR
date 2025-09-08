@@ -3,9 +3,9 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 13a081ac430090ef3ac7f5c0e1ac1ba6a68227bd
+source-git-commit: 5468975035561c205f30fb2a92f6ad43346c0c2f
 workflow-type: tm+mt
-source-wordcount: '2091'
+source-wordcount: '2133'
 ht-degree: 20%
 
 ---
@@ -35,6 +35,12 @@ As seguintes atualizações de manutenção foram efetuadas em 2025.
 **Novas medidas de proteção para evitar sobrecarga de Assinaturas de Eventos**
 
 Inscrições em eventos foi projetado para fornecer entrega confiável de eventos para todos os usuários. Para garantir isso, foram implementadas salvaguardas para evitar a produção excessiva de eventos por parte de um único usuário, o que poderia causar possíveis problemas de qualidade de serviço para todos os usuários. Como resultado, um usuário que está produzindo muitos eventos em uma taxa alta em um curto período de tempo pode enfrentar sandboxing e atrasos de entrega de eventos.
+
+#### Documentos
+
+**Os usuários adicionados como aprovadores após a conclusão da aprovação não são notificados**
+
+Quando um usuário aprova um documento e, em seguida, mais usuários são adicionados como aprovadores, os aprovadores recém-adicionados não recebem notificações no aplicativo ou por email da solicitação de aprovação.
 
 +++
 
