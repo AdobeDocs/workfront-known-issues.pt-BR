@@ -2,9 +2,9 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 85b451aa1e811e9423c700bf2df36582665e0d2c
+source-git-commit: 4f1d7936c677f102f32a4b6c480a7bf3f53962bd
 workflow-type: tm+mt
-source-wordcount: '1370'
+source-wordcount: '1377'
 ht-degree: 67%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 67%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais em [!DNL Adobe Workfront] {#wf-current}
+      + [Usuários: não é possível editar a ID da Federação de um usuário](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md)
       + [Documentos: os usuários adicionados como aprovadores após a conclusão da aprovação não são notificados](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md)
       + [Provas: não é possível marcar usuários em comentários de prova](known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md)
       + [Permissões: as permissões do objeto não são herdadas corretamente](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md)
