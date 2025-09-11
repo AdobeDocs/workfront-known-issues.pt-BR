@@ -4,10 +4,10 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 4f1d7936c677f102f32a4b6c480a7bf3f53962bd
+source-git-commit: 3cb9b2b88c62e98d8d57f76b4300eb1601bfb8cb
 workflow-type: tm+mt
-source-wordcount: '991'
-ht-degree: 71%
+source-wordcount: '1019'
+ht-degree: 69%
 
 ---
 
@@ -25,6 +25,8 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Usuários: não é possível editar configurações de notificações para outro usuário](known-issues-workfront/wf-users-cannot-edit-another-users-notifications.md) | sexta-feira, 11 de setembro de 2025 |
+| [Usuários: não é possível alterar o nível de acesso de um usuário](known-issues-workfront/wf-users-cannot-change-access-level.md) | sexta-feira, 11 de setembro de 2025 |
 | [Integrações: vincular a pasta do  [!DNL Google Drive]  não vincula seus ativos](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | quarta-feira, 25 de junho de 2024 |
 
 {style="table-layout:auto"}
@@ -51,6 +53,7 @@ No momento, as correções para esses problemas não estão no roteiro, mas há 
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Provas: não é possível gerar uma prova de um arquivo do PowerPoint](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md) | sexta-feira, 11 de setembro de 2025 |
 | [Permissões: as permissões do objeto não foram herdadas corretamente](known-issues-workfront/wf-permissions-not-inherited-correctly.md) | quarta-feira, 15 de julho de 2025 |
 | [Filtros: a lista suspensa desaparece ao clicar na barra de rolagem](known-issues-workfront/wf-filter-scroll-bar.md) | quinta-feira, 26 de março de 2025 |
 | [Integrações: erro do outlookIdentityToken ao usar o Workfront para Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md) | quarta-feira, 4 de março de 2025 |
