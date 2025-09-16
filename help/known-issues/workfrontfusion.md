@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Fusion]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: c3608d9cb3f26bfb44b9c71247ab797a44a383de
+source-git-commit: 0f4dba4664f645920752cc0c346782c9582b0e54
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 79%
+source-wordcount: '224'
+ht-degree: 68%
 
 ---
 
@@ -39,16 +39,24 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 {style="table-layout:auto"}
 
+## Solução alternativa disponível
+
+No momento, as correções para esses problemas não estão no roteiro, mas há soluções alternativas disponíveis e descritas no artigo para cada problema.
+
+| **Problema** | **Última modificação** |
+| -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion: o módulo Jira Search retorna um erro](known-issues-workfront-fusion/fusion-error-in-jira-search.md) | quarta-feira, 16 de setembro de 2025 |
+| [Workfront Fusion: campo ausente do módulo](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | terça-feira, 5 de fevereiro de 2024 |
+| [Workfront Fusion: as atualizações do webhook não são salvas automaticamente](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md) | quinta-feira, 6 de agosto de 2025 |
+
 ## Sem correção
 
 No momento, as correções para esses problemas não estão no roteiro. Em alguns casos, esses problemas serão corrigidos por atualizações ou novos recursos.
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: as atualizações do webhook não são salvas automaticamente](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md) | quinta-feira, 6 de agosto de 2025 |
 | [Provas: não é possível criar provas para vídeos vinculados do AEM através do Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | sexta-feira, 13 de fevereiro de 2025 |
 | [Workfront Fusion: inicie a configuração &quot;De agora em diante&quot; processando todos os dados](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | quarta-feira, 29 de outubro de 2024 |
-| [Workfront Fusion: campo ausente do módulo](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | terça-feira, 5 de fevereiro de 2024 |
 | [Workfront Fusion: saída de formatação de datas](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md) | quinta-feira, 31 de janeiro de 2024 |
 | [Workfront Fusion: projetos duplicados criados a partir de um mesmo módulo](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 24 de outubro de 2023 |
 | [[!DNL Workfront Proof]: erro 500 ao acessar o [!DNL Workfront Proof]  por meio da API ou do  [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 25 de maio de 2023 |
