@@ -1,9 +1,9 @@
 ---
-title: 'Aprovações: a aprovação é exibida como Sem prazo quando o horário não está incluído no prazo'
+title: 'Aprovações: a aprovação é exibida como Sem prazo final quando o horário não está incluído no prazo'
 description: Quando um prazo de aprovação inclui apenas uma data, e não uma hora, ele é exibido no widget Início das aprovações como um prazo final sem prazo.
 hidefromtoc: true
 feature: Digital Content and Documents, Get Started with Workfront
-source-git-commit: 6eac1cb70ad0bbd7b1ddb77139dd185b35564cd8
+source-git-commit: ca8e5b7ff629064fdd7f372c21090a10cf2346da
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 5%
