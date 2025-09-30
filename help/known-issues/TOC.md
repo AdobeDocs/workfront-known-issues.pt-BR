@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: e8169129ed6b03ff7d6b58ee24521885d5dc1acd
+source-git-commit: 3df418a4700d52fbaf53122f251ab7c579e07369
 workflow-type: tm+mt
-source-wordcount: '1423'
-ht-degree: 65%
+source-wordcount: '1439'
+ht-degree: 64%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 65%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais em [!DNL Adobe Workfront] {#wf-current}
+      + [Programas: não é possível salvar ao editar um programa](known-issues-workfront/wf-programs-cannot-save-when-editing-program.md)
+      + [Aprovações: os botões de decisão de aprovação não são exibidos no Visualizador de prova](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md)
       + [Aprovações: a aprovação é exibida como &quot;Sem prazo&quot; quando a hora não é incluída no prazo](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md)
       + [Provas: não é possível gerar uma prova de um arquivo do PowerPoint](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md)
       + [Usuários: não é possível editar configurações de notificações para outro usuário](known-issues-workfront/wf-users-cannot-edit-another-users-notifications.md)

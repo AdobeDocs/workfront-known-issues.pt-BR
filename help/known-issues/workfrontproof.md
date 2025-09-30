@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 58539ae80132638236be9b90e0dad35be139f8ce
+source-git-commit: db29bf0acb4baecaee208821d81318b15c74233b
 workflow-type: tm+mt
-source-wordcount: '394'
-ht-degree: 84%
+source-wordcount: '404'
+ht-degree: 82%
 
 ---
 
@@ -49,6 +49,7 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Aprovações: os botões de decisão de aprovação não são exibidos no Visualizador de prova](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md) | quarta-feira, 30 de setembro de 2025 |
 | [Provas: não é possível adicionar usuários a uma prova por nome no ambiente de Pré-visualização](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | terça-feira, 16 de junho de 2025 |
 | [Provas: fechando redirecionamentos de prova para a lista de documentos](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | quinta-feira, 14 de maio de 2025 |
 | [Provas: não é possível criar provas para vídeos vinculados do AEM através do Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | sexta-feira, 13 de fevereiro de 2025 |
