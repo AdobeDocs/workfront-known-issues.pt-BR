@@ -4,10 +4,10 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: db29bf0acb4baecaee208821d81318b15c74233b
+source-git-commit: 932556d1c72aa33e9169034f41f6250d249a228b
 workflow-type: tm+mt
-source-wordcount: '1034'
-ht-degree: 68%
+source-wordcount: '1017'
+ht-degree: 69%
 
 ---
 
@@ -25,7 +25,6 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Programas: não é possível salvar ao editar um programa](known-issues-workfront/wf-programs-cannot-save-when-editing-program.md) | quarta-feira, 30 de setembro de 2025 |
 | [Usuários: não é possível alterar o nível de acesso de um usuário](known-issues-workfront/wf-users-cannot-change-access-level.md) | sexta-feira, 11 de setembro de 2025 |
 | [Integrações: vincular a pasta do  [!DNL Google Drive]  não vincula seus ativos](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | quarta-feira, 25 de junho de 2024 |
 
@@ -57,7 +56,6 @@ No momento, as correções para esses problemas não estão no roteiro, mas há 
 | [Provas: não é possível gerar uma prova de um arquivo do PowerPoint](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md) | sexta-feira, 11 de setembro de 2025 |
 | [Permissões: as permissões do objeto não foram herdadas corretamente](known-issues-workfront/wf-permissions-not-inherited-correctly.md) | quarta-feira, 15 de julho de 2025 |
 | [Filtros: a lista suspensa desaparece ao clicar na barra de rolagem](known-issues-workfront/wf-filter-scroll-bar.md) | quinta-feira, 26 de março de 2025 |
-| [Integrações: erro do outlookIdentityToken ao usar o Workfront para Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md) | quarta-feira, 4 de março de 2025 |
 | [Documentos: não é possível carregar a lista de documentos da pasta do AEM](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | sexta-feira, 27 de fevereiro de 2025 |
 | [Provas: não é possível criar provas para vídeos vinculados do AEM através do Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | sexta-feira, 13 de fevereiro de 2025 |
 | [Provas: provas do Webcapture não geram](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | sábado, 20 de dezembro de 2024 |
