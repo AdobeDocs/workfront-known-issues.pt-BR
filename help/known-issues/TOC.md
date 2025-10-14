@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 3df418a4700d52fbaf53122f251ab7c579e07369
+source-git-commit: 5c84b9ef86098c4ea9cc880d276ad7f73a395bec
 workflow-type: tm+mt
-source-wordcount: '1439'
-ht-degree: 64%
+source-wordcount: '1461'
+ht-degree: 63%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 64%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais em [!DNL Adobe Workfront] {#wf-current}
+      + [Usuários: não é possível usar as opções avançadas ao criar usuários](/help/known-issues/known-issues-workfront/wf-users-cannot-use-advanced-options.md)
+      + [Formulários personalizados: a lógica de exibição de campo não é seguida corretamente](known-issues-workfront/wf-custom-forms-display-logic-triggering-incorrectly.md)
+      + [Provas: não é possível fechar o visualizador de provas](known-issues-workfront/wf-cannot-close-proofing-viewer.md)
       + [Programas: não é possível salvar ao editar um programa](known-issues-workfront/wf-programs-cannot-save-when-editing-program.md)
       + [Aprovações: os botões de decisão de aprovação não são exibidos no Visualizador de prova](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md)
       + [Aprovações: a aprovação é exibida como &quot;Sem prazo&quot; quando a hora não é incluída no prazo](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md)
@@ -200,7 +203,7 @@ ht-degree: 64%
       + [Os links de ajuda no aplicativo do [!DNL Workfront Fusion] não abrem as respectivas páginas de ajuda](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + Aplicativo móvel [!DNL Workfront] {#mobile}
-   + [Problemas conhecidos no aplicativo móvel do  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problemas conhecidos no aplicativo móvel do  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 
