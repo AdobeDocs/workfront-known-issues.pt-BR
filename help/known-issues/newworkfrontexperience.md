@@ -4,9 +4,9 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 5c84b9ef86098c4ea9cc880d276ad7f73a395bec
+source-git-commit: fa2cfd357e63ec39c64926865584ba39a78f75a6
 workflow-type: tm+mt
-source-wordcount: '1042'
+source-wordcount: '1033'
 ht-degree: 68%
 
 ---
@@ -25,8 +25,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Formulários personalizados: a lógica de exibição do campo não é seguida corretamente](known-issues-workfront/wf-custom-forms-display-logic-triggering-incorrectly.md) | quarta-feira, 14 de outubro de 2025 |
-| [Provas: não é possível fechar o visualizador de provas](known-issues-workfront/wf-cannot-close-proofing-viewer.md) | quarta-feira, 14 de outubro de 2025 |
+| [Relatórios: problemas relacionados a menus suspensos em gráficos](known-issues-workfront/wf-reports-dropdown-not-working.md) | quarta-feira, 28 de outubro de 2025 |
 | [Usuários: não é possível alterar o nível de acesso de um usuário](known-issues-workfront/wf-users-cannot-change-access-level.md) | sexta-feira, 11 de setembro de 2025 |
 | [Integrações: vincular a pasta do  [!DNL Google Drive]  não vincula seus ativos](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | quarta-feira, 25 de junho de 2024 |
 

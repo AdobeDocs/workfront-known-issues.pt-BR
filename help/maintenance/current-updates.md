@@ -3,9 +3,9 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 932556d1c72aa33e9169034f41f6250d249a228b
+source-git-commit: fa2cfd357e63ec39c64926865584ba39a78f75a6
 workflow-type: tm+mt
-source-wordcount: '2314'
+source-wordcount: '2492'
 ht-degree: 19%
 
 ---
@@ -25,6 +25,40 @@ Para obter atualizações de manutenção anteriores a 2025, consulte [Atualiza�
 As seguintes atualizações de manutenção foram efetuadas em 2025.
 
 ## Atualizações em outubro de 2025
+
++++**Semana de atualizações de manutenção de 19 a 25 de outubro de 2025**
+
+### Atualizações de manutenção semana de 19 a 25 de outubro de 2025
+
+#### Formulários personalizados
+
+**A lógica de exibição do campo não foi seguida corretamente**
+
+Quando um usuário preenche um formulário personalizado que inclui lógica de exibição (em que alguns campos são exibidos ou não com base nos valores em outros campos), os campos não são exibidos de uma maneira que siga essa lógica de campo.
+
+#### Provas
+
+**Não é possível fechar o visualizador de provas**
+
+Quando alguém visualiza uma prova no visualizador de provas e tenta fechá-la clicando em X no canto superior direito, a prova não é fechada.
+
++++
+
++++**Semana de atualizações de manutenção de 12 a 18 de outubro de 2025**
+
+### Semana de atualização de manutenção de 12 a 18 de outubro de 2025
+
+As atualizações desta semana incluem apenas correções de erros menores ou menos importantes. O Suporte da Workfront enviará uma notificação quando um problema enviado for corrigido.
+
++++
+
++++**Semana de atualizações de manutenção de 5 a 11 de outubro de 2025**
+
+### Semana de atualização de manutenção de 5 a 11 de outubro de 2025
+
+As atualizações desta semana incluem apenas correções de erros menores ou menos importantes. O Suporte da Workfront enviará uma notificação quando um problema enviado for corrigido.
+
++++
 
 +++**Semana de atualizações de manutenção de 28 de setembro a 4 de outubro de 2025**
 
