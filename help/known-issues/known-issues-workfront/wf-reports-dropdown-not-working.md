@@ -3,15 +3,19 @@ title: 'Relatórios: problemas relacionados a menus suspensos em gráficos'
 description: Problemas foram relatados em relação aos detalhamentos em gráficos.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: b226eee1f982acf3e37c6d2c319067e139f6c559
+source-git-commit: 21ce5890bfe3ca5bf5080fe3c0c8aec8dcb14e89
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 5%
+source-wordcount: '85'
+ht-degree: 11%
 
 ---
 
 
 # Relatórios: problemas relacionados a menus suspensos em gráficos
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em quinta-feira, 29 de outubro de 2025.
 
 Os seguintes problemas foram relatados em relação aos detalhamentos em gráficos:
 

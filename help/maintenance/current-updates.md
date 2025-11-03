@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 99364233b38b7b2e12c20b6a8185ebef9796552c
+source-git-commit: 21ce5890bfe3ca5bf5080fe3c0c8aec8dcb14e89
 workflow-type: tm+mt
-source-wordcount: '2492'
-ht-degree: 19%
+source-wordcount: '2607'
+ht-degree: 18%
 
 ---
 
@@ -23,6 +23,39 @@ Essas atualizações também incluem outras correções de erros menores ou meno
 Para obter atualizações de manutenção anteriores a 2025, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 As seguintes atualizações de manutenção foram efetuadas em 2025.
+
+
+
+## Atualizações em novembro de 2025
+
++++**Semana de atualizações de manutenção de 26 de outubro a 1 de novembro de 2025**
+
+### Atualizações de manutenção semana de 26 de outubro a 1 de novembro de 2025
+
+#### Relatórios
+
+**Problemas relacionados a menus suspensos em gráficos**
+
+Os seguintes problemas foram relatados em relação aos detalhamentos em gráficos:
+
+* Quando um usuário visualiza um relatório com uma coluna suspensa e está usando o recurso Gráfico, o menu suspenso na janela Gráfico não funciona.
+* Quando um usuário tenta atribuir usuários a partir de um relatório, usando uma lista suspensa, a atribuição não é salva.
+
+#### Usuários
+
+**Não é possível usar as opções avançadas ao criar usuários**
+
+Quando um administrador do Workfront cria um usuário e tenta usar a opção avançada, ele não pode usar as opções e vê a seguinte mensagem:
+
+```
+Cannot read properties of undefined (reading 'sections')
+
+Cannot read properties of undefined (reading 'sections')
+
+Error fetching object details
+```
+
++++
 
 ## Atualizações em outubro de 2025
 
