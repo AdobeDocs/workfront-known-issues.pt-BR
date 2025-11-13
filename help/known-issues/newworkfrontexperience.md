@@ -4,9 +4,9 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e18ef3485c84425e550a8edf4c1d25182307687b
+source-git-commit: ccf054641b3686bd490bda5e9fd2651194a9a31b
 workflow-type: tm+mt
-source-wordcount: '1045'
+source-wordcount: '1054'
 ht-degree: 67%
 
 ---
@@ -25,8 +25,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Aprovações: links para aprovações não disponíveis](known-issues-workfront/wf-approvals-link-not-appearing.md) | quarta-feira, 4 de novembro de 2025 |
-| [Usuários: só é possível pesquisar funções de trabalho por primeira palavra](known-issues-workfront/wf-users-job-role-first-word.md) | terça-feira, 3 de novembro de 2025 |
+| [Tarefas: mensagem de &quot;Acesso insuficiente&quot; ao editar tarefas em linha](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md) | sexta-feira, 13 de novembro de 2025 |
 | [Usuários: não é possível alterar o nível de acesso de um usuário](known-issues-workfront/wf-users-cannot-change-access-level.md) | sexta-feira, 11 de setembro de 2025 |
 | [Integrações: vincular a pasta do  [!DNL Google Drive]  não vincula seus ativos](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | quarta-feira, 25 de junho de 2024 |
 
@@ -38,6 +37,8 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | ---------------------------------- | ----------------- |
+| [Usuários: só é possível pesquisar funções de trabalho por primeira palavra](known-issues-workfront/wf-users-job-role-first-word.md) | sexta-feira, 13 de novembro de 2025 |
+| [Aprovações: links para aprovações não disponíveis](known-issues-workfront/wf-approvals-link-not-appearing.md) | sexta-feira, 13 de novembro de 2025 |
 | [Solicitações: o criador do formulário de solicitação não tem acesso ao formulário](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md) | quarta-feira, 4 de novembro de 2025 |
 | [Aprovações: a aprovação é exibida como &quot;Sem prazo&quot; quando a hora não está incluída no prazo](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | sexta-feira, 25 de setembro de 2025 |
 | [Documentos: usuários adicionados como aprovadores após a conclusão da aprovação não são notificados](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | quarta-feira, 12 de agosto de 2025 |

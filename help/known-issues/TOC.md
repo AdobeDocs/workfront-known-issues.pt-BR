@@ -2,9 +2,9 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: e18ef3485c84425e550a8edf4c1d25182307687b
+source-git-commit: ccf054641b3686bd490bda5e9fd2651194a9a31b
 workflow-type: tm+mt
-source-wordcount: '1492'
+source-wordcount: '1500'
 ht-degree: 62%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 62%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais em [!DNL Adobe Workfront] {#wf-current}
+      + [Tarefas: mensagem &quot;Acesso insuficiente&quot; ao editar tarefas em linha](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md)
       + [Aprovações: os links para aprovações não estão disponíveis](known-issues-workfront/wf-approvals-link-not-appearing.md)
       + [Solicitações: o criador do formulário de solicitação não tem acesso ao formulário](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md)
       + [Usuários: pode pesquisar funções de trabalho somente pela primeira palavra](known-issues-workfront/wf-users-job-role-first-word.md)
@@ -207,7 +208,7 @@ ht-degree: 62%
       + [Os links de ajuda no aplicativo do [!DNL Workfront Fusion] não abrem as respectivas páginas de ajuda](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + Aplicativo móvel [!DNL Workfront] {#mobile}
-   + [Problemas conhecidos no aplicativo móvel do  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problemas conhecidos no aplicativo móvel do  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 
