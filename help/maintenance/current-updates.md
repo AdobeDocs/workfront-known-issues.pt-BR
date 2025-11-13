@@ -3,9 +3,9 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f02312a28e7585e19c4718a71b5198e6e616660a
+source-git-commit: ec8f8260e5ea153b05ca359e4466d98e0bfe4ac0
 workflow-type: tm+mt
-source-wordcount: '2790'
+source-wordcount: '2791'
 ht-degree: 17%
 
 ---
@@ -34,7 +34,7 @@ As seguintes atualizações de manutenção foram efetuadas em 2025.
 
 #### Tipos de registro
 
-**A adição de predecessores não depende mais das subconfigurações de Edição de Tarefas no nível de acesso**
+**As opções Editar e Configurações foram removidas do menu Mais em um tipo de registro**
 
 Removemos as opções Editar e Configurações do menu Mais de um tipo de registro global que foi adicionado a um espaço de trabalho secundário de um tipo de registro global existente. Antes dessa atualização, os menus estavam esmaecidos e inoperantes.
 
