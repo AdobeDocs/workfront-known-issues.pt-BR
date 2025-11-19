@@ -4,9 +4,9 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: b321b403f73cc06c13341286b651f5df0a77add2
+source-git-commit: 59b401c5d3fcab66652479832c7714213ccec699
 workflow-type: tm+mt
-source-wordcount: '1059'
+source-wordcount: '1049'
 ht-degree: 67%
 
 ---
@@ -38,7 +38,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | **Problema** | **Última modificação** |
 | ---------------------------------- | ----------------- |
 | [Tarefas: mensagem de &quot;Acesso insuficiente&quot; ao editar tarefas em linha](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md) | terça-feira, 17 de novembro de 2025 |
-| [Usuários: só é possível pesquisar funções de trabalho por primeira palavra](known-issues-workfront/wf-users-job-role-first-word.md) | sexta-feira, 13 de novembro de 2025 |
 | [Aprovações: links para aprovações não disponíveis](known-issues-workfront/wf-approvals-link-not-appearing.md) | sexta-feira, 13 de novembro de 2025 |
 | [Solicitações: o criador do formulário de solicitação não tem acesso ao formulário](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md) | quarta-feira, 4 de novembro de 2025 |
 | [Aprovações: a aprovação é exibida como &quot;Sem prazo&quot; quando a hora não está incluída no prazo](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | sexta-feira, 25 de setembro de 2025 |
