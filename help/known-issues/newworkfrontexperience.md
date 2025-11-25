@@ -4,10 +4,10 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 59b401c5d3fcab66652479832c7714213ccec699
+source-git-commit: 09e817418fe3c706c6e71ff5bba2ba4fa8864f91
 workflow-type: tm+mt
-source-wordcount: '1049'
-ht-degree: 67%
+source-wordcount: '1074'
+ht-degree: 66%
 
 ---
 
@@ -37,7 +37,10 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | ---------------------------------- | ----------------- |
-| [Tarefas: mensagem de &quot;Acesso insuficiente&quot; ao editar tarefas em linha](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md) | terça-feira, 17 de novembro de 2025 |
+| [Solicitações: permissões não herdadas ao criar uma solicitação](known-issues-workfront/wf-requests-permissions-not-inherited.md) | quarta-feira, 25 de novembro de 2025 |
+| [Atribuições: atribuições de equipe não são salvas](known-issues-workfront/wf-assignments-not-saved.md) | quarta-feira, 25 de novembro de 2025 |
+| [Agendamentos: permissões para agendar revogadas para um grupo](known-issues-workfront/wf-schedules-group-permissions-revoked.md) | quarta-feira, 25 de novembro de 2025 |
+| [Tarefas: horas planejadas não salvas ao criar a tarefa](known-issues-workfront/wf-tasks-planned-hours-not-saving.md) | quarta-feira, 25 de novembro de 2025 |
 | [Aprovações: links para aprovações não disponíveis](known-issues-workfront/wf-approvals-link-not-appearing.md) | sexta-feira, 13 de novembro de 2025 |
 | [Solicitações: o criador do formulário de solicitação não tem acesso ao formulário](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md) | quarta-feira, 4 de novembro de 2025 |
 | [Aprovações: a aprovação é exibida como &quot;Sem prazo&quot; quando a hora não está incluída no prazo](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | sexta-feira, 25 de setembro de 2025 |

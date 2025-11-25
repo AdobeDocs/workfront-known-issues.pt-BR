@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: b321b403f73cc06c13341286b651f5df0a77add2
+source-git-commit: 09e817418fe3c706c6e71ff5bba2ba4fa8864f91
 workflow-type: tm+mt
-source-wordcount: '1504'
-ht-degree: 62%
+source-wordcount: '1534'
+ht-degree: 60%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 62%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais em [!DNL Adobe Workfront] {#wf-current}
+      + [Solicitações: permissões não herdadas ao criar uma solicitação](known-issues-workfront/wf-requests-permissions-not-inherited.md)
+      + [Agendamentos: permissões para agendar revogadas para um grupo](known-issues-workfront/wf-schedules-group-permissions-revoked.md)
+      + [Atribuições: as atribuições de equipe não são salvas](known-issues-workfront/wf-assignments-not-saved.md)
+      + [Tarefas: as horas planejadas não são salvas ao criar a tarefa](known-issues-workfront/wf-tasks-planned-hours-not-saving.md)
       + [Folhas de horas: folhas de horas não geradas](known-issues-workfront/wf-timesheets-not-generated.md)
       + [Tarefas: mensagem &quot;Acesso insuficiente&quot; ao editar tarefas em linha](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md)
       + [Aprovações: os links para aprovações não estão disponíveis](known-issues-workfront/wf-approvals-link-not-appearing.md)
@@ -209,7 +213,7 @@ ht-degree: 62%
       + [Os links de ajuda no aplicativo do [!DNL Workfront Fusion] não abrem as respectivas páginas de ajuda](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + Aplicativo móvel [!DNL Workfront] {#mobile}
-   + [Problemas conhecidos no aplicativo móvel do  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problemas conhecidos no aplicativo móvel do  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 

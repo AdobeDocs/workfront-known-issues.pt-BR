@@ -3,15 +3,19 @@ title: 'Tarefas: mensagem de acesso insuficiente ao editar tarefas em linha'
 description: Quando um usuário tenta editar uma tarefa em linha em uma lista ou relatório, ele não pode editar a tarefa e vê a mensagem Você não tem acesso suficiente para fazer atribuições a essa tarefa.
 hidefromtoc: true
 feature: Tasks
-source-git-commit: ccf054641b3686bd490bda5e9fd2651194a9a31b
+source-git-commit: 09e817418fe3c706c6e71ff5bba2ba4fa8864f91
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 4%
+source-wordcount: '127'
+ht-degree: 8%
 
 ---
 
 
 # Tarefas: mensagem &quot;Acesso insuficiente&quot; ao editar tarefas em linha
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em sábado, 21 de novembro de 2025.
 
 Quando um usuário tenta editar uma tarefa em linha em uma lista ou relatório, não é possível editar a tarefa e é exibida a mensagem &quot;Você não tem acesso suficiente para fazer atribuições a essa tarefa&quot;.
 
