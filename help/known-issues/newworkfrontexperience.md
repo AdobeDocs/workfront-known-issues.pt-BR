@@ -4,10 +4,10 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 09e817418fe3c706c6e71ff5bba2ba4fa8864f91
+source-git-commit: 9bd7c64b0eae377690fee280ef77691b7b2ad446
 workflow-type: tm+mt
-source-wordcount: '1074'
-ht-degree: 66%
+source-wordcount: '1083'
+ht-degree: 65%
 
 ---
 
@@ -25,6 +25,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Usuários: problemas com alterações no Perfil de Prova](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md) | terça-feira, 1 de dezembro de 2025 |
 | [Folhas de horas: folhas de horas não geradas](known-issues-workfront/wf-timesheets-not-generated.md) | terça-feira, 17 de novembro de 2025 |
 | [Usuários: não é possível alterar o nível de acesso de um usuário](known-issues-workfront/wf-users-cannot-change-access-level.md) | sexta-feira, 11 de setembro de 2025 |
 | [Integrações: vincular a pasta do  [!DNL Google Drive]  não vincula seus ativos](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | quarta-feira, 25 de junho de 2024 |
@@ -37,12 +38,12 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | ---------------------------------- | ----------------- |
+| [Tarefas: a seção Edições nas Atribuições de uma tarefa não é salva](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | terça-feira, 1 de dezembro de 2025 |
 | [Solicitações: permissões não herdadas ao criar uma solicitação](known-issues-workfront/wf-requests-permissions-not-inherited.md) | quarta-feira, 25 de novembro de 2025 |
 | [Atribuições: atribuições de equipe não são salvas](known-issues-workfront/wf-assignments-not-saved.md) | quarta-feira, 25 de novembro de 2025 |
 | [Agendamentos: permissões para agendar revogadas para um grupo](known-issues-workfront/wf-schedules-group-permissions-revoked.md) | quarta-feira, 25 de novembro de 2025 |
 | [Tarefas: horas planejadas não salvas ao criar a tarefa](known-issues-workfront/wf-tasks-planned-hours-not-saving.md) | quarta-feira, 25 de novembro de 2025 |
 | [Aprovações: links para aprovações não disponíveis](known-issues-workfront/wf-approvals-link-not-appearing.md) | sexta-feira, 13 de novembro de 2025 |
-| [Solicitações: o criador do formulário de solicitação não tem acesso ao formulário](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md) | quarta-feira, 4 de novembro de 2025 |
 | [Aprovações: a aprovação é exibida como &quot;Sem prazo&quot; quando a hora não está incluída no prazo](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | sexta-feira, 25 de setembro de 2025 |
 | [Documentos: usuários adicionados como aprovadores após a conclusão da aprovação não são notificados](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | quarta-feira, 12 de agosto de 2025 |
 | [Provas: não é possível marcar usuários em comentários de prova](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | sexta-feira, 10 de julho de 2025 |

@@ -3,10 +3,10 @@ title: 'Solicitações: o criador do formulário de solicitação não tem acess
 description: Quando um usuário cria um formulário de solicitação no Workfront Planning e, em seguida, tenta acessar o formulário, ele não pode acessá-lo e vê a mensagem Você não tem acesso a este formulário.
 hidefromtoc: true
 feature: Requests
-source-git-commit: e18ef3485c84425e550a8edf4c1d25182307687b
+source-git-commit: 9bd7c64b0eae377690fee280ef77691b7b2ad446
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 4%
+source-wordcount: '106'
+ht-degree: 9%
 
 ---
 
@@ -15,7 +15,8 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->Esse problema está relacionado à funcionalidade disponível somente no Workfront Planning.
+>* Esse problema foi corrigido em quinta-feira, 26 de novembro de 2025.
+>* Esse problema está relacionado à funcionalidade disponível somente no Workfront Planning.
 
 Quando um usuário cria um formulário de solicitação no Workfront Planning e, em seguida, tenta acessar o formulário, não é possível acessá-lo e é exibida a mensagem &quot;Você não tem acesso a este formulário&quot;.
 

@@ -2,9 +2,9 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 09e817418fe3c706c6e71ff5bba2ba4fa8864f91
+source-git-commit: 9bd7c64b0eae377690fee280ef77691b7b2ad446
 workflow-type: tm+mt
-source-wordcount: '1534'
+source-wordcount: '1552'
 ht-degree: 60%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 60%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais em [!DNL Adobe Workfront] {#wf-current}
+      + [Tarefas: as edições na seção Atribuições de uma tarefa não são salvas](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md)
+      + [Usuários: problemas com alterações no Perfil de prova](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md)
       + [Solicitações: permissões não herdadas ao criar uma solicitação](known-issues-workfront/wf-requests-permissions-not-inherited.md)
       + [Agendamentos: permissões para agendar revogadas para um grupo](known-issues-workfront/wf-schedules-group-permissions-revoked.md)
       + [Atribuições: as atribuições de equipe não são salvas](known-issues-workfront/wf-assignments-not-saved.md)
@@ -213,7 +215,7 @@ ht-degree: 60%
       + [Os links de ajuda no aplicativo do [!DNL Workfront Fusion] não abrem as respectivas páginas de ajuda](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + Aplicativo móvel [!DNL Workfront] {#mobile}
-   + [Problemas conhecidos no aplicativo móvel do  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problemas conhecidos no aplicativo móvel do  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 
