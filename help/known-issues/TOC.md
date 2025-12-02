@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 9bd7c64b0eae377690fee280ef77691b7b2ad446
+source-git-commit: aaaf2be1a00c0b401d54ec152d3b8fb35323459e
 workflow-type: tm+mt
-source-wordcount: '1552'
-ht-degree: 60%
+source-wordcount: '1560'
+ht-degree: 59%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 60%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais em [!DNL Adobe Workfront] {#wf-current}
+      + [Solicitações: não é possível carregar o documento para a solicitação do GDrive](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md)
       + [Tarefas: as edições na seção Atribuições de uma tarefa não são salvas](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md)
       + [Usuários: problemas com alterações no Perfil de prova](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md)
       + [Solicitações: permissões não herdadas ao criar uma solicitação](known-issues-workfront/wf-requests-permissions-not-inherited.md)
@@ -215,7 +216,7 @@ ht-degree: 60%
       + [Os links de ajuda no aplicativo do [!DNL Workfront Fusion] não abrem as respectivas páginas de ajuda](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + Aplicativo móvel [!DNL Workfront] {#mobile}
-   + [Problemas conhecidos no aplicativo móvel do  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problemas conhecidos no aplicativo móvel do  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 

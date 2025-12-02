@@ -4,9 +4,9 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9bd7c64b0eae377690fee280ef77691b7b2ad446
+source-git-commit: aaaf2be1a00c0b401d54ec152d3b8fb35323459e
 workflow-type: tm+mt
-source-wordcount: '1083'
+source-wordcount: '1092'
 ht-degree: 65%
 
 ---
@@ -38,6 +38,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | ---------------------------------- | ----------------- |
+| [Solicitações: não é possível carregar documento para solicitação do GDrive](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md) | quarta-feira, 2 de dezembro de 2025 |
 | [Tarefas: a seção Edições nas Atribuições de uma tarefa não é salva](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | terça-feira, 1 de dezembro de 2025 |
 | [Solicitações: permissões não herdadas ao criar uma solicitação](known-issues-workfront/wf-requests-permissions-not-inherited.md) | quarta-feira, 25 de novembro de 2025 |
 | [Atribuições: atribuições de equipe não são salvas](known-issues-workfront/wf-assignments-not-saved.md) | quarta-feira, 25 de novembro de 2025 |
