@@ -4,9 +4,9 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: bdd9120739d574c2f22021b7bb5ed0066b79f402
+source-git-commit: 83a9a47d5d3e8a27e4cd98e447accd1d395e883d
 workflow-type: tm+mt
-source-wordcount: '1083'
+source-wordcount: '1094'
 ht-degree: 65%
 
 ---
@@ -38,6 +38,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | ---------------------------------- | ----------------- |
+| [Usuários: a edição de usuários em massa remove pools de recursos e subordinados diretos](known-issues-workfront/wf-users-bulk-editing-clears-resource-pools.md) | sexta-feira, 4 de dezembro de 2025 |
 | [Solicitações: não é possível carregar documento para solicitação do GDrive](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md) | quarta-feira, 2 de dezembro de 2025 |
 | [Tarefas: a seção Edições nas Atribuições de uma tarefa não é salva](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | terça-feira, 1 de dezembro de 2025 |
 | [Solicitações: permissões não herdadas ao criar uma solicitação](known-issues-workfront/wf-requests-permissions-not-inherited.md) | quarta-feira, 25 de novembro de 2025 |
