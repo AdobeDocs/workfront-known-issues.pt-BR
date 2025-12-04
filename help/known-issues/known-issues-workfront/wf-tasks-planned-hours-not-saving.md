@@ -3,15 +3,19 @@ title: 'Tarefas: as horas planejadas não são salvas ao criar a tarefa'
 description: ''
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 09e817418fe3c706c6e71ff5bba2ba4fa8864f91
+source-git-commit: bdd9120739d574c2f22021b7bb5ed0066b79f402
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 9%
+source-wordcount: '58'
+ht-degree: 18%
 
 ---
 
 
 # Tarefas: as horas planejadas não são salvas ao criar a tarefa
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em quinta-feira, 3 de dezembro de 2025.
 
 Quando um usuário cria uma tarefa e insere Horas planejadas e salva a tarefa, as Horas planejadas não são salvas.
 
