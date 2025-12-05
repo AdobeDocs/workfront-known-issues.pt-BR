@@ -4,9 +4,9 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 83a9a47d5d3e8a27e4cd98e447accd1d395e883d
+source-git-commit: 11192c5977f47ed04fd7cef0b059d20a8af29221
 workflow-type: tm+mt
-source-wordcount: '1094'
+source-wordcount: '1096'
 ht-degree: 65%
 
 ---
@@ -25,7 +25,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Usuários: problemas com alterações no Perfil de Prova](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md) | terça-feira, 1 de dezembro de 2025 |
+| [Tarefas: edições em linha em uma tarefa não são salvas](known-issues-workfront/wf-tasks-inline-changes-not-saving.md) | sábado, 5 de dezembro de 2025 |
 | [Folhas de horas: folhas de horas não geradas](known-issues-workfront/wf-timesheets-not-generated.md) | terça-feira, 17 de novembro de 2025 |
 | [Usuários: não é possível alterar o nível de acesso de um usuário](known-issues-workfront/wf-users-cannot-change-access-level.md) | sexta-feira, 11 de setembro de 2025 |
 | [Integrações: vincular a pasta do  [!DNL Google Drive]  não vincula seus ativos](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | quarta-feira, 25 de junho de 2024 |
