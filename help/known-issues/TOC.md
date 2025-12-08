@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 11192c5977f47ed04fd7cef0b059d20a8af29221
+source-git-commit: d01bdae322f5bf46acc55fd638df4cc995b4fe2a
 workflow-type: tm+mt
-source-wordcount: '1579'
-ht-degree: 59%
+source-wordcount: '1607'
+ht-degree: 58%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 59%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais em [!DNL Adobe Workfront] {#wf-current}
+      + [Formulários personalizados: não é possível editar campos de rich text](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md)
+      + [Usuários: erro ao abrir a página Usuários](known-issues-workfront/wf-users-cannot-open-user-tab.md)
+      + [Tarefas: não é possível selecionar a função de usuário ao criar uma tarefa](known-issues-workfront/wf-tasks-cannot-assign-user-role.md)
+      + [Provas: as alterações no status da prova estão atrasadas](known-issues-workfront/wf-proof-status-sync-delayed.md)
       + [Tarefas: as edições em linha em uma tarefa não são salvas](known-issues-workfront/wf-tasks-inline-changes-not-saving.md)
       + [Usuários: a edição em massa de usuários remove os pools de recursos e os subordinados diretos](known-issues-workfront/wf-users-bulk-editing-clears-resource-pools.md)
       + [Solicitações: não é possível carregar o documento para a solicitação do GDrive](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md)
@@ -218,7 +222,7 @@ ht-degree: 59%
       + [Os links de ajuda no aplicativo do [!DNL Workfront Fusion] não abrem as respectivas páginas de ajuda](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + Aplicativo móvel [!DNL Workfront] {#mobile}
-   + [Problemas conhecidos no aplicativo móvel do  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problemas conhecidos no aplicativo móvel do  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 

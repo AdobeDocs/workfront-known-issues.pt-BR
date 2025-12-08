@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: aaaf2be1a00c0b401d54ec152d3b8fb35323459e
+source-git-commit: d01bdae322f5bf46acc55fd638df4cc995b4fe2a
 workflow-type: tm+mt
-source-wordcount: '421'
-ht-degree: 80%
+source-wordcount: '428'
+ht-degree: 78%
 
 ---
 
@@ -37,6 +37,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
+| [Provas: as alterações de status da prova estão atrasadas](known-issues-workfront/wf-proof-status-sync-delayed.md) | terça-feira, 8 de dezembro de 2025 |
 | [Solicitações: não é possível carregar documento para solicitação do GDrive](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md) | quarta-feira, 2 de dezembro de 2025 |
 | [Documentos: usuários adicionados como aprovadores após a conclusão da aprovação não são notificados](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | quarta-feira, 12 de agosto de 2025 |
 | [Documentos: as miniaturas de documentos não são exibidas](known-issues-workfront/wf-documents-thumbnails-not-display.md) | sexta-feira, 17 de abril de 2025 |
