@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: d01bdae322f5bf46acc55fd638df4cc995b4fe2a
+source-git-commit: 11232c4d8dcbd3aaad6221be6c06b2fed6b492be
 workflow-type: tm+mt
-source-wordcount: '1607'
-ht-degree: 58%
+source-wordcount: '1618'
+ht-degree: 57%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 58%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais em [!DNL Adobe Workfront] {#wf-current}
+      + [Usuários: a opção para gerar provas automaticamente está ausente do perfil do usuário](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md)
       + [Formulários personalizados: não é possível editar campos de rich text](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md)
       + [Usuários: erro ao abrir a página Usuários](known-issues-workfront/wf-users-cannot-open-user-tab.md)
       + [Tarefas: não é possível selecionar a função de usuário ao criar uma tarefa](known-issues-workfront/wf-tasks-cannot-assign-user-role.md)
@@ -222,7 +223,7 @@ ht-degree: 58%
       + [Os links de ajuda no aplicativo do [!DNL Workfront Fusion] não abrem as respectivas páginas de ajuda](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + Aplicativo móvel [!DNL Workfront] {#mobile}
-   + [Problemas conhecidos no aplicativo móvel do  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problemas conhecidos no aplicativo móvel do  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 

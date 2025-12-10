@@ -3,9 +3,9 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 714d49f190bbe66d94c2cd86d68e46500f130d1a
+source-git-commit: bc0c04caa8b45bc8bd9e0417f4ca3713741ab852
 workflow-type: tm+mt
-source-wordcount: '2943'
+source-wordcount: '3008'
 ht-degree: 16%
 
 ---
@@ -25,6 +25,20 @@ Para obter atualizações de manutenção anteriores a 2025, consulte [Atualiza�
 As seguintes atualizações de manutenção foram efetuadas em 2025.
 
 ## Atualizações em dezembro de 2025
+
++++**Semana de atualizações de manutenção de 7 a 13 de dezembro de 2025**
+
+### Atualizações de manutenção semana de 7 a 13 de dezembro de 2025
+
+#### Usuários
+
+**Usuários de edição em massa removem pools de recursos e subordinados diretos**
+
+Quando um usuário estiver editando usuários em massa, clicar no campo Conjuntos de recursos e não inserir um valor, os Conjuntos de recursos de todos os usuários editados serão removidos.
+
+A edição em massa também pode remover os subordinados diretos dos usuários editados.
+
++++
 
 +++**Semana de atualizações de manutenção de 30 de novembro a 6 de dezembro de 2025**
 
