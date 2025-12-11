@@ -4,7 +4,7 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: bc0c04caa8b45bc8bd9e0417f4ca3713741ab852
+source-git-commit: b8d2f9e8568ff35b92be88eb03c795b3f2dd691d
 workflow-type: tm+mt
 source-wordcount: '1129'
 ht-degree: 63%
@@ -28,7 +28,6 @@ Estes problemas recentemente relatados estão atualmente em análise.
 | [Formulários personalizados: não é possível editar campos de rich text](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md) | terça-feira, 8 de dezembro de 2025 |
 | [Tarefas: não é possível selecionar a função de usuário ao criar uma tarefa](known-issues-workfront/wf-tasks-cannot-assign-user-role.md) | terça-feira, 8 de dezembro de 2025 |
 | [Tarefas: edições em linha em uma tarefa não são salvas](known-issues-workfront/wf-tasks-inline-changes-not-saving.md) | sábado, 5 de dezembro de 2025 |
-| [Folhas de horas: folhas de horas não geradas](known-issues-workfront/wf-timesheets-not-generated.md) | terça-feira, 17 de novembro de 2025 |
 | [Usuários: não é possível alterar o nível de acesso de um usuário](known-issues-workfront/wf-users-cannot-change-access-level.md) | sexta-feira, 11 de setembro de 2025 |
 | [Integrações: vincular a pasta do  [!DNL Google Drive]  não vincula seus ativos](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | quarta-feira, 25 de junho de 2024 |
 
@@ -40,6 +39,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | ---------------------------------- | ----------------- |
+| [Folhas de horas: folhas de horas não geradas](known-issues-workfront/wf-timesheets-not-generated.md) | sexta-feira, 11 de dezembro de 2025 |
 | [Usuários: a opção para gerar provas automaticamente está ausente do perfil do usuário](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md) | quinta-feira, 10 de dezembro de 2025 |
 | [Usuários: erro ao abrir a página Usuários](known-issues-workfront/wf-users-cannot-open-user-tab.md) | terça-feira, 8 de dezembro de 2025 |
 | [Provas: as alterações de status da prova estão atrasadas](known-issues-workfront/wf-proof-status-sync-delayed.md) | terça-feira, 8 de dezembro de 2025 |
