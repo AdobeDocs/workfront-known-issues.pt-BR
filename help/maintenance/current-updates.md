@@ -3,9 +3,9 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: bc0c04caa8b45bc8bd9e0417f4ca3713741ab852
+source-git-commit: e55fc268af331c75b7f2d1094edf483668e97080
 workflow-type: tm+mt
-source-wordcount: '3008'
+source-wordcount: '3103'
 ht-degree: 16%
 
 ---
@@ -30,6 +30,13 @@ As seguintes atualizações de manutenção foram efetuadas em 2025.
 
 ### Atualizações de manutenção semana de 7 a 13 de dezembro de 2025
 
+#### Solicitações
+
+**Não é possível carregar documento para solicitação do GDrive**
+
+Quando um usuário cria uma solicitação na nova experiência de solicitação e tenta fazer upload de um documento do GDrive, a janela do GDrive não responde. O usuário não consegue selecionar um arquivo ou fechar a janela.
+
+
 #### Usuários
 
 **Usuários de edição em massa removem pools de recursos e subordinados diretos**
@@ -37,6 +44,12 @@ As seguintes atualizações de manutenção foram efetuadas em 2025.
 Quando um usuário estiver editando usuários em massa, clicar no campo Conjuntos de recursos e não inserir um valor, os Conjuntos de recursos de todos os usuários editados serão removidos.
 
 A edição em massa também pode remover os subordinados diretos dos usuários editados.
+
+**Erro ao abrir a página Usuários**
+
+Quando um usuário tenta abrir a página Usuários no menu principal, a página não abre e o usuário vê a seguinte mensagem:
+
+“Ocorreu um erro e estamos trabalhando para resolver o problema. Para continuar com seu trabalho, tente atualizar esta página do navegador.“
 
 +++
 
@@ -141,7 +154,7 @@ Quando um usuário preenche um formulário personalizado que inclui lógica de e
 
 **Não é possível fechar o visualizador de provas**
 
-Quando alguém visualiza uma prova no visualizador de provas e tenta fechá-la clicando em X no canto superior direito, a prova não é fechada.
+Quando alguém visualiza uma revisão no visualizador de revisões e tenta fechá-la clicando em X no canto superior direito, a revisão não é fechada.
 
 +++
 

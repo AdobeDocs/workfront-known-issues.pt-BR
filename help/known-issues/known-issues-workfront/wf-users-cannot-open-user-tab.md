@@ -3,15 +3,19 @@ title: 'Usuários: erro ao abrir a página Usuários'
 description: Quando um usuário tenta abrir a página Usuários no menu principal, a página não abre e o usuário vê uma mensagem de erro.
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: d01bdae322f5bf46acc55fd638df4cc995b4fe2a
+source-git-commit: e55fc268af331c75b7f2d1094edf483668e97080
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 29%
+source-wordcount: '94'
+ht-degree: 34%
 
 ---
 
 
 # Usuários: erro ao abrir a página Usuários
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em sábado, 12 de dezembro de 2025.
 
 Quando um usuário tenta abrir a página Usuários no menu principal, a página não abre e o usuário vê a seguinte mensagem:
 

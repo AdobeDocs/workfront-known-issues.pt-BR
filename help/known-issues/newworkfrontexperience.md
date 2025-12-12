@@ -4,10 +4,10 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c959c8460956a227157853d54f2f54d1a03229b4
+source-git-commit: e55fc268af331c75b7f2d1094edf483668e97080
 workflow-type: tm+mt
-source-wordcount: '1145'
-ht-degree: 62%
+source-wordcount: '1129'
+ht-degree: 63%
 
 ---
 
@@ -43,9 +43,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | [Usuários: problemas com alterações no Perfil de Prova](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md) | sábado, 12 de dezembro de 2025 |
 | [Folhas de horas: folhas de horas não geradas](known-issues-workfront/wf-timesheets-not-generated.md) | sexta-feira, 11 de dezembro de 2025 |
 | [Usuários: a opção para gerar provas automaticamente está ausente do perfil do usuário](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md) | quinta-feira, 10 de dezembro de 2025 |
-| [Usuários: erro ao abrir a página Usuários](known-issues-workfront/wf-users-cannot-open-user-tab.md) | terça-feira, 8 de dezembro de 2025 |
 | [Provas: as alterações de status da prova estão atrasadas](known-issues-workfront/wf-proof-status-sync-delayed.md) | terça-feira, 8 de dezembro de 2025 |
-| [Solicitações: não é possível carregar documento para solicitação do GDrive](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md) | quarta-feira, 2 de dezembro de 2025 |
 | [Tarefas: a seção Edições nas Atribuições de uma tarefa não é salva](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | terça-feira, 1 de dezembro de 2025 |
 | [Solicitações: permissões não herdadas ao criar uma solicitação](known-issues-workfront/wf-requests-permissions-not-inherited.md) | quarta-feira, 25 de novembro de 2025 |
 | [Atribuições: atribuições de equipe não são salvas](known-issues-workfront/wf-assignments-not-saved.md) | quarta-feira, 25 de novembro de 2025 |
