@@ -2,9 +2,9 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: c959c8460956a227157853d54f2f54d1a03229b4
+source-git-commit: 7039085dbf83aa47d1ba70c8484e5d8572dee770
 workflow-type: tm+mt
-source-wordcount: '1625'
+source-wordcount: '1632'
 ht-degree: 57%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 57%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais em [!DNL Adobe Workfront] {#wf-current}
+      + [Aprovações: o widget Minhas aprovações mostra aprovações concluídas](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md)
       + [Workfront Planning: erro ao remover campo conectado](known-issues-workfront/wf-planning-cannot-delete-connected-field.md)
       + [Usuários: a opção para gerar provas automaticamente está ausente do perfil do usuário](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md)
       + [Formulários personalizados: não é possível editar campos de rich text](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md)
@@ -224,7 +225,7 @@ ht-degree: 57%
       + [Os links de ajuda no aplicativo do [!DNL Workfront Fusion] não abrem as respectivas páginas de ajuda](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + Aplicativo móvel [!DNL Workfront] {#mobile}
-   + [Problemas conhecidos no aplicativo móvel do  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problemas conhecidos no aplicativo móvel do  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 

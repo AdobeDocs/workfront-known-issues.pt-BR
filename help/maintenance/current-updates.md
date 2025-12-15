@@ -3,9 +3,9 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e55fc268af331c75b7f2d1094edf483668e97080
+source-git-commit: 7039085dbf83aa47d1ba70c8484e5d8572dee770
 workflow-type: tm+mt
-source-wordcount: '3103'
+source-wordcount: '3210'
 ht-degree: 16%
 
 ---
@@ -25,6 +25,30 @@ Para obter atualizações de manutenção anteriores a 2025, consulte [Atualiza�
 As seguintes atualizações de manutenção foram efetuadas em 2025.
 
 ## Atualizações em dezembro de 2025
+
++++**Semana de atualizações de manutenção de 14 a 20 de dezembro de 2025**
+
+### Atualizações de manutenção semana de 14 a 20 de dezembro de 2025
+
+#### Atribuições
+
+**As atribuições de equipe não foram salvas**
+
+Quando um usuário atribui uma equipe a um item de trabalho no Workfront, a atribuição da equipe não é salva e a equipe não é notificada do trabalho.
+
+#### Tarefas
+
+**Edições embutidas em uma tarefa não são salvas**
+
+Quando um usuário faz alterações em linha em uma tarefa na experiência de tarefa herdada e as salva, as alterações não são salvas.
+
+#### Planilhas de horas
+
+**Planilha de horas não gerada**
+
+As folhas de horas não são geradas automaticamente conforme esperado. Isso pode ocorrer mesmo que os perfis da folha de horas sejam precisos e as folhas de horas de outras semanas sejam geradas corretamente.
+
++++
 
 +++**Semana de atualizações de manutenção de 7 a 13 de dezembro de 2025**
 
