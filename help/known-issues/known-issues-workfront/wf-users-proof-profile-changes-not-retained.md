@@ -3,21 +3,19 @@ title: 'Usuários: problemas com alterações no Perfil de prova'
 description: Problemas foram relatados em relação a fazer alterações no Perfil de prova de um usuário.
 hidefromtoc: true
 feature: People Teams and Groups, Digital Content and Documents
-source-git-commit: c959c8460956a227157853d54f2f54d1a03229b4
+source-git-commit: fb31912bbb8e62578293dc0b4df3761f433913da
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 3%
+source-wordcount: '113'
+ht-degree: 8%
 
 ---
 
 
 # Usuários: problemas com alterações no Perfil de prova
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on December 5, 2025.
--->
+>Esse problema foi corrigido em quinta-feira, 17 de dezembro de 2025.
 
 Os seguintes problemas foram relatados em relação a fazer alterações no Perfil de prova de um usuário:
 
