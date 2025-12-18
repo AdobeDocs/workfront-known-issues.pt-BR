@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 7039085dbf83aa47d1ba70c8484e5d8572dee770
+source-git-commit: db432f61d90c0900d7522c64c7feb990268b5542
 workflow-type: tm+mt
-source-wordcount: '3210'
-ht-degree: 16%
+source-wordcount: '3378'
+ht-degree: 15%
 
 ---
 
@@ -36,6 +36,13 @@ As seguintes atualizações de manutenção foram efetuadas em 2025.
 
 Quando um usuário atribui uma equipe a um item de trabalho no Workfront, a atribuição da equipe não é salva e a equipe não é notificada do trabalho.
 
+#### Cronogramas
+
+**Permissões para agendar revogadas para um grupo**
+
+Quando um administrador de grupo do Workfront adiciona uma exceção de data a um agendamento e salva as alterações, as permissões desse agendamento são removidas do grupo e o administrador do Workfront deve conceder acesso ao grupo.
+
+
 #### Tarefas
 
 **Edições embutidas em uma tarefa não são salvas**
@@ -47,6 +54,20 @@ Quando um usuário faz alterações em linha em uma tarefa na experiência de ta
 **Planilha de horas não gerada**
 
 As folhas de horas não são geradas automaticamente conforme esperado. Isso pode ocorrer mesmo que os perfis da folha de horas sejam precisos e as folhas de horas de outras semanas sejam geradas corretamente.
+
+#### Usuários
+
+**Problemas com alterações no Perfil de Prova**
+
+Os seguintes problemas foram relatados em relação a fazer alterações no Perfil de prova de um usuário:
+
+* Quando um usuário atribui um Perfil de prova diferente a um usuário e o salva, a alteração não é salva e o usuário retém o Perfil de prova anterior.
+* O Perfil de prova de um usuário pode ser exibido como o Perfil de prova incorreto, mesmo se o Perfil de prova correto for atribuído.
+* Quando outras alterações são feitas em um usuário, as permissões de Prova também podem mudar.
+
+**A opção para gerar provas automaticamente está ausente do perfil do usuário**
+
+Quando um usuário está visualizando um perfil de usuário, a opção &quot;Gerar provas automaticamente ao carregar documentos&quot; não está disponível. Isso pode ocorrer mesmo que todos os pré-requisitos para a opção tenham sido atendidos.
 
 +++
 
