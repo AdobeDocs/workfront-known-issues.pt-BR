@@ -4,10 +4,10 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f10450876e7ccd1b308772778d1be0cd76f6e57e
+source-git-commit: 7205e0ba40ca755843cd12fae66ae147548618dc
 workflow-type: tm+mt
-source-wordcount: '1089'
-ht-degree: 65%
+source-wordcount: '1041'
+ht-degree: 68%
 
 ---
 
@@ -25,10 +25,8 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | --- | --- |
-| [Workfront Planning: erro ao remover o campo conectado](known-issues-workfront/wf-planning-cannot-delete-connected-field.md) | sábado, 12 de dezembro de 2025 |
 | [Formulários personalizados: não é possível editar campos de rich text](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md) | terça-feira, 8 de dezembro de 2025 |
 | [Tarefas: não é possível selecionar a função de usuário ao criar uma tarefa](known-issues-workfront/wf-tasks-cannot-assign-user-role.md) | terça-feira, 8 de dezembro de 2025 |
-| [Usuários: não é possível alterar o nível de acesso de um usuário](known-issues-workfront/wf-users-cannot-change-access-level.md) | sexta-feira, 11 de setembro de 2025 |
 | [Integrações: vincular a pasta do  [!DNL Google Drive]  não vincula seus ativos](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | quarta-feira, 25 de junho de 2024 |
 
 {style="table-layout:auto"}
@@ -39,14 +37,11 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | --- | --- |
-| [Workfront Planning: não é possível adicionar um campo a uma exibição](known-issues-workfront/wf-planning-cannot-add-field.md) | terça-feira, 15 de dezembro de 2025 |
 | [Aprovações: o widget Minhas aprovações mostra as aprovações concluídas](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | terça-feira, 15 de dezembro de 2025 |
 | [Provas: as alterações de status da prova estão atrasadas](known-issues-workfront/wf-proof-status-sync-delayed.md) | terça-feira, 8 de dezembro de 2025 |
 | [Tarefas: a seção Edições nas Atribuições de uma tarefa não é salva](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | terça-feira, 1 de dezembro de 2025 |
 | [Solicitações: permissões não herdadas ao criar uma solicitação](known-issues-workfront/wf-requests-permissions-not-inherited.md) | quarta-feira, 25 de novembro de 2025 |
 | [Aprovações: a aprovação é exibida como &quot;Sem prazo&quot; quando a hora não está incluída no prazo](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | sexta-feira, 25 de setembro de 2025 |
-| [Documentos: usuários adicionados como aprovadores após a conclusão da aprovação não são notificados](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | quarta-feira, 12 de agosto de 2025 |
-| [Provas: não é possível marcar usuários em comentários de prova](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | sexta-feira, 10 de julho de 2025 |
 | [Workfront: objetos fora de sincronia entre o Workfront e o Snowflake](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | quarta-feira, 17 de junho de 2025 |
 | [Usuários: o selo &quot;Aprovação pendente&quot; é exibido para novos usuários](known-issues-workfront/wf-users-pending-approval.md) | sábado, 23 de maio de 2025 |
 | [Documentos: as miniaturas de documentos não são exibidas](known-issues-workfront/wf-documents-thumbnails-not-display.md) | sexta-feira, 17 de abril de 2025 |
