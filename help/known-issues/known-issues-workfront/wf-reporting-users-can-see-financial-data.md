@@ -3,7 +3,7 @@ title: 'Relatórios: os usuários podem ver dados financeiros nas visualizaçõe
 description: Os usuários com acesso de Visualização ou Edição de Dados Financeiros em seu nível de acesso podem ver dados financeiros em visualizações do Painel do Canvas, mesmo se a permissão de Visualização de finanças for removida no nível de tarefa ou projeto.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: a76c92773d0c295c5fc726062f765ffd37611037
+source-git-commit: fc6c4f1fa7f563ef7d7aa9335fb8b89025fcb572
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
