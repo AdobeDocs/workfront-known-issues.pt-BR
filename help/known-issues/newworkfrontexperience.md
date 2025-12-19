@@ -4,9 +4,9 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: db432f61d90c0900d7522c64c7feb990268b5542
+source-git-commit: f10450876e7ccd1b308772778d1be0cd76f6e57e
 workflow-type: tm+mt
-source-wordcount: '1096'
+source-wordcount: '1089'
 ht-degree: 65%
 
 ---
@@ -24,7 +24,7 @@ Esta página contém problemas identificados atualmente no [!DNL Adobe Workfront
 Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
-| ----------------------------------------------------------------- | ----------------- |
+| --- | --- |
 | [Workfront Planning: erro ao remover o campo conectado](known-issues-workfront/wf-planning-cannot-delete-connected-field.md) | sábado, 12 de dezembro de 2025 |
 | [Formulários personalizados: não é possível editar campos de rich text](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md) | terça-feira, 8 de dezembro de 2025 |
 | [Tarefas: não é possível selecionar a função de usuário ao criar uma tarefa](known-issues-workfront/wf-tasks-cannot-assign-user-role.md) | terça-feira, 8 de dezembro de 2025 |
@@ -38,13 +38,12 @@ Estes problemas recentemente relatados estão atualmente em análise.
 As correções para esses problemas estão em andamento ou estão programadas para serem feitas em breve.
 
 | **Problema** | **Última modificação** |
-| ---------------------------------- | ----------------- |
+| --- | --- |
 | [Workfront Planning: não é possível adicionar um campo a uma exibição](known-issues-workfront/wf-planning-cannot-add-field.md) | terça-feira, 15 de dezembro de 2025 |
 | [Aprovações: o widget Minhas aprovações mostra as aprovações concluídas](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | terça-feira, 15 de dezembro de 2025 |
 | [Provas: as alterações de status da prova estão atrasadas](known-issues-workfront/wf-proof-status-sync-delayed.md) | terça-feira, 8 de dezembro de 2025 |
 | [Tarefas: a seção Edições nas Atribuições de uma tarefa não é salva](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | terça-feira, 1 de dezembro de 2025 |
 | [Solicitações: permissões não herdadas ao criar uma solicitação](known-issues-workfront/wf-requests-permissions-not-inherited.md) | quarta-feira, 25 de novembro de 2025 |
-| [Aprovações: links para aprovações não disponíveis](known-issues-workfront/wf-approvals-link-not-appearing.md) | sexta-feira, 13 de novembro de 2025 |
 | [Aprovações: a aprovação é exibida como &quot;Sem prazo&quot; quando a hora não está incluída no prazo](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | sexta-feira, 25 de setembro de 2025 |
 | [Documentos: usuários adicionados como aprovadores após a conclusão da aprovação não são notificados](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | quarta-feira, 12 de agosto de 2025 |
 | [Provas: não é possível marcar usuários em comentários de prova](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | sexta-feira, 10 de julho de 2025 |
@@ -60,7 +59,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 No momento, as correções para esses problemas não estão no roteiro, mas há soluções alternativas disponíveis e descritas no artigo para cada problema.
 
 | **Problema** | **Última modificação** |
-| -----------------------------------------------------------------| ----------------- |
+| --- | --- |
 | [Aprovações: os botões de decisão de aprovação não são exibidos no Visualizador de prova](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md) | quarta-feira, 30 de setembro de 2025 |
 | [Provas: não é possível gerar uma prova de um arquivo do PowerPoint](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md) | sexta-feira, 11 de setembro de 2025 |
 | [Permissões: as permissões do objeto não foram herdadas corretamente](known-issues-workfront/wf-permissions-not-inherited-correctly.md) | quarta-feira, 15 de julho de 2025 |
@@ -98,7 +97,7 @@ No momento, as correções para esses problemas não estão no roteiro, mas há 
 No momento, as correções para esses problemas não estão no roteiro. Em alguns casos, esses problemas serão corrigidos por atualizações ou novos recursos.
 
 | **Problema** | **Última modificação** |
-| -----------------------------------------------------------------| ----------------- |
+| --- | --- |
 | [Provas: não é possível adicionar usuários a uma prova por nome no ambiente de Pré-visualização](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | terça-feira, 16 de junho de 2025 |
 | [Provas: fechando redirecionamentos de prova para a lista de documentos](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | quinta-feira, 14 de maio de 2025 |
 | [Equipes: não é possível excluir a equipe nem exibir seu proprietário](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | sexta-feira, 13 de março de 2025 |
