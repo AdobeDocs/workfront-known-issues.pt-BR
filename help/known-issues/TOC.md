@@ -2,7 +2,7 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: bf06e93ba58692c35f9561c7bed67cb1da3541b5
+source-git-commit: a76c92773d0c295c5fc726062f765ffd37611037
 workflow-type: tm+mt
 source-wordcount: '1533'
 ht-degree: 60%
@@ -17,7 +17,7 @@ ht-degree: 60%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais em [!DNL Adobe Workfront] {#wf-current}
-      + [Relatórios: os usuários podem ver dados financeiros em visualizações do Painel de controle do Canvas](known-issues-workfront/wf-reporting-users-can-see-financial-date.md)
+      + [Relatórios: os usuários podem ver dados financeiros em visualizações do Painel de controle do Canvas](known-issues-workfront/wf-reporting-users-can-see-financial-data.md)
       + [Workfront Planning: não é possível adicionar um campo a uma exibição](known-issues-workfront/wf-planning-cannot-add-field.md)
       + [Aprovações: o widget Minhas aprovações mostra aprovações concluídas](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md)
       + [Workfront Planning: erro ao remover campo conectado](known-issues-workfront/wf-planning-cannot-delete-connected-field.md)
@@ -213,7 +213,7 @@ ht-degree: 60%
    + [Problemas conhecidos no  [!DNL Workfront] Planning](workfrontplanning.md)
 
 + Aplicativo móvel [!DNL Workfront] {#mobile}
-   + [Problemas conhecidos no aplicativo móvel do  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problemas conhecidos no aplicativo móvel do  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 
