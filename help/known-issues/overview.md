@@ -18,4 +18,4 @@ Para obter informações sobre problemas identificados no produto [!DNL Workfron
 * [Problemas conhecidos no [!DNL Workfront] Proof](workfrontproof.md)
 * [Problemas conhecidos no Workfront Fusion](workfrontfusion.md)
 * [Problemas conhecidos no Workfront Planning](workfrontplanning.md)
-* [Problemas conhecidos no Aplicativo móvel [!DNL Workfront] ](workfrontmobile.md)
+* [Problemas conhecidos no Aplicativo móvel [!DNL Workfront] &#x200B;](workfrontmobile.md)
