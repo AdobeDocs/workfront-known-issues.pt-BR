@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: a76c92773d0c295c5fc726062f765ffd37611037
+source-git-commit: 0dac0311dd76f0653d72f4d4a6e5a79c36f0679e
 workflow-type: tm+mt
-source-wordcount: '1533'
-ht-degree: 60%
+source-wordcount: '1553'
+ht-degree: 59%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 60%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais em [!DNL Adobe Workfront] {#wf-current}
+      + [Solicitações: as filas de solicitações são exibidas várias vezes](known-issues-workfront/wf-requests-queues-duplicated.md)
+      + [Usuários: não é possível atualizar o acesso do usuário](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md)
+      + [Relatórios: a consulta Data Lake não retorna os resultados esperados](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md)
       + [Relatórios: os usuários podem ver dados financeiros em visualizações do Painel de controle do Canvas](known-issues-workfront/wf-reporting-users-can-see-financial-data.md)
       + [Workfront Planning: não é possível adicionar um campo a uma exibição](known-issues-workfront/wf-planning-cannot-add-field.md)
       + [Aprovações: o widget Minhas aprovações mostra aprovações concluídas](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md)
@@ -110,7 +113,7 @@ ht-degree: 60%
       + [Equipes: não é possível excluir a equipe nem exibir seu proprietário](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
       + [Provas: a prova impede a conversão de tarefa ou problema em projeto](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
       + [Tarefas: erro de banco de dados ao adicionar ou excluir uma tarefa (erro de contexto de Bizkout anterior)](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
-      + [Modelo de layout: a página de aterrissagem está incorreta](known-issues-workfront/wf-layout-template-set-to-home-not-request.md)
+      + [Modelo de layout: a página de destino está incorreta](known-issues-workfront/wf-layout-template-set-to-home-not-request.md)
       + [Relatórios: o filtro de relatório não retorna os resultados esperados](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [Atualizações: solicitantes não podem adicionar imagens às atualizações](known-issues-workfront/wf-updates-requestors-not-add-image.md)
       + [Provas: falha ao gerar provas comprimidas](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
@@ -213,7 +216,7 @@ ht-degree: 60%
    + [Problemas conhecidos no  [!DNL Workfront] Planning](workfrontplanning.md)
 
 + Aplicativo móvel [!DNL Workfront] {#mobile}
-   + [Problemas conhecidos no aplicativo móvel do  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problemas conhecidos no aplicativo móvel do  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 

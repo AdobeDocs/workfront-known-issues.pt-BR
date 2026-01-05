@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f10450876e7ccd1b308772778d1be0cd76f6e57e
+source-git-commit: 9b7fb2257432fae02c7ab8eba1aca5d05bfea90e
 workflow-type: tm+mt
-source-wordcount: '3415'
-ht-degree: 15%
+source-wordcount: '3664'
+ht-degree: 14%
 
 ---
 
@@ -26,6 +26,50 @@ As seguintes atualizações de manutenção foram efetuadas em 2025.
 
 ## Atualizações em dezembro de 2025
 
++++**Semana de Atualizações de Manutenção do Workfront Planning de 21 a 27 de dezembro de 2025**
+
+### Atualizações de manutenção do Workfront Planning semana de 21 a 27 de dezembro de 2025
+
+#### Erro ao remover o campo conectado
+
+Quando um usuário tenta remover um campo conectado no Workfront Planning, ele não pode remover o campo e vê a mensagem &quot;Não é possível excluir o campo. Tente novamente.&quot;
+
++++
+
++++**Semana de atualizações de manutenção de 21 a 27 de dezembro de 2025**
+
+### Atualizações de manutenção semana de 21 a 27 de dezembro de 2025
+
+#### Formulários personalizados
+
+**Não é possível editar campos de rich text**
+
+Quando um usuário tenta editar um campo de rich text em um formulário personalizado, as alterações não são salvas e o campo não é atualizado para refletir as alterações.
+
+#### Tarefas
+
+**Não é possível selecionar a função de usuário ao criar uma tarefa**
+
+Quando um usuário cria uma tarefa e tenta atribuir uma função de usuário, a opção para atribuir a função não está presente e o usuário não pode atribuir uma função de usuário.
+
++++
+
++++**Semana de Atualizações de Manutenção do Workfront Planning de 14 a 20 de dezembro de 2025**
+
+### Atualizações de manutenção do Workfront Planning semana de 14 a 20 de dezembro de 2025
+
+#### Não é possível adicionar um campo a uma exibição
+
+>[!NOTE]
+>
+>* Esse problema foi relatado na sandbox de atualização personalizada.
+
+Quando um usuário tenta adicionar um campo a uma exibição no Workfront Planning, o campo não é adicionado e o usuário vê a seguinte mensagem:
+
+&quot;Não é possível criar a coluna de campo. Tente novamente.&quot;
+
++++
+
 +++**Semana de atualizações de manutenção de 14 a 20 de dezembro de 2025**
 
 ### Atualizações de manutenção semana de 14 a 20 de dezembro de 2025
@@ -41,6 +85,12 @@ Quando um usuário é atribuído como aprovador a um objeto, o link para esse ob
 **As atribuições de equipe não foram salvas**
 
 Quando um usuário atribui uma equipe a um item de trabalho no Workfront, a atribuição da equipe não é salva e a equipe não é notificada do trabalho.
+
+#### Solicitações
+
+**Permissões não herdadas ao criar uma solicitação**
+
+Quando um usuário cria uma solicitação, ela não herda permissões. Isso significa que os usuários podem não conseguir acessar a solicitação.
 
 #### Cronogramas
 
