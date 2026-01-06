@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Fusion]
 keywords: novo arquivo, adicionar arquivo
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 8c2f913bcda64043a42ffe8477ba23d2dad7d210
+source-git-commit: 3af3819111daabfea1860179d7ba7529bae4c34a
 workflow-type: tm+mt
-source-wordcount: '224'
-ht-degree: 68%
+source-wordcount: '232'
+ht-degree: 65%
 
 ---
 
@@ -24,8 +24,8 @@ Esta página contém problemas identificados atualmente no [!DNL Adobe Workfront
 Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
-| -----------------------------------------------------------------| ----------------- |
-| Nenhum(a) |  |
+| ----------------------------------------------------------------- | ----------------- |
+| [Workfront Fusion: erro de cabeçalho ausente em módulos do AWS](known-issues-workfront-fusion/fusion-missing-header-aws.md) | quarta-feira, 6 de janeiro de 2026 |
 
 {style="table-layout:auto"}
 
@@ -34,7 +34,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 As correções para esses problemas estão em andamento ou estão programadas para serem feitas em breve.
 
 | **Problema** | **Última modificação** |
-| -----------------------------------------------------------------| ----------------- |
+| ----------------------------------------------------------------- | ----------------- |
 | [Workfront Fusion: não é possível adicionar ou excluir usuários do Workfront Fusion](known-issues-workfront-fusion/fusion-cannot-manage-users.md) | quarta-feira, 24 de setembro de 2024 |
 
 {style="table-layout:auto"}
@@ -44,7 +44,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 No momento, as correções para esses problemas não estão no roteiro, mas há soluções alternativas disponíveis e descritas no artigo para cada problema.
 
 | **Problema** | **Última modificação** |
-| -----------------------------------------------------------------| ----------------- |
+| ----------------------------------------------------------------- | ----------------- |
 | [Workfront Fusion: o módulo Jira Search retorna um erro](known-issues-workfront-fusion/fusion-error-in-jira-search.md) | quarta-feira, 16 de setembro de 2025 |
 | [Workfront Fusion: campo ausente do módulo](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | terça-feira, 5 de fevereiro de 2024 |
 | [Workfront Fusion: as atualizações do webhook não são salvas automaticamente](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md) | quinta-feira, 6 de agosto de 2025 |
@@ -54,7 +54,7 @@ No momento, as correções para esses problemas não estão no roteiro, mas há 
 No momento, as correções para esses problemas não estão no roteiro. Em alguns casos, esses problemas serão corrigidos por atualizações ou novos recursos.
 
 | **Problema** | **Última modificação** |
-| -----------------------------------------------------------------| ----------------- |
+| ----------------------------------------------------------------- | ----------------- |
 | [Provas: não é possível criar provas para vídeos vinculados do AEM através do Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | sexta-feira, 13 de fevereiro de 2025 |
 | [Workfront Fusion: inicie a configuração &quot;De agora em diante&quot; processando todos os dados](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | quarta-feira, 29 de outubro de 2024 |
 | [Workfront Fusion: saída de formatação de datas](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md) | quinta-feira, 31 de janeiro de 2024 |

@@ -2,9 +2,9 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 0dac0311dd76f0653d72f4d4a6e5a79c36f0679e
+source-git-commit: 3af3819111daabfea1860179d7ba7529bae4c34a
 workflow-type: tm+mt
-source-wordcount: '1553'
+source-wordcount: '1561'
 ht-degree: 59%
 
 ---
@@ -197,6 +197,7 @@ ht-degree: 59%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problemas conhecidos no Workfront Fusion](workfrontfusion.md)
    + Problemas atuais em [!DNL Workfront Fusion] {#fusion-current}
+      + [Workfront Fusion: erro de cabeçalho ausente em módulos do AWS](known-issues-workfront-fusion/fusion-missing-header-aws.md)
       + [O módulo Workfront Fusion: Pesquisa no Jira retorna um erro](known-issues-workfront-fusion/fusion-error-in-jira-search.md)
       + [Workfront Fusion: as atualizações do webhook não são salvas automaticamente](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md)
       + [Workfront Fusion: o cenário não está em execução](known-issues-workfront-fusion/fusion-scenario-not-running.md)
@@ -216,7 +217,7 @@ ht-degree: 59%
    + [Problemas conhecidos no  [!DNL Workfront] Planning](workfrontplanning.md)
 
 + Aplicativo móvel [!DNL Workfront] {#mobile}
-   + [Problemas conhecidos no aplicativo móvel do  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problemas conhecidos no aplicativo móvel do  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 
