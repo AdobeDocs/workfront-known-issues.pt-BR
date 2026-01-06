@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 7205e0ba40ca755843cd12fae66ae147548618dc
+source-git-commit: e1b9715833d8b35f403400c9969a182d688b7116
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 82%
+source-wordcount: '399'
+ht-degree: 83%
 
 ---
 
@@ -37,7 +37,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | **Problema** | **Última modificação** |
 | -----------------------------------------------------------------| ----------------- |
 | [Aprovações: o widget Minhas aprovações mostra as aprovações concluídas](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | terça-feira, 15 de dezembro de 2025 |
-| [Provas: as alterações de status da prova estão atrasadas](known-issues-workfront/wf-proof-status-sync-delayed.md) | terça-feira, 8 de dezembro de 2025 |
 | [Documentos: as miniaturas de documentos não são exibidas](known-issues-workfront/wf-documents-thumbnails-not-display.md) | sexta-feira, 17 de abril de 2025 |
 | [Notificações: as miniaturas não ficam visíveis nas notificações por email](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | terça-feira, 8 de julho de 2024 |
 | [Página inicial: o dispositivo de aprovações não é preciso](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 8 de maio de 2024 |

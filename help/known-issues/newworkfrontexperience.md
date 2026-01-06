@@ -4,9 +4,9 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 0dac0311dd76f0653d72f4d4a6e5a79c36f0679e
+source-git-commit: e1b9715833d8b35f403400c9969a182d688b7116
 workflow-type: tm+mt
-source-wordcount: '1054'
+source-wordcount: '1047'
 ht-degree: 67%
 
 ---
@@ -40,7 +40,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | --- | --- |
 | [Relatórios: os usuários podem ver dados financeiros em visualizações do Painel de Telas](known-issues-workfront/wf-reporting-users-can-see-financial-data.md) | sábado, 19 de dezembro de 2025 |
 | [Aprovações: o widget Minhas aprovações mostra as aprovações concluídas](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | terça-feira, 15 de dezembro de 2025 |
-| [Provas: as alterações de status da prova estão atrasadas](known-issues-workfront/wf-proof-status-sync-delayed.md) | terça-feira, 8 de dezembro de 2025 |
 | [Tarefas: a seção Edições nas Atribuições de uma tarefa não é salva](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | terça-feira, 1 de dezembro de 2025 |
 | [Aprovações: a aprovação é exibida como &quot;Sem prazo&quot; quando a hora não está incluída no prazo](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | sexta-feira, 25 de setembro de 2025 |
 | [Workfront: objetos fora de sincronia entre o Workfront e o Snowflake](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | quarta-feira, 17 de junho de 2025 |
