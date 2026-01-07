@@ -4,10 +4,10 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e1b9715833d8b35f403400c9969a182d688b7116
+source-git-commit: 02c511b92e31bb00688414d062587c9ddb747c5e
 workflow-type: tm+mt
-source-wordcount: '1047'
-ht-degree: 67%
+source-wordcount: '1041'
+ht-degree: 68%
 
 ---
 
@@ -25,9 +25,9 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | --- | --- |
-| [Solicitações: as filas de solicitações aparecem várias vezes](known-issues-workfront/wf-requests-queues-duplicated.md) | 5 de janeiro de 2026 |
-| [Usuários: não é possível atualizar o acesso do usuário](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md) | 5 de janeiro de 2026 |
-| [Relatórios: a consulta Data Lake não retorna os resultados esperados](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md) | 5 de janeiro de 2026 |
+| [Solicitações: as filas de solicitações aparecem várias vezes](known-issues-workfront/wf-requests-queues-duplicated.md) | terça-feira, 5 de janeiro de 2026 |
+| [Usuários: não é possível atualizar o acesso do usuário](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md) | terça-feira, 5 de janeiro de 2026 |
+| [Relatórios: a consulta Data Lake não retorna os resultados esperados](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md) | terça-feira, 5 de janeiro de 2026 |
 | [Integrações: vincular a pasta do  [!DNL Google Drive]  não vincula seus ativos](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | quarta-feira, 25 de junho de 2024 |
 
 {style="table-layout:auto"}
