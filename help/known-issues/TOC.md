@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 67e4a2455c4bd3db0fa91625225066611ac8d864
+source-git-commit: 43a9d0627fdbb13c615d04e5f77e31a53520d9f9
 workflow-type: tm+mt
-source-wordcount: '1561'
-ht-degree: 59%
+source-wordcount: '1581'
+ht-degree: 58%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 59%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais em [!DNL Adobe Workfront] {#wf-current}
+      + [Usuários: os usuários não são provisionados corretamente na Adobe Admin Console](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md)
+      + [Solicitações: problemas com rascunhos na nova experiência de solicitação](known-issues-workfront/wf-requests-issues-with-drafts.md)
       + [Solicitações: as filas de solicitações são exibidas várias vezes](known-issues-workfront/wf-requests-queues-duplicated.md)
       + [Usuários: não é possível atualizar o acesso do usuário](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md)
       + [Relatórios: a consulta Data Lake não retorna os resultados esperados](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md)
@@ -217,7 +219,7 @@ ht-degree: 59%
    + [Problemas conhecidos no  [!DNL Workfront] Planning](workfrontplanning.md)
 
 + Aplicativo móvel [!DNL Workfront] {#mobile}
-   + [Problemas conhecidos no aplicativo móvel do  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problemas conhecidos no aplicativo móvel do  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 
