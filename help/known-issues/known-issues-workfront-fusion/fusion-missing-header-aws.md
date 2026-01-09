@@ -3,15 +3,19 @@ title: 'Fusion: erro de cabeçalho ausente em módulos do AWS'
 description: 'Os módulos do AWS estão falhando com o erro: cabeçalho obrigatório ausente para esta solicitação'
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: 3af3819111daabfea1860179d7ba7529bae4c34a
+source-git-commit: 0bda09f90283710c8ad1e6275ba48ccf7455fbe1
 workflow-type: tm+mt
-source-wordcount: '45'
-ht-degree: 8%
+source-wordcount: '51'
+ht-degree: 19%
 
 ---
 
 
 # Fusion: erro de cabeçalho ausente em módulos do AWS
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em sexta-feira, 8 de janeiro de 2026.
 
 Os módulos do AWS estão falhando com o seguinte erro:
 

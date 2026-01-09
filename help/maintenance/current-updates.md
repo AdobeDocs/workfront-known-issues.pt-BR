@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: c2634db0768c32bb003d6401afc2239e941bf6d2
+source-git-commit: 0bda09f90283710c8ad1e6275ba48ccf7455fbe1
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 63%
+source-wordcount: '217'
+ht-degree: 52%
 
 ---
 
@@ -25,6 +25,18 @@ Para obter atualizações de manutenção anteriores a 2026, consulte [Atualiza�
 As seguintes atualizações de manutenção foram efetuadas em 2026.
 
 ## Atualizações em janeiro de 2026
+
++++**Atualizações de manutenção do Workfront Fusion semana de 4 a 10 de janeiro de 2026**
+
+### Atualizações de manutenção semana de 4 a 10 de janeiro de 202
+
+**Erro de cabeçalho ausente em módulos do AWS**
+
+Os módulos do AWS estão falhando com o seguinte erro:
+
+&quot;Cabeçalho obrigatório ausente para esta solicitação&quot;
+
++++
 
 +++**Atualizações de manutenção semana de 4 a 10 de janeiro de 2026**
 
