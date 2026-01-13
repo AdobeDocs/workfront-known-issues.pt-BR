@@ -4,7 +4,7 @@ description: Quando um usuário com um endereço de email do Outlook tem seu ema
 feature: Updates and Notifications, Workfront Integrations and Apps
 exl-id: 15624837-b6bb-4e75-bb9c-1d034d3571f4
 hidefromtoc: true
-source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
+source-git-commit: 69f143e6b764eb8e6aebef92abc9c2ba3dc53770
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 94%
@@ -14,6 +14,8 @@ ht-degree: 94%
 # Notificações por email: os emails não são formatados corretamente no [!DNL Outlook]
 
 <!--Issue created by request-->
+
+<!--No views-->
 
 >[!NOTE]
 >

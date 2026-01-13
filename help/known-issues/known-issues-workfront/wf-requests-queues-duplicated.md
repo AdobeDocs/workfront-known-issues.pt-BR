@@ -3,10 +3,10 @@ title: 'Solicitações: as filas de solicitações são exibidas várias vezes'
 description: Quando um usuário começa a criar uma solicitação e seleciona uma fila de solicitações, a mesma fila de solicitações aparece várias vezes na lista suspensa.
 hidefromtoc: true
 feature: Requests
-source-git-commit: 0dac0311dd76f0653d72f4d4a6e5a79c36f0679e
+source-git-commit: fa4e4373f3f39973086a40fc66e0d307a996d38a
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 5%
+source-wordcount: '80'
+ht-degree: 12%
 
 ---
 
@@ -15,7 +15,8 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->Esse problema foi relatado na experiência de relatórios herdada.
+>* Esse problema foi corrigido em sexta-feira, 8 de janeiro de 2026.
+>* Esse problema foi relatado na experiência de relatórios herdada.
 
 Quando um usuário começa a criar uma solicitação e seleciona uma fila de solicitações, a mesma fila de solicitações aparece várias vezes na lista suspensa.
 

@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 0bda09f90283710c8ad1e6275ba48ccf7455fbe1
+source-git-commit: fa4e4373f3f39973086a40fc66e0d307a996d38a
 workflow-type: tm+mt
-source-wordcount: '217'
-ht-degree: 52%
+source-wordcount: '274'
+ht-degree: 41%
 
 ---
 
@@ -28,7 +28,7 @@ As seguintes atualizações de manutenção foram efetuadas em 2026.
 
 +++**Atualizações de manutenção do Workfront Fusion semana de 4 a 10 de janeiro de 2026**
 
-### Atualizações de manutenção semana de 4 a 10 de janeiro de 202
+### Atualizações de manutenção semana de 4 a 10 de janeiro de 2026
 
 **Erro de cabeçalho ausente em módulos do AWS**
 
@@ -40,13 +40,26 @@ Os módulos do AWS estão falhando com o seguinte erro:
 
 +++**Atualizações de manutenção semana de 4 a 10 de janeiro de 2026**
 
-### Atualizações de manutenção semana de 4 a 10 de janeiro de 202
+### Atualizações de manutenção semana de 4 a 10 de janeiro de 2026
+
+#### Aprovações
+
+**O widget Minhas aprovações mostra as aprovações concluídas**
+
+Quando um usuário visualiza o widget Minhas aprovações na Página inicial, o widget inclui provas que já foram aprovadas.
 
 #### Provas
 
 **As alterações no status da prova estão atrasadas**
 
 Quando é tomada uma decisão sobre uma prova, essa decisão não é exibida na área Documentos do projeto por até 24 horas. Isso pode causar confusão, pois o status ainda é exibido como Pendente ou outro status desatualizado, mesmo que uma decisão tenha sido tomada.
+
+#### Solicitações
+
+**As filas de solicitações aparecem várias vezes**
+
+Quando um usuário começa a criar uma solicitação e seleciona uma fila de solicitações, a mesma fila de solicitações aparece várias vezes na lista suspensa.
+
 
 +++
 

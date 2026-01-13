@@ -3,15 +3,19 @@ title: 'Aprovações: o widget Minhas aprovações mostra aprovações concluíd
 description: Quando um usuário visualiza o widget Minhas aprovações na Página inicial, o widget inclui provas que já foram aprovadas.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 7039085dbf83aa47d1ba70c8484e5d8572dee770
+source-git-commit: fa4e4373f3f39973086a40fc66e0d307a996d38a
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 6%
+source-wordcount: '64'
+ht-degree: 15%
 
 ---
 
 
 # Aprovações: o widget Minhas aprovações mostra aprovações concluídas
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em sexta-feira, 8 de janeiro de 2026.
 
 Quando um usuário visualiza o widget Minhas aprovações na Página inicial, o widget inclui provas que já foram aprovadas.
 
