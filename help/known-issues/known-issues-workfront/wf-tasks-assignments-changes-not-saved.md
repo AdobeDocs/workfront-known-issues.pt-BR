@@ -3,10 +3,10 @@ title: As edições feitas na caixa de diálogo Editar de uma tarefa não são s
 description: Quando um usuário faz alterações na seção Edições de uma tarefa na caixa de diálogo de tarefa herdada e as salva, as alterações não são salvas.
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 11192c5977f47ed04fd7cef0b059d20a8af29221
+source-git-commit: c98508b66854edc5ca9c3c25751c27462dfaf9c8
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 5%
+source-wordcount: '122'
+ht-degree: 27%
 
 ---
 
@@ -15,7 +15,8 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->Esse problema se aplica à experiência de tarefa herdada.
+>* Esse problema se aplica à experiência de tarefa herdada.
+>* A equipe do produto está avaliando a resolução do problema, que pode exigir melhorias do produto. As melhorias do produto são comunicadas nos Anúncios do produto e não nas Atualizações de manutenção.
 
 Quando um usuário faz alterações na seção Edições de uma tarefa na caixa de diálogo de tarefa herdada e as salva, as alterações não são salvas.
 

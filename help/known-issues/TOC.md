@@ -2,9 +2,9 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 43a9d0627fdbb13c615d04e5f77e31a53520d9f9
+source-git-commit: c98508b66854edc5ca9c3c25751c27462dfaf9c8
 workflow-type: tm+mt
-source-wordcount: '1581'
+source-wordcount: '1600'
 ht-degree: 58%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 58%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais em [!DNL Adobe Workfront] {#wf-current}
+      + [Solicitações: o rascunho criado junto com a solicitação causa problemas](known-issues-workfront/wf-requests-draft-created-with-request.md)
+      + [Solicitações: erro &quot;Você deve ser um administrador do sistema&quot; ao copiar solicitações](known-issues-workfront/wf-requests-error-when-copying.md)
       + [Usuários: os usuários não são provisionados corretamente na Adobe Admin Console](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md)
       + [Solicitações: problemas com rascunhos na nova experiência de solicitação](known-issues-workfront/wf-requests-issues-with-drafts.md)
       + [Solicitações: as filas de solicitações são exibidas várias vezes](known-issues-workfront/wf-requests-queues-duplicated.md)
@@ -219,7 +221,7 @@ ht-degree: 58%
    + [Problemas conhecidos no  [!DNL Workfront] Planning](workfrontplanning.md)
 
 + Aplicativo móvel [!DNL Workfront] {#mobile}
-   + [Problemas conhecidos no aplicativo móvel do  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problemas conhecidos no  [!DNL Workfront] Aplicativo móvel](workfrontmobile.md)
 
 <!--
 
