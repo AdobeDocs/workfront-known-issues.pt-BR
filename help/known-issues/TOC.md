@@ -2,9 +2,9 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 5b9f2008a89c95a723523a7fad8af006754d037c
+source-git-commit: c3a80db771b7b7132fee54d33f8f2a658bcd959c
 workflow-type: tm+mt
-source-wordcount: '1617'
+source-wordcount: '1625'
 ht-degree: 57%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 57%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais em [!DNL Adobe Workfront] {#wf-current}
+      + [Solicitações: a visualização &quot;Tudo&quot; não mostra todas as solicitações](known-issues-workfront/wf-requests-not-showing-all.md)
       + [Formulários personalizados: campos calculados não exibem dados para não administradores](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md)
       + [Solicitações: o rascunho criado junto com a solicitação causa problemas](known-issues-workfront/wf-requests-draft-created-with-request.md)
       + [Solicitações: erro &quot;Você deve ser um administrador do sistema&quot; ao copiar solicitações](known-issues-workfront/wf-requests-error-when-copying.md)
