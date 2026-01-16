@@ -4,10 +4,10 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c98508b66854edc5ca9c3c25751c27462dfaf9c8
+source-git-commit: 5b9f2008a89c95a723523a7fad8af006754d037c
 workflow-type: tm+mt
-source-wordcount: '1077'
-ht-degree: 66%
+source-wordcount: '1087'
+ht-degree: 65%
 
 ---
 
@@ -38,6 +38,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | --- | --- |
+| [Formulários personalizados: campos calculados não exibem dados para não administradores](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | sábado, 16 de janeiro de 2026 |
 | [Solicitações: o rascunho criado junto com a solicitação causa problemas](known-issues-workfront/wf-requests-draft-created-with-request.md) | sexta-feira, 15 de janeiro de 2026 |
 | [Solicitações: erro &quot;Você deve ser um administrador do sistema&quot; ao copiar solicitações](known-issues-workfront/wf-requests-error-when-copying.md) | sexta-feira, 15 de janeiro de 2026 |
 | [Aprovações: o widget Minhas aprovações mostra as aprovações concluídas](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | sexta-feira, 15 de janeiro de 2026 |

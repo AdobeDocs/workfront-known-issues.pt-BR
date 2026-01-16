@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: c98508b66854edc5ca9c3c25751c27462dfaf9c8
+source-git-commit: 5b9f2008a89c95a723523a7fad8af006754d037c
 workflow-type: tm+mt
-source-wordcount: '1600'
-ht-degree: 58%
+source-wordcount: '1617'
+ht-degree: 57%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 58%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais em [!DNL Adobe Workfront] {#wf-current}
+      + [Formulários personalizados: campos calculados não exibem dados para não administradores](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md)
       + [Solicitações: o rascunho criado junto com a solicitação causa problemas](known-issues-workfront/wf-requests-draft-created-with-request.md)
       + [Solicitações: erro &quot;Você deve ser um administrador do sistema&quot; ao copiar solicitações](known-issues-workfront/wf-requests-error-when-copying.md)
       + [Usuários: os usuários não são provisionados corretamente na Adobe Admin Console](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md)
@@ -177,6 +178,7 @@ ht-degree: 58%
 + [!DNL Workfront Proof] {#proof}
    + [Problemas conhecidos no  [!DNL Workfront Proof]](workfrontproof.md)
    + Problemas atuais em [!DNL Workfront Proof] {#proof-current}
+      + [Workfront Proof: provas não aparecem em pastas](known-issues-workfront-proof/proof-folders-not-showing-proofs.md)
       + [[!UICONTROL Workfront Proof]: não é possível reordenar ativos ao criar uma prova](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]: carimbo de data e hora incorreto no [!UICONTROL Resumo da prova]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
       + [[!DNL Workfront Proof]: não é possível expandir o fluxo de trabalho](known-issues-workfront-proof/proof-cannot-view-workflow.md)
