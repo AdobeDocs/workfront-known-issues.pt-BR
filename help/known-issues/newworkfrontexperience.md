@@ -4,9 +4,9 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 34cba5746ea94bbbc24e2dc6bd6541d210777024
+source-git-commit: 9fa81ccc2d06489256f147b4d5e7f55156904158
 workflow-type: tm+mt
-source-wordcount: '1104'
+source-wordcount: '1116'
 ht-degree: 64%
 
 ---
@@ -38,6 +38,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | --- | --- |
+| [Solicitações: erro &quot;Você não tem acesso suficiente&quot; ao copiar solicitações](known-issues-workfront/wf-requests-do-not-have-sufficient-access.md) | quarta-feira, 20 de janeiro de 2026 |
 | [Agendamentos: não é possível ver exceções dos anos anteriores](known-issues-workfront/wf-schedules-cannot-see-previous-year-exceptions.md) | quarta-feira, 20 de janeiro de 2026 |
 | [Solicitações: a exibição &quot;Todas&quot; não mostra todas as solicitações](known-issues-workfront/wf-requests-not-showing-all.md) | sábado, 16 de janeiro de 2026 |
 | [Formulários personalizados: campos calculados não exibem dados para não administradores](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | sábado, 16 de janeiro de 2026 |

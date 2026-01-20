@@ -2,9 +2,9 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 2a8b9279bcffd316c9c4f2242633270ea076b1a4
+source-git-commit: 9fa81ccc2d06489256f147b4d5e7f55156904158
 workflow-type: tm+mt
-source-wordcount: '1632'
+source-wordcount: '1643'
 ht-degree: 56%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 56%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais em [!DNL Adobe Workfront] {#wf-current}
+      + [Solicitações: erro &quot;Você não tem acesso suficiente&quot; ao copiar solicitações](known-issues-workfront/wf-requests-do-not-have-sufficient-access.md)
       + [Agendamentos: não é possível ver as exceções dos anos anteriores](known-issues-workfront/wf-schedules-cannot-see-previous-year-exceptions.md)
       + [Solicitações: a visualização &quot;Tudo&quot; não mostra todas as solicitações](known-issues-workfront/wf-requests-not-showing-all.md)
       + [Formulários personalizados: campos calculados não exibem dados para não administradores](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md)
