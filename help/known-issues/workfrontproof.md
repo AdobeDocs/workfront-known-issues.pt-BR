@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 5b9f2008a89c95a723523a7fad8af006754d037c
+source-git-commit: 0b5281162e06a95b3f4da1c566e890cfad956912
 workflow-type: tm+mt
-source-wordcount: '408'
-ht-degree: 82%
+source-wordcount: '414'
+ht-degree: 81%
 
 ---
 
@@ -25,7 +25,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Provas: não é possível marcar determinados usuários](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | sexta-feira, 20 de fevereiro de 2025 |
+| [Provas: não é possível tag determinados usuários](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | sexta-feira, 20 de fevereiro de 2025 |
 | [Integrações: vincular a pasta do  [!DNL Google Drive]  não vincula seus ativos](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | quarta-feira, 25 de junho de 2024 |
 
 {style="table-layout:auto"}
@@ -36,9 +36,10 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Workfront Proof: provas não aparecem nas pastas](known-issues-workfront-proof/proof-folders-not-showing-proofs.md) | sábado, 16 de janeiro de 2026 |
-| [Aprovações: o widget Minhas aprovações mostra as aprovações concluídas](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | sexta-feira, 15 de janeiro de 2026 |
-| [Documentos: as miniaturas de documentos não são exibidas](known-issues-workfront/wf-documents-thumbnails-not-display.md) | sexta-feira, 17 de abril de 2025 |
+| [Documentos: o painel resumo está em branco](known-issues-workfront/wf-documents-summary-panel-is-blank.md) | quinta-feira, 21 de janeiro de 2026 |
+| [Prova de frente de trabalho: provas não aparecem nas pastas](known-issues-workfront-proof/proof-folders-not-showing-proofs.md) | sábado, 16 de janeiro de 2026 |
+| [Aprovações: Meu widget de aprovações mostra aprovações concluídas](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | sexta-feira, 15 de janeiro de 2026 |
+| [Documentos: miniaturas de documentos não são exibidas](known-issues-workfront/wf-documents-thumbnails-not-display.md) | sexta-feira, 17 de abril de 2025 |
 | [Notificações: as miniaturas não ficam visíveis nas notificações por email](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | terça-feira, 8 de julho de 2024 |
 | [Página inicial: o dispositivo de aprovações não é preciso](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 8 de maio de 2024 |
 
@@ -50,11 +51,11 @@ No momento, as correções para esses problemas não estão no roteiro. Em algun
 
 | **Problema** | **Última modificação** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Aprovações: os botões de decisão de aprovação não são exibidos no Visualizador de prova](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md) | quarta-feira, 30 de setembro de 2025 |
-| [Provas: não é possível adicionar usuários a uma prova por nome no ambiente de Pré-visualização](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | terça-feira, 16 de junho de 2025 |
-| [Provas: fechando redirecionamentos de prova para a lista de documentos](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | quinta-feira, 14 de maio de 2025 |
-| [Provas: não é possível criar provas para vídeos vinculados do AEM através do Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | sexta-feira, 13 de fevereiro de 2025 |
-| [Provas: provas do Webcapture não geram](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | sábado, 20 de dezembro de 2024 |
+| [Aprovações: botões de decisão de aprovação não são exibidos no Visualizador de prova](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md) | quarta-feira, 30 de setembro de 2025 |
+| [Provas: não é possível adicionar usuários a um prova pelo nome na Visualização ambiente](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | terça-feira, 16 de junho de 2025 |
+| [Provas: fechamento de redirecionamentos de prova para documentos lista](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | quinta-feira, 14 de maio de 2025 |
+| [Provas: não é possível criar provas para vídeos vinculados de AEM por meio do Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | sexta-feira, 13 de fevereiro de 2025 |
+| [Provas: provas de webcapture não geram](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | sábado, 20 de dezembro de 2024 |
 | [Provas: falha ao gerar provas comprimidas](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 7 de junho de 2024 |
 | [Provas: erro ao compartilhar prova do link de email](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 16 de novembro de 2023 |
 | [[!DNL Workfront Proof]: não é possível expandir o fluxo de trabalho](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 25 de outubro de 2023 |
