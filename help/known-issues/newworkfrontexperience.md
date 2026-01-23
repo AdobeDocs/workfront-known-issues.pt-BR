@@ -4,10 +4,10 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 0b5281162e06a95b3f4da1c566e890cfad956912
+source-git-commit: 614b2b8e71b244a90adddec2795c0a8b1f04b4a1
 workflow-type: tm+mt
-source-wordcount: '1122'
-ht-degree: 63%
+source-wordcount: '1105'
+ht-degree: 64%
 
 ---
 
@@ -40,10 +40,8 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | --- | --- |
 | [Documentos: o painel Resumo está em branco](known-issues-workfront/wf-documents-summary-panel-is-blank.md) | quinta-feira, 21 de janeiro de 2026 |
 | [Solicitações: erro &quot;Você não tem acesso suficiente&quot; ao copiar solicitações](known-issues-workfront/wf-requests-do-not-have-sufficient-access.md) | quarta-feira, 20 de janeiro de 2026 |
-| [Agendamentos: não é possível ver exceções dos anos anteriores](known-issues-workfront/wf-schedules-cannot-see-previous-year-exceptions.md) | quarta-feira, 20 de janeiro de 2026 |
 | [Solicitações: a exibição &quot;Todas&quot; não mostra todas as solicitações](known-issues-workfront/wf-requests-not-showing-all.md) | sábado, 16 de janeiro de 2026 |
 | [Formulários personalizados: campos calculados não exibem dados para não administradores](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | sábado, 16 de janeiro de 2026 |
-| [Solicitações: o rascunho criado junto com a solicitação causa problemas](known-issues-workfront/wf-requests-draft-created-with-request.md) | sexta-feira, 15 de janeiro de 2026 |
 | [Solicitações: erro &quot;Você deve ser um administrador do sistema&quot; ao copiar solicitações](known-issues-workfront/wf-requests-error-when-copying.md) | sexta-feira, 15 de janeiro de 2026 |
 | [Aprovações: o widget Minhas aprovações mostra as aprovações concluídas](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | sexta-feira, 15 de janeiro de 2026 |
 | [Solicitações: problemas com rascunhos na nova experiência de solicitação](known-issues-workfront/wf-requests-issues-with-drafts.md) | quinta-feira, 7 de janeiro de 2026 |

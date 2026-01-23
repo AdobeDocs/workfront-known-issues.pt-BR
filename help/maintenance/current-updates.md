@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: fa4e4373f3f39973086a40fc66e0d307a996d38a
+source-git-commit: 614b2b8e71b244a90adddec2795c0a8b1f04b4a1
 workflow-type: tm+mt
-source-wordcount: '274'
-ht-degree: 41%
+source-wordcount: '406'
+ht-degree: 31%
 
 ---
 
@@ -25,6 +25,35 @@ Para obter atualizações de manutenção anteriores a 2026, consulte [Atualiza�
 As seguintes atualizações de manutenção foram efetuadas em 2026.
 
 ## Atualizações em janeiro de 2026
+
++++**Semana de atualização de manutenção de 18 a 24 de janeiro de 2026**
+
+### Semana de atualização de manutenção de 18 a 24 de janeiro de 2026
+
+#### Solicitações
+
+**Problemas com rascunhos na nova experiência de solicitação**
+
+Os seguintes problemas foram relatados em relação aos rascunhos na nova experiência de solicitação:
+
+* As solicitações criadas como rascunho e enviadas em seguida mostram somente a primeira letra do assunto na lista Solicitações.
+* Rascunhos descartados não são removidos da lista de solicitações,
+
+#### Cronogramas
+
+**Não é possível ver as exceções dos anos anteriores**
+
+Quando um usuário exibe o calendário de exceção e tenta exibir anos anteriores, ele não pode exibir os anos anteriores.
+
++++
+
++++**Semana de atualização de manutenção de 11 a 17 de janeiro de 2026**
+
+### Semana de atualização de manutenção de 11 a 17 de janeiro de 2026
+
+Esta atualização contém apenas correções de erros pequenos ou menos importantes. O Suporte da Workfront enviará uma notificação quando um problema enviado for corrigido.
+
++++
 
 +++**Atualizações de manutenção do Workfront Fusion semana de 4 a 10 de janeiro de 2026**
 

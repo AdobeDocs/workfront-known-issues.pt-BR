@@ -3,15 +3,19 @@ title: 'Solicitações: problemas com rascunhos na nova experiência de solicita
 description: Vários rascunhos da nova experiência de solicitação foram relatados.
 hidefromtoc: true
 feature: Requests
-source-git-commit: 43a9d0627fdbb13c615d04e5f77e31a53520d9f9
+source-git-commit: 614b2b8e71b244a90adddec2795c0a8b1f04b4a1
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 4%
+source-wordcount: '91'
+ht-degree: 10%
 
 ---
 
 
 # Solicitações: problemas com rascunhos na nova experiência de solicitação
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em sábado, 23 de janeiro de 2026.
 
 Os seguintes problemas foram relatados em relação aos rascunhos na nova experiência de solicitação:
 
