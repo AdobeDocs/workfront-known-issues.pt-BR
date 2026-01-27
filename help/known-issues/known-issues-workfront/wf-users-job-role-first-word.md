@@ -1,22 +1,22 @@
 ---
-title: 'Usuários: pode pesquisar funções de trabalho somente pela primeira palavra'
+title: 'Usuários: só é possível pesquisar funções de trabalho pela primeira palavra'
 description: Quando um administrador cria ou edita um usuário e pesquisa funções de trabalho, a pesquisa retorna somente funções de trabalho que começam com o termo de pesquisa, não todas as funções de trabalho que incluem o termo de pesquisa.
 hidefromtoc: true
 feature: People Teams and Groups
 source-git-commit: 59b401c5d3fcab66652479832c7714213ccec699
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 10%
+ht-degree: 100%
 
 ---
 
 
-# Usuários: pode pesquisar funções de trabalho somente pela primeira palavra
+# Usuários: só é possível pesquisar funções de trabalho pela primeira palavra
 
 >[!NOTE]
 >
->Esse problema foi corrigido em terça-feira, 17 de novembro de 2025.
+>Esse problema foi corrigido em 17 de novembro de 2025.
 
 Quando um administrador cria ou edita um usuário e pesquisa funções de trabalho, a pesquisa retorna somente funções de trabalho que começam com o termo de pesquisa, não todas as funções de trabalho que incluem o termo de pesquisa.
 
-_Relatado pela primeira vez em quarta-feira, 21 de outubro de 2025._
+_Relatado pela primeira vez em 21 de outubro de 2025._

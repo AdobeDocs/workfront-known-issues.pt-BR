@@ -4,9 +4,9 @@ description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
 feature: Get Started with Workfront
 source-git-commit: 003a38b5009e80e1b65c23354c8fb9b38d6a7819
-workflow-type: tm+mt
-source-wordcount: '16794'
-ht-degree: 99%
+workflow-type: ht
+source-wordcount: '16793'
+ht-degree: 100%
 
 ---
 
@@ -129,7 +129,7 @@ Quando um usuário está editando um objeto em linha e faz um erro que deveria c
 Esse problema foi relatado para as seguintes situações:
 
 * Predecessores: um loop predecessor é criado, como atribuir uma tarefa a si mesmo
-* Datas: uma data impossível é definida, como uma Data de conclusão anterior à Data de início ou que esteja além da Data de conclusão do projeto
+* Datas: uma data impossível é definida, como uma Data de conclusão anterior à Data inicial ou que esteja além da Data de conclusão do projeto
 
 **A opção “Mover para” não fica disponível em relatórios de problemas**
 
@@ -396,7 +396,7 @@ Ao seguir um link compartilhável para o [!UICONTROL Balanceador de carga de tra
 
 *Atribuições*
 
-Quando um usuário edita tarefas ou problemas em massa e atribui uma equipe após atribuir um indivíduo, as atribuições não são salvas e o usuário vê o seguinte erro:
+Quando um usuário edita tarefas ou problemas em massa e atribui uma equipe após atribuir uma pessoa, as atribuições não são salvas e o usuário vê o seguinte erro:
 
 “[!UICONTROL Vamos tentar novamente. Ocorreu o seguinte erro: teamAssignments deve ser uma lista de objetos ou uma lista de IDs]”
 
@@ -906,14 +906,14 @@ Quando um relatório agendado é enviado, ele não é enviado para todos os usu�
 
 Quando um usuário anexa e personaliza um modelo, ele é solicitado a desmarcar as tarefas que não deseja incluir. No entanto, nenhuma das tarefas é exibida como selecionada e o usuário não pode desmarcá-las.
 
-**Os campos “Local” agora têm rótulos mais específicos**
+**Os campos “Localidade” agora têm rótulos mais específicos**
 
 *Terminologia*
 
-Para tornar a função dos campos “[!UICONTROL Local]” mais clara, atualizamos seus rótulos.
+Para tornar a função dos campos “[!UICONTROL Localidade]” mais clara, atualizamos seus rótulos.
 
-* O campo “[!UICONTROL Local]” no perfil do usuário agora é rotulado como “[!UICONTROL Local de email]”
-* O campo “[!UICONTROL Local]” encontrado na área [!UICONTROL Configuração] > [!UICONTROL Sistema] > [!UICONTROL Informações do cliente] agora está rotulado como “[!UICONTROL Local de email padrão]”
+* O campo “[!UICONTROL Localidade]” no perfil do usuário agora é rotulado como “[!UICONTROL Localidade de email]”
+* O campo “[!UICONTROL Localidade]” encontrado na área [!UICONTROL Configuração] > [!UICONTROL Sistema] > [!UICONTROL Informações do cliente] agora está rotulado como “[!UICONTROL Localidade de email padrão]”
 
 A funcionalidade desses campos não foi alterada.
 
@@ -1079,12 +1079,12 @@ Como resultado dessas correções de erros, o endereço de email usado para envi
 
 Anteriormente, os endereços de email de prova continham o subdomínio de sua organização. Por exemplo, notifications@[company domain].my.workfront.com
 
-Agora, a criação de perfis de endereços de email não contém mais um subdomínio de organização. Todas as notificações por email de prova serão enviadas pelo seguinte endereço: `notification@my.workfront.com`
+Agora, a criação de perfis de endereços de email não contém mais um subdomínio de organização. Todas as notificações por email de provas serão enviadas pelo seguinte endereço: `notification@my.workfront.com`
 
 Como resultado, recomendamos que você execute as seguintes ações caso ainda não tenha feito:
 
-* Atualize seus filtros de spam para aceitar emails de `notification@my.workfront.com`
-* Atualizar suas listas de permissões para aceitar emails de `notification@my.workfront.com`
+* Atualize os seus filtros de spam para aceitar emails de `notification@my.workfront.com`
+* Atualize as suas listas de permissões para aceitar emails de `notification@my.workfront.com`
   **As opções de usuário não podem ser modificadas após a configuração inicial em Modelos de fluxo de trabalho**
 
 *[!DNL Workfront Proof]*
@@ -1113,7 +1113,7 @@ Esse filtro agora está listado abaixo da seção “[!UICONTROL Sugerido]” do
 
 *[!UICONTROL Balanceador de carga de trabalho]*
 
-Com base no feedback que recebemos de muitos clientes, agora adicionamos uma opção para visualizar o [!UICONTROL Balanceador de carga de trabalho] por uma semana. Antes dessa atualização, você poderia visualizar o [!UICONTROL Balanceador de carga de trabalho] por 4, 6 e 12 semanas. Com esta atualização, também alteramos a opção de 12 semanas para 3 meses.
+Com base no feedback que recebemos de muitos clientes, agora adicionamos uma opção de exibir o [!UICONTROL Balanceador de carga de trabalho] por uma semana. Antes dessa atualização, você poderia exibir o [!UICONTROL Balanceador de carga de trabalho] por 4, 6 e 12 semanas. Com esta atualização, também alteramos a opção de 12 semanas para 3 meses.
 
 **O painel Delegar agora está disponível no Balanceador de carga de trabalho**
 
@@ -1259,7 +1259,7 @@ Quando um usuário tenta abrir a área [!UICONTROL Solicitações de trabalho] e
 
 +++
 
-+++**&#x200B; Atualização de manutenção em 9 de junho de 2022**
++++** Atualização de manutenção em 9 de junho de 2022**
 
 **Não é possível selecionar objetos para filtrar nas preferências do [!UICONTROL Otimizador de portfólios]**
 
@@ -1495,7 +1495,7 @@ Quando um usuário tenta criar uma prova, o texto não fica visível para opçõ
 
 +++**Atualização de manutenção em 5 de maio de 2022**
 
-**Não é possível adicionar um novo Registro de faturamento**
+**Não é possível adicionar um novo Registro de cobrança**
 
 *Projetos*
 
@@ -1711,11 +1711,11 @@ Quando um usuário visualiza a área [!UICONTROL Pessoas] de um projeto, selecio
 
 Quando um usuário está visualizando um fluxo de atualização que seria mais de uma página impressa e tenta imprimir a página, a tela de impressão mostra que o número de páginas está muito acima do número real de páginas necessárias para imprimir as atualizações. Se o usuário tentar imprimir no PDF, a criação do PDF falhará.
 
-**Os usuários não podem ver toda a lista de entidades compartilhadas com um relatório quando a configuração “[!UICONTROL Visível em todo o sistema]” está ativada**
+**Os usuários não podem ver toda a lista de entidades compartilhadas com um relatório quando a configuração “[!UICONTROL Visível em todo o sistema]” está habilitada**
 
 *Relatórios*
 
-Ao compartilhar relatórios com várias entidades que exibem a caixa [!UICONTROL Acesso ao relatório], os usuários não conseguem rolar a tela para a parte inferior da lista para ver toda a lista quando a configuração “[!UICONTROL Visível em todo o sistema]” está ativada.
+Ao compartilhar relatórios com várias entidades que exibem a caixa [!UICONTROL Acesso ao relatório], os usuários não conseguem rolar a tela para a parte inferior da lista para ver toda a lista quando a configuração “[!UICONTROL Visível em todo o sistema]” está habilitada.
 
 **Moeda incorreta usada em relatórios**
 
@@ -1811,7 +1811,7 @@ Quando um usuário tenta adicionar um formulário personalizado entre objetos à
 
 Quando um usuário tenta atribuir outro usuário a uma tarefa no [!UICONTROL Balanceador de carga de trabalho] e a tarefa é atribuída a uma função de trabalho diferente da função de trabalho principal do usuário atribuído, o usuário será atribuído à tarefa pela função de trabalho principal e a seguinte mensagem será exibida:
 
-“&lt;Nome> não corresponde à função de &lt;Atribuição de funções de tarefas>. 1 item de trabalho atribuído à função de &lt;Atribuição de funções de tarefas> será atribuído a &lt;Nome> na função de &lt;Função Principal>.”
+&quot;\&lt;Nome> não corresponde à função de \&lt;Atribuição de funções de tarefas\>. 1 item de trabalho atribuído à função de &lt;\Atribuição de funções de tarefas\> será atribuído a \&lt;Nome\> na função de \&lt;Função Principal\>.”
 
 Isso ocorre mesmo se o usuário tiver a função de tarefa da atribuição de função de tarefa como uma função de trabalho secundária.
 
@@ -1907,7 +1907,7 @@ Quando um usuário clica em uma coluna para classificar por ela, a classificaç�
 
 *Relatórios*
 
-Quando um relatório tem um agrupamento incorporado e o usuário tenta selecionar “[!UICONTROL Nada]” no menu suspenso [!UICONTROL Agrupamento] no menu suspenso, o relatório é exibido brevemente sem agrupamento e, em seguida, reverte para o agrupamento [!UICONTROL Padrão do relatório].
+Quando um relatório tem um agrupamento integrado e o usuário tenta selecionar “[!UICONTROL Nada]” no menu suspenso [!UICONTROL Agrupamento] no menu suspenso, o relatório é exibido brevemente sem agrupamento e, em seguida, reverte para o agrupamento [!UICONTROL Padrão do relatório].
 
 A guia **“[!UICONTROL Acesso a blueprints]” foi removida das Preferências de blueprints**
 
@@ -1931,7 +1931,7 @@ A visualização **[!UICONTROL Marco] no relatório do projeto causa um erro**
 
 *Relatórios*
 
-Ao exibir um relatório de projeto usando a visualização [!UICONTROL Marco], os usuários obtêm o erro “[!UICONTROL APIModel INTERNAL não é compatível com a namedQuery TILE:milestone-view (UIVW)]”
+Ao exibir um relatório de projeto com a visualização de [!UICONTROL Marco] os usuários obtêm o erro: “[!UICONTROL APIModel INTERNAL não é compatível com o namedQuery TILE:milestone-view (UIVW):milestone-view (UIVW)]”.
 
 **A terminologia personalizada está inconsistente**
 
@@ -2085,7 +2085,7 @@ Quando um usuário tenta adicionar um documento do [!DNL Google Drive], a seleç
 
 Quando um usuário é marcado em uma atualização, ele não aparece na área “[!UICONTROL Para]” da atualização ou suas respostas.
 
-**O usuário de prova tem duas contas de prova separadas**
+**O usuário de revisão tem duas contas de revisão separadas**
 
 *[!DNL Workfront Proof]*
 
@@ -2111,17 +2111,17 @@ Quando um administrador converte o problema, os dados são transportados para o 
 
 O limite do tamanho de arquivo do **[!DNL XLS] e do [!DNL XLSX] foi temporariamente reduzido para 100 MB para provas**
 
-*Prova*
+*Revisão*
 
 Para solucionar um problema de segurança, limitamos temporariamente o tamanho máximo de arquivo do [!DNL XLS] e do [!DNL XLSX] para 100 MB ao criar uma prova.
 
-OBSERVAÇÃO: essa atualização foi realizada no ambiente de Pré-visualização em 24 de fevereiro e estará no ambiente Produção em 3 de março.
+OBSERVAÇÃO: essa atualização foi realizada no ambiente de visualização em 24 de fevereiro e estará no ambiente de produção em 3 de março.
 
 **Atualizar para Pesquisa do Workfront**
 
 Pesquisar
 
-Uma implantação em fases começou esta semana para atu alizar a infraestrutura da funcionalidade de pesquisa do [!DNL Workfront]. A atualização tornará a Pesquisa mais fácil e mais confiável. Com essas alterações, os itens adicionados ao [!DNL Workfront] serão indexados mais rapidamente e, portanto, retornarão nos resultados da pesquisa mais cedo.
+Uma implantação em fases começou esta semana para atualizar a infraestrutura da funcionalidade de pesquisa do [!DNL Workfront]. A atualização tornará a Pesquisa mais fácil e mais confiável. Com essas alterações, os itens adicionados ao [!DNL Workfront] serão indexados mais rapidamente e, portanto, retornarão nos resultados da pesquisa mais cedo.
 
 A distribuição em fases continuará por 2 semanas.
 
@@ -2198,11 +2198,11 @@ Ao tentar abrir uma prova, o usuário não consegue abri-la. Por fim, a página 
 
 O limite do tamanho de arquivo do **[!DNL XLS] e do [!DNL XLSX] foi temporariamente reduzido para 100 MB para provas**
 
-*Prova*
+*Revisão*
 
 Para solucionar um problema de segurança, limitamos temporariamente o tamanho máximo de arquivo do [!DNL XLS] e do [!DNL XLSX] para 100 MB ao criar uma prova.
 
-OBSERVAÇÃO: essa atualização estará no ambiente de Pré-visualização em 24 de fevereiro e no ambiente Produção em 3 de março.
+OBSERVAÇÃO: essa atualização estará no ambiente de visualização em 24 de fevereiro e no ambiente de produção em 3 de março.
 
 **Permissões para adicionar tarefas ou problemas a um projeto não são necessárias para mover ou copiar uma tarefa ou um problema para o projeto**
 

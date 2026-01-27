@@ -4,9 +4,9 @@ description: 'Os módulos do AWS estão falhando com o erro: cabeçalho obrigat�
 hidefromtoc: true
 feature: Workfront Fusion
 source-git-commit: 0bda09f90283710c8ad1e6275ba48ccf7455fbe1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '51'
-ht-degree: 19%
+ht-degree: 100%
 
 ---
 
@@ -15,10 +15,10 @@ ht-degree: 19%
 
 >[!NOTE]
 >
->Esse problema foi corrigido em sexta-feira, 8 de janeiro de 2026.
+>Esse problema foi corrigido em 8 de janeiro de 2026.
 
 Os módulos do AWS estão falhando com o seguinte erro:
 
-&quot;Cabeçalho obrigatório ausente para esta solicitação&quot;
+“Cabeçalho obrigatório ausente para esta solicitação”
 
-_Relatado pela primeira vez em quarta-feira, 23 de dezembro de 2025._
+_Relatado pela primeira vez em 23 de dezembro de 2025._

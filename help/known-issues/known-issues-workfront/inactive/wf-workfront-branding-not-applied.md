@@ -1,17 +1,17 @@
 ---
-title: 'Workfront: marcas não disponíveis'
-description: A atribuição de marca não está disponível para organizações que migraram para o Adobe Admin Console, Adobe Unified Shell ou Adobe IMS (Identity Management System).
+title: 'Workfront: a identidade visual não está disponível'
+description: A identidade visual não está disponível para organizações migradas para o Adobe Admin Console, o Adobe Unified Shell ou o Adobe IMS (sistema de gerenciamento de identidades).
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 0c7e5ebf-c09a-45fd-a017-c1607cef8b78
 source-git-commit: 838c8ed34b72916597a4a28ec00a5711bba3fe23
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '181'
-ht-degree: 39%
+ht-degree: 100%
 
 ---
 
-# [!DNL Workfront]: identidade visual não está disponível
+# [!DNL Workfront]: a identidade visual não está disponível
 
 >[!NOTE]
 >
@@ -19,11 +19,11 @@ ht-degree: 39%
 
 >[!IMPORTANT]
 >
->A atribuição de marca não estará disponível se sua organização tiver migrado para o Adobe Admin Console, Adobe Unified Shell ou Adobe IMS (Identity Management System).
+>A identidade visual não estará disponível se a sua organização tiver sido migrada para o Adobe Admin Console, o Adobe Unified Shell ou o Adobe IMS (sistema de gerenciamento de identidades).
 
-A atribuição de marca não está disponível para organizações que migraram para o Adobe Admin Console, Adobe Unified Shell ou Adobe IMS (Identity Management System). Ao tentar usar a marca, um usuário em uma dessas organizações pode ver um dos seguintes:
+A identidade visual não está disponível para organizações migradas para o Adobe Admin Console, o Adobe Unified Shell ou o Adobe IMS (sistema de gerenciamento de identidades). Ao tentar usar a identidade visual, um usuário de uma dessas organizações pode ver um dos seguintes:
 
-* A identidade visual não está disponível como uma configuração em Modelos de layout.
+* A identidade visual não está disponível como uma configuração em “Modelos de layout”.
 * Quando um usuário faz upload de arquivos na área [!UICONTROL Identidade visual] da configuração, o upload dos arquivos parece correto. No entanto, se um usuário exibir o [!UICONTROL Menu principal], não verá o logotipo. Em vez disso, a pessoa vê a seguinte mensagem:
 
   &quot;[!UICONTROL Logotipo da empresa indisponível. Não foi possível carregar o logotipo da sua empresa com base no URL fornecido. Entre em contato com o administrador do sistema.]”

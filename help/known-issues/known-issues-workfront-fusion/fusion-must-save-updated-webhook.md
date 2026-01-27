@@ -1,24 +1,24 @@
 ---
 title: 'Workfront Fusion: as atualizações do webhook não são salvas automaticamente'
-description: Quando um usuário faz uma alteração em um webhook, como no módulo Workfront > Evento de observação, as alterações não são salvas automaticamente. O usuário deve salvar o cenário para preservar as alterações no webhook.
+description: Quando um usuário faz uma alteração em um webhook, como no módulo “Monitorar evento” do Workfront, as alterações não são salvas automaticamente. O usuário precisa salvar o cenário para preservar as alterações no webhook.
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: 8329afea4d9cdd80c6e9dba9636dcf8b27c910e4
-workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 8%
+exl-id: 7e9eb4d2-1a6f-4612-a29e-6947557b4195
+source-git-commit: 99a10c3dff69e6a1cbab89da65a0f3a078be93ef
+workflow-type: ht
+source-wordcount: '98'
+ht-degree: 100%
 
 ---
 
-
 # Workfront Fusion: as atualizações do webhook não são salvas automaticamente
 
-Quando um usuário faz uma alteração em um webhook, como no módulo Workfront > Evento de observação, as alterações não são salvas automaticamente.
+Quando um usuário faz uma alteração em um webhook, como no módulo Workfront > “Monitorar evento”, as alterações não são salvas automaticamente.
 
-O usuário **deve salvar o cenário** para preservar as alterações no webhook.
+O usuário **precisa salvar o cenário** para preservar as alterações no webhook.
 
 **Solução alternativa**
 
 Salve o cenário.
 
-_Relatado pela primeira vez em sexta-feira, 17 de julho de 2025._
+_Relatado pela primeira vez em 17 de julho de 2025._

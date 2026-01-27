@@ -1,22 +1,22 @@
 ---
-title: 'Aprovações: aprovações delegadas que não aparecem para delegados'
-description: Quando um usuário delega uma aprovação a outro usuário, o usuário delegado não pode ver a aprovação e não pode tomar uma decisão de aprovação.
+title: 'Aprovações: as aprovações delegadas não aparecem para delegados'
+description: Quando um usuário delega uma aprovação a outro usuário, o usuário delegado não pode ver a aprovação nem tomar uma decisão de aprovação.
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: 04c2b586-ffe9-4d85-ae57-899b9c5120d3
 source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
-ht-degree: 17%
+ht-degree: 100%
 
 ---
 
-# Aprovações: aprovações delegadas que não aparecem para delegados
+# Aprovações: as aprovações delegadas não aparecem para delegados
 
 >[!NOTE]
 >
->Este problema foi encerrado porque o botão está funcionando conforme projetado. A delegação ainda não tem suporte para a nova experiência de aprovação de documentos.
+>Esse problema foi encerrado porque o funcionamento está correto conforme projetado. A delegação ainda não é compatível com a nova experiência de aprovação de documentos.
 
-Quando um usuário delega uma aprovação a outro usuário, o usuário delegado não pode ver a aprovação e não pode tomar uma decisão de aprovação.
+Quando um usuário delega uma aprovação a outro usuário, o usuário delegado não pode ver a aprovação nem tomar uma decisão de aprovação.
 
-_Relatado pela primeira vez em sábado, 22 de novembro de 2024._
+_Relatado pela primeira vez em 22 de novembro de 2024._

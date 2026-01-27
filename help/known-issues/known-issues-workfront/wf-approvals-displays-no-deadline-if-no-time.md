@@ -1,22 +1,22 @@
 ---
-title: 'Aprovações: a aprovação é exibida como Sem prazo final quando o horário não está incluído no prazo'
-description: Quando um prazo de aprovação inclui apenas uma data, e não uma hora, ele é exibido no widget Início das aprovações como um prazo final igual a Nenhum prazo.
+title: 'Aprovações: a aprovação é exibida como “Sem prazo” quando a hora não é incluída no prazo'
+description: Quando o prazo de uma aprovação inclui apenas uma data, sem uma hora, ele é exibido no widget da página inicial de aprovações como sendo “Sem prazo”.
 hidefromtoc: true
 feature: Digital Content and Documents, Get Started with Workfront
 source-git-commit: 67e4a2455c4bd3db0fa91625225066611ac8d864
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# Aprovações: a aprovação é exibida como &quot;Sem prazo&quot; quando a hora não é incluída no prazo
+# Aprovações: a aprovação é exibida como “Sem prazo” quando a hora não é incluída no prazo
 
-Quando um prazo de aprovação inclui apenas uma data, e não uma hora, ele é exibido no widget Início das aprovações como um prazo final igual a &quot;Sem prazo final&quot;.
+Quando o prazo de uma aprovação inclui apenas uma data, sem uma hora, ele é exibido no widget da página inicial de aprovações como sendo “Sem prazo”.
 
-**Solução alternativa**
+**Solução**
 
-Incluir uma hora no prazo final.
+Inclua uma hora no prazo final.
 
-_Relatado pela primeira vez em sexta-feira, 21 de agosto de 2025._
+_Relatado pela primeira vez em 21 de agosto de 2025._

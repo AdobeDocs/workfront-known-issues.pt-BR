@@ -1,22 +1,22 @@
 ---
-title: 'Workfront: os usuários do Colaborador não podem acessar Programas ou Portfolio'
-description: Os usuários que têm o novo nível de acesso de Colaborador não podem acessar Programas ou Portfolio apesar do acesso a ambos estarem incluídos no nível de acesso.
+title: 'Workfront: os usuários colaboradores não conseguem acessar nem os programas nem os portfólios'
+description: Usuários com o novo nível de acesso de colaborador não podem acessar nem programas nem portfólios, apesar de o acesso a ambos estar incluído no nível de acesso.
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 463d212d-ff0a-4de2-ae6e-70a538de497e
 source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
-ht-degree: 19%
+ht-degree: 100%
 
 ---
 
-# Workfront: os usuários do Colaborador não podem acessar Programas ou Portfolio
+# Workfront: os usuários colaboradores não conseguem acessar nem os programas nem os portfólios
 
 >[!NOTE]
 >
->Este problema foi encerrado porque o programa está funcionando conforme projetado.
+>Esse problema foi encerrado porque o funcionamento está correto conforme projetado.
 
-Os usuários que têm o novo nível de acesso de Colaborador não podem acessar Programas ou Portfolio apesar do acesso a ambos estarem incluídos no nível de acesso.
+Usuários com o novo nível de acesso de colaborador não podem acessar nem programas nem portfólios, apesar de o acesso a ambos estar incluído no nível de acesso.
 
-_Relatado pela primeira vez em quinta-feira, 16 de outubro de 2024._
+_Relatado pela primeira vez em 16 de outubro de 2024._

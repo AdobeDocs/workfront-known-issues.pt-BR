@@ -4,9 +4,9 @@ description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Planning]
 keywords: novo arquivo, adicionar arquivo
 feature: Workfront Planning
 source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -40,7 +40,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 ## Solução alternativa disponível
 
-No momento, as correções para esses problemas não estão no roteiro, mas há soluções alternativas disponíveis e descritas no artigo para cada problema.
+No momento, não há correções planejadas para esses problemas, mas há soluções alternativas disponíveis e descritas no artigo para cada problema.
 
 | **Problema** | **Última modificação** |
 | --- | --- |

@@ -5,13 +5,13 @@ exl-id: d308ee88-9265-4fa7-8574-ec7d5eb9d306
 hidefromtoc: true
 feature: Reports and Dashboards
 source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '144'
 ht-degree: 100%
 
 ---
 
-# Relatórios: não é possível rolar o relatório horizontalmente ao visualizar no painel
+# Relatórios: não é possível rolar o relatório horizontalmente ao visualizá-lo no painel
 
 >[!NOTE]
 >

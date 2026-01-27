@@ -1,22 +1,22 @@
 ---
-title: 'Provas: não é possível gerar uma prova de um arquivo do PowerPoint'
-description: Quando um usuário tenta gerar uma prova de um PowerPoint, a prova não é gerada e o usuário vê uma mensagem de erro. Uma solução alternativa está disponível.
+title: 'Provas: não é possível gerar uma prova a partir de um arquivo do PowerPoint'
+description: Quando um usuário tenta gerar uma prova a partir de um arquivo do PowerPoint, ela não é gerada, e o usuário vê uma mensagem de erro. Há uma solução alternativa disponível.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 3cb9b2b88c62e98d8d57f76b4300eb1601bfb8cb
-workflow-type: tm+mt
+exl-id: 13e9c820-e245-4e22-90fe-cc2c9def73dc
+source-git-commit: 8c2968464f1a7c8347a21367b940b8c298fde727
+workflow-type: ht
 source-wordcount: '88'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
+# Provas: não é possível gerar uma prova a partir de um arquivo do PowerPoint
 
-# Provas: não é possível gerar uma prova de um arquivo do PowerPoint
+Quando um usuário tenta gerar uma prova a partir de um arquivo do PowerPoint, ela não é gerada, e o usuário vê uma mensagem de erro.
 
-Quando um usuário tenta gerar uma prova de um PowerPoint, a prova não é gerada e o usuário vê uma mensagem de erro.
+**Solução**
 
-**Solução alternativa**
+Exporte o arquivo do PowerPoint para um PDF e crie uma prova a partir do PDF.
 
-Exporte o arquivo do PowerPoint para uma PDF e crie uma prova no PDF.
-
-_Reportado pela primeira vez em 21 de março de 2025._
+_Relatado pela primeira vez em 21 de março de 2025._

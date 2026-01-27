@@ -1,11 +1,12 @@
 ---
 title: Atualizações de manutenção do Workfront em 2024
-description: Atualizações de manutenção do  [!DNL Adobe Workfront]
+description: Atualizações de manutenção do [!DNL Adobe Workfront]
 feature: Get Started with Workfront
-source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
-workflow-type: tm+mt
+exl-id: 8a8ade95-d940-4773-8032-724bc2d8301e
+source-git-commit: abb417f3b19f2c8a5ef27a2318f4fde55fadc99d
+workflow-type: ht
 source-wordcount: '7353'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -13,7 +14,7 @@ ht-degree: 80%
 
 >[!NOTE]
 >
->Para obter informações sobre interrupções de manutenção para todos os produtos Adobe, incluindo o Workfront, consulte a [página Status da Adobe](https://status.adobe.com/).
+>Para obter informações sobre interrupções de manutenção para todos os produtos Adobe, incluindo o Workfront, consulte a [página Status da Adobe](https://status.adobe.com/pt/).
 
 Esta página descreve os problemas corrigidos nas atualizações semanais do Workfront.
 
@@ -25,181 +26,181 @@ As seguintes atualizações de manutenção foram efetuadas em 2024.
 
 ## Atualizações em dezembro de 2024
 
-+++**Atualização de manutenção em sexta-feira, 19 de dezembro de 2024**
++++**Atualização de manutenção em 19 de dezembro de 2024**
 
 ### Atualização de manutenção em 19 de dezembro de 2024
 
-Esta atualização contém apenas correções de erros pequenos ou menos importantes. O Suporte da Workfront enviará uma notificação quando um problema enviado for corrigido.
+Esta atualização contém apenas correções de erros pequenos ou menos importantes. O suporte do Workfront enviará uma notificação quando um problema enviado por você for corrigido.
 
 +++
 
-+++**Atualização de manutenção em sexta-feira, 12 de dezembro de 2024**
++++**Atualização de manutenção em 12 de dezembro de 2024**
 
 ### Atualização de manutenção em 12 de dezembro de 2024
 
 #### Painéis
 
-**A coluna desaparece quando usada para classificação em um relatório de painel**
+**A coluna desaparece quando usada para ordenação em um relatório de painel**
 
-Ao classificar um relatório colocado em um painel por uma coluna, ela desaparece e o conteúdo não é classificado.
+Ao classificar um relatório colocado em um painel por uma coluna, ela desaparece, e o conteúdo não é ordenado.
 
 #### Relatórios
 
 **A coluna do grupo sob a opção de gráfico causa um erro**
 
-Ao ativar a opção &quot;Group column under chart&quot; em um relatório com um gráfico, a seguinte mensagem de erro é exibida: &quot;Ocorreu um erro e estamos trabalhando para resolver o problema. Para continuar com seu trabalho, tente atualizar esta página do navegador.“
+Ao habilitar a opção “Coluna do grupo sob o gráfico” em um relatório com um gráfico, a seguinte mensagem de erro é exibida: “Ocorreu um erro, e estamos trabalhando para resolver o problema. Para continuar com o seu trabalho, tente atualizar esta página do navegador”.
 
-**Ícones de Edição e Exclusão em Massa ausentes nos relatórios**
+**Ícones de edição e exclusão em massa ausentes nos relatórios**
 
-Ao tentar editar ou excluir vários itens de relatório em massa, os ícones Editar e Excluir ocasionalmente não são exibidos.
+Ao tentar editar ou excluir vários itens de um relatório de uma só vez, os ícones de editar e excluir às vezes não são exibidos.
 
-**Erros nos relatórios do Projeto (Dados Financeiros)**
+**Erros nos relatórios do projeto (dados financeiros)**
 
-Um erro aparece intermitentemente nos relatórios do Projeto (Dados financeiros), tanto na página de detalhes quanto na página de matriz.
+Aparece um erro de forma intermitente nos relatórios do projeto (dados financeiros), tanto na página de detalhes quanto na página de matriz.
 
-Como parte da correção desse problema, os projetos neste tipo de relatório não são mais recalculados automaticamente antes do carregamento dos dados. Os usuários devem recalcular manualmente as finanças de projetos individuais para atualizar os dados em um relatório de dados financeiros.
+Como parte da correção desse problema, os projetos nesse tipo de relatório não são mais recalculados automaticamente antes do carregamento dos dados. Os usuários precisam recalcular manualmente as finanças de projetos individuais para atualizar os dados em um relatório de dados financeiros.
 
 +++
 
-+++**Atualização de manutenção em sexta-feira, 5 de dezembro de 2024**
++++**Atualização de manutenção em 5 de dezembro de 2024**
 
 ### Atualização de manutenção em 5 de dezembro de 2024
 
 #### Formulários personalizados
 
-**Não é possível adicionar os campos de tarefa &quot;estimateByHours&quot; ou &quot;hoursPerPoint&quot;**
+**Não é possível adicionar os campos de tarefa “estimateByHours” ou “hoursPerPoint”**
 
-Quando um usuário tenta adicionar os campos &quot;estimateByHours&quot; ou &quot;hoursPerPoint&quot; a um formulário personalizado no construtor de formulários, uma mensagem de erro é exibida: &quot;Esta expressão personalizada é inválida. Tente novamente&quot;.
+Quando um usuário tenta adicionar os campos “estimateByHours” ou “hoursPerPoint” a um formulário personalizado no construtor de formulários, uma mensagem de erro é exibida: “Esta expressão personalizada é inválida. Tente novamente”.
 
 **A lógica de exibição não funciona em formulários personalizados**
 
-Quando um usuário insere informações em um formulário personalizado com lógica de exibição, os campos que devem aparecer com base na lógica de exibição não aparecem.
+Quando um usuário insere informações em um formulário personalizado com uma lógica de exibição, os campos que devem aparecer com base nessa lógica não aparecem.
 
-#### Início
+#### Página inicial
 
-**Os contribuidores exibiram o botão &quot;Trabalhar nisto&quot; não funcional**
+**Os colaboradores veem um botão de “Trabalhar nisto” que não funciona**
 
-Os usuários do Colaborador têm acesso a um botão &quot;Trabalhar nisso&quot; não funcional no widget Meu trabalho na Página inicial.
+Os usuários colaboradores têm acesso a um botão de “Trabalhar nisso” que não funciona no widget “Meu trabalho” na página inicial.
 
 #### Relatórios
 
-**Trimestres personalizados não aparecem nos prompts do relatório**
+**Os trimestres personalizados não aparecem nos prompts do relatório**
 
-Quando um usuário está executando um relatório com um prompt baseado em data, trimestres personalizados não aparecem na lista de seleções do prompt.
+Quando um usuário está executando um relatório com um prompt baseado na data, os trimestres personalizados não aparecem na lista de seleções do prompt.
 
 +++
 
 ## Atualizações em novembro de 2024
 
-+++**Atualização de manutenção em sexta-feira, 28 de novembro de 2024**
++++**Atualização de manutenção em 28 de novembro de 2024**
 
 ### Atualização de manutenção em 28 de novembro de 2024
 
 #### Projetos
 
-**Não é possível compartilhar projetos devido ao erro &quot;acesso para excluir&quot;**
+**Não é possível compartilhar projetos devido a um erro de “acesso para excluir”**
 
-Ao tentar compartilhar um projeto, o usuário recebe um erro: &quot;Você não tem acesso suficiente para excluir este projeto&quot;. Isso ocorre mesmo que o usuário não tente excluir o projeto, assim como o usuário que é o Proprietário do projeto e tem acesso ao Compartilhamento e Gerenciamento.
+Ao tentar compartilhar um projeto, o usuário recebe um erro: “Você não tem acesso suficiente para excluir este projeto”. Isso ocorre mesmo que o usuário não tente excluir o projeto, bem como quando o usuário é o proprietário do projeto e tem acesso para compartilhar e gerenciar.
 
 #### Relatórios
 
-O campo **Nome da Categoria não está vinculado ao formulário personalizado**
+**O campo de nome da categoria não é vinculado ao formulário personalizado**
 
-Ao visualizar uma lista em um relatório contendo um campo Nome da categoria, o conteúdo da coluna Nome da categoria não pode ser clicado para abrir o formulário personalizado correspondente.
+Ao visualizar uma lista em um relatório que contém um campo de nome da categoria, o conteúdo da coluna “Nome da categoria” não pode ser clicado para abrir o formulário personalizado correspondente.
 
-**Cores personalizadas do grupo em relatórios que não funcionam**
+**As cores personalizadas do grupo não funcionam em relatórios**
 
-Ao atribuir uma cor personalizada a um grupo no Report Builder, a seleção de cores não aparece ao executar o relatório.
+Ao atribuir uma cor personalizada a um grupo no construtor de relatórios, a seleção de cores não aparece ao executar o relatório.
 
-**Longos tempos de carregamento para relatórios**
+**Longos tempos de carregamento de relatórios**
 
-Os relatórios demoram muito para serem carregados. Isso afeta a exibição de relatórios, bem como a edição e criação de relatórios no construtor de relatórios.
+Os relatórios demoram muito para serem carregados. Isso afeta a visualização de relatórios, bem como a edição e criação de relatórios no construtor de relatórios.
 
-**Campo de hora ausente para campos de data/hora calculados em prompts de relatório**
+**Campo de hora ausente para campos de data/hora calculados em prompts do relatório**
 
-Quando um relatório é executado, um campo Data/Hora personalizado é usado como um prompt e o campo de seleção de hora não aparece na interface do prompt.
+Quando um relatório é executado, um campo de data/hora personalizado é usado como um prompt, e o campo de seleção de hora não aparece na interface do prompt.
 
-**Não é possível exibir relatórios/painéis compartilhados**
+**Não é possível visualizar relatórios/painéis compartilhados**
 
-Quando um usuário tenta acessar um relatório ou painel que foi compartilhado com ele, o relatório ou painel não pode ser acessado.
+Quando um usuário tenta acessar um relatório ou painel que foi compartilhado consigo, o relatório ou painel não pode ser acessado.
 
 #### Planilhas de horas
 
-**Os usuários do colaborador têm o botão &quot;Enviar para aprovação&quot;**
+**Os usuários colaboradores veem o botão de “Enviar para aprovação”**
 
-Embora não seja possível inserir horas em folhas de horas, os usuários com nível de acesso de Colaborador têm um botão &quot;Enviar para aprovação&quot; que podem clicar.
+Embora não seja possível inserir horas nas folhas de horas, os usuários com nível de acesso de colaborador veem o botão de “Enviar para aprovação”, no qual podem clicar.
 
 +++
 
-+++**Atualização de manutenção em sexta-feira, 21 de novembro de 2024**
++++**Atualização de manutenção em 21 de novembro de 2024**
 
 ### Atualização de manutenção em 21 de novembro de 2024
 
 #### Painéis
 
-**Não é possível interagir com as barras de relatório do gráfico de barras nos painéis**
+**Não é possível interagir com as barras de relatório de gráfico de barras nos painéis**
 
-Ao tentar clicar ou passar o mouse sobre uma barra em um relatório de gráfico de barras em um painel, o menu de detalhes não abre ou nenhuma dica de ferramenta é exibida, respectivamente.
+Ao tentar clicar ou passar o mouse sobre uma barra em um relatório de gráfico de barras em um painel, o menu de detalhes não é aberto, ou nenhuma dica de ferramenta é exibida, respectivamente.
 
 #### Projetos
 
-**Falha ao carregar os projetos**
+**Falha ao carregar projetos**
 
-Ao navegar para um projeto, a página ocasionalmente falha ao carregar qualquer conteúdo.
+Ao navegar até um projeto, a página às vezes falha ao carregar qualquer conteúdo.
 
 #### Relatórios
 
 **A edição em massa nas listas de gráficos não responde**
 
-Quando um usuário visualiza um gráfico em um relatório e seleciona vários itens na lista para edição em massa, o cursor desaparece e as caixas de texto para a edição em massa ficam sem resposta.
+Quando um usuário visualiza um gráfico em um relatório e seleciona vários itens na lista para edição em massa, o cursor desaparece e as caixas de texto de edição em massa não respondem.
 
-**Botões Editar e Excluir sem resposta nos relatórios de folha de horas**
+**Os botões de editar e excluir não respondem nos relatórios de folhas de horas**
 
-Ao tentar clicar nos ícones Editar ou Excluir em um relatório de folha de horas, não há resposta.
+Ao tentar clicar nos ícones de editar ou excluir em um relatório de folhas de horas, não há nenhuma resposta.
 
-**Falha ao carregar relatórios contendo campos de digitação antecipada**
+**Falha ao carregar relatórios que contêm campos de preenchimento automático**
 
-Ao abrir um relatório que contém campos de digitação antecipada personalizados, o relatório ocasionalmente não é carregado e exibe uma mensagem de erro.
+Ao abrir um relatório que contém campos de preenchimento automático personalizados, o relatório às vezes não é carregado e exibe uma mensagem de erro.
 
 +++
 
-+++**Atualização de manutenção em sexta-feira, 14 de novembro de 2024**
++++**Atualização de manutenção em 14 de novembro de 2024**
 
 ### Atualização de manutenção em 14 de novembro de 2024
 
-#### Início
+#### Página inicial
 
-**Erros de itens por- fazer para os itens por- fazer novos e concluídos**
+**Erros do widget de tarefas pendentes para tarefas novas e concluídas**
 
-Ao tentar criar uma nova tarefa ou concluir uma tarefa existente no widget Página inicial da tarefa, os usuários encontram um erro e não podem criar ou concluir a tarefa.
+Ao tentar criar uma nova tarefa ou concluir uma já existente no widget de tarefas pendentes da página inicial, os usuários deparam-se com um erro e não podem criar nem concluir a tarefa.
 
 #### Usuários
 
-**Caixa de seleção &quot;Enviar emails de convite para essas pessoas&quot; ausente**
+**Caixa de seleção “Enviar emails de convite a estas pessoas” ausente**
 
-Ao importar novos usuários para o Workfront, a caixa de seleção &quot;Enviar emails de convite para essas pessoas&quot; não aparece na janela de diálogo.
+Ao importar novos usuários para o Workfront, a caixa de seleção “Enviar emails de convite a estas pessoas” não aparece na janela da caixa de diálogo.
 
 +++
 
-+++**Atualização de manutenção em sexta-feira, 7 de novembro de 2024**
++++**Atualização de manutenção em 7 de novembro de 2024**
 
 ### Atualização de manutenção em 7 de novembro de 2024
 
-Esta atualização contém apenas correções de erros pequenos ou menos importantes. O Suporte da Workfront enviará uma notificação quando um problema enviado for corrigido.
+Esta atualização contém apenas correções de erros pequenos ou menos importantes. O suporte do Workfront enviará uma notificação quando um problema enviado por você for corrigido.
 
 +++
 
 ## Atualizações em outubro de 2024
 
-+++**Atualização de manutenção em sexta-feira, 31 de outubro de 2024**
++++**Atualização de manutenção em 31 de outubro de 2024**
 
 ### Atualização de manutenção em 31 de outubro de 2024
 
-Esta atualização contém apenas correções de erros pequenos ou menos importantes. O Suporte da Workfront enviará uma notificação quando um problema enviado for corrigido.
+Esta atualização contém apenas correções de erros pequenos ou menos importantes. O suporte do Workfront enviará uma notificação quando um problema enviado por você for corrigido.
 
 +++
 
-+++**Atualização de manutenção em sexta-feira, 24 de outubro de 2024**
++++**Atualização de manutenção em 24 de outubro de 2024**
 
 ### Atualização de manutenção em 24 de outubro de 2024
 
@@ -207,49 +208,49 @@ Esta atualização contém apenas correções de erros pequenos ou menos importa
 
 **O ícone de folga não aparece ao atribuir tarefas**
 
-Quando um usuário atribui uma tarefa e começa a digitar o nome do designado que tem folga programada durante a tarefa, os ícones de usuário na área Atribuições sugeridas não exibem o ícone de folga (avião). Se o usuário continuar digitando para que o nome seja exibido na área de usuários e equipes, o ícone não será exibido.
+Quando um usuário está atribuindo uma tarefa e começa a digitar o nome do designado que tem uma folga programada durante a tarefa, os ícones de usuário na área de atribuições sugeridas não exibem o ícone de folga (avião). Se o usuário continuar digitando para que o nome seja exibido na área de usuários e equipes, o ícone não será exibido.
 
 #### Formulários personalizados
 
 **Não é possível atualizar dados personalizados em projetos concluídos**
 
-Quando um usuário tenta atualizar dados personalizados em um projeto concluído, não é possível atualizar os dados e é exibida a seguinte mensagem:
+Quando um usuário tenta atualizar dados personalizados em um projeto concluído, não é possível atualizá-los, aparecendo a seguinte mensagem:
 
-&quot;Não é possível concluir a operação de um projeto com o status Concluído.&quot;
+“Não é possível concluir a operação para um projeto com status ‘Concluído’”.
 
 #### Projetos
 
-**Não é possível adicionar problemas ao projeto concluído**
+**Não é possível adicionar problemas a um projeto concluído**
 
-Quando um usuário tenta adicionar um problema a um projeto com o status Concluído, ele não consegue adicionar o problema. Isso pode ocorrer mesmo se a opção &quot;Adicionar e editar problemas&quot; estiver ativada
+Quando um usuário tenta adicionar um problema a um projeto com o status “Concluído”, ele não consegue adicioná-lo. Isso pode ocorrer mesmo se a opção “Adicionar e editar problemas” estiver habilitada
 
-**O gráfico de Gantt não é preciso**
+**O gráfico de Gantt não está correto**
 
-Quando um usuário visualiza o Gráfico de Gantt e alterna as visualizações, o Gráfico de Gantt não mostra dados precisos ou não mostra dados.
+Quando um usuário visualiza o gráfico de Gantt e alterna as visualizações, o gráfico de Gantt não mostra dados corretos ou não mostra nenhum dado.
 
 +++
 
-+++**Atualização de manutenção em sexta-feira, 17 de outubro de 2024**
++++**Atualização de manutenção em 17 de outubro de 2024**
 
 ### Atualização de manutenção em 17 de outubro de 2024
 
 #### Provas
 
-**Provas mostram data imprecisa**
+**As provas mostram datas incorretas**
 
-As datas listadas na lista de documentos estão mostrando a data em que a primeira versão do documento foi criada, em vez da data em que a versão mais recente foi criada.
+As datas listadas na lista de documentos mostram a data em que a primeira versão do documento foi criada, em vez da data em que a versão mais recente foi criada.
 
 #### Planilhas de horas
 
-Quando um usuário tenta registrar as horas em uma folha de horas com status Enviado ou Fechado, não é possível registrar as horas.
+Quando um usuário tenta registrar as horas em uma folha de horas com status “Enviado” ou “Encerrado”, não é possível registrá-las.
 
 Esse é o comportamento esperado e não deve ser considerado um problema.
 
-Anteriormente, os usuários podiam registrar horas em folhas de horas enviadas ou fechadas por meio da API do Workfront ou do Workfront Fusion.
+Anteriormente, os usuários podiam registrar horas em folhas de horas enviadas ou encerradas por meio da API do Workfront ou do Workfront Fusion.
 
 +++
 
-+++**Atualização de manutenção em sexta-feira, 10 de outubro de 2024**
++++**Atualização de manutenção em 10 de outubro de 2024**
 
 ### Atualização de manutenção em 10 de outubro de 2024
 
@@ -257,42 +258,42 @@ Anteriormente, os usuários podiam registrar horas em folhas de horas enviadas o
 
 **Erro ao mover cartões ou atribuir usuários**
 
-Ao mover cartões ou atribuir usuários, ocasionalmente a ação não prossegue e, em vez disso, produz o erro &quot;Resposta não bem-sucedida: Código de status recebido 502&quot; após um atraso.
+Ao mover cartões ou atribuir usuários, às vezes a ação não prossegue e, em vez disso, gera o erro “A resposta não foi bem-sucedida: código de status recebido 502” após um atraso.
 
 **Erro ao carregar um quadro**
 
 Não é possível carregar um quadro, e a seguinte mensagem aparece.
 
-&quot;Erro ao carregar o quadro&quot;
+“Erro ao carregar o quadro”
 
-&quot;Algo deu errado ao carregar este quadro. Atualize a página e tente novamente ou entre em contato com o suporte com a ID de erro abaixo se o problema persistir.&quot;
+“Algo deu errado ao carregar este quadro. Atualize a página para tentar novamente ou entre em contato com o suporte e informe a ID de erro abaixo, se o problema persistir”.
 
-#### Início
+#### Página inicial
 
-**&quot;Marcar como Concluído&quot; fecha o painel de resumo do widget Meus Problemas**
+**&quot;Marcar como concluído&quot; fecha o painel de resumo do widget “Meus problemas”**
 
-Ao tentar usar o botão &quot;Marcar como concluído&quot; no painel de resumo de um problema aberto pelo widget Meus problemas, o painel de resumo é fechado inesperadamente.
+Ao tentar usar o botão “Marcar como concluído” no painel de resumo de um problema aberto pelo widget “Meus problemas”, o painel de resumo é fechado inesperadamente.
 
-**As configurações do widget Modelo de layout não adicionam a coluna**
+**As configurações do widget “Modelo de layout” falham ao adicionar uma coluna**
 
-Ao selecionar um campo para adicionar a um widget por meio das configurações do widget Modelo de layout, um campo pode ser selecionado, mas a coluna correspondente não aparece no widget.
+Ao selecionar um campo para adicionar a um widget por meio das configurações do widget “Modelo de layout”, um campo pode ser selecionado, mas a coluna correspondente não aparece no widget.
 
 #### Tarefas
 
-**Problemas com o recálculo da linha de tempo**
+**Problemas com o recálculo da linha do tempo**
 
 Os seguintes problemas foram relatados em relação ao recálculo da linha do tempo:
 
 * Ao atualizar a duração de uma tarefa na linha do tempo, o sistema demora bastante para recalcular.
 * Quando o recálculo é concluído, as datas podem ser (ou permanecer) desabilitadas, como se a linha do tempo ainda estivesse sendo recalculada.
 
-**Despesas de tarefa não exibidas**
+**Despesas de tarefas não exibidas**
 
-Depois de adicionar uma despesa a uma tarefa, a despesa não aparece nas informações da tarefa apesar da confirmação da API de que foi inserida.
+Depois de adicionar uma despesa a uma tarefa, a despesa não aparece nas informações da tarefa, apesar da confirmação da API de que foi inserida.
 
 +++
 
-+++**Atualização de manutenção em sexta-feira, 3 de outubro de 2024**
++++**Atualização de manutenção em 3 de outubro de 2024**
 
 ### Atualização de manutenção em 3 de outubro de 2024
 
@@ -300,11 +301,11 @@ Depois de adicionar uma despesa a uma tarefa, a despesa não aparece nas informa
 
 **Cartões conectados arquivados não sincronizados**
 
-Para solucionar problemas de desempenho, os cartões conectados que são arquivados não são mais sincronizados. As alterações feitas na tarefa ou problema do Workfront não são refletidas nos cartões arquivados. Se você restaurar um cartão, ele será sincronizado novamente.
+Para resolver problemas de desempenho, cartões conectados arquivados não são mais sincronizados. As alterações feitas na tarefa ou problema do Workfront não são refletidas nos cartões arquivados. Se você restaurar um cartão, ele será sincronizado novamente.
 
 #### Formulários personalizados
 
-**Exibir erro de conversões de tipo em formulários personalizados**
+**Erro de conversões do tipo de exibição em formulários personalizados**
 
 Campos de rich text fazem com que apareça o seguinte erro em formulários personalizados:
 
@@ -319,13 +320,13 @@ Em ambos os casos, campos de rich text estão causando os problemas.
 
 #### Notificações
 
-**Os usuários do colaborador não recebem notificações por email**
+**Os usuários colaboradores não recebem notificações por email**
 
 Os usuários com licença de colaborador não estão recebendo emails de notificação. Isso pode afetar os emails de notificação instantânea e os emails de resumo diário.
 
 #### Provas
 
-**Assinaturas eletrônicas não podem ser adicionadas ao usar SSO para Prova**
+**Assinaturas eletrônicas não podem ser adicionadas ao usar o SSO para o Proof**
 
 Ao usar o SSO para fazer logon no Proof, os usuários não podem definir uma prova para exigir assinaturas eletrônicas.
 
@@ -333,21 +334,21 @@ Ao usar o SSO para fazer logon no Proof, os usuários não podem definir uma pro
 
 ## Atualizações em setembro de 2024
 
-+++**Atualização de manutenção em sexta-feira, 26 de setembro de 2024**
++++**Atualização de manutenção em 26 de setembro de 2024**
 
-### Atualização de manutenção em sexta-feira, 26 de setembro de 2024
+### Atualização de manutenção em 26 de setembro de 2024
 
 #### Ágil
 
-**A opção Adicionar à iteração é listada duas vezes ao atribuir a equipe de scrum**
+**A opção “Adicionar à iteração” é listada duas vezes ao atribuir a equipe de scrum**
 
 Ao atribuir uma tarefa ou problema a uma equipe ágil de scrum, a opção “Adicionar à iteração” aparece duas vezes no menu Mais. Isso não afeta a capacidade de atribuir a equipe e não aparece para equipes ágeis sem scrum.
 
 #### Formulários personalizados
 
-**Lista de campos do Editor de Cálculo limitada a 200 itens**
+**Lista de campos do editor de cálculo limitada a 200 itens**
 
-No Editor de cálculo para campos calculados em formulários personalizados, a lista de campos de um objeto agora está limitada a 200 itens para melhorar o desempenho do sistema. Se você souber o nome do campo, poderá pesquisá-lo usando a opção de digitação antecipada em vez de rolar pela lista.
+No editor de cálculo para campos calculados em formulários personalizados, a lista de campos de um objeto agora está limitada a 200 itens para melhorar o desempenho do sistema. Se você souber o nome do campo, poderá pesquisá-lo por meio da opção de preenchimento automático em vez de rolar pela lista.
 
 #### Relatórios
 
@@ -357,13 +358,13 @@ Os relatórios com entregas programadas não são entregues conforme o esperado.
 
 +++
 
-+++**Atualização de manutenção em sexta-feira, 19 de setembro de 2024**
++++**Atualização de manutenção em 19 de setembro de 2024**
 
-### Atualização de manutenção em sexta-feira, 19 de setembro de 2024
+### Atualização de manutenção em 19 de setembro de 2024
 
 #### Painéis
 
-**Selecionar o botão Exportar em um relatório rola para a parte superior da página**
+**A seleção do botão “Exportar” em um relatório rola para a parte superior da página**
 
 Ao clicar no botão Exportar em um relatório de um painel, a janela rola para a parte superior da página, exigindo a rolagem para baixo para chegar ao menu de opções de exportação aberto.
 
@@ -377,7 +378,7 @@ Ao clicar no botão Exportar em um relatório de um painel, a janela rola para a
 
 **Erro ao criar uma solicitação do Outlook**
 
-Quando uma pessoa tenta criar uma solicitação do Workfront para integração com o Outlook e adiciona um anexo, Ela vê a mensagem: “Algo deu errado. Tente novamente mais tarde.”
+Quando uma pessoa tenta criar uma solicitação do Workfront para integração com o Outlook e adiciona um anexo, Ela vê a mensagem: “Um erro inesperado aconteceu. Tente novamente mais tarde.”
 
 A solicitação é criada e há uma pasta para anexos de email na solicitação, mas a pasta fica vazia e o anexo não é adicionado à solicitação.
 
@@ -423,7 +424,7 @@ Quando alguém cria um formulário personalizado e seleciona um tipo de objeto p
 
 Ao tentar ver detalhes do documento clicando no nome dele em uma lista de documentos, ela desaparece e os detalhes não são exibidos.
 
-#### Início
+#### Página inicial
 
 **O widget de aprovações pendentes mostra documentos excluídos**
 
@@ -433,7 +434,7 @@ Quando uma pessoa visualiza o dispositivo Aprovações pendentes da Página inic
 
 **O campo “Localidade do email” do perfil do usuário foi desabilitado**
 
-Para organizações no IMS, as preferências de idioma são armazenadas no perfil de cada usuário da Adobe Experience Cloud. O campo “Local do email” no perfil do usuário do Workfront foi desabilitado (somente para organizações do IMS), e uma dica de ferramenta nesse campo fornece instruções para acessar as configurações de idioma no perfil da Adobe.
+Para organizações no IMS, as preferências de idioma são armazenadas no perfil de cada usuário da Adobe Experience Cloud. O campo “Localidade do email” no perfil do usuário do Workfront foi desabilitado (somente para organizações do IMS), e uma dica de ferramenta nesse campo fornece instruções para acessar as configurações de idioma no perfil da Adobe.
 
 Isso aborda o problema de quando um administrador tenta alterar a configuração da localidade do email para um usuário, mas ela é revertida para inglês.
 
@@ -470,7 +471,7 @@ Os seguintes problemas foram relatados em relação a cartões duplicados em Qua
 
 O seguinte erro ocorre ao tentar exibir as preferências de notificação:
 
-“[!UICONTROL Ops! Algo deu errado. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.]”
+“[!UICONTROL Ops! Um erro inesperado aconteceu. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.]”
 
 Esse problema foi relatado nas seguintes áreas:
 
@@ -575,13 +576,13 @@ Esse problema foi relatado no Gmail.
 
 Quando uma pessoa tenta adicionar uma subtarefa a um storyboard enquanto um filtro está selecionado, a tela fica em branco e não é possível adicionar a subtarefa.
 
-#### Início
+#### Página inicial
 
 **Não é possível abrir itens a partir do [!UICONTROL calendário da página inicial] ou da [!UICONTROL lista de trabalho]**
 
 Quando uma pessoa tenta abrir um item de trabalho ou uma prova do [!UICONTROL Calendário da página inicial] ou da [!UICONTROL Lista de trabalho da página inicial], o item não abre.
 
-**A página inicial de admins aparece ao se conectar como outro usuário**
+**A página inicial de admins é exibida ao se conectar como outro usuário**
 
 Quando um(a) admin faz logon como outro usuário e visualiza a página inicial desse usuário, a página inicial de admins é exibida.
 
@@ -624,7 +625,7 @@ Quando uma pessoa tenta fazer uma atribuição avançada a um problema no Workfr
 
 Ao tentar definir as configurações de matriz em um relatório de Horas, a pessoa não consegue definir as configurações e o seguinte erro é exibido:
 
-* “[!UICONTROL Ops! Algo deu errado. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.]”
+* “[!UICONTROL Ops! Um erro inesperado aconteceu. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.]”
 
 
 +++
@@ -633,7 +634,7 @@ Ao tentar definir as configurações de matriz em um relatório de Horas, a pess
 
 ### Atualização de manutenção em 4 de julho de 2024
 
-#### Início
+#### Página inicial
 
 **O menu de três pontos não funciona**
 
@@ -699,7 +700,7 @@ Quando se clica no botão Voltar do navegador no Workfront, uma das situações 
 
 **Não é possível fechar o visualizador de provas**
 
-Quando alguém visualiza uma prova no visualizador de provas e tenta fechá-la clicando em X no canto superior direito, a prova não é fechada.
+Quando alguém visualiza uma prova no visualizador de provas e tenta fechá-la por meio do X no canto superior direito, a prova não é fechada.
 
 +++
 
@@ -952,7 +953,7 @@ Quando uma pessoa tenta registrar horas na área Atualizações, o dia atual fic
 
 Quando uma pessoa tenta exibir comentários na nova experiência de comentários, ela não consegue vê-los e, em vez disso, o seguinte erro é exibido:
 
-“Algo deu errado. Tente novamente mais tarde.”
+“Um erro inesperado aconteceu. Tente novamente mais tarde.”
 
 A experiência de comentários herdada funciona conforme esperado.
 
@@ -1077,13 +1078,13 @@ Quando uma pessoa está visualizando um projeto e tenta adicionar uma tarefa a u
 
 Erro: “400: undefined /boards-service/graphql”
 
-#### Início
+#### Página inicial
 
 **Erro ao editar uma tarefa em linha no dispositivo Minha tarefa**
 
 Quando uma pessoa tenta editar uma tarefa em linha no dispositivo Minhas tarefas, o seguinte erro é exibido:
 
-“Ocorreu um erro e estamos trabalhando para resolver o problema. Para continuar com seu trabalho, tente atualizar esta página do navegador.“
+“Ocorreu um erro e estamos trabalhando para resolver o problema. Para continuar com o seu trabalho, tente atualizar esta página do navegador”.
 
 
 #### Balanceador de carga de trabalho
@@ -1122,7 +1123,7 @@ Isso ocorre porque a pessoa não tem permissão para ver usuários de outras emp
 
 ### Atualização de manutenção em 22 de fevereiro de 2024
 
-#### Início
+#### Página inicial
 
 **[!UICONTROL Página inicial]: [!UICONTROL espaço de trabalho] e marcadores não carregam**
 
@@ -1200,7 +1201,7 @@ Quando um relatório de gráfico tem uma coluna “[!DNL No value]”, a coluna 
 
 As horas e os cálculos financeiros podem estar incorretos, mostrando um custo de 0 mesmo que as horas estejam registradas em uma função de trabalho que tenha uma taxa de custo.
 
-Isso ocorre porque as Funções de trabalho estão criando automaticamente taxas duplicadas sem datas de início ou término. Como não têm datas de início ou término, elas são tratadas como um valor 0 quando os cálculos financeiros são executados.
+Isso ocorre porque as Funções de trabalho estão criando automaticamente taxas duplicadas sem datas inicial e final. Como não têm datas inicial e final, elas são tratadas como um valor 0 quando os cálculos financeiros são executados.
 
 +++
 
@@ -1301,7 +1302,7 @@ Quando uma pessoa visualiza uma iteração em um quadro e, em seguida, altera pa
 
 Quando uma pessoa visualiza um cartão e rola para a seção [!UICONTROL Comentários], os comentários não são exibidos e ela vê o seguinte erro:
 
-“[!UICONTROL Algo não deu certo. Tente novamente mais tarde.]&quot;
+“[!UICONTROL Um erro inesperado aconteceu. Tente novamente mais tarde.]&quot;
 
 **Problemas ao visualizar o status de subtarefas**
 
@@ -1348,7 +1349,7 @@ Quando uma pessoa visualiza os status de problemas na Configuração, ela verá 
 
 #### Equipes
 
-**Problemas ao definir status de equipe para o botão [!UICONTROL Concluído] &#x200B;**
+**Problemas ao definir status de equipe para o botão [!UICONTROL Concluído] **
 
 Os seguintes problemas foram relatados em relação aos status do botão [!UICONTROL Concluído] ao editar ou criar uma equipe:
 
@@ -1361,7 +1362,7 @@ Os seguintes problemas foram relatados em relação aos status do botão [!UICON
 
 Quando um usuário tenta anexar um modelo a um projeto, o seguinte erro é exibido:
 
-“Ops! Algo deu errado. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.”
+“Ops! Um erro inesperado aconteceu. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.”
 
 Isso ocorre quando o usuário não tem permissão de Visualização para um formulário personalizado anexado ao modelo.
 

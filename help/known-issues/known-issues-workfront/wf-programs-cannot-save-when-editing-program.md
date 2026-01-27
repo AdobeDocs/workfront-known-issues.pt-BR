@@ -1,12 +1,12 @@
 ---
 title: 'Programas: não é possível salvar ao editar um programa'
-description: Quando um usuário está editando um programa e tenta salvar as alterações, as alterações não são salvas.
+description: Quando uma pessoa está editando um programa e tenta salvar as alterações, elas não são salvas.
 hidefromtoc: true
 feature: Work Management
 source-git-commit: 932556d1c72aa33e9169034f41f6250d249a228b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '60'
-ht-degree: 16%
+ht-degree: 100%
 
 ---
 
@@ -15,8 +15,8 @@ ht-degree: 16%
 
 >[!NOTE]
 >
->Esse problema foi corrigido em sábado, 3 de outubro de 2025.
+>Esse problema foi corrigido em 3 de outubro de 2025.
 
-Quando um usuário está editando um programa e tenta salvar as alterações, as alterações não são salvas.
+Quando uma pessoa está editando um programa e tenta salvar as alterações, elas não são salvas.
 
-_Relatado pela primeira vez em quinta-feira, 3 de setembro de 2025._
+_Relatado pela primeira vez em 3 de setembro de 2025._
