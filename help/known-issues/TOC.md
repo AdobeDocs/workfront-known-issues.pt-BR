@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 3b8387b0412b69d303c3f848be361fd83f2c328b
+source-git-commit: 0549c4661b03901a78f302b58b25c1b5ccb88df1
 workflow-type: tm+mt
-source-wordcount: '1657'
-ht-degree: 95%
+source-wordcount: '1675'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Formulários personalizados: a lógica de exibição não é exibida corretamente no formulário de solicitação](known-issues-workfront/wf-custom-forms-display-logic-not-triggering.md)
+      + [Logon: o Workfront não é carregado após o logon](known-issues-workfront/wf-login-wf-does-not-load.md)
       + [Balanceador de carga de trabalho: as horas por usuário não são calculadas corretamente](known-issues-workfront/wf-workload-balancer-hours-per-user-not-correct.md)
       + [Documentos: o painel Resumo está em branco](known-issues-workfront/wf-documents-summary-panel-is-blank.md)
       + [Solicitações: erro &quot;Você não tem acesso suficiente&quot; ao copiar solicitações](known-issues-workfront/wf-requests-do-not-have-sufficient-access.md)
@@ -228,7 +230,7 @@ ht-degree: 95%
    + [Problemas conhecidos no [!DNL Workfront] Planning](workfrontplanning.md)
 
 + Aplicativo móvel do [!DNL Workfront] {#mobile}
-   + [Problemas conhecidos no aplicativo móvel do  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problemas conhecidos no aplicativo móvel do  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 

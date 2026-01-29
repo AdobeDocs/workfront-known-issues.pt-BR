@@ -4,10 +4,10 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3b8387b0412b69d303c3f848be361fd83f2c328b
+source-git-commit: 0549c4661b03901a78f302b58b25c1b5ccb88df1
 workflow-type: tm+mt
 source-wordcount: '1124'
-ht-degree: 94%
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | --- | --- |
+| [Logon: o Workfront não carrega após o logon](known-issues-workfront/wf-login-wf-does-not-load.md) | sexta-feira, 29 de janeiro de 2026 |
 | [Balanceador de carga de trabalho: as horas por usuário não são calculadas corretamente](known-issues-workfront/wf-workload-balancer-hours-per-user-not-correct.md) | sexta-feira, 29 de janeiro de 2026 |
 | [Usuários: os usuários não são provisionados corretamente no Adobe Admin Console](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md) | 7 de janeiro de 2026 |
 | [Usuários: não é possível atualizar o acesso dos usuários](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md) | 5 de janeiro de 2026 |
@@ -45,7 +46,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | [Solicitações: a exibição &quot;Todas&quot; não mostra todas as solicitações](known-issues-workfront/wf-requests-not-showing-all.md) | sábado, 16 de janeiro de 2026 |
 | [Formulários personalizados: campos calculados não exibem dados para não administradores](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | sábado, 16 de janeiro de 2026 |
 | [Solicitações: erro &quot;Você deve ser um administrador do sistema&quot; ao copiar solicitações](known-issues-workfront/wf-requests-error-when-copying.md) | sexta-feira, 15 de janeiro de 2026 |
-| [Aprovações: o widget “Minhas aprovações” mostra aprovações concluídas](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | sexta-feira, 15 de janeiro de 2026 |
 | [Solicitações: problemas com rascunhos na nova experiência de solicitação](known-issues-workfront/wf-requests-issues-with-drafts.md) | 7 de janeiro de 2026 |
 | [Relatórios: os usuários podem ver dados financeiros em visualizações no painel “Tela”](known-issues-workfront/wf-reporting-users-can-see-financial-data.md) | 19 de dezembro de 2025 |
 | [Aprovações: a aprovação é exibida como “Sem prazo” quando a hora não é incluída no prazo](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 25 de setembro de 2025 |
