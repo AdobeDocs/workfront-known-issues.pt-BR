@@ -4,10 +4,10 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 0549c4661b03901a78f302b58b25c1b5ccb88df1
+source-git-commit: 6b58f9558769fea6280b1d34a45648e24fd97fe9
 workflow-type: tm+mt
-source-wordcount: '1124'
-ht-degree: 93%
+source-wordcount: '1144'
+ht-degree: 92%
 
 ---
 
@@ -25,6 +25,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | --- | --- |
+| [Formulários personalizados: a lógica de exibição não está sendo exibida corretamente no formulário de solicitação](known-issues-workfront/wf-custom-forms-display-logic-not-triggering.md) | sexta-feira, 29 de janeiro de 2026 |
 | [Logon: o Workfront não carrega após o logon](known-issues-workfront/wf-login-wf-does-not-load.md) | sexta-feira, 29 de janeiro de 2026 |
 | [Balanceador de carga de trabalho: as horas por usuário não são calculadas corretamente](known-issues-workfront/wf-workload-balancer-hours-per-user-not-correct.md) | sexta-feira, 29 de janeiro de 2026 |
 | [Usuários: os usuários não são provisionados corretamente no Adobe Admin Console](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md) | 7 de janeiro de 2026 |
@@ -40,6 +41,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | --- | --- |
+| [Solicitações: &quot;Nenhum assunto&quot; é exibido na lista de solicitações](known-issues-workfront/wf-requests-no-subject.md) | terça-feira, 2 de fevereiro de 2026 |
 | [Solicitações: o rascunho criado junto com a solicitação causa problemas](known-issues-workfront/wf-requests-issues-with-drafts.md) | sexta-feira, 29 de janeiro de 2026 |
 | [Documentos: o painel Resumo está em branco](known-issues-workfront/wf-documents-summary-panel-is-blank.md) | quinta-feira, 21 de janeiro de 2026 |
 | [Solicitações: erro &quot;Você não tem acesso suficiente&quot; ao copiar solicitações](known-issues-workfront/wf-requests-do-not-have-sufficient-access.md) | quarta-feira, 20 de janeiro de 2026 |
