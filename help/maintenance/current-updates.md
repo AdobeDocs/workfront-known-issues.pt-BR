@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 0549c4661b03901a78f302b58b25c1b5ccb88df1
+source-git-commit: adace5b91add331ee783d029763298b62d3ec8db
 workflow-type: tm+mt
-source-wordcount: '449'
-ht-degree: 79%
+source-wordcount: '601'
+ht-degree: 65%
 
 ---
 
@@ -23,6 +23,34 @@ Essas atualizações também incluem outras correções de erros menores ou meno
 Para obter atualizações de manutenção anteriores a 2026, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
 As seguintes atualizações de manutenção foram efetuadas em 2026.
+
+## Atualizações em fevereiro de 2026
+
++++**Semana de atualização de manutenção de 1 a 7 de fevereiro de 2026**
+
+### Atualização de manutenção semana de 1 a 7 de fevereiro de 2026
+
+#### Solicitações
+
+**Erro &quot;Você não tem acesso suficiente&quot; ao copiar solicitações**
+
+Quando um usuário tenta copiar uma solicitação por meio da página de solicitação, a solicitação não é copiada e o usuário vê o seguinte erro:
+
+&quot;Você não tem acesso suficiente para editar esse problema.&quot;
+
+**Erro &quot;Você deve ser um administrador do sistema&quot; ao copiar solicitações**
+
+Quando um usuário copia uma solicitação e tenta salvar, a solicitação não é salva e o usuário vê a seguinte mensagem:
+
+&quot;Você precisa ser um administrador do sistema para mudar este valor do parâmetro de um dado personalizado.&quot;
+
+#### Usuários
+
+**Os usuários não foram provisionados corretamente na Adobe Admin Console**
+
+Se um usuário já existir em um Adobe Admin Console e for provisionado automaticamente em um Console que inclua o Workfront, ele não será provisionado corretamente para o novo Console.
+
++++
 
 ## Atualizações em janeiro de 2026
 
