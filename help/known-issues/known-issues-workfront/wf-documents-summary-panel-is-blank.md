@@ -1,24 +1,28 @@
 ---
-title: 'Documentos: o painel resumo está em branco'
-description: Quando um usuário exibe uma lista de Documentos e clica em um documento, o painel Resumo é aberto, mas permanece em branco. O usuário não consegue fechar o painel Resumo.
+title: 'Documentos: o painel Resumo está em branco'
+description: Quando um usuário visualiza uma lista Documentos e clica em um documento, o painel Resumo é aberto, mas permanece em branco. O usuário não pode fechar o Painel de resumo.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 0b5281162e06a95b3f4da1c566e890cfad956912
+exl-id: 475cda94-7329-4df9-b8db-819e4634bbd4
+source-git-commit: 90752886f1ea4a0388d50685a597a6aca7393949
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 4%
+source-wordcount: '117'
+ht-degree: 9%
 
 ---
 
+# Documentos: o painel Resumo está em branco
 
-# Documentos: o painel resumo está em branco
+>[!NOTE]
+>
+>Esse problema foi corrigido em sexta-feira, 5 de fevereiro de 2026.
 
-Quando um usuário exibe uma lista de Documentos e clica em um documento, o painel Resumo é aberto, mas permanece em branco. O usuário não consegue fechar o painel Resumo.
+Quando um usuário visualiza uma lista Documentos e clica em um documento, o painel Resumo é aberto, mas permanece em branco. O usuário não pode fechar o Painel de resumo.
 
-Se a usuário recarregar a página, o painel Resumo poderá ser preenchido conforme esperado. No entanto, se o usuário clicar em uma documento diferente, esse painel de resumo da documento fica em branco.
+Se o usuário recarregar a página, o painel Resumo poderá ser preenchido conforme esperado. No entanto, se o usuário clicar em um documento diferente, o painel de resumo desse documento ficará em branco.
 
-**Solução alternativa**
+**Solução**
 
-Para visualização temporariamente o painel Resumo, tente recarregar a página.
+Para exibir temporariamente o painel Resumo, tente recarregar a página.
 
 _Relatado pela primeira vez em terça-feira, 13 de janeiro de 2025._

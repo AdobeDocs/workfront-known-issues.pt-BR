@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 0c073b41fc21ca7951c961e0bba94e05b66c958b
+source-git-commit: 90752886f1ea4a0388d50685a597a6aca7393949
 workflow-type: tm+mt
-source-wordcount: '405'
-ht-degree: 98%
+source-wordcount: '414'
+ht-degree: 96%
 
 ---
 
@@ -36,6 +36,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Workfront Proof: provas não aparecem em pastas](known-issues-workfront-proof/proof-folders-not-showing-proofs.md) | sábado, 6 de fevereiro de 2026 |
 | [Documentos: o painel Resumo está em branco](known-issues-workfront/wf-documents-summary-panel-is-blank.md) | quinta-feira, 21 de janeiro de 2026 |
 | [Aprovações: o widget “Minhas aprovações” mostra aprovações concluídas](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | sexta-feira, 15 de janeiro de 2026 |
 | [Documentos: as miniaturas de documentos não são exibidas](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 17 de abril de 2025 |

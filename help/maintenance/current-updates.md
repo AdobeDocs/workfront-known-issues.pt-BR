@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: adace5b91add331ee783d029763298b62d3ec8db
+source-git-commit: 90752886f1ea4a0388d50685a597a6aca7393949
 workflow-type: tm+mt
-source-wordcount: '601'
-ht-degree: 65%
+source-wordcount: '761'
+ht-degree: 52%
 
 ---
 
@@ -30,7 +30,21 @@ As seguintes atualizações de manutenção foram efetuadas em 2026.
 
 ### Atualização de manutenção semana de 1 a 7 de fevereiro de 2026
 
+#### Documentos
+
+**O painel Resumo está em branco**
+
+Quando um usuário visualiza uma lista Documentos e clica em um documento, o painel Resumo é aberto, mas permanece em branco. O usuário não pode fechar o Painel de resumo.
+
+Se o usuário recarregar a página, o painel Resumo poderá ser preenchido conforme esperado. No entanto, se o usuário clicar em um documento diferente, o painel de resumo desse documento ficará em branco.
+
 #### Solicitações
+
+**&quot;Nenhum assunto&quot; é exibido na lista de solicitações**
+
+Quando um usuário visualiza a lista de solicitações na nova experiência de solicitação, algumas solicitações exibem &quot;Nenhum assunto&quot; na coluna Assunto.
+
+Se o usuário abrir uma dessas solicitações, verá que a solicitação tem um assunto.
 
 **Erro &quot;Você não tem acesso suficiente&quot; ao copiar solicitações**
 
@@ -49,6 +63,12 @@ Quando um usuário copia uma solicitação e tenta salvar, a solicitação não 
 **Os usuários não foram provisionados corretamente na Adobe Admin Console**
 
 Se um usuário já existir em um Adobe Admin Console e for provisionado automaticamente em um Console que inclua o Workfront, ele não será provisionado corretamente para o novo Console.
+
+#### Balanceador de carga de trabalho
+
+**As horas por usuário não foram calculadas corretamente**
+
+Quando um usuário visualiza as horas de um usuário no Balanceador de carga de trabalho, essas horas podem ser calculadas incorretamente. Por exemplo, a exibição semana pode exibir um cálculo de horas, mas a exibição 4 semanas exibe um número diferente de horas para essa semana.
 
 +++
 
