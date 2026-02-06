@@ -4,10 +4,10 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 90752886f1ea4a0388d50685a597a6aca7393949
+source-git-commit: db5ab2c4c91561c635955f1c7f1a360165a5efec
 workflow-type: tm+mt
-source-wordcount: '1092'
-ht-degree: 95%
+source-wordcount: '1084'
+ht-degree: 96%
 
 ---
 
@@ -39,7 +39,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | --- | --- |
-| [Solicitações: &quot;Nenhum assunto&quot; é exibido na lista de solicitações](known-issues-workfront/wf-requests-no-subject.md) | terça-feira, 2 de fevereiro de 2026 |
 | [Solicitações: o rascunho criado junto com a solicitação causa problemas](known-issues-workfront/wf-requests-issues-with-drafts.md) | sexta-feira, 29 de janeiro de 2026 |
 | [Solicitações: a exibição &quot;Todas&quot; não mostra todas as solicitações](known-issues-workfront/wf-requests-not-showing-all.md) | sábado, 16 de janeiro de 2026 |
 | [Formulários personalizados: campos calculados não exibem dados para não administradores](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | sábado, 16 de janeiro de 2026 |
