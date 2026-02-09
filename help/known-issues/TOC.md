@@ -2,9 +2,9 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 6b58f9558769fea6280b1d34a45648e24fd97fe9
+source-git-commit: 2d2dff728a9c26ceaeb93545258403b3fd176f3f
 workflow-type: tm+mt
-source-wordcount: '1682'
+source-wordcount: '1692'
 ht-degree: 93%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Solicitações: não é possível carregar um documento ao preencher uma solicitação](known-issues-workfront/wf-request-cannot-submit-with-document.md)
       + [Solicitações: &quot;Nenhum assunto&quot; é exibido na lista de solicitações](known-issues-workfront/wf-requests-no-subject.md)
       + [Formulários personalizados: a lógica de exibição não é exibida corretamente no formulário de solicitação](known-issues-workfront/wf-custom-forms-display-logic-not-triggering.md)
       + [Logon: o Workfront não é carregado após o logon](known-issues-workfront/wf-login-wf-does-not-load.md)
@@ -231,7 +232,7 @@ ht-degree: 93%
    + [Problemas conhecidos no [!DNL Workfront] Planning](workfrontplanning.md)
 
 + Aplicativo móvel do [!DNL Workfront] {#mobile}
-   + [Problemas conhecidos no aplicativo móvel do  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problemas conhecidos no aplicativo móvel do  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 

@@ -4,10 +4,10 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: db5ab2c4c91561c635955f1c7f1a360165a5efec
+source-git-commit: 2d2dff728a9c26ceaeb93545258403b3fd176f3f
 workflow-type: tm+mt
-source-wordcount: '1084'
-ht-degree: 96%
+source-wordcount: '1085'
+ht-degree: 95%
 
 ---
 
@@ -25,10 +25,10 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | --- | --- |
+| [Solicitações: não é possível carregar um documento ao preencher uma solicitação](known-issues-workfront/wf-request-cannot-submit-with-document.md) | terça-feira, 9 de fevereiro de 2026 |
 | [Formulários personalizados: a lógica de exibição não está sendo exibida corretamente no formulário de solicitação](known-issues-workfront/wf-custom-forms-display-logic-not-triggering.md) | sexta-feira, 29 de janeiro de 2026 |
 | [Logon: o Workfront não carrega após o logon](known-issues-workfront/wf-login-wf-does-not-load.md) | sexta-feira, 29 de janeiro de 2026 |
 | [Usuários: não é possível atualizar o acesso dos usuários](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md) | 5 de janeiro de 2026 |
-| [Relatórios: a consulta ao data lake não retorna os resultados esperados](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md) | 5 de janeiro de 2026 |
 | [Integrações: vincular a pasta do  [!DNL Google Drive]  não vincula seus ativos](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | quarta-feira, 25 de junho de 2024 |
 
 {style="table-layout:auto"}
