@@ -4,10 +4,10 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2d2dff728a9c26ceaeb93545258403b3fd176f3f
+source-git-commit: 50106ee9af1f41283cabe146785f0c792601ccf2
 workflow-type: tm+mt
-source-wordcount: '1085'
-ht-degree: 95%
+source-wordcount: '1081'
+ht-degree: 94%
 
 ---
 
@@ -39,10 +39,10 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | --- | --- |
+| [Usuários: não é possível remover subordinados diretos](known-issues-workfront/wf-users-cannot-remove-direct-reports.md) | quarta-feira, 10 de fevereiro de 2026 |
 | [Solicitações: o rascunho criado junto com a solicitação causa problemas](known-issues-workfront/wf-requests-issues-with-drafts.md) | sexta-feira, 29 de janeiro de 2026 |
 | [Solicitações: a exibição &quot;Todas&quot; não mostra todas as solicitações](known-issues-workfront/wf-requests-not-showing-all.md) | sábado, 16 de janeiro de 2026 |
 | [Formulários personalizados: campos calculados não exibem dados para não administradores](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | sábado, 16 de janeiro de 2026 |
-| [Solicitações: problemas com rascunhos na nova experiência de solicitação](known-issues-workfront/wf-requests-issues-with-drafts.md) | 7 de janeiro de 2026 |
 | [Relatórios: os usuários podem ver dados financeiros em visualizações no painel “Tela”](known-issues-workfront/wf-reporting-users-can-see-financial-data.md) | 19 de dezembro de 2025 |
 | [Aprovações: a aprovação é exibida como “Sem prazo” quando a hora não é incluída no prazo](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 25 de setembro de 2025 |
 | [Workfront: objetos fora de sincronia entre o Workfront e o Snowflake](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 17 de junho de 2025 |
