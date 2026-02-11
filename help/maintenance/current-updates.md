@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 50106ee9af1f41283cabe146785f0c792601ccf2
+source-git-commit: 926f7feb7e740d5a857cfa66ea186128ae6171b1
 workflow-type: tm+mt
-source-wordcount: '859'
-ht-degree: 53%
+source-wordcount: '951'
+ht-degree: 48%
 
 ---
 
@@ -37,6 +37,12 @@ As seguintes atualizações de manutenção foram efetuadas em 2026.
 Quando o data lake é consultado, ele não retorna todos os resultados esperados.
 
 #### Solicitações
+
+**O rascunho criado junto com a solicitação causa problemas**
+
+Quando um usuário cria e envia uma nova solicitação na nova experiência de solicitação, um rascunho também é criado. O rascunho mostra somente a primeira letra do nome da solicitação enviada. Tentar abri-la resultará em um erro &quot;Falha ao recuperar&quot;.
+
+Além disso, se a solicitação enviada for excluída, ela parecerá ter sido excluída, mas permanecerá visível na área Solicitações do Workfront. Se o usuário tentar reabrir a solicitação, verá uma mensagem indicando que a solicitação não existe.
 
 **Problemas com rascunhos na nova experiência de solicitação**
 

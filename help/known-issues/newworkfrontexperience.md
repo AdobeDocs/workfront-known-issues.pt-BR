@@ -4,9 +4,9 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 50106ee9af1f41283cabe146785f0c792601ccf2
+source-git-commit: 926f7feb7e740d5a857cfa66ea186128ae6171b1
 workflow-type: tm+mt
-source-wordcount: '1081'
+source-wordcount: '1085'
 ht-degree: 94%
 
 ---
@@ -39,8 +39,8 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | --- | --- |
+| [Relatórios: os campos do Workfront Planning não aparecem no Report Builder dos Painéis do Canvas](known-issues-workfront/wf-reporting-canvas-dashboards-no-planning.md) | quinta-feira, 11 de fevereiro de 2026 |
 | [Usuários: não é possível remover subordinados diretos](known-issues-workfront/wf-users-cannot-remove-direct-reports.md) | quarta-feira, 10 de fevereiro de 2026 |
-| [Solicitações: o rascunho criado junto com a solicitação causa problemas](known-issues-workfront/wf-requests-issues-with-drafts.md) | sexta-feira, 29 de janeiro de 2026 |
 | [Solicitações: a exibição &quot;Todas&quot; não mostra todas as solicitações](known-issues-workfront/wf-requests-not-showing-all.md) | sábado, 16 de janeiro de 2026 |
 | [Formulários personalizados: campos calculados não exibem dados para não administradores](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | sábado, 16 de janeiro de 2026 |
 | [Relatórios: os usuários podem ver dados financeiros em visualizações no painel “Tela”](known-issues-workfront/wf-reporting-users-can-see-financial-data.md) | 19 de dezembro de 2025 |

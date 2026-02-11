@@ -3,15 +3,19 @@ title: 'Solicitações: o rascunho criado junto com a solicitação causa proble
 description: Quando um usuário cria e envia uma nova solicitação na nova experiência de solicitação, um rascunho também é criado. O rascunho mostra somente a primeira letra do nome da solicitação enviada. Tentar abri-la resultará em uma falha ao recuperar o erro.
 hidefromtoc: true
 feature: Requests
-source-git-commit: c98508b66854edc5ca9c3c25751c27462dfaf9c8
+exl-id: ab7288a4-dfff-4b1d-96d6-f05f0a2c14cb
+source-git-commit: 926f7feb7e740d5a857cfa66ea186128ae6171b1
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 2%
+source-wordcount: '154'
+ht-degree: 6%
 
 ---
 
-
 # Solicitações: o rascunho criado junto com a solicitação causa problemas
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em quarta-feira, 10 de fevereiro de 2026.
 
 Quando um usuário cria e envia uma nova solicitação na nova experiência de solicitação, um rascunho também é criado. O rascunho mostra somente a primeira letra do nome da solicitação enviada. Tentar abri-la resultará em um erro &quot;Falha ao recuperar&quot;.
 
