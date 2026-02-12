@@ -4,10 +4,10 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 926f7feb7e740d5a857cfa66ea186128ae6171b1
+source-git-commit: 798b9d8993fa7a8551b175c9ef87f5d0415b980d
 workflow-type: tm+mt
-source-wordcount: '1085'
-ht-degree: 94%
+source-wordcount: '1095'
+ht-degree: 93%
 
 ---
 
@@ -39,6 +39,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | --- | --- |
+| [Atribuições: não é possível salvar a alteração de atribuição avançada de um relatório](known-issues-workfront/wf-assignments-cannot-save-advanced-from-report.md) | sexta-feira, 12 de fevereiro de 2026 |
 | [Relatórios: os campos do Workfront Planning não aparecem no Report Builder dos Painéis do Canvas](known-issues-workfront/wf-reporting-canvas-dashboards-no-planning.md) | quinta-feira, 11 de fevereiro de 2026 |
 | [Usuários: não é possível remover subordinados diretos](known-issues-workfront/wf-users-cannot-remove-direct-reports.md) | quarta-feira, 10 de fevereiro de 2026 |
 | [Solicitações: a exibição &quot;Todas&quot; não mostra todas as solicitações](known-issues-workfront/wf-requests-not-showing-all.md) | sábado, 16 de janeiro de 2026 |

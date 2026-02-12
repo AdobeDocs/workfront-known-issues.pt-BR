@@ -2,9 +2,9 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 926f7feb7e740d5a857cfa66ea186128ae6171b1
+source-git-commit: 798b9d8993fa7a8551b175c9ef87f5d0415b980d
 workflow-type: tm+mt
-source-wordcount: '1709'
+source-wordcount: '1718'
 ht-degree: 92%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 92%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Atribuições: não é possível salvar a alteração de atribuição avançada de um relatório](known-issues-workfront/wf-assignments-cannot-save-advanced-from-report.md)
       + [Relatórios: os campos do Workfront Planning não aparecem no Report Builder dos Painéis de Controle do Canvas](known-issues-workfront/wf-reporting-canvas-dashboards-no-planning.md)
       + [Usuários: não é possível remover subordinados diretos](known-issues-workfront/wf-users-cannot-remove-direct-reports.md)
       + [Solicitações: não é possível carregar um documento ao preencher uma solicitação](known-issues-workfront/wf-request-cannot-submit-with-document.md)
@@ -234,7 +235,7 @@ ht-degree: 92%
    + [Problemas conhecidos no [!DNL Workfront] Planning](workfrontplanning.md)
 
 + Aplicativo móvel do [!DNL Workfront] {#mobile}
-   + [Problemas conhecidos no aplicativo móvel do  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problemas conhecidos no aplicativo móvel do  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 
