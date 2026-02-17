@@ -3,15 +3,19 @@ title: 'Formulários personalizados: a lógica de exibição não é exibida cor
 description: Quando um usuário preenche um formulário personalizado conectado a uma solicitação, a lógica de exibição não é seguida e alguns campos podem não ser exibidos conforme esperado
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: 0549c4661b03901a78f302b58b25c1b5ccb88df1
+exl-id: f7e5f8e0-d4d5-4acc-865b-f459a2ca31ff
+source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 5%
+source-wordcount: '94'
+ht-degree: 11%
 
 ---
 
-
 # Formulários personalizados: a lógica de exibição não é exibida corretamente no formulário de solicitação
+
+>[!NOTE]
+>
+>Esse problema foi corrigido em sábado, 13 de fevereiro de 2026.
 
 Quando um usuário preenche um formulário personalizado conectado a uma solicitação, a lógica de exibição não é seguida e alguns campos podem não ser exibidos conforme esperado.
 

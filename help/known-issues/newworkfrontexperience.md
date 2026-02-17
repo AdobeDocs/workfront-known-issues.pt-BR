@@ -4,10 +4,10 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 798b9d8993fa7a8551b175c9ef87f5d0415b980d
+source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
 workflow-type: tm+mt
-source-wordcount: '1095'
-ht-degree: 93%
+source-wordcount: '1114'
+ht-degree: 91%
 
 ---
 
@@ -25,10 +25,10 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | --- | --- |
+| [Integrações: as notificações do Slack do Workfront não estão sendo acionadas](known-issues-workfront/wf-integrations-slack-notifications-not-triggering.md) | quarta-feira, 17 de fevereiro de 2026 |
+| [Aprovações: as aprovações são bloqueadas automaticamente](known-issues-workfront/wf-approvals-are-locked.md) | quarta-feira, 17 de fevereiro de 2026 |
 | [Solicitações: não é possível carregar um documento ao preencher uma solicitação](known-issues-workfront/wf-request-cannot-submit-with-document.md) | terça-feira, 9 de fevereiro de 2026 |
-| [Formulários personalizados: a lógica de exibição não está sendo exibida corretamente no formulário de solicitação](known-issues-workfront/wf-custom-forms-display-logic-not-triggering.md) | sexta-feira, 29 de janeiro de 2026 |
 | [Logon: o Workfront não carrega após o logon](known-issues-workfront/wf-login-wf-does-not-load.md) | sexta-feira, 29 de janeiro de 2026 |
-| [Usuários: não é possível atualizar o acesso dos usuários](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md) | 5 de janeiro de 2026 |
 | [Integrações: vincular a pasta do  [!DNL Google Drive]  não vincula seus ativos](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | quarta-feira, 25 de junho de 2024 |
 
 {style="table-layout:auto"}
@@ -39,6 +39,8 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | --- | --- |
+| [Página inicial: as menções de provas não aparecem no widget de Menções](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md) | quarta-feira, 17 de fevereiro de 2026 |
+| [Aprovações: não é possível aprovar o documento pelo widget Minhas aprovações na Página inicial](known-issues-workfront/wf-approval-not-work-from-widget.md) | quarta-feira, 17 de fevereiro de 2026 |
 | [Atribuições: não é possível salvar a alteração de atribuição avançada de um relatório](known-issues-workfront/wf-assignments-cannot-save-advanced-from-report.md) | sexta-feira, 12 de fevereiro de 2026 |
 | [Relatórios: os campos do Workfront Planning não aparecem no Report Builder dos Painéis do Canvas](known-issues-workfront/wf-reporting-canvas-dashboards-no-planning.md) | quinta-feira, 11 de fevereiro de 2026 |
 | [Usuários: não é possível remover subordinados diretos](known-issues-workfront/wf-users-cannot-remove-direct-reports.md) | quarta-feira, 10 de fevereiro de 2026 |

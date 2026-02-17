@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 798b9d8993fa7a8551b175c9ef87f5d0415b980d
+source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
 workflow-type: tm+mt
-source-wordcount: '1718'
-ht-degree: 92%
+source-wordcount: '1758'
+ht-degree: 89%
 
 ---
 
@@ -17,6 +17,11 @@ ht-degree: 92%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Página inicial: as menções de provas não são exibidas no widget Menções](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md)
+      + [Integrações: as notificações do Slack da Workfront não são acionadas](known-issues-workfront/wf-integrations-slack-notifications-not-triggering.md)
+      + [Aprovações: não é possível aprovar o documento pelo widget Minhas aprovações na Página inicial](known-issues-workfront/wf-approval-not-work-from-widget.md)
+      + [Workfront Planning: erro &quot;Falha ao enviar solicitação&quot;](/help/known-issues/known-issues-workfront/wf-planning-error-fail-to-submit-request.md)
+      + [Aprovações: as aprovações são bloqueadas automaticamente](known-issues-workfront/wf-approvals-are-locked.md)
       + [Atribuições: não é possível salvar a alteração de atribuição avançada de um relatório](known-issues-workfront/wf-assignments-cannot-save-advanced-from-report.md)
       + [Relatórios: os campos do Workfront Planning não aparecem no Report Builder dos Painéis de Controle do Canvas](known-issues-workfront/wf-reporting-canvas-dashboards-no-planning.md)
       + [Usuários: não é possível remover subordinados diretos](known-issues-workfront/wf-users-cannot-remove-direct-reports.md)
@@ -235,7 +240,7 @@ ht-degree: 92%
    + [Problemas conhecidos no [!DNL Workfront] Planning](workfrontplanning.md)
 
 + Aplicativo móvel do [!DNL Workfront] {#mobile}
-   + [Problemas conhecidos no aplicativo móvel do  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problemas conhecidos no aplicativo móvel do  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 

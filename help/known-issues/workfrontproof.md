@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: dc6d6c021ec44ad74aa0a40319235208594eecaf
+source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
 workflow-type: tm+mt
-source-wordcount: '408'
-ht-degree: 98%
+source-wordcount: '436'
+ht-degree: 92%
 
 ---
 
@@ -25,6 +25,7 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Aprovações: as aprovações são bloqueadas automaticamente](known-issues-workfront/wf-approvals-are-locked.md) | quarta-feira, 17 de fevereiro de 2026 |
 | [Provas: não é possível marcar determinados usuários](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 de fevereiro de 2025 |
 | [Integrações: vincular a pasta do  [!DNL Google Drive]  não vincula seus ativos](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | quarta-feira, 25 de junho de 2024 |
 
@@ -36,6 +37,8 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Página inicial: as menções de provas não aparecem no widget de Menções](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md) | quarta-feira, 17 de fevereiro de 2026 |
+| [Aprovações: não é possível aprovar o documento pelo widget Minhas aprovações na Página inicial](known-issues-workfront/wf-approval-not-work-from-widget.md) | quarta-feira, 17 de fevereiro de 2026 |
 | [Workfront Proof: provas não aparecem em pastas](known-issues-workfront-proof/proof-folders-not-showing-proofs.md) | sábado, 6 de fevereiro de 2026 |
 | [Aprovações: o widget “Minhas aprovações” mostra aprovações concluídas](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | sexta-feira, 15 de janeiro de 2026 |
 | [Documentos: as miniaturas de documentos não são exibidas](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 17 de abril de 2025 |
