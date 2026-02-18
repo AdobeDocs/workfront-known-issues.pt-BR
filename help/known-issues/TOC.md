@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
+source-git-commit: 7cb718dba611fea9837171c8b0e1fbb56811c7e4
 workflow-type: tm+mt
-source-wordcount: '1758'
-ht-degree: 89%
+source-wordcount: '1788'
+ht-degree: 88%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 89%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Tarefas: uma grande lista de tarefas salta inesperadamente para um local diferente na lista](known-issues-workfront/wf-tasks-large-task-list-jumps.md)
+      + [Aprovações: o widget Minhas aprovações exibe provas que não estão no estágio ao qual o usuário está atribuído](known-issues-workfront/wf-approvals-widget-showing-stage-not-started.md)
       + [Página inicial: as menções de provas não são exibidas no widget Menções](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md)
       + [Integrações: as notificações do Slack da Workfront não são acionadas](known-issues-workfront/wf-integrations-slack-notifications-not-triggering.md)
       + [Aprovações: não é possível aprovar o documento pelo widget Minhas aprovações na Página inicial](known-issues-workfront/wf-approval-not-work-from-widget.md)
@@ -240,7 +242,7 @@ ht-degree: 89%
    + [Problemas conhecidos no [!DNL Workfront] Planning](workfrontplanning.md)
 
 + Aplicativo móvel do [!DNL Workfront] {#mobile}
-   + [Problemas conhecidos no aplicativo móvel do  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problemas conhecidos no aplicativo móvel do  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 

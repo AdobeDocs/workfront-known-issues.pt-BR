@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
+source-git-commit: 7cb718dba611fea9837171c8b0e1fbb56811c7e4
 workflow-type: tm+mt
-source-wordcount: '1003'
-ht-degree: 46%
+source-wordcount: '1040'
+ht-degree: 44%
 
 ---
 
@@ -35,6 +35,13 @@ As seguintes atualizações de manutenção foram efetuadas em 2026.
 **A lógica de exibição não está sendo exibida corretamente no formulário de solicitação**
 
 Quando um usuário preenche um formulário personalizado conectado a uma solicitação, a lógica de exibição não é seguida e alguns campos podem não ser exibidos conforme esperado.
+
+#### Solicitações
+
+A exibição **&quot;Todos&quot; não mostra todas as solicitações**
+
+Quando um usuário exibe a lista de solicitações na nova experiência de solicitação e a exibição está definida para mostrar todas as solicitações, somente algumas das solicitações são exibidas.
+
 
 +++
 
