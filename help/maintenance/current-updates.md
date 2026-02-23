@@ -3,10 +3,10 @@ title: Atualizações de manutenção do Workfront
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 7cb718dba611fea9837171c8b0e1fbb56811c7e4
+source-git-commit: 2b5a817ea5d3891fc3d344c746322c8c89e80e85
 workflow-type: tm+mt
-source-wordcount: '1040'
-ht-degree: 44%
+source-wordcount: '1265'
+ht-degree: 37%
 
 ---
 
@@ -26,15 +26,53 @@ As seguintes atualizações de manutenção foram efetuadas em 2026.
 
 ## Atualizações em fevereiro de 2026
 
++++**Semana de atualização de manutenção de 22 a 28 de fevereiro de 2026**
+
+### Atualização de manutenção semana de 22 a 28 de fevereiro de 2026
+
+#### Solicitações
+
+**Não é possível carregar um documento ao preencher uma solicitação**
+
+Quando um usuário preenche uma solicitação e tenta fazer upload de um documento, o documento não é carregado e o usuário vê o seguinte erro:
+
+&quot;Erro de upload: tente um arquivo menor ou anexe um arquivo após a criação.&quot;
+
++++
+
 +++**Semana de atualização de manutenção de 15 a 21 de fevereiro de 2026**
 
 ### Atualização de manutenção semana de 15 a 21 de fevereiro de 2026
 
 #### Formulários personalizados
 
+**Campos calculados não exibem dados para não administradores**
+
+Quando um usuário que não é um administrador do Workfront visualiza um formulário personalizado com campos que extraem dados em uma seção somente de administrador do formulário, esse campo não exibe o valor calculado. Se o usuário executar Recalcular Expressões, o valor será exibido, mas será perdido na atualização.
+
+Os administradores do Workfront podem ver os valores de campo conforme esperado.
+
 **A lógica de exibição não está sendo exibida corretamente no formulário de solicitação**
 
 Quando um usuário preenche um formulário personalizado conectado a uma solicitação, a lógica de exibição não é seguida e alguns campos podem não ser exibidos conforme esperado.
+
+#### Página inicial
+
+**As menções de provas não aparecem no widget Menções**
+
+Quando um usuário é mencionado em um comentário em uma prova, essa menção não é incluída no widget Menções na Página inicial.
+
+#### Logon
+
+**O Workfront não carrega após o logon**
+
+Quando um usuário faz logon no Workfront, o Workfront não carrega. Se o usuário atualizar a página, o Workfront será carregado conforme esperado.
+
+#### Relatórios
+
+Os campos do Workfront Planning não aparecem no Report Builder do Canvas Dashboards
+
+Quando um usuário está usando o construtor no Canvas Dashboards e tenta fazer referência a campos do Workfront Planning, esses campos não são exibidos no construtor.
 
 #### Solicitações
 

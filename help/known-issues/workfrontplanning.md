@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Planning]
 keywords: novo arquivo, adicionar arquivo
 feature: Workfront Planning
 exl-id: 8827b3cd-c19a-4322-ac0d-6c54c9e1fd29
-source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
+source-git-commit: 02f93911d8c8f9b90b0ae78216ccba8835f54e90
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 87%
+source-wordcount: '141'
+ht-degree: 95%
 
 ---
 
@@ -35,7 +35,7 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | --- | --- |
-| [Relatórios: os campos do Workfront Planning não aparecem no Report Builder dos Painéis do Canvas](known-issues-workfront/wf-reporting-canvas-dashboards-no-planning.md) | quinta-feira, 11 de fevereiro de 2026 |
+| Nenhum(a) | |
 
 {style="table-layout:auto"}
 

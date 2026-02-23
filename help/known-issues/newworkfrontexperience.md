@@ -4,10 +4,10 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 7cb718dba611fea9837171c8b0e1fbb56811c7e4
+source-git-commit: 46d019fafcfe638580b6faac5c09bcc16516c465
 workflow-type: tm+mt
-source-wordcount: '1137'
-ht-degree: 89%
+source-wordcount: '1109'
+ht-degree: 91%
 
 ---
 
@@ -25,12 +25,12 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | --- | --- |
+| [Programas: permissões herdadas não funcionam em programas](known-issues-workfront/wf-programs-inherited-permissions-not-working.md) | terça-feira, 23 de fevereiro de 2026 |
+| [Quadros: cartões duplicados são exibidos no quadro](known-issues-workfront/wf-boards-duplicate-cards.md) | terça-feira, 23 de fevereiro de 2026 |
 | [Tarefas: lista de tarefas grande salta inesperadamente para um local diferente na lista](known-issues-workfront/wf-tasks-large-task-list-jumps.md) | quinta-feira, 18 de fevereiro de 2026 |
 | [Aprovações: o widget Minhas aprovações exibe provas que não estão no estágio ao qual o usuário está atribuído](known-issues-workfront/wf-approvals-widget-showing-stage-not-started.md) | quinta-feira, 18 de fevereiro de 2026 |
 | [Integrações: as notificações do Slack do Workfront não estão sendo acionadas](known-issues-workfront/wf-integrations-slack-notifications-not-triggering.md) | quarta-feira, 17 de fevereiro de 2026 |
 | [Aprovações: as aprovações são bloqueadas automaticamente](known-issues-workfront/wf-approvals-are-locked.md) | quarta-feira, 17 de fevereiro de 2026 |
-| [Solicitações: não é possível carregar um documento ao preencher uma solicitação](known-issues-workfront/wf-request-cannot-submit-with-document.md) | terça-feira, 9 de fevereiro de 2026 |
-| [Logon: o Workfront não carrega após o logon](known-issues-workfront/wf-login-wf-does-not-load.md) | sexta-feira, 29 de janeiro de 2026 |
 | [Integrações: vincular a pasta do  [!DNL Google Drive]  não vincula seus ativos](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | quarta-feira, 25 de junho de 2024 |
 
 {style="table-layout:auto"}
@@ -41,12 +41,10 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | --- | --- |
-| [Página inicial: as menções de provas não aparecem no widget de Menções](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md) | quarta-feira, 17 de fevereiro de 2026 |
+| [Solicitações: a exibição &quot;Todas&quot; não mostra todas as solicitações](known-issues-workfront/wf-requests-not-showing-all.md) | quarta-feira, 17 de fevereiro de 2026 |
 | [Aprovações: não é possível aprovar o documento pelo widget Minhas aprovações na Página inicial](known-issues-workfront/wf-approval-not-work-from-widget.md) | quarta-feira, 17 de fevereiro de 2026 |
 | [Atribuições: não é possível salvar a alteração de atribuição avançada de um relatório](known-issues-workfront/wf-assignments-cannot-save-advanced-from-report.md) | sexta-feira, 12 de fevereiro de 2026 |
-| [Relatórios: os campos do Workfront Planning não aparecem no Report Builder dos Painéis do Canvas](known-issues-workfront/wf-reporting-canvas-dashboards-no-planning.md) | quinta-feira, 11 de fevereiro de 2026 |
 | [Usuários: não é possível remover subordinados diretos](known-issues-workfront/wf-users-cannot-remove-direct-reports.md) | quarta-feira, 10 de fevereiro de 2026 |
-| [Formulários personalizados: campos calculados não exibem dados para não administradores](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | sábado, 16 de janeiro de 2026 |
 | [Relatórios: os usuários podem ver dados financeiros em visualizações no painel “Tela”](known-issues-workfront/wf-reporting-users-can-see-financial-data.md) | 19 de dezembro de 2025 |
 | [Aprovações: a aprovação é exibida como “Sem prazo” quando a hora não é incluída no prazo](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 25 de setembro de 2025 |
 | [Workfront: objetos fora de sincronia entre o Workfront e o Snowflake](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 17 de junho de 2025 |

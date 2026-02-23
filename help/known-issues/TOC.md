@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 7cb718dba611fea9837171c8b0e1fbb56811c7e4
+source-git-commit: 46d019fafcfe638580b6faac5c09bcc16516c465
 workflow-type: tm+mt
-source-wordcount: '1788'
-ht-degree: 88%
+source-wordcount: '1802'
+ht-degree: 87%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 88%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Programas: permissões herdadas não funcionam em programas](known-issues-workfront/wf-programs-inherited-permissions-not-working.md)
+      + [Quadros: cartões duplicados são exibidos no quadro](known-issues-workfront/wf-boards-duplicate-cards.md)
       + [Tarefas: uma grande lista de tarefas salta inesperadamente para um local diferente na lista](known-issues-workfront/wf-tasks-large-task-list-jumps.md)
       + [Aprovações: o widget Minhas aprovações exibe provas que não estão no estágio ao qual o usuário está atribuído](known-issues-workfront/wf-approvals-widget-showing-stage-not-started.md)
       + [Página inicial: as menções de provas não são exibidas no widget Menções](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md)
@@ -242,7 +244,7 @@ ht-degree: 88%
    + [Problemas conhecidos no [!DNL Workfront] Planning](workfrontplanning.md)
 
 + Aplicativo móvel do [!DNL Workfront] {#mobile}
-   + [Problemas conhecidos no aplicativo móvel do  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problemas conhecidos no aplicativo móvel do  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 
