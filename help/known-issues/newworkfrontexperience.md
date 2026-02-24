@@ -4,10 +4,10 @@ description: 'Problemas conhecidos relatados na nova experiência do  [!DNL Adob
 keywords: novo arquivo, adicionar arquivo
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 46d019fafcfe638580b6faac5c09bcc16516c465
+source-git-commit: 1cb1156af6f75045d7a62ae671b2241839726eae
 workflow-type: tm+mt
-source-wordcount: '1109'
-ht-degree: 91%
+source-wordcount: '1130'
+ht-degree: 90%
 
 ---
 
@@ -25,6 +25,8 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | --- | --- |
+| [Usuários: os usuários removidos do Adobe Admin Console ainda estão ativos no Workfront](known-issues-workfront/wf-users-deactived-in-admin-console-still-active-in-wf.md) | quarta-feira, 24 de fevereiro de 2026 |
+| [Notificações: o usuário não recebe as notificações esperadas](known-issues-workfront/wf-notifications-user-not-receiving.md) | quarta-feira, 24 de fevereiro de 2026 |
 | [Programas: permissões herdadas não funcionam em programas](known-issues-workfront/wf-programs-inherited-permissions-not-working.md) | terça-feira, 23 de fevereiro de 2026 |
 | [Quadros: cartões duplicados são exibidos no quadro](known-issues-workfront/wf-boards-duplicate-cards.md) | terça-feira, 23 de fevereiro de 2026 |
 | [Tarefas: lista de tarefas grande salta inesperadamente para um local diferente na lista](known-issues-workfront/wf-tasks-large-task-list-jumps.md) | quinta-feira, 18 de fevereiro de 2026 |

@@ -4,10 +4,10 @@ description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 7cb718dba611fea9837171c8b0e1fbb56811c7e4
+source-git-commit: 1cb1156af6f75045d7a62ae671b2241839726eae
 workflow-type: tm+mt
-source-wordcount: '454'
-ht-degree: 88%
+source-wordcount: '445'
+ht-degree: 90%
 
 ---
 
@@ -40,7 +40,6 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 | ----------------------------------------------------------------- | ----------------- |
 | [Página inicial: as menções de provas não aparecem no widget de Menções](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md) | quarta-feira, 17 de fevereiro de 2026 |
 | [Aprovações: não é possível aprovar o documento pelo widget Minhas aprovações na Página inicial](known-issues-workfront/wf-approval-not-work-from-widget.md) | quarta-feira, 17 de fevereiro de 2026 |
-| [Workfront Proof: provas não aparecem em pastas](known-issues-workfront-proof/proof-folders-not-showing-proofs.md) | sábado, 6 de fevereiro de 2026 |
 | [Aprovações: o widget “Minhas aprovações” mostra aprovações concluídas](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | sexta-feira, 15 de janeiro de 2026 |
 | [Documentos: as miniaturas de documentos não são exibidas](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 17 de abril de 2025 |
 | [Notificações: as miniaturas não ficam visíveis nas notificações por email](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | terça-feira, 8 de julho de 2024 |

@@ -2,10 +2,10 @@
 user-guide-title: Problemas conhecidos
 user-guide-description: Problemas conhecidos do  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 46d019fafcfe638580b6faac5c09bcc16516c465
+source-git-commit: 1cb1156af6f75045d7a62ae671b2241839726eae
 workflow-type: tm+mt
-source-wordcount: '1802'
-ht-degree: 87%
+source-wordcount: '1833'
+ht-degree: 86%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 87%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemas conhecidos no  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemas atuais no [!DNL Adobe Workfront] {#wf-current}
+      + [Usuários: os usuários removidos do Adobe Admin Console ainda estão ativos no Workfront](known-issues-workfront/wf-users-deactived-in-admin-console-still-active-in-wf.md)
+      + [Workfront Planning: o status da solicitação é exibido como &quot;Em Andamento&quot; após a aprovação da solicitação](/help/known-issues/known-issues-workfront/wf-planning-requests-remain-in-progress.md)
+      + [Notificações: o usuário não recebe as notificações esperadas](known-issues-workfront/wf-notifications-user-not-receiving.md)
       + [Programas: permissões herdadas não funcionam em programas](known-issues-workfront/wf-programs-inherited-permissions-not-working.md)
       + [Quadros: cartões duplicados são exibidos no quadro](known-issues-workfront/wf-boards-duplicate-cards.md)
       + [Tarefas: uma grande lista de tarefas salta inesperadamente para um local diferente na lista](known-issues-workfront/wf-tasks-large-task-list-jumps.md)
@@ -244,7 +247,7 @@ ht-degree: 87%
    + [Problemas conhecidos no [!DNL Workfront] Planning](workfrontplanning.md)
 
 + Aplicativo móvel do [!DNL Workfront] {#mobile}
-   + [Problemas conhecidos no aplicativo móvel do  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problemas conhecidos no aplicativo móvel do  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 
