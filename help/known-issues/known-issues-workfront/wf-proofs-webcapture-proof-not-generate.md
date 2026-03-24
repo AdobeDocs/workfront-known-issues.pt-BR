@@ -4,10 +4,10 @@ description: Quando um usuário tenta criar uma prova de captura da web, ela nã
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 339c5a0a-cfc8-4cfc-946d-b87d760f9106
-source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
-workflow-type: ht
-source-wordcount: '98'
-ht-degree: 100%
+source-git-commit: 45fd0c1f41b0adb43cd4b1887460a58a7a6dc9c0
+workflow-type: tm+mt
+source-wordcount: '87'
+ht-degree: 85%
 
 ---
 
@@ -21,8 +21,6 @@ Quando um usuário tenta criar uma prova de captura da web, ela não é gerada c
 
 **Solução**
 
-Esse problema é causado por longos tempos de geração de prova para determinados arquivos PDF. Para aumentar o tempo-limite de geração do padrão de 30 segundos, edite a propriedade abaixo em “Configurações de processamento” no nível da conta em “Administrador de provas”:
-
-`WebCaptureNavigationTimeout -> 120`
+Esse problema é causado por longos tempos de geração de prova para determinados arquivos PDF. Para aumentar o tempo limite da geração do padrão de 30 segundos, entre em contato com o suporte ao cliente.
 
 _Relatado pela primeira vez em 3 de outubro de 2024._
