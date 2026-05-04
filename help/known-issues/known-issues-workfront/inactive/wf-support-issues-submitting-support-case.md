@@ -14,7 +14,7 @@ ht-degree: 61%
 
 Se você é um contato de suporte autorizado do [!DNL Workfront] e está tendo problemas ao enviar um caso de suporte, visite os seguintes blogs da comunidade para obter instruções:
 
-* [Como enviar um tíquete de suporte na Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/how-to-submit-a-support-ticket-on-experience-league/ba-p/461737)
+* [Como enviar um tíquete de suporte na Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/how-to-submit-a-support-ticket-on-experience-league/ba-p/461737?profile.language=pt)
 * [Fazer logon pela primeira vez como um membro novo ou existente da Comunidade do Workfront Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/logging-in-for-the-first-time-as-a-new-or-existing-workfront/ba-p/461472)
 
 Se você ainda tiver problemas, ligue para os números abaixo para que possamos ajudá-lo.
