@@ -1,12 +1,11 @@
 ---
 title: 'Permissões: as permissões de objetos não são herdadas corretamente'
 description: Permissões herdadas não são aplicadas corretamente a objetos. Isso pode ocorrer devido à complexidade das permissões herdadas.
-hidefromtoc: true
 feature: Projects, Tasks, Work Management
 exl-id: 589733a7-2bd6-4b73-afb8-a14cc1f5076a
-source-git-commit: 0fcd70848cac70a816ce2150800910675d6d13a6
-workflow-type: ht
-source-wordcount: '144'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '146'
 ht-degree: 100%
 
 ---

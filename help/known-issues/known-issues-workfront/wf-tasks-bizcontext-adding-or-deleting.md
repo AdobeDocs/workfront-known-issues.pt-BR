@@ -1,12 +1,11 @@
 ---
 title: 'Tarefas: erro do banco de dados ao adicionar ou excluir uma tarefa (anteriormente, erro de Bizcontext)'
 description: 'Quando um usuário tenta adicionar ou excluir uma tarefa, ele não consegue, e o seguinte erro é exibido: “Erro do banco de dados: não foi possível concluir a sua solicitação devido a um problema temporário do sistema. Tente novamente”. Esta mensagem de erro antes era um erro de Bizcontext.'
-hidefromtoc: true
 feature: Tasks
 exl-id: 581a73c4-2743-473b-9c42-84591e5800a1
-source-git-commit: d646e08c6733909733779734222db2f728b92850
-workflow-type: ht
-source-wordcount: '152'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '154'
 ht-degree: 100%
 
 ---

@@ -1,12 +1,11 @@
 ---
 title: 'Configuração: as listas carregam lentamente na Configuração'
 description: Quando um usuário está na área Configuração e tenta carregar uma lista, ela é carregada muito lentamente. Esse problema foi relatado em várias áreas em toda a Configuração.
-hidefromtoc: true
 exl-id: 4b48b101-9c38-416a-a45b-203cf8f6eefc
 feature: System Setup and Administration
-source-git-commit: 52b204d63eda7752c90a4481aa2050e695cd4cc7
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '102'
 ht-degree: 94%
 
 ---
@@ -21,4 +20,4 @@ ht-degree: 94%
 
 Quando um usuário está na área [!UICONTROL Configuração] e tenta carregar uma lista, ela é carregada muito lentamente. Esse problema foi relatado em várias áreas em toda a [!UICONTROL Configuração].
 
-_Reportado pela primeira vez em 20 de outubro de 2022._
+_Relatado pela primeira vez em sexta-feira, 20 de outubro de 2022._

@@ -2,11 +2,10 @@
 title: 'Página inicial: problemas de resumo na página inicial ao usar navegadores diferentes do Chrome'
 description: Quando um usuário visualiza sua página inicial em um navegador diferente do Chrome, ele pode ter vários problemas.
 exl-id: 7e1935e4-2814-4527-a65a-301f4b9a9669
-hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 374c88a6a4e8890968220ae51b3fea303e0d7628
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '114'
 ht-degree: 91%
 
 ---
@@ -29,4 +28,4 @@ Esses problemas foram relatados nos seguintes navegadores:
 * [!DNL Firefox]
 * [!DNL Microsoft Edge]
 
-_Reportado pela primeira vez em 23 de novembro de 2021._
+_Relatado pela primeira vez em quarta-feira, 23 de novembro de 2021._

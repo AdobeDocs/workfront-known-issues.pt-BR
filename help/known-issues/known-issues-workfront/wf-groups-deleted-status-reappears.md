@@ -1,12 +1,11 @@
 ---
 title: Problemas ao excluir o status do grupo
 description: Após excluir o status de um grupo, ele acaba reaparecendo posteriormente sem ser modificado, apesar de o grupo não exibir mais o status inicialmente e da hora de remoção aparecer nas atualizações do grupo.
-hidefromtoc: true
 feature: People Teams and Groups
 exl-id: 061bfacc-5350-4e5f-91c1-89b32835d6e5
-source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
-workflow-type: ht
-source-wordcount: '136'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '138'
 ht-degree: 100%
 
 ---

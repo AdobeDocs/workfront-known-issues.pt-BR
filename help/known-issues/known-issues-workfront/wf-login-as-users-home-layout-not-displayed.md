@@ -1,12 +1,11 @@
 ---
 title: 'Fazer logon como: o modelo de layout da página inicial do administrador é exibido'
 description: Quando um administrador faz logon como outro usuário e navega até os modelos de layout na “Configuração”, seu próprio modelo de layout da página inicial é exibido em vez do usuário com o qual está logado.
-hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 1276dd02-2399-4284-997e-8bdf3c2ce411
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
-workflow-type: ht
-source-wordcount: '110'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '112'
 ht-degree: 100%
 
 ---

@@ -1,13 +1,12 @@
 ---
 title: 'Atualizações: o link no comentário vai para uma tela em branco'
-description: Quando um usuário clica em um link que está em um comentário, o link direciona o usuário para uma tela em branco. Uma solução alternativa está disponível.
-hidefromtoc: true
+description: Quando uma pessoa clica em um link que está em um comentário, o link a direciona para uma tela em branco. Há uma solução alternativa disponível.
 feature: Updates and Notifications
 exl-id: db510b1b-84ff-4e77-b028-7acc55ce9832
-source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 74%
+source-wordcount: '83'
+ht-degree: 100%
 
 ---
 
@@ -23,8 +22,8 @@ ht-degree: 74%
 
 Quando uma pessoa clica em um link que está em um comentário, o link a direciona para uma tela em branco.
 
-**Solução alternativa**
+**Solução**
 
 Copie o link e cole-o na barra de URL de uma página separada.
 
-_Relatado pela primeira vez em sexta-feira, 18 de abril de 2024._
+_Reportado pela primeira vez em sexta-feira, 18 de abril de 2024._

@@ -1,11 +1,10 @@
 ---
 title: 'Workfront Fusion: não é possível adicionar nem excluir usuários do Workfront Fusion'
 description: Quando um usuário tenta adicionar ou excluir outro no Workfront Fusion, não é possível fazer isso.
-hidefromtoc: true
 feature: Workfront Fusion
 exl-id: bd5eb99e-c9a5-470d-b58d-51097bbd9ea4
-source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
-workflow-type: ht
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 100%
 

@@ -2,11 +2,10 @@
 title: 'Listas: o nome de exibição não é aplicado ao agrupamento de campo personalizado'
 description: Quando um usuário agrupa uma lista por um campo personalizado e altera o nome de exibição no Modo de texto, o nome original do campo é exibido.
 exl-id: 70fda3fe-336c-4ee5-a47c-b1095e470865
-hidefromtoc: true
 feature: Text Mode Reporting
-source-git-commit: 2631a7a9cd6c07feae192cb0e29f168929fc9f3c
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '110'
 ht-degree: 100%
 
 ---
@@ -19,4 +18,4 @@ ht-degree: 100%
 
 Quando um usuário agrupa uma lista por um campo personalizado e altera o nome de exibição no [!UICONTROL Modo de texto], o nome original do campo é exibido.
 
-_Reportado pela primeira vez em 13 de agosto de 2020._
+_Relatado pela primeira vez em sexta-feira, 13 de agosto de 2020._

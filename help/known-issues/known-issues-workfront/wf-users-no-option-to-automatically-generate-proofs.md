@@ -1,15 +1,14 @@
 ---
 title: 'Usuários: a opção de gerar provas automaticamente não aparece no perfil do usuário'
 description: Quando um usuário está visualizando um perfil de usuário, a opção de “Gerar provas automaticamente ao fazer upload de documentos” não está disponível. Isso pode ocorrer mesmo que todos os pré-requisitos da opção tenham sido satisfeitos.
-hidefromtoc: true
 feature: People Teams and Groups, Digital Content and Documents
-source-git-commit: fb31912bbb8e62578293dc0b4df3761f433913da
-workflow-type: ht
-source-wordcount: '96'
+exl-id: 22d10571-0c83-4ef9-836d-4148ea1572d4
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '100'
 ht-degree: 100%
 
 ---
-
 
 # Usuários: a opção de gerar provas automaticamente não aparece no perfil do usuário
 

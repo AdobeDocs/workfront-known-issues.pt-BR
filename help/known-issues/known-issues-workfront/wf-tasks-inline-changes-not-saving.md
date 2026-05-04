@@ -1,15 +1,14 @@
 ---
 title: As edições em linha de uma tarefa não são salvas
 description: Quando um usuário faz alterações na seção de edições de uma tarefa na caixa de diálogo de tarefa herdada e as salva, as alterações não são salvas.
-hidefromtoc: true
 feature: Tasks
-source-git-commit: 7039085dbf83aa47d1ba70c8484e5d8572dee770
-workflow-type: ht
-source-wordcount: '91'
+exl-id: ebc1fec3-a0d8-4623-8e84-7e3878f9b716
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '95'
 ht-degree: 100%
 
 ---
-
 
 # Tarefas: as edições em linha de uma tarefa não são salvas
 

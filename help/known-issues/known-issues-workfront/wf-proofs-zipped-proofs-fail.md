@@ -1,12 +1,11 @@
 ---
 title: 'Provas: falha ao gerar provas comprimidas'
 description: Quando uma pessoa tenta criar uma prova comprimida e dois ou mais arquivos de prova têm o mesmo nome, a prova não é gerada.
-hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 9ce8530e-b96e-4509-9667-9d5bba238420
-source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '113'
 ht-degree: 100%
 
 ---
@@ -21,8 +20,8 @@ ht-degree: 100%
 
 Quando uma pessoa tenta criar uma prova comprimida e dois ou mais arquivos de prova têm o mesmo nome, a prova não é gerada.
 
-**Solução alternativa**
+**Solução**
 
 Renomeie os arquivos, de modo a tornar os nomes exclusivos.
 
-_Relatado pela primeira vez em 28 de dezembro de 2023._
+_Relatado pela primeira vez em sexta-feira, 28 de dezembro de 2023._

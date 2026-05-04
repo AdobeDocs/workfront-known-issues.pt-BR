@@ -1,13 +1,12 @@
 ---
 title: '[!DNL Workfront]: problemas ao enviar um caso de suporte do Workfront no Experience League'
 description: '"Se você for um [!DNL Workfront] Contato de Suporte Autorizado e estiver com problemas ao enviar um caso de suporte, ligue para os números abaixo para que possamos ajudá-lo.'
-hidefromtoc: true
 exl-id: f19b3e67-d31d-48f8-b847-dd4d309e11fc
 feature: System Setup and Administration
-source-git-commit: 52b204d63eda7752c90a4481aa2050e695cd4cc7
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 70%
+source-wordcount: '156'
+ht-degree: 61%
 
 ---
 
@@ -16,7 +15,7 @@ ht-degree: 70%
 Se você é um contato de suporte autorizado do [!DNL Workfront] e está tendo problemas ao enviar um caso de suporte, visite os seguintes blogs da comunidade para obter instruções:
 
 * [Como enviar um tíquete de suporte na Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/how-to-submit-a-support-ticket-on-experience-league/ba-p/461737?profile.language=pt)
-* [Fazer logon pela primeira vez como um membro novo ou existente da comunidade do Workfront na Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/logging-in-for-the-first-time-as-a-new-or-existing-workfront/ba-p/461472?profile.language=pt)
+* [Fazer logon pela primeira vez como um membro novo ou existente da Comunidade do Workfront Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/logging-in-for-the-first-time-as-a-new-or-existing-workfront/ba-p/461472)
 
 Se você ainda tiver problemas, ligue para os números abaixo para que possamos ajudá-lo.
 

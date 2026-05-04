@@ -1,12 +1,11 @@
 ---
 title: 'Integrações: vincular a pasta da Google não vincula ativos na pasta'
 description: “Ao vincular uma pasta do Google Drive ao Workfront, os ativos contidos nessa pasta não são vinculados. O número de ativos na pasta é exibido como 0.
-hidefromtoc: true
 feature: Workfront Integrations and Apps, Digital Content and Documents
 exl-id: 4be8d907-4404-45c6-bdf0-0d10bc0718b1
-source-git-commit: 18d44b25277610942a68227b9a3a9c17c874b966
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '88'
 ht-degree: 87%
 
 ---
@@ -15,8 +14,8 @@ ht-degree: 87%
 
 Quando uma pessoa vincula uma pasta do [!DNL Google Drive] ao Workfront, os ativos nessa pasta não são vinculados. O número de ativos na pasta é exibido como 0.
 
-**Solução alternativa**
+**Solução**
 
 Autentique novamente a sua conexão com o Google.
 
-_Relatado pela primeira vez em 8 de junho de 2023._
+_Relatado pela primeira vez em 7 de março de 2024._

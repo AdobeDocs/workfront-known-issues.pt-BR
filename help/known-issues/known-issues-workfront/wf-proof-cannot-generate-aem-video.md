@@ -1,12 +1,11 @@
 ---
 title: 'Provas: não é possível criar provas para vídeos vinculados do AEM por meio do Fusion'
 description: Ao tentar converter um vídeo em uma prova vinculada ao Workfront no AEM por meio do Fusion, o processo não é concluído, e a prova nunca é gerada.
-hidefromtoc: true
 feature: Digital Content and Documents, Workfront Fusion
 exl-id: 9bd06fd4-80e0-4930-a92e-25a91c4c6370
-source-git-commit: 1d045e8ff52e3e79f18ed0428c2fe4b6b93ffbf0
-workflow-type: ht
-source-wordcount: '113'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '115'
 ht-degree: 100%
 
 ---
