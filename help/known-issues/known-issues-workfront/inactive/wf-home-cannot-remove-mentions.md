@@ -1,12 +1,11 @@
 ---
 title: 'Página inicial: não é possível remover o dispositivo Menções'
 description: Não é possível remover o dispositivo Menções da nova página inicial.
-hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 57defe2f-47df-43ce-a9c7-e6f3a3e79ff5
-source-git-commit: 1aed6a440155c99f8ce0b0f42c44dd9a3c660af4
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '86'
 ht-degree: 100%
 
 ---

@@ -1,13 +1,12 @@
 ---
 title: 'Página inicial: nenhum acesso é exibido como nome do projeto'
 description: Quando um usuário visualiza o widget Minhas tarefas na página inicial, Nenhum acesso é exibido na coluna Nome do projeto. Isso ocorre mesmo se o nome do projeto estiver visível no widget Meu trabalho.
-hidefromtoc: true
 feature: Get Started with Workfront, Work Management
 exl-id: d31cd7ee-4c2b-43e4-9534-9cd075a80699
-source-git-commit: 9a8c1695bc2469c3c29849e7ed735a71c347bcce
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 52%
+source-wordcount: '86'
+ht-degree: 53%
 
 ---
 

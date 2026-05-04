@@ -1,12 +1,11 @@
 ---
 title: 'Workfront Fusion: campo ausente do módulo'
 description: Ao configurar um módulo no Workfront Fusion, é possível notar um campo ausente nas opções disponíveis. Isso pode ocorrer quando um usuário atualiza os campos personalizados e usa o designer de cenários na última hora.
-hidefromtoc: true
 feature: Workfront Fusion
 exl-id: c5d2d11c-ff31-4189-a630-b0248c02134e
-source-git-commit: 7aba3a4ce3e0436a8fd9850197bc44da9dafe347
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '139'
 ht-degree: 100%
 
 ---
@@ -17,7 +16,7 @@ Ao configurar um módulo no Workfront Fusion, é possível notar um campo ausent
 
 Isso foi relatado no módulo Workfront > Monitorar campos.
 
-**Solução alternativa**
+**Solução**
 
 Esse problema ocorre devido ao armazenamento em cache no Workfront Fusion. Visto que o cache é atualizado a cada hora, aguarde uma hora e tente novamente.
 

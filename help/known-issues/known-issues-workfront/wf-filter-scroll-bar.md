@@ -1,12 +1,11 @@
 ---
 title: 'Filtros: o menu suspenso desaparece ao clicar na barra de rolagem'
 description: Quando um usuário está criando um filtro e clica na seta suspensa para selecionar o campo e, em seguida, clica na barra de rolagem da lista suspensa, ela desaparece, e o usuário não consegue selecionar o campo desejado. Há uma solução alternativa disponível.
-hidefromtoc: true
 feature: Projects, Tasks, Work Management
 exl-id: e4f19f30-037e-4322-9ba5-3f4d6e790d59
-source-git-commit: 9995b6ce48c482f1c4bb087629f885b7d96968be
-workflow-type: ht
-source-wordcount: '110'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '112'
 ht-degree: 100%
 
 ---

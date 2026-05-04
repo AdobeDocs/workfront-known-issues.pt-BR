@@ -1,12 +1,11 @@
 ---
 title: 'Provas: fechar provas redireciona para a lista de documentos'
 description: Quando um usuário visualiza uma prova e clica no ícone de X para fechá-la, ele é redirecionado à lista de documentos em vez de aos detalhes do documento.
-hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 53c2c273-0677-4b31-8e19-6688505a085e
-source-git-commit: 460b7358b7d4ed77bc38f5b62fe961c7ea4d265e
-workflow-type: ht
-source-wordcount: '131'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '133'
 ht-degree: 100%
 
 ---

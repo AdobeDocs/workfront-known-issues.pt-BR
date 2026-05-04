@@ -2,16 +2,15 @@
 title: 'Relatórios: o calendário utiliza datas antigas como padrão'
 description: Quando um usuário navega para um calendário, o calendário carrega um intervalo de datas aleatório no passado (por exemplo, uma semana a partir do ano 1800).
 exl-id: 2897967c-32c3-4ee7-ae9d-608d45f40fa3
-hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 52b204d63eda7752c90a4481aa2050e695cd4cc7
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '104'
 ht-degree: 100%
 
 ---
 
-# Relatórios: o calendário tem como padrão datas antigas
+# Relatórios: o calendário utiliza datas antigas como padrão
 
 >[!NOTE]
 >
@@ -19,9 +18,9 @@ ht-degree: 100%
 
 Quando um usuário navega para um calendário, o calendário carrega um intervalo de datas aleatório no passado (por exemplo, uma semana a partir do ano 1800).
 
-**Solução alternativa**
+**Solução**
 
 Clique em **[!UICONTROL Hoje]** para carregar a semana correta no calendário.
 
 
-_Reportado pela primeira vez em 7 de abril de 2020._
+_Reportado pela primeira vez em quarta-feira, 7 de abril de 2020._

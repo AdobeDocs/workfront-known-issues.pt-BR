@@ -3,15 +3,14 @@ title: 'Notificações por email: o usuário não é direcionado ao thread de co
 description: Quando um usuário clica no link Comentário em uma notificação por email, ele é direcionado para a parte superior da área [!UICONTROL Atualizações] e não para a thread de comentários à qual está tentando responder.
 exl-id: 335c2867-eae5-46e8-a7d5-8b9b35e66e31
 feature: Updates and Notifications
-hidefromtoc: true
-source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '116'
 ht-degree: 100%
 
 ---
 
-# Notificações por email: o usuário não é direcionado à thread de comentários
+# Notificações por email: o usuário não é direcionado ao thread de comentários
 
 <!--Article created by request-->
 
@@ -21,4 +20,4 @@ ht-degree: 100%
 
 Quando um usuário clica no link [!UICONTROL Comentário] em uma notificação por email, ele é direcionado para a parte superior da área [!UICONTROL Atualizações] e não para a thread de comentários à qual está tentando responder.
 
-_Reportado pela primeira vez em 24 de março de 2021._
+_Relatado pela primeira vez em quinta-feira, 24 de março de 2021._

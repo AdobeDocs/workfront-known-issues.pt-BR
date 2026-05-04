@@ -1,12 +1,11 @@
 ---
 title: 'API: não é possível classificar por campos dinâmicos'
 description: 'A API do Workfront não permite a classificação por campos dinâmicos. '
-hidefromtoc: true
 exl-id: f681fca8-7def-4fe4-9ab1-18dd6e2502d6
 feature: Workfront API
-source-git-commit: 688d728782638489aacc76a1a12c38ab12215f8e
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '47'
+source-wordcount: '49'
 ht-degree: 100%
 
 ---
@@ -17,8 +16,8 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Esse problema foi encerrado porque não é um problema.
+>Essa questão foi encerrada porque não é um problema.
 
 A API do Workfront não permite a classificação por campos dinâmicos.
 
-_Reportado pela primeira vez em 15 de março de 2022._
+_Relatado pela primeira vez em quarta-feira, 15 de março de 2022._

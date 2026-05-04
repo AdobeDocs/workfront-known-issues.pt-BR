@@ -1,13 +1,12 @@
 ---
 title: 'Workfront Proof: não é possível reordenar ativos ao criar uma prova'
 description: quando um usuário no Workfront Proof tenta reordenar os ativos que serão combinados em uma prova, não é possível arrastar os arquivos e a ordem dos arquivos não é alterada.
-hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: d7651c5d-1a68-4a4f-a7aa-a9354eedead0
-source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 59%
+source-wordcount: '100'
+ht-degree: 60%
 
 ---
 

@@ -3,10 +3,9 @@ title: 'Notificações por email: os emails não estão formatados corretamente 
 description: Quando um usuário com um endereço de email do Outlook tem seu email definido para não permitir o download automático de uma imagem e recebe uma notificação por email do [!DNL Workfront], a imagem de perfil do usuário na notificação não é exibida corretamente, com o nome da imagem às vezes sendo exibido verticalmente. O download manual dessas imagens não corrige o problema de formatação.
 feature: Updates and Notifications, Workfront Integrations and Apps
 exl-id: 15624837-b6bb-4e75-bb9c-1d034d3571f4
-hidefromtoc: true
-source-git-commit: 69f143e6b764eb8e6aebef92abc9c2ba3dc53770
-workflow-type: ht
-source-wordcount: '162'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '164'
 ht-degree: 100%
 
 ---

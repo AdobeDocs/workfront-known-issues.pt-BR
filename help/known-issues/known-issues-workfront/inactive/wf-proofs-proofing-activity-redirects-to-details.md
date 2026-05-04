@@ -1,12 +1,11 @@
 ---
 title: 'Provas: a guia Atividade de prova abre Detalhes da prova'
 description: Quando um usuário está visualizando uma prova e clica na guia Atividade de prova, a guia Detalhes da prova é aberta no lugar. Isso ocorre quando um estágio de prova é adicionado manualmente ao fluxo de trabalho.
-hidefromtoc: true
 exl-id: 214156cc-b4ac-454b-ac62-596dbaf5a96a
 feature: Digital Content and Documents
-source-git-commit: 2631a7a9cd6c07feae192cb0e29f168929fc9f3c
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '104'
 ht-degree: 93%
 
 ---
@@ -23,8 +22,8 @@ ht-degree: 93%
 
 Quando um usuário está visualizando uma prova e clica na guia [!UICONTROL Atividade de prova], a guia [!UICONTROL Detalhes da prova] é aberta no lugar. Isso ocorre quando um estágio de prova é adicionado manualmente ao fluxo de trabalho.
 
-**Solução alternativa**
+**Solução**
 
-Visualize as Atividades de prova na navegação à esquerda do documento no Workfront.
+Visualize as Atividades de revisão na navegação à esquerda do documento no Workfront.
 
-_Relatado pela primeira vez em 10 de abril de 2023._
+_Reportado pela primeira vez em terça-feira, 10 de abril de 2023._

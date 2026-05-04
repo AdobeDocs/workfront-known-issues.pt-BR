@@ -1,12 +1,11 @@
 ---
 title: 'Página inicial: a página inicial falha com um erro de falta de memória'
-description: Quando uma pessoa tenta exibir a nova página inicial, o site falha com uma mensagem de erro. Uma solução alternativa está disponível.
-hidefromtoc: true
+description: Quando uma pessoa tenta exibir a nova página inicial, o site falha com uma mensagem de erro. Há uma solução alternativa disponível.
 feature: Get Started with Workfront
 exl-id: befeb093-6376-4c91-a4c4-f956b85660aa
-source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '130'
 ht-degree: 93%
 
 ---
@@ -21,7 +20,7 @@ Quando uma pessoa tenta exibir a nova Página inicial, o site falha com a seguin
 
 “Algo deu errado ao apresentar esta página. Código de erro: memória insuficiente”
 
-**Solução alternativa**
+**Solução**
 
 Isso pode ser causado por muitos itens em um dispositivo. Recomendamos o seguinte:
 

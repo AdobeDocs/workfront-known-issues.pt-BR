@@ -3,10 +3,9 @@ title: 'Aprovações: a delegação de aprovação é definida com o número inc
 description: Quando um usuário programa a Folga pessoal e delega suas aprovações para esse período, a delegação de aprovação pode incluir dias antes ou depois do horário agendado.
 exl-id: 8d978983-b663-442b-9935-75ecbd359a43
 feature: Approvals
-hidefromtoc: true
-source-git-commit: 875945978c7bdb4a7128ade826b6fbc31da04ae9
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '143'
 ht-degree: 100%
 
 ---
@@ -17,14 +16,14 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Esse problema foi encerrado porque não é um problema.
+>Essa questão foi encerrada porque não é um problema.
 
 Quando um usuário programa a folga pessoal e delega suas aprovações para esse período, a delegação de aprovação pode incluir dias antes ou depois do horário agendado.
 
-**Solução alternativa**
+**Solução**
 
 Essa discrepância resulta de uma diferença entre o fuso horário em um perfil de usuário e o fuso horário do agendamento atribuído pelo usuário.
 
 Recomendamos criar um agendamento exclusivo para cada fuso horário do qual os usuários trabalham e atribuir cada usuário ao agendamento que corresponde ao fuso horário em seu perfil de usuário.
 
-_Reportado pela primeira vez em 24 de março de 2022._
+_Relatado pela primeira vez em sexta-feira, 24 de março de 2022._

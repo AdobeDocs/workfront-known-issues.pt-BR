@@ -1,12 +1,11 @@
 ---
 title: 'Navegação: o botão Voltar não retorna à página anterior'
 description: Quando alguém no Workfront clica no botão Voltar do navegador, o comando não funciona conforme o esperado.
-hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: cba19c37-ca23-4eb6-93d5-b4ad7ab00c28
-source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '121'
 ht-degree: 100%
 
 ---
@@ -22,4 +21,4 @@ Quando se clica no botão Voltar do navegador no Workfront, uma das situações 
 * O nome da guia do navegador é alterado, mas a página não é alterada. Clicar no botão Voltar novamente pode resolver o problema.
 * A pessoa é direcionada para sua página de destino no navegador.
 
-_Relatado pela primeira vez em 3 de junho de 2024._
+_Relatado pela primeira vez em terça-feira, 3 de junho de 2024._

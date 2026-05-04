@@ -1,21 +1,20 @@
 ---
-title: 'Solicitações: usuários podem alterar o status apesar da falta de permissões'
+title: 'Solicitações: usuários podem alterar o status apesar de não terem permissões'
 description: Usuários com acesso para contribuir e sem permissões para alterar o status do problema ainda podem alterá-lo.
-hidefromtoc: true
 feature: Requests
 exl-id: f557be03-d35d-4208-a672-1ceb9072ae24
-source-git-commit: 9a8c1695bc2469c3c29849e7ed735a71c347bcce
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '71'
 ht-degree: 100%
 
 ---
 
-# Solicitações: usuários podem alterar o status apesar da falta de permissões
+# Solicitações: usuários podem alterar o status apesar de não terem permissões
 
 >[!NOTE]
 >
->Este problema foi encerrado porque o programa está funcionando conforme projetado.
+>Esse problema foi encerrado porque o funcionamento está correto conforme projetado.
 
 Usuários com acesso para contribuir e sem permissões para alterar o status do problema ainda podem alterá-lo.
 

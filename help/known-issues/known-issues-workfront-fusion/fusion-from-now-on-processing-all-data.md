@@ -1,12 +1,11 @@
 ---
 title: 'Workfront Fusion: a configuração inicial “De agora em diante” está processando todos os dados'
 description: Depois de selecionar “De agora em diante” como a configuração de “Escolher quando começar” de um cenário, se um usuário reverter o cenário para uma versão anterior, ele tentará processar todos os dados independentemente da data, em vez de incluir apenas os dados após a opção inicial ser selecionada.
-hidefromtoc: true
 feature: Workfront Fusion
 exl-id: 498c7487-a828-4ed1-a38d-26c89d2a70dc
-source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
-workflow-type: ht
-source-wordcount: '146'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '148'
 ht-degree: 100%
 
 ---

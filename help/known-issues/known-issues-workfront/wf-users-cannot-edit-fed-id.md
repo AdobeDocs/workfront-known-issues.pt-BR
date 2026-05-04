@@ -1,12 +1,11 @@
 ---
 title: 'Usuários: não é possível editar a Federation ID de um usuário'
 description: Quando um administrador tenta atualizar a Federation ID de um usuário, o campo referente a essa informação não está disponível, e o administrador não pode atualizá-lo.
-hidefromtoc: true
 feature: People Teams and Groups
 exl-id: cfb26af4-92ae-4f1c-a233-a626ce2b107e
-source-git-commit: db29bf0acb4baecaee208821d81318b15c74233b
-workflow-type: ht
-source-wordcount: '97'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '101'
 ht-degree: 100%
 
 ---

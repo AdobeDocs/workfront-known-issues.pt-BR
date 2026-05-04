@@ -1,12 +1,11 @@
 ---
 title: 'Provas: erro ao compartilhar prova do link de email'
 description: Quando uma prova é compartilhada com um convidado e esse convidado tenta usar a opção Compartilhar esta prova com outra pessoa no email, ele recebe um erro ao tentar informar um endereço de email para compartilhar a prova. O campo de email fica vermelho e o usuário vê um erro.
-hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 0ab7a42f-f87e-49d1-b5e5-3d05f7764eab
-source-git-commit: 2631a7a9cd6c07feae192cb0e29f168929fc9f3c
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '173'
 ht-degree: 100%
 
 ---

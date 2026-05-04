@@ -1,15 +1,14 @@
 ---
 title: 'Integrações: as notificações do Slack da Workfront não são acionadas'
 description: 'Quando ocorre um evento no Workfront que deve acionar uma notificação do Slack, a notificação não é enviada. '
-hidefromtoc: true
 feature: Workfront Integrations and Apps
-source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
+exl-id: b8afdfb3-fad1-48fa-aacd-8e9ce829e994
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 3%
+source-wordcount: '106'
+ht-degree: 0%
 
 ---
-
 
 # Integrações: as notificações do Slack da Workfront não são acionadas
 
@@ -22,4 +21,4 @@ Esse problema foi relatado para os seguintes eventos:
 
 Isso pode ocorrer mesmo que as preferências de notificação do usuário estejam configuradas para enviar a notificação no Slack.
 
-_Relatado pela primeira vez em terça-feira, 2 de fevereiro de 2026._
+_Reportado pela primeira vez em 2 de fevereiro de 2026._

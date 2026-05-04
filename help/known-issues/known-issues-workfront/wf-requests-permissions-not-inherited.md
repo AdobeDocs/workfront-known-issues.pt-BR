@@ -1,15 +1,14 @@
 ---
 title: 'Solicitações: permissões não herdadas ao criar uma solicitação'
 description: Quando um usuário cria uma solicitação, ela não herda as permissões. Isso significa que os usuários podem não conseguir acessá-la.
-hidefromtoc: true
 feature: Requests
-source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
-workflow-type: ht
-source-wordcount: '74'
+exl-id: ab6e3a57-efc3-4791-97be-68dfa5f990c0
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '78'
 ht-degree: 100%
 
 ---
-
 
 # Solicitações: permissões não herdadas ao criar uma solicitação
 

@@ -1,12 +1,11 @@
 ---
 title: 'Usuários: o emblema de aprovação pendente é exibido em novos usuários'
 description: Novos usuários do Workfront podem ser exibidos na lista de usuários com um emblema de aprovação pendente. O emblema persiste por mais de alguns minutos e continua presente quando a página é atualizada.
-hidefromtoc: true
 feature: People Teams and Groups
 exl-id: 27db1155-f6aa-465d-a42b-1147cf5431e1
-source-git-commit: 39a085b629d6d2afc5a198e47ca639d2bb431b0d
-workflow-type: ht
-source-wordcount: '245'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '255'
 ht-degree: 100%
 
 ---

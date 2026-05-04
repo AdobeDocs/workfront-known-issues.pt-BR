@@ -1,12 +1,11 @@
 ---
 title: 'Quadros: os cartões movidos para uma coluna diferente retornam à coluna original após a atualização'
 description: Quando uma pessoa move um cartão para uma coluna diferente e, em seguida, atualiza a página ou retorna ao quadro, o cartão retorna à coluna original.
-hidefromtoc: true
 feature: Agile
 exl-id: fd92be4b-a87b-4b99-9d19-fd69c4fa5afb
-source-git-commit: 85b451aa1e811e9423c700bf2df36582665e0d2c
-workflow-type: ht
-source-wordcount: '117'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '119'
 ht-degree: 100%
 
 ---

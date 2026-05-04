@@ -1,12 +1,11 @@
 ---
 title: 'Modelos de layout: campos de dados personalizados não são exibidos quando adicionados ao resumo da tarefa por meio do modelo de layout'
 description: Quando um administrador adiciona um campo de dados personalizado à seção “Resumo da tarefa” por meio de um modelo de layout, o campo é exibido como vazio aos usuários que visualizam a seção de resumo de uma tarefa.
-hidefromtoc: true
 feature: System Setup and Administration
 exl-id: f37ecfc5-30b9-4fe2-9e76-a97be0ae969f
-source-git-commit: 273f533553626082787f579b171ab4b314743d58
-workflow-type: ht
-source-wordcount: '137'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '139'
 ht-degree: 100%
 
 ---

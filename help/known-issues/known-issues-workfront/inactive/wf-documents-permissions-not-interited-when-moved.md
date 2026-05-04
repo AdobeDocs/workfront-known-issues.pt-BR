@@ -1,12 +1,11 @@
 ---
 title: 'Documentos: as permissões não são herdadas quando um documento é movido para um novo projeto'
 description: 'Quando um usuário move um documento para um projeto diferente, o documento não herda as permissões de compartilhamento do novo projeto. O documento não é compartilhado com os usuários para os quais o projeto é compartilhado. '
-hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 56dfaf55-7438-4569-b9a1-b62fbdd3f4d9
-source-git-commit: 85b451aa1e811e9423c700bf2df36582665e0d2c
-workflow-type: ht
-source-wordcount: '179'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '182'
 ht-degree: 100%
 
 ---

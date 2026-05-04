@@ -1,12 +1,11 @@
 ---
 title: 'Provas: a prova impede a conversão de tarefa ou problema em projeto'
-description: Quando um usuário tenta converter uma tarefa ou problema que inclui uma prova gerada pela Web em um projeto, o projeto não é criado e o usuário vê uma mensagem. Uma solução alternativa está disponível.
-hidefromtoc: true
+description: Quando um usuário tenta converter uma tarefa ou problema que inclui uma prova gerada pela Web em um projeto, o projeto não é criado e o usuário vê uma mensagem. Há uma solução alternativa disponível.
 feature: Digital Content and Documents, Projects, Tasks, Work Management
 exl-id: 0022db1d-7ad3-4229-96a8-fb3823e89d9f
-source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '179'
 ht-degree: 100%
 
 ---
@@ -29,5 +28,5 @@ Execute o seguinte procedimento:
 2. Converta a tarefa ou problema em um projeto.
 3. Use o recurso Mover documento para mover a prova para o novo projeto.
 
-_Relatado pela primeira vez em 28 de março de 2024._
+_Relatado pela primeira vez em sexta-feira, 28 de março de 2024._
 

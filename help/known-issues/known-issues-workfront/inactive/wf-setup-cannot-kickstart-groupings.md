@@ -1,12 +1,11 @@
 ---
 title: 'Configuração: não é possível utilizar o [!UICONTROL Início rápido] para configurar agrupamentos'
 description: Quando um usuário tenta usar o [!UICONTROL Início] em um agrupamento, a importação não é bem-sucedida e uma mensagem de erro é exibida.
-hidefromtoc: true
 feature: System Setup and Administration
 exl-id: e1b0ba88-0af7-432f-89db-de4f50b20ff6
-source-git-commit: 9457b520c469c729f8727b1efd21bbde117b9546
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '171'
 ht-degree: 100%
 
 ---
@@ -24,4 +23,4 @@ Quando uma pessoa tenta usar o [!UICONTROL Início rápido] em um agrupamento, a
 
 Isso pode ocorrer mesmo se as exibições e os filtros forem bem-sucedidos no [!UICONTROL Início rápido].
 
-_Relatado pela primeira vez em 1º de junho de 2023._
+_Relatado pela primeira vez em sexta-feira, 1 de junho de 2023._

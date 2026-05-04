@@ -1,18 +1,17 @@
 ---
 title: 'Aprovações: o widget Minhas aprovações exibe provas que não estão no estágio ao qual o usuário está atribuído'
 description: Quando um usuário visualiza o widget Minhas aprovações na Página inicial, ele vê provas em que o usuário está atribuído a um estágio, mas a prova não está no estágio ao qual o usuário está atribuído. Isso pode dificultar para o usuário visualizar rapidamente qual ação é necessária.
-hidefromtoc: true
 feature: Digital Content and Documents, Get Started with Workfront
-source-git-commit: 7cb718dba611fea9837171c8b0e1fbb56811c7e4
+exl-id: e4455b1e-581b-481e-82e9-218d7e2de778
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 2%
+source-wordcount: '140'
+ht-degree: 0%
 
 ---
-
 
 # Aprovações: o widget Minhas aprovações exibe provas que não estão no estágio ao qual o usuário está atribuído
 
 Quando um usuário visualiza o widget Minhas aprovações na Página inicial, ele vê provas em que o usuário está atribuído a um estágio, mas a prova não está no estágio ao qual o usuário está atribuído. Isso pode dificultar para o usuário visualizar rapidamente qual ação é necessária.
 
-_Relatado pela primeira vez em terça-feira, 16 de fevereiro de 2026._
+_Reportado pela primeira vez em 16 de fevereiro de 2026._

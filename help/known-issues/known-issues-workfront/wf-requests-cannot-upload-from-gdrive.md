@@ -1,15 +1,14 @@
 ---
 title: 'Solicitações: não é possível fazer upload de documentos em solicitações no GDrive'
 description: Quando um usuário está criando uma solicitação na nova experiência de solicitação e tenta fazer upload de um documento do GDrive, a janela do GDrive não responde. O usuário não consegue selecionar um arquivo nem fechar a janela. Há uma solução alternativa disponível.
-hidefromtoc: true
 feature: Requests, Digital Content and Documents
-source-git-commit: e55fc268af331c75b7f2d1094edf483668e97080
-workflow-type: ht
-source-wordcount: '120'
+exl-id: 066a4b70-e776-479d-8263-17e5b1fba768
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '124'
 ht-degree: 100%
 
 ---
-
 
 # Solicitações: não é possível fazer upload de documentos em solicitações no GDrive
 

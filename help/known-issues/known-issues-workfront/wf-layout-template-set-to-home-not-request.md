@@ -1,17 +1,16 @@
 ---
-title: 'Modelo de layout: a página de aterrissagem está incorreta'
+title: 'Modelo de layout: a página de destino está incorreta'
 description: Quando uma pessoa com uma licença Solicitante é atribuído a um modelo de layout que tem a página Solicitações definida como página de destino, ela é direcionado para a página inicial como se ela fosse a página de destino definida.
-hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 4106a592-61ee-4dcd-9bf9-c42e65f83d37
-source-git-commit: f39204000f2b83aee0bb7b6347f65b5b508ad9df
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '110'
 ht-degree: 100%
 
 ---
 
-# Modelo de layout: a página de aterrissagem está incorreta
+# Modelo de layout: a página de destino está incorreta
 
 >[!NOTE]
 >

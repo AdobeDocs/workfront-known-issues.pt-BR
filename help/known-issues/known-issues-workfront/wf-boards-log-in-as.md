@@ -1,17 +1,16 @@
 ---
 title: 'Quadros: o quadro não é exibido como usuário ao usar Fazer logon como'
 description: Quando um administrador ou administrador de grupo faz logon como outro usuário e visualiza Quadros, os quadros exibidos são os quadros do administrador, não os quadros do usuário.
-hidefromtoc: true
 feature: Agile
 exl-id: fe845e13-82fd-417b-8dd6-c40345c7c6da
-source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 88%
+source-wordcount: '110'
+ht-degree: 89%
 
 ---
 
-# “Quadros: os quadros exibidos não são os do usuário escolhido ao usar a opção [!UICONTROL Fazer logon como]
+# Quadros: os quadros exibidos não são os do usuário escolhido ao usar a opção [!UICONTROL Fazer logon como]
 
 >[!NOTE]
 >

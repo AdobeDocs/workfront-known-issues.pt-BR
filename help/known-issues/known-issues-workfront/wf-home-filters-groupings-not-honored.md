@@ -1,10 +1,9 @@
 ---
 title: 'Nova Página inicial: os padrões de filtro e agrupamento de widgets não seguem o modelo de layout'
 description: Quando alguém visualiza os dispositivos Meus projetos, Minhas tarefas ou Meus problemas na experiência da nova Página inicial, o filtro e o agrupamento padrão desses dispositivos não são a configuração padrão do modelo de layout atribuído a essa pessoa.
-hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: d7038535-98ff-405b-9c2b-d6474dc568c9
-source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 93%
@@ -15,7 +14,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->Este problema foi encerrado porque o programa está funcionando conforme projetado.
+>Esse problema foi encerrado porque o funcionamento está correto conforme projetado.
 
 Quando um usuário visualiza o dispositivo [!UICONTROL Meus Projetos], [!UICONTROL Minhas Tarefas] ou [!UICONTROL Meus problemas] na nova experiência da [!UICONTROL Página inicial], o filtro e o agrupamento padrão desse dispositivo não estão na configuração padrão do modelo de layout atribuído a esse usuário.
 

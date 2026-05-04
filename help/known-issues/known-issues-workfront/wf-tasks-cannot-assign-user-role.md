@@ -1,15 +1,14 @@
 ---
 title: 'Tarefas: não é possível selecionar a função de usuário ao criar uma tarefa'
 description: Quando um usuário cria uma tarefa e tenta atribuir uma função de usuário, a opção de atribuir a função não está presente, e o usuário não pode atribuir uma função de usuário. Há uma solução alternativa disponível.
-hidefromtoc: true
 feature: Tasks
-source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
-workflow-type: ht
-source-wordcount: '110'
+exl-id: 11cb6538-708d-4004-9f8e-4bfd1053bb47
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '114'
 ht-degree: 100%
 
 ---
-
 
 # Tarefas: não é possível selecionar a função de usuário ao criar uma tarefa
 
