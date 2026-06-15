@@ -213,10 +213,10 @@ ht-degree: 52%
       + {hide-from-toc}[[!DNL Workfront Proof]: a área [!UICONTROL Relatórios] não é mais compatível](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
       + {hide-from-toc}[Provas: o usuário não recebe email quando marcado em um comentário de prova](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
       + {hide-from-toc}[Provas: novo estágio criado porque o prazo não pode corresponder ao prazo final do estágio já existente](known-issues-workfront-proof/proof-new-stage-created.md)
-      + {hide-from-toc}[[!DNL Workfront Proof] API: erro ](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) &quot;O corpo não é um XML] válido&quot;[!UICONTROL 
+      + {hide-from-toc}[[!DNL Workfront Proof] API: erro  &quot;O corpo não é um XML] válido&quot;[](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) 
       + {hide-from-toc}[Provas: provas não são compartilhadas com usuários no Fluxo de trabalho de prova](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
       + {hide-from-toc}[Não é possível adicionar um usuário à prova marcando o usuário em um comentário](known-issues-workfront-proof/cannot-add-user-to-proof.md)
-      + O relatório {hide-from-toc}[[!UICONTROL Aprovação de prova] não determina com precisão os prazos](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
+      + {hide-from-toc}[O relatório [!UICONTROL Aprovação de prova] não determina com precisão os prazos](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
       + {hide-from-toc}[[!UICONTROL Página inicial]: provas concluídas presas na [!UICONTROL Lista de trabalho]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)
       + {hide-from-toc}[Documentos: o ícone de fluxo de trabalho de prova não é exibido](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md)
    + Problemas resolvidos no [!DNL Workfront] Proof {#proof-resolved}
@@ -237,7 +237,7 @@ ht-degree: 52%
       + {hide-from-toc}[Workfront Fusion: saída de formatação de datas](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + {hide-from-toc}[Workfront Fusion: erro de memória insuficiente](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + {hide-from-toc}[Workfront Fusion: projetos duplicados criados a partir de um mesmo módulo](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + {hide-from-toc}[[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  Chamada de API Personalizada] módulo retornando os erros 404 ou 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + {hide-from-toc}[[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL &#x200B; Chamada de API Personalizada] módulo retornando os erros 404 ou 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + {hide-from-toc}[[!DNL Workfront Fusion]: erro &quot;Falha ao verificar a conexão&quot;](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + {hide-from-toc}[[!DNL Workfront Fusion]: o módulo  [!DNL Fusion]  retorna o erro 404 sem mais informações](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + {hide-from-toc}[[!DNL Workfront Fusion] os links de ajuda no aplicativo não abrem páginas de ajuda específicas](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
@@ -246,7 +246,7 @@ ht-degree: 52%
    + [Problemas conhecidos no [!DNL Workfront] Planning](workfrontplanning.md)
 
 + Aplicativo móvel do [!DNL Workfront] {#mobile}
-   + [Problemas conhecidos no aplicativo móvel do  [!DNL Workfront] ](workfrontmobile.md)
+   + [Problemas conhecidos no aplicativo móvel do  [!DNL Workfront] &#x200B;](workfrontmobile.md)
 
 <!--
 
