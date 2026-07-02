@@ -101,7 +101,7 @@ Foi relatado que isso ocorre quando uma pessoa seleciona uma área na navegaçã
 
 +++**Atualização de manutenção em sexta-feira, 30 de novembro de 2023**
 
-**As tarefas não aparecem no dispositivo [!UICONTROL Meu trabalho] **
+**As tarefas não aparecem no dispositivo [!UICONTROL Meu trabalho] &#x200B;**
 
 _[!UICONTROL Página inicial]_
 
@@ -169,7 +169,7 @@ Quando um usuário tenta gerar uma prova, ela não é criada e o usuário vê o 
 
 “[!UICONTROL Erro ao gerar a prova]”
 
-Isso ocorre quando é desabilitada a configuração de nível de acesso do usuário[!UICONTROL  Exibir informações de contato].
+Isso ocorre quando é desabilitada a configuração de nível de acesso do usuário[!UICONTROL &#x200B; Exibir informações de contato].
 
 **Campos são apagados quando um documento é adicionado a uma solicitação**
 
