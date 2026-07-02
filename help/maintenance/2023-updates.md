@@ -1,12 +1,12 @@
 ---
 title: Atualizações de manutenção do Workfront em 2023
-description: Atualizações de manutenção do  [!DNL Adobe Workfront]
+description: Atualizações de manutenção do [!DNL Adobe Workfront]
 feature: Get Started with Workfront
 exl-id: 87d54104-38b7-4950-ab21-6524a14f7f2a
 source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
 workflow-type: tm+mt
-source-wordcount: '7701'
-ht-degree: 100%
+source-wordcount: '7893'
+ht-degree: 98%
 
 ---
 
@@ -16,7 +16,7 @@ As seguintes atualizações de manutenção foram efetuadas em 2023.
 
 >[!NOTE]
 >
->Essas atualizações também incluem outras correções de erros menores ou menos importantes. O suporte do [!DNL Workfront] enviará uma notificação quando um problema enviado por você for corrigido.
+>Essas atualizações também incluem outras correções de erros menores ou menos importantes. [!DNL Workfront] O suporte do enviará uma notificação quando um problema enviado for corrigido.
 
 Para obter atualizações de manutenção anteriores a 2023, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
@@ -101,7 +101,7 @@ Foi relatado que isso ocorre quando uma pessoa seleciona uma área na navegaçã
 
 +++**Atualização de manutenção em sexta-feira, 30 de novembro de 2023**
 
-**As tarefas não aparecem no dispositivo [!UICONTROL Meu trabalho] **
+**As tarefas não aparecem no dispositivo [!UICONTROL Meu trabalho] &#x200B;**
 
 _[!UICONTROL Página inicial]_
 
@@ -127,7 +127,7 @@ Esse problema foi relatado em relatórios que usam um `valueexpression` para ref
 
 +++
 
-+++**Atualização de manutenção em 16 de novembro de 2023**
++++**Atualização de manutenção em sexta-feira, 16 de novembro de 2023**
 
 **As horas orçadas no relatório de utilização não correspondem às horas orçadas relatadas por meio da API**
 
@@ -153,7 +153,7 @@ Esse problema foi relatado na nova experiência de comentários.
 
 +++
 
-+++**Atualização de manutenção em 9 de novembro de 2023**
++++**Atualização de manutenção em sexta-feira, 9 de novembro de 2023**
 
 **Objetos ausentes no dispositivo Meu trabalho quando não ele está no topo da página**
 
@@ -169,7 +169,7 @@ Quando um usuário tenta gerar uma prova, ela não é criada e o usuário vê o 
 
 “[!UICONTROL Erro ao gerar a prova]”
 
-Isso ocorre quando é desabilitada a configuração de nível de acesso do usuário[!UICONTROL  Exibir informações de contato].
+Isso ocorre quando é desabilitada a configuração de nível de acesso do usuário[!UICONTROL &#x200B; Exibir informações de contato].
 
 **Campos são apagados quando um documento é adicionado a uma solicitação**
 
@@ -185,7 +185,7 @@ Quando um usuário cria uma tarefa no widget [!UICONTROL To do] da nova experiê
 
 +++
 
-+++**Atualização de manutenção (Hot Fix) em 3 de novembro de 2023**
++++**Atualização de manutenção (hotfix) em sábado, 3 de novembro de 2023**
 
 **Tarefas derivadas aparecem fora de ordem quando movidas sob a tarefa principal**
 
@@ -195,7 +195,7 @@ Quando uma pessoa cria tarefas em um modelo e as move sob uma tarefa principal, 
 
 +++
 
-+++**Atualização de manutenção em 2 de novembro de 2023**
++++**Atualização de manutenção em sexta-feira, 2 de novembro de 2023**
 
 **Atualizações privadas são exibidas nos campos de valueexpression**
 
@@ -215,7 +215,7 @@ Ao alterar o intervalo de datas, a alocação está adequada. No entanto, ao atu
 
 ## Atualizações em outubro de 2023
 
-+++**Atualização de manutenção em 26 de outubro de 2023**
++++**Atualização de manutenção em sexta-feira, 26 de outubro de 2023**
 
 **A pesquisa não está funcionando**
 
@@ -253,11 +253,11 @@ _Tarefas_
 
 Quando um usuário visualiza uma tarefa, o cabeçalho da tarefa não contém informações. Em vez disso, o usuário vê a seguinte mensagem de erro:
 
-“[!UICONTROL Ops! Algo deu errado. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.]”
+“[!UICONTROL Ops! Um erro inesperado aconteceu. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.]”
 
 +++
 
-+++**Atualização de manutenção em 19 de outubro de 2023**
++++**Atualização de manutenção em sexta-feira, 19 de outubro de 2023**
 
 Os usuários não são notificados sobre respostas em um thread de comentários
 
@@ -293,7 +293,7 @@ Quando um usuário conectado como outro usuário converte um problema em tarefa 
 
 +++
 
-+++**Atualização de manutenção em 12 de outubro de 2023**
++++**Atualização de manutenção em sexta-feira, 12 de outubro de 2023**
 
 **Fluxos de trabalho removidos em contas que não os usam**
 
@@ -319,7 +319,7 @@ Quando um usuário altera os filtros na [!UICONTROL Página inicial], a área da
 
 +++
 
-+++**Atualização de manutenção em 5 de outubro de 2023**
++++**Atualização de manutenção em sexta-feira, 5 de outubro de 2023**
 
 **O quadro é carregado lentamente**
 
@@ -361,7 +361,7 @@ Os lembretes de email automáticos não estão sendo enviados. Isso começou em 
 
 ## Atualizações em setembro de 2023
 
-+++**Atualização de manutenção em 28 de setembro de 2023**
++++**Atualização de manutenção em sexta-feira, 28 de setembro de 2023**
 
 **Não é possível excluir o campo personalizado**
 
@@ -387,7 +387,7 @@ Quando uma pessoa navega para uma seção personalizada em um objeto no [!DNL Wo
 
 +++
 
-+++**Atualização de manutenção em 21 de setembro de 2023**
++++**Atualização de manutenção em sexta-feira, 21 de setembro de 2023**
 
 **Não é possível atribuir um usuário em um quadro no fluxo de trabalho**
 
@@ -429,7 +429,7 @@ _Documentos_
 
 Quando uma pessoa tenta baixar um documento de um ambiente distinto da produção, ele não é baixado e o seguinte erro é exibido:
 
-“[!UICONTROL Ops! Algo deu errado. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.]”
+“[!UICONTROL Ops! Um erro inesperado aconteceu. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.]”
 
 **As provas parecem dessaturadas ou cortadas**
 
@@ -450,7 +450,7 @@ Quando uma pessoa tenta gerar uma prova, ela demora muito para ser gerada. A ger
 
 +++
 
-+++**Atualização de manutenção em 14 de setembro de 2023**
++++**Atualização de manutenção em sexta-feira, 14 de setembro de 2023**
 
 **Erro “[!UICONTROL Sem fábrica]” ao adicionar um documento**
 
@@ -466,13 +466,13 @@ _Relatórios_
 
 Ao tentar visualizar um relatório de matriz, o relatório não carrega e o seguinte erro é exibido:
 
-“[!UICONTROL Ops! Algo deu errado. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.]”
+“[!UICONTROL Ops! Um erro inesperado aconteceu. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.]”
 
 Isso ocorre ao agrupar um relatório por intervalos de datas.
 
 +++
 
-+++**Atualização de manutenção em 11 de setembro de 2023**
++++**Atualização de manutenção em terça-feira, 11 de setembro de 2023**
 
 **As tarefas pessoais não são exibidas nas folhas de horas**
 
@@ -482,7 +482,7 @@ As tarefas pessoais não são mais exibidas por padrão na folha de horas. As ta
 
 +++
 
-+++**Atualização de manutenção em 7 de setembro de 2023**
++++**Atualização de manutenção em sexta-feira, 7 de setembro de 2023**
 
 **O projeto fica em branco quando carregado a partir da nova experiência da [!UICONTROL Página inicial]**
 
@@ -496,7 +496,7 @@ Isso ocorre quando a pessoa faz logon como outro usuário e, em seguida, sai des
 
 ## Atualizações em agosto de 2023
 
-+++**Atualização de manutenção em 31 de agosto de 2023**
++++**Atualização de manutenção em sexta-feira, 31 de agosto de 2023**
 
 **Os filtros não se aplicam aos dispositivos na experiência da nova [!UICONTROL Página inicial]**
 
@@ -504,7 +504,7 @@ _[!UICONTROL Página inicial]_
 
 Ao tentar aplicar um filtro a um dispositivo na experiência da nova [!UICONTROL Página inicial], o dispositivo mostra itens que deveriam ter sido excluídos pelo filtro.
 
-Esse problema foi relatado no ambiente de Sandbox personalizada. Os mesmos dispositivos filtram conforme o esperado nos ambientes Visualização e Produção.
+Esse problema foi relatado no ambiente de Sandbox personalizada. Os mesmos dispositivos filtram conforme o esperado nos ambientes de visualização e de produção.
 
 **Problemas ao carregar relatórios de matriz**
 
@@ -517,7 +517,7 @@ Ao tentar carregar um relatório de matriz como um gráfico, uma das seguintes s
 
 **O planejador não carrega quando um filtro está aplicado**
 
-_[!UICONTROL Planejador de recursos]_
+_[!UICONTROL Planejamento de recursos]_
 
 Não é possível carregar o [!UICONTROL Planejador de recursos] e a seguinte mensagem de erro é exibida:
 
@@ -531,13 +531,13 @@ Não é possível carregar o [!UICONTROL Planejador de recursos] e a seguinte me
 
 _Provas_
 
-Ao visualizar uma prova no visualizador de prova e tentar selecionar o texto que está em uma lista ou em um marcador, a ferramenta de seleção de texto não funciona e o texto não é selecionado.
+Ao visualizar uma revisão no visualizador de revisões e tentar selecionar o texto que está em uma lista ou em um marcador, a ferramenta de seleção de texto não funciona e o texto não é selecionado.
 
 **Criar uma nova versão de uma prova exclui todas as versões dela**
 
 _Provas_
 
-Ao criar uma prova de um documento, o processo ocorre conforme o esperado. No entanto, ao criar outra versão da prova, tanto a versão antiga quanto a nova são excluídas. Existe uma opção [!UICONTROL Criar prova] no documento original e as versões da prova podem ser encontradas na [!UICONTROL Lixeira] da área [!UICONTROL Prova] no [!DNL Workfront].
+Ao criar uma prova de um documento, o processo ocorre conforme o esperado. No entanto, ao criar outra versão da prova, tanto a versão antiga quanto a nova são excluídas. Existe uma opção [!UICONTROL Criar revisão] no documento original e as versões da revisão podem ser encontradas na [!UICONTROL Lixeira] da área [!UICONTROL Revisão] no [!DNL Workfront].
 
 +++
 
@@ -559,7 +559,7 @@ Ao visualizar as configurações de uma prova no [!DNL Workfront], a caixa de se
 
 _Provas_
 
-Ao fazer um comentário no visualizador de prova, realizar uma marcação e clicar fora dela, não é mais possível ajustar a marcação.
+Ao fazer um comentário no visualizador de revisões, realizar uma marcação e clicar fora dela, não é mais possível ajustar a marcação.
 
 +++
 
@@ -589,7 +589,7 @@ O módulo [!UICONTROL Ferramentas] > [!UICONTROL Suspender] pode travar a execu�
 
 +++
 
-+++**Atualização de manutenção em 3 de agosto de 2023**
++++**Atualização de manutenção em sexta-feira, 3 de agosto de 2023**
 
 **Dificuldade em localizar itens na coluna de entrada**
 
@@ -621,7 +621,7 @@ _Relatórios_
 
 Ao tentar visualizar um relatório de matriz, o relatório não carrega e o seguinte erro é exibido:
 
-“[!UICONTROL Ops! Algo deu errado. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.]”
+“[!UICONTROL Ops! Um erro inesperado aconteceu. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.]”
 
 Esse problema foi relatado por usuários na região da Europa, Oriente Médio e África (EMEA).
 
@@ -629,7 +629,7 @@ Esse problema foi relatado por usuários na região da Europa, Oriente Médio e 
 
 ## Atualizações em julho de 2023
 
-+++**Atualização de manutenção em 27 de julho de 2023**
++++**Atualização de manutenção em sexta-feira, 27 de julho de 2023**
 
 **As tags e itens de listas de verificação não funcionam corretamente na visualização do quadro do projeto**
 
@@ -645,13 +645,13 @@ Ao compartilhar um filtro e habilitar a opção “[!UICONTROL Exibir em todo o 
 
 +++
 
-+++**Atualização de manutenção em 20 de julho de 2023**
++++**Atualização de manutenção em sexta-feira, 20 de julho de 2023**
 
-Esta atualização contém apenas correções de erros pequenos ou menos importantes. O suporte do [!DNL Workfront] enviará uma notificação quando um problema enviado por você for corrigido.
+Esta atualização inclui apenas correções de erros menores ou menos importantes. [!DNL Workfront] O suporte do enviará uma notificação quando um problema enviado for corrigido.
 
 +++
 
-+++**Atualização de manutenção em 13 de julho de 2023**
++++**Atualização de manutenção em sexta-feira, 13 de julho de 2023**
 
 **A linha do tempo não é recalculada**
 
@@ -683,13 +683,13 @@ Quando uma pessoa tenta editar um usuário(a), a página Editar usuário fica em
 
 ## Atualizações em junho de 2023
 
-+++**Atualização de manutenção em 29 de junho de 2023**
++++**Atualização de manutenção em sexta-feira, 29 de junho de 2023**
 
-Esta atualização contém apenas correções de erros pequenos ou menos importantes. O suporte do [!DNL Workfront] enviará uma notificação quando um problema enviado por você for corrigido.
+Esta atualização inclui apenas correções de erros menores ou menos importantes. [!DNL Workfront] O suporte do enviará uma notificação quando um problema enviado for corrigido.
 
 +++
 
-+++**Atualização de manutenção em 22 de junho de 2023**
++++**Atualização de manutenção em sexta-feira, 22 de junho de 2023**
 
 **Erro “[!UICONTROL Ops]” ao visualizar um relatório de matriz**
 
@@ -697,7 +697,7 @@ _Relatórios_
 
 Quando uma pessoa visualiza um relatório de matriz, ele verá o seguinte erro:
 
-“[!UICONTROL Ops! Algo deu errado. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.]”
+“[!UICONTROL Ops! Um erro inesperado aconteceu. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.]”
 
 Esse problema foi relatado quando o relatório está classificado por data e a opção “[!UICONTROL Mostrar semanas sem resultados]” está habilitada.
 
@@ -709,19 +709,19 @@ Quando um gráfico ou relatório de matriz é agrupado por data, as datas próxi
 
 +++
 
-+++**Atualização de manutenção em 15 de junho de 2023**
++++**Atualização de manutenção em sexta-feira, 15 de junho de 2023**
 
-Esta atualização contém apenas correções de erros pequenos ou menos importantes. O suporte do [!DNL Workfront] enviará uma notificação quando um problema enviado por você for corrigido.
-
-+++
-
-+++**Atualização de manutenção em 8 de junho de 2023**
-
-Esta atualização contém apenas correções de erros pequenos ou menos importantes. O suporte do [!DNL Workfront] enviará uma notificação quando um problema enviado por você for corrigido.
+Esta atualização inclui apenas correções de erros menores ou menos importantes. [!DNL Workfront] O suporte do enviará uma notificação quando um problema enviado for corrigido.
 
 +++
 
-+++Atualização de manutenção do **[!DNL Adobe Workfront Fusion]em 8 de junho de 2023**
++++**Atualização de manutenção em sexta-feira, 8 de junho de 2023**
+
+Esta atualização inclui apenas correções de erros menores ou menos importantes. [!DNL Workfront] O suporte do enviará uma notificação quando um problema enviado for corrigido.
+
++++
+
++++**[!DNL Adobe Workfront Fusion] Atualização de manutenção em sexta-feira, 8 de junho de 2023**
 
 O [!DNL Fusion] implantou uma correção que impede a remoção das conexões de um usuário quando ele for removido ou desativado no [!UICONTROL Adobe Admin Console].
 
@@ -729,7 +729,7 @@ Os administradores de equipe do [!DNL Fusion] ainda podem remover conexões desn
 
 +++
 
-+++**Atualização de manutenção em 1° de junho de 2023**
++++**Atualização de manutenção em sexta-feira, 1 de junho de 2023**
 
 **Nenhuma mensagem de erro ao reordenar uma tarefa com o status [!UICONTROL Aprovação pendente]**
 
@@ -747,11 +747,11 @@ Quando uma pessoa tenta reordenar uma tarefa com o status [!UICONTROL Aprovaçã
 
 ## Atualizações em maio de 2023
 
-+++**Atualização de manutenção em 25 de maio de 2023**
++++**Atualização de manutenção em sexta-feira, 25 de maio de 2023**
 
 O quadro do **[!UICONTROL Kanban] fica em branco ao editar cartões**
 
-_Ágil_
+_Agile_
 
 Ao alterar um detalhe de um cartão no quadro do [!UICONTROL Kanban], o quadro fica em branco em vez de registrar a alteração. Se a página for atualizada manualmente, o quadro do [!UICONTROL Kanban] reaparece e mostra a alteração correta.
 
@@ -763,7 +763,7 @@ Esse problema foi relatado ao:
 
 +++
 
-+++**Atualização de manutenção em 22 de maio de 2023**
++++**Atualização de manutenção em terça-feira, 22 de maio de 2023**
 
 **Não é possível ajustar o tamanho do texto descritivo**
 
@@ -773,12 +773,12 @@ Quando o designer de formulários personalizados foi lançado na versão beta, a
 
 +++
 
-+++**Atualização de manutenção em 18 de maio de 2023**
++++**Atualização de manutenção em sexta-feira, 18 de maio de 2023**
 
 **O relatório não classifica corretamente por campo personalizado**
 
 _Relatórios_
-Ao executar um relatório de tarefa, o relatório parece classificar corretamente durante o carregamento, mas ao término do processo, o relatório não está classificado corretamente.
+Quando um usuário executa um relatório de tarefa, ele parece classificar corretamente quando está carregando, mas quando termina o carregamento, o usuário vê que o relatório não está classificado corretamente.
 
 Isso parece ocorrer se todas as seguintes circunstâncias forem atendidas:
 
@@ -788,17 +788,17 @@ Isso parece ocorrer se todas as seguintes circunstâncias forem atendidas:
 
 +++
 
-+++**Atualização de manutenção em 11 de maio de 2023**
++++**Atualização de manutenção em sexta-feira, 11 de maio de 2023**
 
 **Não é possível alternar a versão da prova ao visualizar provas**
 
 _Provas_
 
-Ao visualizar uma prova no [!UICONTROL Visualizador de prova] e alternar para outra versão, a lista suspensa de versões é desabilitada e não é possível retornar à versão original que se estava visualizando ou para outra versão da prova.
+Quando uma pessoa visualiza uma revisão no [!UICONTROL Visualizador de revisões] e alterna para outra versão, a lista suspensa de versões fica desativada, impedindo de voltar para a versão original que estava visualizando ou para outra versão da revisão.
 
 A pesquisa do **[!DNL Workfront]atinge o tempo limite**
 
-_Pesquisa_
+_Pesquisar_
 
 A pesquisa do [!DNL Workfront] atinge o tempo limite. A pesquisa pode retornar alguns resultados ou nenhum.
 
@@ -808,15 +808,15 @@ Esse problema também afeta a funcionalidade do módulo [!DNL Workfront Fusion] 
 
 +++Atualização de manutenção do **[!DNL Adobe Workfront Fusion]em 11 de maio de 2023**
 
-**Erros de tempo limite no[!DNL Workfront Fusion]**
+**Erros de tempo-limite no[!DNL Workfront Fusion]**
 
 _Adobe Workfront Fusion_
 
-Quando um cenário está em execução, pode ocorrer um erro de tempo limite. As informações do módulo com erro não chegam ao destino.
+Quando um cenário está em execução, pode ocorrer um erro de tempo-limite. As informações do módulo com erro não chegam ao destino.
 
 A pesquisa do **[!DNL Workfront]atinge o tempo limite**
 
-_Pesquisa_
+_Pesquisar_
 
 A pesquisa do [!DNL Workfront] atinge o tempo limite. A pesquisa pode retornar alguns resultados ou nenhum.
 
@@ -824,7 +824,7 @@ Esse problema também afeta a funcionalidade do módulo [!DNL Workfront Fusion] 
 
 +++
 
-+++**Atualização de manutenção em 9 de maio de 2023**
++++**Atualização de manutenção em quarta-feira, 9 de maio de 2023**
 
 **Filtros salvos disponíveis na coluna de entrada do quadro**
 
@@ -834,7 +834,7 @@ Agora é possível usar a tarefa existente do Workfront e os filtros de problema
 
 +++
 
-+++**Atualização de manutenção em 4 de maio de 2023**
++++**Atualização de manutenção em sexta-feira, 4 de maio de 2023**
 
 **Não é possível selecionar um modelo dos [!UICONTROL Modelos favoritos]**
 
@@ -846,13 +846,13 @@ Ao tentar selecionar um modelo no menu Ações (três pontos), a lista de modelo
 
 ## Atualizações em abril de 2023
 
-+++**Atualização de manutenção em 27 de abril de 2023**
++++**Atualização de manutenção em sexta-feira, 27 de abril de 2023**
 
 **Não é possível alternar entre provas no [!UICONTROL Visualizador de prova]**
 
 _Provas_
 
-Ao visualizar uma prova no [!UICONTROL Visualizador de prova] e alternar para outra prova, o botão de alternância para de responder. Não é possível retornar à prova original que se estava visualizando ou para outra prova.
+Ao visualizar uma revisão no [!UICONTROL Visualizador de revisões] e alternar para outra revisão, o botão de alternância para de responder. Não é possível retornar à prova original que se estava visualizando ou para outra prova.
 
 **Editar imagens anexadas ao editar um comentário**
 
@@ -868,11 +868,11 @@ Os links de ajuda no aplicativo do **[!DNL Fusion]não abrem as respectivas pág
 
 _[!DNL Workfront Fusion]_
 
-Ao visualizar uma prova no [!UICONTROL Visualizador de prova] e alternar para outra prova, o botão de alternância para de responder. Não é possível retornar à prova original que se estava visualizando ou para outra prova.
+Ao visualizar uma revisão no [!UICONTROL Visualizador de revisões] e alternar para outra revisão, o botão de alternância para de responder. Não é possível retornar à prova original que se estava visualizando ou para outra prova.
 
 +++
 
-+++**Atualização de manutenção em 20 de abril de 2023**
++++**Atualização de manutenção em sexta-feira, 20 de abril de 2023**
 
 **Problemas em campos suspensos personalizados**
 
@@ -887,7 +887,7 @@ Campos suspensos personalizados que foram habilitados como campos de seleção m
 
 _Provas_
 
-Ao visualizar uma prova no Visualizador de prova e tentar fazer um comentário usando a ferramenta Polyline, a ferramenta não marca a prova.
+Ao visualizar uma revisão no Visualizador de revisões e tentar fazer um comentário usando a ferramenta Polyline, a ferramenta não marca a revisão.
 
 **A caixa de opções de texto mostra “textAnnotations”**
 
@@ -923,7 +923,7 @@ O nível de acesso de um usuário pode ser alterado pelo sistema sem avisos. Qua
 
 +++
 
-+++**Atualização de manutenção em 17 de abril de 2023**
++++**Atualização de manutenção em terça-feira, 17 de abril de 2023**
 
 **Mostrar novos comentários fora da área visível da tela na seção [!UICONTROL Atualizações] de problemas (nova experiência Beta de comentários) e na de [!UICONTROL Metas]**
 
@@ -933,7 +933,7 @@ Adicionamos um banner de notificação na seção [!UICONTROL Atualizações] pa
 
 +++
 
-+++**Atualização de manutenção em 13 de abril de 2023**
++++**Atualização de manutenção em sexta-feira, 13 de abril de 2023**
 
 **Os filtros não são aplicados à lista de solicitações**
 
@@ -949,25 +949,25 @@ Quando um administrador edita um usuário e tenta selecionar um [!UICONTROL Tipo
 
 +++
 
-+++**Atualização de manutenção em 6 de abril de 2023**
++++**Atualização de manutenção em sexta-feira, 6 de abril de 2023**
 
 **Os menus suspensos não são abertos quando um(a) usuário(a) é adicionado a uma prova**
 
 _Provas_
 
-Quando uma pessoa adiciona um usuário a uma prova no [!UICONTROL Visualizador de prova], os menus suspensos “[!UICONTROL Função de prova]” e “[!UICONTROL Alertas por email]” não podem ser abertos. O(a) usuário(a) não consegue atribuir uma função de prova ou alerta de email. Isso pode ocorrer ao adicionar um usuário por meio de um comentário ou ao compartilhar a prova com o usuário.
+Quando uma pessoa adiciona um usuário a uma revisão no [!UICONTROL Visualizador de revisões], os menus suspensos “[!UICONTROL Função de revisor]” e “[!UICONTROL Alertas por email]” não podem ser abertos. O(a) usuário(a) não consegue atribuir uma função de prova ou alerta de email. Isso pode ocorrer ao adicionar um usuário por meio de um comentário ou ao compartilhar a prova com o usuário.
 
 +++
 
 ## Atualizações em março de 2023
 
-+++**Atualização de manutenção em 30 de março de 2023**
++++**Atualização de manutenção em sexta-feira, 30 de março de 2023**
 
 **Não é possível alternar a versão da prova ao visualizar provas**
 
 _Provas_
 
-Quando uma pessoa visualiza uma prova no [!UICONTROL Visualizador de prova] e alterna para outra versão, a lista suspensa de versões fica desativada, impedindo de voltar para a versão original que estava visualizando ou para outra versão da prova.
+Quando uma pessoa visualiza uma revisão no [!UICONTROL Visualizador de revisões] e alterna para outra versão, a lista suspensa de versões fica desativada, impedindo de voltar para a versão original que estava visualizando ou para outra versão da revisão.
 
 **Erro 504 ao exportar relatórios**
 
@@ -983,7 +983,7 @@ Quando um administrador está conectado como um usuário e faz um comentário, e
 
 +++
 
-+++**Atualização de manutenção em 23 de março de 2023**
++++**Atualização de manutenção em sexta-feira, 23 de março de 2023**
 
 O conteúdo do painel **[!UICONTROL Resumo] é muito largo para o painel**
 
@@ -991,22 +991,22 @@ _Documentos_
 
 Quando uma pessoa visualiza o painel [!UICONTROL Resumo] de um documento, seus conteúdos são muito largos para serem visualizados no painel. O painel agora tem uma barra de rolagem horizontal e é necessário rolar essa barra para ver o conteúdo do painel [!UICONTROL Resumo]. Isso ocorre porque o nome do arquivo do documento não possui quebra de linha. Esse problema é limitado a arquivos em que o nome do arquivo tenha uma extensão de arquivo HTML.
 
-**Nova versão do [!UICONTROL Visualizador de prova para desktop]**
+**Nova versão do [!UICONTROL Visualizador de revisões para desktop]**
 
-_Prova_
+_Revisão_
 
-Para corrigir um problema de comentário no [!UICONTROL Visualizador de prova para desktop], implantamos uma nova versão do visualizador.
+Para corrigir um problema de comentário no [!UICONTROL Visualizador de revisões para desktop], implantamos uma nova versão do visualizador.
 
-As pessoas que já tiverem o [!UICONTROL Visualizador de prova para desktop] instalado receberão esta atualização automaticamente.
+As pessoas que já tiverem o [!UICONTROL Visualizador de revisões para desktop] instalado receberão esta atualização automaticamente.
 
-Também é possível baixar manualmente a versão mais recente. Para obter mais informações, consulte [Instalar o [!UICONTROL Visualizador de prova para desktop]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=pt-BR).
+Também é possível baixar manualmente a versão mais recente. Para obter mais informações, consulte [Instalar o [!UICONTROL Visualizador de revisões para desktop]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=pt-BR).
 
 * Versão anterior: 2.1.22
 * Nova versão: 2.1.23
 
 +++
 
-+++**Atualização de manutenção em 16 de março de 2023**
++++**Atualização de manutenção em sexta-feira, 16 de março de 2023**
 
 **Os itens da lista de verificação não são copiados ao copiar um cartão**
 
@@ -1028,7 +1028,7 @@ Ao compartilhar uma prova e adicionar uma mensagem personalizada, a mensagem nã
 
 +++
 
-+++**Atualização de manutenção em 9 de março de 2023**
++++**Atualização de manutenção em sexta-feira, 9 de março de 2023**
 
 **O nível de acesso não é atribuído ao reativar um usuário**
 
@@ -1044,7 +1044,7 @@ Agora, ao sair da página [!UICONTROL Atualizações] de uma meta durante o proc
 
 +++
 
-+++**Atualização de manutenção em 2 de março de 2023**
++++**Atualização de manutenção em sexta-feira, 2 de março de 2023**
 
 **Não é possível adicionar cartões quando um agrupamento é aplicado**
 
@@ -1079,7 +1079,7 @@ Ao tentar carregar a página Resumo de impressão, ela parece estar sendo carreg
 
 ## Atualizações em fevereiro de 2023
 
-+++**Atualização de manutenção em 23 de fevereiro de 2023**
++++**Atualização de manutenção em sexta-feira, 23 de fevereiro de 2023**
 
 **O link de um comentário redireciona para a página [!UICONTROL Detalhes]**
 
@@ -1097,7 +1097,7 @@ Quando um usuário com uma licença de [!UICONTROL Trabalhador] tenta editar sua
 
 +++
 
-+++**Atualização de manutenção em 16 de fevereiro de 2023**
++++**Atualização de manutenção em sexta-feira, 16 de fevereiro de 2023**
 
 **Várias atribuições de equipe em quadros**
 
@@ -1119,7 +1119,7 @@ A desativação programada de um usuário não ocorre ao chegar a data e hora pr
 
 +++
 
-+++**Atualização de manutenção em 9 de fevereiro de 2023**
++++**Atualização de manutenção em sexta-feira, 9 de fevereiro de 2023**
 
 Adição do campo **[!UICONTROL Pontos da história] a listas de tarefas e problemas e relatórios**
 
@@ -1129,7 +1129,7 @@ O campo [!UICONTROL Pontos da história] agora está disponível para adicionar 
 
 +++
 
-+++**Atualização de manutenção em 8 de fevereiro de 2023**
++++**Atualização de manutenção em quinta-feira, 8 de fevereiro de 2023**
 
 **Botão Filtrar na coluna de entrada**
 
@@ -1139,7 +1139,7 @@ A coluna de entrada em um quadro agora inclui um botão **[!UICONTROL Adicionar 
 
 +++
 
-+++**Atualização de manutenção em 2 de fevereiro de 2023**
++++**Atualização de manutenção em sexta-feira, 2 de fevereiro de 2023**
 
 O ícone **[!UICONTROL Quadros] aparece no [!UICONTROL Menu principal] por padrão**
 
@@ -1157,7 +1157,7 @@ Quando uma pessoa tenta criar ou editar um modelo de email, o botão [!UICONTROL
 
 ## Atualizações em janeiro de 2023
 
-+++**Atualização de manutenção em 30 de janeiro de 2023**
++++**Atualização de manutenção em terça-feira, 30 de janeiro de 2023**
 
 **Atalhos de teclado adicionados para ações comuns da folha de horas**
 
@@ -1185,14 +1185,14 @@ _Folhas de horas_
 
 Adicionamos vários ícones de informações às seguintes configurações:
 
-* Caixa de seleção “[!UICONTROL Pode editar horas]” ao criar ou editar uma folha de horas ou um perfil de folha de horas para indicar que, quando ativado, os aprovadores também podem enviar, reabrir ou editar a folha de horas, a menos que o administrador restrinja essas ações na área [!UICONTROL Preferências da folha de horas] da [!UICONTROL Configuração].
+* Caixa de seleção “[!UICONTROL Pode editar horas]” ao criar ou editar uma folha de horas ou um perfil de folha de horas para indicar que, quando habilitado, os aprovadores também podem enviar, reabrir ou editar a folha de horas, a menos que o administrador restrinja essas ações na área [!UICONTROL Preferências da folha de horas] da [!UICONTROL Configuração].
 * “[!UICONTROL Restringir a edição da folha de horas a proprietários e administradores]” na área [!UICONTROL Folha de horas e preferências de hora] da [!UICONTROL Configuração] para indicar que, quando desativado, os usuários a seguir também podem editar as folhas de horas: usuários com acesso administrativo a folhas de horas, aprovadores de folha de horas com permissão para editar hora e gerentes de proprietários de folha de horas.
 
 Observe que a funcionalidade dessas configurações não foi alterada e somente os ícones de informações foram adicionados para esclarecer o escopo das configurações.
 
 +++
 
-+++**Atualização de manutenção em 26 de janeiro de 2023**
++++**Atualização de manutenção em sexta-feira, 26 de janeiro de 2023**
 
 **Erro ao enviar solicitação a partir do [!DNL Outlook]**
 
@@ -1204,13 +1204,13 @@ Quando uma pessoa tenta enviar uma solicitação com anexos a partir de um email
 
 Isso ocorre somente quando uma atribuição é feita para a nova solicitação, seja por meio da fila de solicitações ou manualmente ao criar a solicitação.
 
-**Nova versão do Visualizador de prova para desktop**
+**Nova versão do Visualizador de revisões para desktop**
 
-_Prova_
+_Revisão_
 
-Para corrigir um problema de congelamento no Visualizador de prova para desktop, implantamos uma nova versão do visualizador. As pessoas que já tiverem o Visualizador de prova para desktop instalado receberão esta atualização automaticamente.
+Para corrigir um problema de congelamento no Visualizador de revisões para desktop, implantamos uma nova versão do visualizador. As pessoas que já tiverem o Visualizador de revisões para desktop instalado receberão esta atualização automaticamente.
 
-Os usuários também podem baixar manualmente a versão mais recente. Para obter mais informações, consulte [Instalar o Visualizador de prova para desktop](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=pt-BR).
+Os usuários também podem baixar manualmente a versão mais recente. Para obter mais informações, consulte [Instalar o Visualizador de revisões para desktop](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=pt-BR).
 
 * Versão anterior: 2.1.19
 * Nova versão: 2.1.20
@@ -1223,7 +1223,7 @@ Quando um usuário que possui uma licença de Trabalho, Revisão ou Solicitaçã
 
 +++
 
-+++**Atualização de manutenção em 19 de janeiro de 2023**
++++**Atualização de manutenção em sexta-feira, 19 de janeiro de 2023**
 
 **Agora, os filtros da coluna de entrada podem ser compartilhados**
 
@@ -1243,7 +1243,7 @@ Os seguintes recursos para marcadores agora estão disponíveis no menu [!UICONT
 
 +++
 
-+++**Atualização de manutenção em 18 de janeiro de 2023**
++++**Atualização de manutenção em quinta-feira, 18 de janeiro de 2023**
 
 **Expressões com curingas não são válidas em campos personalizados**
 
@@ -1273,7 +1273,7 @@ Esse problema foi relatado nos seguintes módulos:
 
 +++
 
-+++**Atualização de manutenção (hot fix) em 12 de janeiro de 2023**
++++**Atualização de manutenção (hot fix) em sexta-feira, 12 de janeiro de 2023**
 
 **Erro “[!UICONTROL Ops!]” ao configurar um campo calculado**
 
@@ -1281,7 +1281,7 @@ _Formulários personalizados_
 
 Ao criar ou editar um campo calculado em um formulário personalizado e incluir um campo personalizado na expressão do campo calculado, a expressão é considerada inválida. O botão [!UICONTROL Salvar] é desabilitado e não é possível sair do campo personalizado. Além disso, a seguinte mensagem é exibida abaixo do campo:
 
-“[!UICONTROL Ops! Algo deu errado. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.]”
+“[!UICONTROL Ops! Um erro inesperado aconteceu. Entre em contato com o Workfront para que possamos descobrir o que aconteceu e resolver o problema.]”
 
 Remover o campo personalizado da expressão permite salvar e sair do campo.
 
@@ -1293,7 +1293,7 @@ Ao tentar alterar o nível de acesso de outro usuário, os níveis de acesso fic
 
 +++
 
-+++**Atualização de manutenção em 12 de janeiro de 2023**
++++**Atualização de manutenção em sexta-feira, 12 de janeiro de 2023**
 
 **Os comandos Ctrl+F ou Cmd+F não funcionam como esperado em campos suspensos**
 
@@ -1315,7 +1315,7 @@ Ao visualizar uma lista de tarefas e recuar uma tarefa, ela retorna imediatament
 
 +++
 
-+++**Atualização de manutenção em 5 de janeiro de 2023**
++++**Atualização de manutenção em sexta-feira, 5 de janeiro de 2023**
 
 **A funcionalidade Fixar está disponível no menu [!UICONTROL Mais]**
 
@@ -1333,7 +1333,7 @@ _Equipes_
 
 Removemos a limitação que exigia que os usuários adicionados a uma equipe de projeto estivessem no grupo associado ao projeto. Agora, é possível adicionar qualquer usuário ativo a uma equipe de projeto, independentemente dos grupos aos quais ele(a) pertence.
 
-**Novos ícones de informações, perfis e preferências para a folha de horas**
+**Novos ícones de informações para folhas de horas, perfis de folha de horas e preferências de folha de horas**
 
 >[!NOTE]
 >
@@ -1346,7 +1346,7 @@ Adicionamos vários ícones de informações às seguintes configurações:
 * A caixa de seleção “Permitir edição de horas” ao criar ou editar uma folha de horas ou um perfil de folha de horas para indicar que (quando habilitada) aprovadores(as) também podem enviar, reabrir ou editar a folha de horas, a menos que um(a) admin restrinja essas ações na área Preferências da configuração da folha de horas.
 * A opção “Restringir a edição da folha de horas a proprietários(as) e admins” na folha de horas e nas Preferências de hora da área de configuração para indicar que (quando habilitada) os usuários a seguir também podem editar as folhas de horas: usuários com acesso administrativo a folhas de horas, aprovadores(as) de folha de horas com permissão para editar horas e gerentes de proprietários(as) de folha de horas.
 
-Observe que a funcionalidade dessas configurações não foi alterada e os ícones de informações só foram adicionados para esclarecer o escopo das configurações.
+Observe que a funcionalidade dessas configurações não foi alterada e somente os ícones de informações foram adicionados para esclarecer o escopo das configurações.
 
 +++
 

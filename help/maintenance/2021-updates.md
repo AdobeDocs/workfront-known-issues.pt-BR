@@ -5,18 +5,18 @@ exl-id: 57a3636e-fd01-4ee6-bc96-df535b62d4f7
 feature: Get Started with Workfront
 source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
 workflow-type: tm+mt
-source-wordcount: '10060'
-ht-degree: 100%
+source-wordcount: '10226'
+ht-degree: 98%
 
 ---
 
-# Atualizações de manutenção de 2021 do [!DNL Workfront] 
+# Atualizações de manutenção de 2021 do [!DNL Workfront]
 
 As seguintes atualizações de manutenção foram efetuadas em 2021:
 
 ## Atualizações em dezembro de 2021
 
-+++**Atualização de manutenção em 23 de dezembro de 2021**
++++**Atualização de manutenção em sexta-feira, 23 de dezembro de 2021**
 
 **Novas tarefas padrão para restrição da tarefa incorreta**
 
@@ -46,7 +46,7 @@ O **[!UICONTROL Balanceador de carga de trabalho] mostra 0 horas alocadas**
 
 _[!UICONTROL Balanceador de carga de trabalho]_
 
-Quando um usuário está visualizando o [!UICONTROL Balanceador de carga] com a configuração “[!UICONTROL Mostrar datas projetadas]” ativada, qualquer data no futuro exibe 0 horas alocadas.
+Quando um usuário está visualizando o [!UICONTROL Balanceador de carga] com a configuração “[!UICONTROL Mostrar datas projetadas]” habilitada, qualquer data no futuro exibe 0 horas alocadas.
 
 **Provas desaparecem intermitentemente das pastas**
 
@@ -56,7 +56,7 @@ Quando um usuário que está conectado ao [!DNL Workfront Proof] visualiza uma p
 
 +++
 
-+++**Atualização de manutenção em 16 de dezembro de 2021**
++++**Atualização de manutenção em sexta-feira, 16 de dezembro de 2021**
 
 **Clicar no anúncio na lista de notificações abre uma página em branco**
 
@@ -78,7 +78,7 @@ A mensagem menciona documentos mesmo que o usuário esteja na lista de tarefas.
 
 _[!UICONTROL Balanceador de carga de trabalho]_
 
-Quando um usuário no [!UICONTROL Balanceador de carga de trabalho] cria um filtro usando o campo [!UICONTROL Atribuição:ID de função], a área [!UICONTROL Trabalho não atribuído] não carrega.
+Quando um usuário no [!UICONTROL Balanceador de carga de trabalho] cria um filtro usando o campo [!UICONTROL Atribuição:Role ID], a área [!UICONTROL Trabalho não atribuído] não carrega.
 
 **Anexar um modelo usando a opção “[!UICONTROL Personalizar e anexar]” apaga os valores dos campos personalizados**
 
@@ -88,7 +88,7 @@ Se um usuário anexar um modelo a um projeto usando a opção “[!UICONTROL Per
 
 +++
 
-+++**Atualização de manutenção (hotfix) em 10 de dezembro de 2021**
++++**Atualização de manutenção (hotfix) em sábado, 10 de dezembro de 2021**
 
 **[!UICONTROL Ops] erro ao anexar o modelo ao projeto existente**
 
@@ -100,7 +100,7 @@ Quando um usuário tenta anexar um modelo a um projeto existente, o modelo não 
 
 +++
 
-+++**Atualização de manutenção em 9 de dezembro de 2021**
++++**Atualização de manutenção em sexta-feira, 9 de dezembro de 2021**
 
 
 **O painel de navegação esquerdo recolhido expande-se ao carregar a página**
@@ -113,11 +113,11 @@ O **[!UICONTROL Balanceador de carga de trabalho] mostra 0 horas alocadas**
 
 _[!UICONTROL Balanceador de carga de trabalho]_
 
-Quando um usuário está visualizando o [!UICONTROL Balanceador de carga] com a configuração “[!UICONTROL Mostrar datas projetadas]” ativada, qualquer data no futuro exibe 0 horas alocadas.
+Quando um usuário está visualizando o [!UICONTROL Balanceador de carga] com a configuração “[!UICONTROL Mostrar datas projetadas]” habilitada, qualquer data no futuro exibe 0 horas alocadas.
 
 +++
 
-+++**Atualização de manutenção em 8 de dezembro de 2021**
++++**Atualização de manutenção em quinta-feira, 8 de dezembro de 2021**
 
 **A aprovação é redefinida quando uma atualização é feita**
 
@@ -134,7 +134,7 @@ Quando um usuário tenta editar uma atribuição em linha em um relatório, o va
 
 +++
 
-+++**Atualização de manutenção em 2 de dezembro de 2021**
++++**Atualização de manutenção em sexta-feira, 2 de dezembro de 2021**
 
 **Barra extra adicionada ao digitar manualmente o URL**
 
@@ -152,7 +152,7 @@ Quando um usuário tenta remover uma seção personalizada do painel de navegaç
 
 _[!UICONTROL Balanceador de carga de trabalho]_
 
-Quando um usuário no [!UICONTROL Balanceador de carga de trabalho] cria um filtro usando o campo [!UICONTROL Atribuição:ID de função], a área [!UICONTROL Trabalho não atribuído] não carrega.
+Quando um usuário no [!UICONTROL Balanceador de carga de trabalho] cria um filtro usando o campo [!UICONTROL Atribuição:Role ID], a área [!UICONTROL Trabalho não atribuído] não carrega.
 
 **Páginas não carregam em determinados navegadores**
 
@@ -174,7 +174,7 @@ Este erro ocorre aleatoriamente e pode afetar qualquer área do [!DNL Workfront]
 
 ## Atualizações em novembro de 2021
 
-+++**Atualização de manutenção em 18 de novembro de 2021**
++++**Atualização de manutenção em sexta-feira, 18 de novembro de 2021**
 
 Erro **[!DNL Workfront]para [!DNL Jira] “[!UICONTROL Invalid clientID ou clientSecret]” no login**
 
@@ -225,7 +225,7 @@ Esse erro ocorre aleatoriamente e pode afetar qualquer área do Workfront.
 
 +++
 
-+++**Atualização de manutenção em 11 de novembro de 2021**
++++**Atualização de manutenção em sexta-feira, 11 de novembro de 2021**
 
 **Problema com integrações de documentos, página em branco no pop-up de upload de documento[!DNL Google Drive*]*
 
@@ -262,7 +262,7 @@ Criar equipes agora ficou mais intuitivo com novas dicas visuais. Ao selecionar 
 
 +++
 
-+++**Atualização de manutenção em 4 de novembro de 2021**
++++**Atualização de manutenção em sexta-feira, 4 de novembro de 2021**
 
 **Novas tarefas padrão para restrição da tarefa incorreta**
 
@@ -343,7 +343,7 @@ Atualizamos os operadores de filtro ao filtrar as áreas do [!UICONTROL Balancea
 
 ## Atualizações em outubro de 2021
 
-+++**Atualização de manutenção em 28 de outubro de 2021**
++++**Atualização de manutenção em sexta-feira, 28 de outubro de 2021**
 
 **[!UICONTROL Página inicial] e [!UICONTROL Meu trabalho] exibem uma página em branco**
 
@@ -365,7 +365,7 @@ Quando um usuário envia uma solicitação com um campo de botão de opção obr
 
 +++
 
-+++**Atualização de manutenção em 21 de outubro de 2021**
++++**Atualização de manutenção em sexta-feira, 21 de outubro de 2021**
 
 **Não é possível adicionar um filtro no [!UICONTROL Balanceador de carga de trabalho]**
 
@@ -399,7 +399,7 @@ Quando um usuário envia uma solicitação com um campo de botão de opção obr
 
 +++
 
-+++**Atualização de manutenção (hotfix) em 21 de outubro de 2021**
++++**Atualização de manutenção (hotfix) em sexta-feira, 21 de outubro de 2021**
 
 **[!UICONTROL Página inicial] e [!UICONTROL Meu trabalho] exibem uma página em branco**
 
@@ -409,7 +409,7 @@ Quando um usuário navega para [!UICONTROL Página inicial] ou [!UICONTROL Meu t
 
 +++
 
-+++**Atualização de manutenção em 20 de outubro de 2021**
++++**Atualização de manutenção em quinta-feira, 20 de outubro de 2021**
 
 O **[!UICONTROL Balanceador de carga de trabalho] é definido como a opção de agendamento padrão**
 
@@ -419,7 +419,7 @@ Se definir o [!UICONTROL Scheduler] como padrão, o usuário verá que o [!UICON
 
 +++
 
-+++**Atualização de manutenção (hotfix) em 19 de outubro de 2021**
++++**Atualização de manutenção (hotfix) em quarta-feira, 19 de outubro de 2021**
 
 **Não é possível atribuir uma solicitação ao criá-la**
 
@@ -435,7 +435,7 @@ Quando um usuário tenta exibir um storyboard Scrum usando qualquer filtro, exce
 
 +++
 
-+++**Atualização de manutenção em 14 de outubro de 2021**
++++**Atualização de manutenção em sexta-feira, 14 de outubro de 2021**
 
 **Os modelos compartilhados em todo o sistema não estão visíveis**
 
@@ -469,7 +469,7 @@ Antes, o [!DNL Workfront] pesquisava funções de trabalho nas primeiras 2000 fu
 
 +++
 
-+++**Atualização de manutenção em 7 de outubro de 2021**
++++**Atualização de manutenção em sexta-feira, 7 de outubro de 2021**
 
 **[!UICONTROL As notificações no aplicativo desaparecem do] centro de notificações**
 
@@ -501,7 +501,7 @@ Quando um usuário tenta fazer uma atribuição do [!UICONTROL Balanceador de ca
 
 ## Atualizações em setembro de 2021
 
-+++**Atualização de manutenção em 30 de setembro de 2021**
++++**Atualização de manutenção em sexta-feira, 30 de setembro de 2021**
 
 **Erro ao navegar rapidamente para ou da [!UICONTROL Página inicial]**
 
@@ -515,7 +515,7 @@ Isso também pode ocorrer ao navegar para a [!UICONTROL Página inicial] por mei
 
 +++
 
-+++**Atualização de manutenção em 23 de setembro de 2021**
++++**Atualização de manutenção em sexta-feira, 23 de setembro de 2021**
 
 Erro **[!UICONTROL Acesso negado] ao visualizar tíquetes enviados para o[!DNL Workfront]**
 
@@ -545,7 +545,7 @@ Quando um formulário personalizado na nova experiência do [!DNL Adobe Workfron
 
 +++
 
-+++**Atualização de manutenção em 16 de setembro de 2021**
++++**Atualização de manutenção em sexta-feira, 16 de setembro de 2021**
 
 **Não é possível editar grupos**
 
@@ -563,7 +563,7 @@ Quando um usuário tenta visualizar projetos no [!UICONTROL Otimizador de portf�
 
 +++
 
-+++**Atualização de manutenção (hotfix) em 10 de setembro de 2021**
++++**Atualização de manutenção (hotfix) em sábado, 10 de setembro de 2021**
 
 **Data e hora marcadas como UTC ao editar em linha**
 
@@ -579,7 +579,7 @@ Quando um usuário exibe um relatório com formatação condicional que altera a
 
 +++
 
-+++**Atualização de manutenção em 9 de setembro de 2021**
++++**Atualização de manutenção em sexta-feira, 9 de setembro de 2021**
 
 **Os detalhes dos problemas não são exibidos**
 
@@ -657,7 +657,7 @@ Se um administrador tentou exibir itens vinculados de um provedor externo enquan
 
 +++
 
-+++**Atualização de manutenção em 2 de setembro de 2021**
++++**Atualização de manutenção em sexta-feira, 2 de setembro de 2021**
 
 **Não é possível fixar o painel personalizado**
 
@@ -678,7 +678,7 @@ Quando um usuário abre o resumo de impressão para imprimir uma prova, o cabeç
 
 ## Atualizações em agosto de 2021
 
-+++**Atualização de manutenção em 26 de agosto de 2021**
++++**Atualização de manutenção em sexta-feira, 26 de agosto de 2021**
 
 **No [!DNL Safari] há um plano de fundo cinza escuro no texto dos cabeçalhos da coluna**
 
@@ -696,7 +696,7 @@ Quando um usuário tenta definir uma tarefa como predecessora usando a edição 
 
 +++
 
-+++**Atualização de manutenção em 19 de agosto de 2021**
++++**Atualização de manutenção em sexta-feira, 19 de agosto de 2021**
 
 **Filtros salvos não aparecem após selecionar um filtro que não exibe problemas**
 
@@ -712,7 +712,7 @@ Quando um usuário no [!DNL Adobe Workfront Classic] seleciona um problema da [!
 
 +++
 
-+++**Atualização de manutenção em 12 de agosto de 2021**
++++**Atualização de manutenção em sexta-feira, 12 de agosto de 2021**
 
 **Não é possível personalizar a exibição ágil no projeto**
 
@@ -736,7 +736,7 @@ Quando um formulário personalizado na nova experiência do [!DNL Adobe Workfron
 
 +++
 
-+++**Atualização de manutenção (hotfix) em 6 de agosto de 2021**
++++**Atualização de manutenção (hotfix) em sábado, 6 de agosto de 2021**
 
 **Não é possível selecionar calendários nas [!DNL Outloo]Configurações do calendário**
 
@@ -752,7 +752,7 @@ Usuários do [!DNL Adobe Workfront Fusion] com cenários conectados ao [!UICONTR
 
 +++
 
-+++**Atualização de manutenção em 5 de agosto de 2021**
++++**Atualização de manutenção em sexta-feira, 5 de agosto de 2021**
 
 **Não é possível interagir com o documento no [!UICONTROL painel Resumo] ou no menu [!UICONTROL Mais]**
 
@@ -782,14 +782,14 @@ O **[!UICONTROL Storyboard] não carrega corretamente**
 
 _Agile_
 
-Quando um usuário na nova experiência do [!DNL Adobe Workfront] navega para um [!UICONTROL Storyboard], pode levar até 10 segundos para carregar o quadro. O atraso no carregamento é devido ao sistema carregar todas as placas quando ele deve carregar apenas 50 placas de cada vez.
+Quando um usuário na nova experiência do [!DNL Adobe Workfront] navega para um [!UICONTROL Storyboard], pode levar até 10 segundos para carregar o quadro. O atraso no carregamento é devido ao sistema carregar todos os cartões quando ele deve carregar apenas 50 cartões de cada vez.
 
 +++
 
 
 ## Atualizações em julho de 2021
 
-+++**Atualização de manutenção (hotfix) em 29 de julho de 2021**
++++**Atualização de manutenção (hotfix) em sexta-feira, 29 de julho de 2021**
 
 **Não é possível carregar nova prova ou nova versão de prova**
 
@@ -799,7 +799,7 @@ Quando um usuário tenta fazer upload de uma nova prova ou de uma nova versão d
 
 +++
 
-+++**Atualização de manutenção em 29 de julho de 2021**
++++**Atualização de manutenção em sexta-feira, 29 de julho de 2021**
 
 As páginas **[!UICONTROL Atividade de prova] e [!UICONTROL Configurações do visualizador de prova] estão sempre disponíveis**
 
@@ -819,7 +819,7 @@ Quando um usuário seleciona a opção [!UICONTROL Porcentagem] para [!UICONTROL
 
 +++
 
-+++**Atualização de manutenção em 22 de julho de 2021**
++++**Atualização de manutenção em sexta-feira, 22 de julho de 2021**
 
 **Novos nomes de versão de prova sendo cortados**
 
@@ -829,7 +829,7 @@ Quando um usuário no [!DNL Adobe Workfront Classic] carrega uma nova versão de
 
 +++
 
-+++**Atualização de manutenção (hotfix) em 19 de julho de 2021**
++++**Atualização de manutenção (hotfix) em terça-feira, 19 de julho de 2021**
 
 **Erro ao tentar navegar para projetos, folhas de horas, tarefas ou programas**
 
@@ -837,7 +837,7 @@ Na nova experiência do [!DNL Adobe Workfront], quando um usuário tenta navegar
 
 +++
 
-+++**Atualização de manutenção em 15 de julho de 2021**
++++**Atualização de manutenção em sexta-feira, 15 de julho de 2021**
 
 **A prioridade padrão em novas solicitações está incorreta**
 
@@ -907,7 +907,7 @@ Quando um usuário seleciona vários módulos e tenta copiá-los e colá-los, os
 
 +++
 
-+++**Atualização de manutenção em 1 de julho de 2021**
++++**Atualização de manutenção em sexta-feira, 1 de julho de 2021**
 
 **O conjunto de cores para cartões não é respeitado**
 
@@ -919,7 +919,7 @@ Quando um usuário na nova experiência do [!DNL Adobe Workfront] define cores e
 
 _[!DNL Workfront Proof]_
 
-Quando um usuário cria uma nova prova no [!UICONTROL Visualizador de provas da Web] e tenta colar o texto no campo [!UICONTROL Mensagem] na seção [!UICONTROL Notificação por email], não é possível colar o texto. Parece que isso só ocorre quando o texto tem formatação de parágrafo e há uma quebra de parágrafo.
+Quando um usuário cria uma nova revisão no [!UICONTROL Visualizador de revisões da Web] e tenta colar o texto no campo [!UICONTROL Mensagem] na seção [!UICONTROL Notificação por email], não é possível colar o texto. Parece que isso só ocorre quando o texto tem formatação de parágrafo e há uma quebra de parágrafo.
 
 **As solicitações são enviadas com campos obrigatórios em branco**
 
@@ -937,7 +937,7 @@ Quando um usuário na nova experiência do [!DNL Adobe Workfront] acessa a pági
 
 _Projetos_
 
-Quando um usuário na nova experiência do [!DNL Adobe Workfront] tenta expandir um formulário personalizado anexado a um projeto, não é possível abrir o formulário personalizado e é exibida a mensagem de erro “[!UICONTROL Ocorreu um erro e estamos trabalhando para resolver o problema. Para continuar com seu trabalho, tente atualizar esta página do navegador.]“Atualizar a página não resolve o problema.
+Quando um usuário na nova experiência do [!DNL Adobe Workfront] tenta expandir um formulário personalizado anexado a um projeto, não é possível abrir o formulário personalizado e é exibida a mensagem de erro “[!UICONTROL Ocorreu um erro e estamos trabalhando para resolver o problema. Para continuar com seu trabalho, tente atualizar esta página do navegador.]” Atualizar a página não resolve o problema.
 
 A marca do **[!DNL Adobe Workfront]agora aparece nos emails do centro de anúncios**
 
@@ -955,7 +955,7 @@ No futuro, essa marca será mostrada em outros tipos de emails do Workfront.
 
 ## Atualizações em junho de 2021
 
-+++**Atualização de manutenção em 24 de junho de 2021**
++++**Atualização de manutenção em sexta-feira, 24 de junho de 2021**
 
 **Não é possível editar uma equipe**
 
@@ -977,18 +977,17 @@ Quando um usuário na nova experiência do [!DNL Adobe Workfront] adiciona uma c
 
 +++
 
-+++**[!DNL Adobe Workfront Fusion]Atualização de manutenção em 23 de junho de 2021**
++++**[!DNL Adobe Workfront Fusion] Atualização de manutenção em quinta-feira, 23 de junho de 2021**
 
 **Remoção de links corrompidos nos emails de notificação**
 
 _[!DNL Adobe Workfront Fusion]_
 
-Removemos o link para as configurações de notificação de emails de notificação do [!DNL Adobe Workfront Fusion].
-Para obter informações sobre como alterar configurações de notificação, consulte organizações e equipes do [!DNL Adobe Workfront Fusion].
+Removemos o link para as configurações de notificação de emails de notificação do [!DNL Adobe Workfront Fusion].Para obter informações sobre como alterar configurações de notificação, consulte organizações e equipes do [!DNL Adobe Workfront Fusion].
 
 +++
 
-+++**Atualização de manutenção em 17 de junho de 2021**
++++**Atualização de manutenção em sexta-feira, 17 de junho de 2021**
 
 A visualização de **[!UICONTROL Gráfico de Gantt] não está disponível para o Relatório de tarefa**
 
@@ -1004,7 +1003,7 @@ Quando um usuário na nova experiência do [!DNL Adobe Workfront] tenta enviar u
 
 +++
 
-+++**Atualização de manutenção em 10 de junho de 2021**
++++**Atualização de manutenção em sexta-feira, 10 de junho de 2021**
 
 **Tarefas de modelo reordenadas não são movidas**
 
@@ -1026,7 +1025,7 @@ Quando um projeto tem um caminho de marcos adicionado a ele e um usuário na nov
 
 +++
 
-+++**Atualização de manutenção em 3 de junho de 2021**
++++**Atualização de manutenção em sexta-feira, 3 de junho de 2021**
 
 **O prompt faz a página tremer**
 
@@ -1058,7 +1057,7 @@ Os rótulos do usuário [!UICONTROL Desativado] e [!UICONTROL Excluído] foram a
 
 ## Atualizações em maio de 2021
 
-+++**Atualização de manutenção em 27 de maio de 2021**
++++**Atualização de manutenção em sexta-feira, 27 de maio de 2021**
 
 O calendário **[!UICONTROL Data de confirmação] é exibido para atualizações**
 
@@ -1082,25 +1081,25 @@ Emails de **[!UICONTROL Resumo diário] são enviados mesmo quando desativados**
 
 _Notificações de email_
 
-Alguns usuários estão recebendo notificações por email de [!UICONTROL Resumo diário] quando elas não estão ativadas nas configurações do usuário.
+Alguns usuários estão recebendo notificações por email de [!UICONTROL Resumo diário] quando elas não estão habilitadas nas configurações do usuário.
 
 **Erro O objeto não existe mais**
 
 _Objetos_
 
-Quando um usuário na nova experiência do [!DNL Workfront] tenta abrir determinados objetos, é exibida a mensagem de erro “[!UICONTROL O (objeto) não existe mais: você pode ter digitado incorretamente o endereço da Web. Verifique novamente e tente inserir o endereço novamente.]” O link do objeto ainda aparece em listas, recentes, favoritos, resultados de pesquisa etc., mas não é possível acessá-lo e ele não aparece na Lixeira com objetos excluídos.
+Quando um usuário na nova experiência do [!DNL Workfront] tenta abrir determinados objetos, é exibida a mensagem de erro “[!UICONTROL O (objeto) não existe mais: você pode ter digitado incorretamente o endereço da Web. Verifique e tente inserir o endereço novamente.]” O link do objeto ainda aparece em listas, recentes, favoritos, resultados de pesquisa etc., mas não é possível acessá-lo e ele não aparece na Lixeira com objetos excluídos.
 
 
 
 +++
 
-+++**Atualização de manutenção em 20 de maio de 2021**
++++**Atualização de manutenção em sexta-feira, 20 de maio de 2021**
 
 **Opções de prova ausentes**
 
 _Provas_
 
-Quando um usuário carrega outra versão de uma prova no [!DNL Workfront], os links [!UICONTROL Abrir prova] e [!UICONTROL Fluxo de trabalho de prova] não são exibidos, fazendo parecer que é um documento em vez de uma prova. Quando esses links estiverem ausentes, o rótulo [!UICONTROL Pendente] também é exibido e outros usuários não podem gerar a prova enquanto ela estiver nesse status [!UICONTROL Pendente].
+Quando um usuário carrega outra versão de uma revisão no [!DNL Workfront], os links [!UICONTROL Abrir revisão] e [!UICONTROL Fluxo de trabalho de revisão] não são exibidos, fazendo parecer que é um documento em vez de uma revisão. Quando esses links estiverem ausentes, o rótulo [!UICONTROL Pendente] também é exibido e outros usuários não podem gerar a prova enquanto ela estiver nesse status [!UICONTROL Pendente].
 
 **Usuários que não recebem entregas programadas de relatórios**
 
@@ -1150,7 +1149,7 @@ Anteriormente, os valores do armazenamento de dados de 0 eram exibidos como vazi
 
 +++
 
-+++**Atualização de manutenção em 13 de maio de 2021**
++++**Atualização de manutenção em sexta-feira, 13 de maio de 2021**
 
 **O calendário suspenso é exibido atrás do cabeçalho [!UICONTROL Trabalho não atribuído]**
 
@@ -1197,7 +1196,7 @@ Quando um usuário está atualizando um campo de rich text com a integração do
 
 +++
 
-+++**Atualização de manutenção em 6 de maio de 2021**
++++**Atualização de manutenção em sexta-feira, 6 de maio de 2021**
 
 O campo **[!UICONTROL Moeda] não funciona conforme esperado**
 
@@ -1206,7 +1205,7 @@ _Listas_
 Quando um usuário tenta editar em linha o campo Moeda, não é possível salvar as alterações devido aos seguintes problemas:
 
 * Listas de tarefas e ocorrências não permitem a entrada de símbolos de moeda
-* As listas não permitem a entrada de abreviações de moeda ao usar um idioma diferente de inglês
+* As listas não permitem a entrada de abreviações de moeda ao usar localidade diferente do inglês
 * Listas de subtarefas e problemas permitem somente a abreviação da moeda USD, independentemente da moeda definida para o projeto
 
 **Nome não atualizado para corresponder ao novo nome de prova**
@@ -1244,7 +1243,7 @@ Quando um usuário clica em um objeto na [!UICONTROL Lista de trabalho da págin
 
 ## Atualizações em abril de 2021
 
-+++**Atualização de manutenção em 29 de abril de 2021**
++++**Atualização de manutenção em sexta-feira, 29 de abril de 2021**
 
 A integração do **[!DNL SharePoint] é autenticada usando credenciais de uma integração separada**
 
@@ -1266,7 +1265,7 @@ Quando um usuário com um navegador do [!DNL Internet Explorer] navega até a á
 
 +++
 
-+++**Atualização de manutenção em 22 de abril de 2021**
++++**Atualização de manutenção em sexta-feira, 22 de abril de 2021**
 
 **Tarefas adicionadas na ordem errada**
 
@@ -1291,7 +1290,7 @@ Quando um usuário tenta executar um cenário, ele não é executado e o usuári
 
 +++
 
-+++**Atualização de manutenção em 15 de abril de 2021**
++++**Atualização de manutenção em sexta-feira, 15 de abril de 2021**
 
 O **[!UICONTROL Balanceador de carga de trabalho] exibe horas planejadas incorretas**
 
@@ -1313,7 +1312,7 @@ Para obter uma melhor experiência ao preencher um formulário personalizado, me
 
 +++
 
-+++**Atualização de manutenção em 8 de abril de 2021**
++++**Atualização de manutenção em sexta-feira, 8 de abril de 2021**
 
 **Não é possível criar provas a integração do [!DNL Adobe Creative Cloud]**
 
@@ -1323,7 +1322,7 @@ Quando um usuário tenta criar uma prova diretamente do [!DNL Adobe Creative Clo
 
 +++
 
-+++**Atualização de manutenção em 1 de abril de 2021**
++++**Atualização de manutenção em sexta-feira, 1 de abril de 2021**
 
 **Problemas ao visualizar o painel de resumo no [!DNL Chrome]**
 
@@ -1350,7 +1349,7 @@ Um projeto com status “[!DNL Pending Approval]”não pode ser editado. Você 
 
 ## Atualizações em março de 2021
 
-+++**Atualização de manutenção em 26 de março de 2021**
++++**Atualização de manutenção em sábado, 26 de março de 2021**
 
 **Os botões em um business case são exibidos incorretamente**
 
@@ -1386,7 +1385,7 @@ Quando um usuário tenta criar uma prova, ela não é criada e o usuário vê a 
 
 _[!DNL Workfront Fusion]2.0_
 
-Quando um usuário usa um termo da API do [!DNL Workfront] para selecionar uma coleção ou um campo de referência que será incluído na saída de um módulo do [!DNL Workfront], a saída desse módulo mostra esse campo com dois pontos (como [!UICONTROL proprietário:nome]) e também nos atributos (o nome é um campo sob o proprietário). O campo rotulado com dois pontos não contém dados e fornece dados incorretos se mapeados para um módulo posteriormente no cenário.
+Quando um usuário usa um termo da API [!DNL Workfront] para selecionar uma coleção ou um campo de referência a ser incluído na saída de um módulo [!DNL Workfront], a saída desse módulo mostra esse campo com dois pontos (como [!UICONTROL proprietário:name]) e também nos atributos (o nome é um campo sob o proprietário). O campo rotulado com dois pontos não contém dados e fornece dados incorretos se mapeados para um módulo posteriormente no cenário.
 
 +++
 
@@ -1400,7 +1399,7 @@ Ao criar um projeto a partir de um modelo usando o [!DNL Workfront Fusion] 2.0, 
 
 +++
 
-+++**Atualização de manutenção em 18 de março de 2021**
++++**Atualização de manutenção em sexta-feira, 18 de março de 2021**
 
 **As configurações do modelo de projeto agora se aplicam aos projetos criados por meio da API**
 
@@ -1410,7 +1409,7 @@ Ao criar um projeto a partir de um modelo usando a API do [!DNL Workfront], as c
 
 +++
 
-+++**Atualização de manutenção (hotfix) em 15 de março de 2021**
++++**Atualização de manutenção (hotfix) em terça-feira, 15 de março de 2021**
 
 **O componente compartilhado não está funcionando como esperado**
 
@@ -1421,11 +1420,11 @@ Se as contas independentes do [!DNL Workfront Proof] são movidas para um compon
 * O usuário não pode excluir o usuário [!UICONTROL Studio Proof].
 * A mensagem padrão não é exibida na nova versão.
 
-**Compartilhamento de link público não ativado na nova versão de uma prova**
+**Compartilhamento de link público não habilitado na nova versão de uma prova**
 
 _Documentos_
 
-Quando um usuário ativa o compartilhamento de link público em uma prova e, em seguida, carrega uma nova versão da prova, o compartilhamento de link público não é ativado automaticamente na nova versão da prova.
+Quando um usuário habilita o compartilhamento de link público em uma prova e, em seguida, carrega uma nova versão da prova, o compartilhamento de link público não é habilitado automaticamente na nova versão da prova.
 
 Os botões **[!UICONTROL Aprovar], [!UICONTROL Alterações], [!UICONTROL Rejeitar] não aparecem na prova**
 
@@ -1471,7 +1470,7 @@ Quando um usuário clica em um link compartilhado para baixar um documento, ele 
 
 +++
 
-+++**Atualização de manutenção em 11 de março de 2021**
++++**Atualização de manutenção em sexta-feira, 11 de março de 2021**
 
 **A seção de formulário personalizado não exporta para não administradores**
 
@@ -1487,7 +1486,7 @@ Quando um usuário baixa um documento do [!UICONTROL Visualizador de prova], o d
 
 +++
 
-+++**Atualização de manutenção em 4 de março de 2021**
++++**Atualização de manutenção em sexta-feira, 4 de março de 2021**
 
 **Erro ao acessar modelo de layout**
 
@@ -1535,23 +1534,22 @@ Reduzimos o número de atualizações de usuários exibidas na guia [!UICONTROL 
 
 +++
 
-+++**Atualização de manutenção (hotfix) em 1 de março de 2021**
++++**Atualização de manutenção (hotfix) em terça-feira, 1 de março de 2021**
 
 **Novos emails de prova não estão sendo enviados**
 
 _[!DNL Workfront Proof]_
 
-OBSERVAÇÃO: esse problema foi corrigido na nova experiência do [!DNL Workfront] em 26 de fevereiro de 2021.
-Problema corrigido na experiência do [!DNL Classic] em 1 de março de 2021.
+OBSERVAÇÃO: esse problema foi corrigido na nova experiência do [!DNL Workfront] em 26 de fevereiro de 2021.Problema corrigido na experiência do [!DNL Classic] em 1 de março de 2021.
 
-Quando um usuário cria uma nova prova e ativa a opção [!UICONTROL Notificar recipients sobre esta prova], nenhum email é enviado para notificar o recipient.
+Quando um usuário cria uma nova prova e habilita a opção [!UICONTROL Notificar recipients sobre esta prova], nenhum email é enviado para notificar o recipient.
 
 +++
 
 
 ## Atualizações em fevereiro de 2021
 
-+++**Atualização de manutenção em 25 de fevereiro de 2021**
++++**Atualização de manutenção em sexta-feira, 25 de fevereiro de 2021**
 
 A ferramenta **[!UICONTROL Cronograma] não será carregada em nenhuma área**
 
@@ -1591,7 +1589,7 @@ Quando um usuário na nova experiência do [!DNL Workfront] exclui um formulári
 
 +++
 
-+++**Atualização de manutenção em 18 de fevereiro de 2021**
++++**Atualização de manutenção em sexta-feira, 18 de fevereiro de 2021**
 
 **Remoção desnecessária da caixa de seleção da área [!UICONTROL Solicitações]**
 
@@ -1603,11 +1601,11 @@ Removemos a caixa de seleção à esquerda dos nomes das solicitações na lista
 
 _Documentos_
 
-Quando um usuário na nova experiência do [!DNL Workfront] clica em alguns links de documento, não é possível acessar o documento e é exibida a mensagem de erro “[!UICONTROL O documento não existe mais: você pode ter digitado incorretamente o endereço da Web. Verifique novamente e tente inserir o endereço novamente.]” Esse mesmo erro ocorre com o link [!UICONTROL Exibir detalhes] nas notificações por email de prova.
+Quando um usuário na nova experiência do [!DNL Workfront] clica em alguns links de documento, não é possível acessar o documento e é exibida a mensagem de erro “[!UICONTROL O documento não existe mais: você pode ter digitado incorretamente o endereço da Web. Verifique e tente inserir o endereço novamente.]” Esse mesmo erro ocorre com o link [!UICONTROL Exibir detalhes] nas notificações por email de prova.
 
 +++
 
-+++**Atualização de manutenção do Workfront Fusion em 16 de fevereiro de 2021**
++++**Atualização de manutenção do Workfront Fusion em quarta-feira, 16 de fevereiro de 2021**
 
 O **[!DNL Workfront Fusion] 2.0 mostra fusos horários imprecisos**
 
@@ -1617,7 +1615,7 @@ Esta atualização corrigiu um problema em que o [!DNL Fusion] 2.0 exibia fusos 
 
 +++
 
-+++**Atualização de manutenção em 11 de fevereiro de 2021**
++++**Atualização de manutenção em sexta-feira, 11 de fevereiro de 2021**
 
 **As provas não estão sendo carregadas na pasta selecionada**
 
@@ -1639,7 +1637,7 @@ Quando um usuário tenta editar um campo Rich Text em linha, ele só consegue di
 
 +++
 
-+++**Atualização de manutenção em 4 de fevereiro de 2021**
++++**Atualização de manutenção em sexta-feira, 4 de fevereiro de 2021**
 
 **Relatórios exportados exibem a marca do [!DNL Workfront Classic]**
 
@@ -1652,7 +1650,7 @@ Quando um usuário na nova experiência do Workfront exporta um relatório, o lo
 
 ## Atualizações em janeiro de 2021
 
-+++**Atualização de manutenção em 28 de janeiro de 2021**
++++**Atualização de manutenção em sexta-feira, 28 de janeiro de 2021**
 
 **Os comentários não exibem “[!UICONTROL em nome de]”**
 
@@ -1698,7 +1696,7 @@ Quando um usuário acessa a área [!UICONTROL Folhas de horas], somente a folha 
 
 +++
 
-+++**Atualização de manutenção em 21 de janeiro de 2021**
++++**Atualização de manutenção em sexta-feira, 21 de janeiro de 2021**
 
 **A classificação manual por coluna exibe todos os resultados**
 
@@ -1720,7 +1718,7 @@ Quando um usuário tenta colar o texto em determinados campos no visualizador de
 
 +++
 
-+++**Atualização de manutenção em 14 de janeiro de 2021**
++++**Atualização de manutenção em sexta-feira, 14 de janeiro de 2021**
 
 **Não é possível atualizar as configurações de Notificações por email**
 
@@ -1742,7 +1740,7 @@ Quando um usuário na nova experiência do [!DNL Workfront] tenta enviar um docu
 
 +++
 
-+++**Atualização de manutenção em 7 de janeiro de 2021**
++++**Atualização de manutenção em sexta-feira, 7 de janeiro de 2021**
 
 **A caixa de diálogo Delegar aprovações se fecha**
 
