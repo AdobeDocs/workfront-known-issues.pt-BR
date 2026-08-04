@@ -4,9 +4,9 @@ description: Atualizações de manutenção do [!DNL Adobe Workfront]
 exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
 feature: Get Started with Workfront
 source-git-commit: 003a38b5009e80e1b65c23354c8fb9b38d6a7819
-workflow-type: ht
-source-wordcount: '16793'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '17047'
+ht-degree: 98%
 
 ---
 
@@ -16,7 +16,7 @@ As seguintes atualizações de manutenção foram efetuadas em 2022.
 
 >[!NOTE]
 >
->Essas atualizações também incluem outras correções de erros menores ou menos importantes. O suporte do [!DNL Workfront]enviará uma notificação quando um problema enviado for corrigido.
+>Essas atualizações também incluem outras correções de erros menores ou menos importantes. [!DNL Workfront] O suporte do enviará uma notificação quando um problema enviado for corrigido.
 
 <!--
 * [July 2022](#updates-in-july-2022)
@@ -71,7 +71,7 @@ Adicionamos dicas de ferramentas para explicar o motivo pelo qual uma célula de
 
 Quando um usuário cria uma folha de horas e tenta atribuir um aprovador, a lista suspensa inclui usuários desativados. Se um usuário desativado for selecionado, a folha de horas não será salva e o usuário verá a seguinte mensagem:
 
-“[!UICONTROL Erro. Desculpe, somente usuários com licença de Plano podem aprovar ou rejeitar folhas de horas. Entre em contato com o administrador do sistema.]”
+“[!UICONTROL Erro. Desculpe! Somente usuários com licença de Plano podem aprovar ou rejeitar folhas de horas. Entre em contato com o administrador do sistema.]”
 
 Como o usuário desativado não pode ser atribuído, o usuário deve selecionar um usuário ativado. Portanto, a folha de horas funciona conforme o esperado, mas os usuários desativados na lista podem causar confusão ou inconveniência para o usuário.
 
@@ -189,7 +189,7 @@ Quando um usuário está compartilhando uma prova e tenta adicionar uma mensagem
 
 Quando um usuário cria uma folha de horas e tenta atribuir um aprovador, a lista suspensa inclui usuários desativados. Se um usuário desativado for selecionado, a folha de horas não será salva e o usuário verá a seguinte mensagem:
 
-“[!UICONTROL Erro. Desculpe, somente usuários com licença de Plano podem aprovar ou rejeitar folhas de horas. Entre em contato com o administrador do sistema.]”
+“[!UICONTROL Erro. Desculpe! Somente usuários com licença de Plano podem aprovar ou rejeitar folhas de horas. Entre em contato com o administrador do sistema.]”
 
 Como o usuário desativado não pode ser atribuído, o usuário deve selecionar um usuário ativado. Portanto, a folha de horas funciona conforme o esperado, mas os usuários desativados na lista podem causar confusão ou inconveniência para o usuário.
 
@@ -1084,7 +1084,7 @@ Agora, a criação de perfis de endereços de email não contém mais um subdom�
 Como resultado, recomendamos que você execute as seguintes ações caso ainda não tenha feito:
 
 * Atualize os seus filtros de spam para aceitar emails de `notification@my.workfront.com`
-* Atualize as suas listas de permissões para aceitar emails de `notification@my.workfront.com`
+* Atualize suas incluis na lista de permissões para aceitar emails de `notification@my.workfront.com`
   **As opções de usuário não podem ser modificadas após a configuração inicial em Modelos de fluxo de trabalho**
 
 *[!DNL Workfront Proof]*
@@ -1335,7 +1335,8 @@ Quando um usuário tenta editar as [!UICONTROL Condições] na área [!UICONTROL
 >
 >Essa atualização se aplica somente ao ambiente de Pré-visualização.
 
-Para melhorar o desempenho da área Atualizações, introduzimos um novo limite para o número de caracteres que podem ser inseridos em uma atualização ou em uma resposta a uma atualização existente. O novo limite é de 15.000 caracteres. Essa atualização não alterou o número de caracteres permitidos ao usar a API. O limite de caracteres da API para atualizações é 4.000. Atualizações Suporte para campos personalizados do tipo digitação antecipada em filtros do Balanceador de carga de trabalho
+Para melhorar o desempenho da área Atualizações, introduzimos um novo limite para o número de caracteres que podem ser inseridos em uma atualização ou em uma resposta a uma atualização existente. O novo limite é de 15.000 caracteres. Essa atualização não alterou o número de caracteres permitidos ao usar a API. O limite de caracteres da API para atualizações é 4.000. Atualizações
+Suporte para campos personalizados do tipo digitação antecipada em filtros do Balanceador de carga de trabalho
 
 Agora oferecemos suporte a filtros com base nos campos personalizados do tipo [!UICONTROL Digitação antecipada] no Balanceador de carga de trabalho. Antes deste patch, a filtragem desse tipo de campo personalizado não era possível no Balanceador de carga de trabalho.
 
@@ -1376,7 +1377,8 @@ Ao tentar editar um formulário personalizado com uma quebra de seção, o usuá
 
 *Painéis*
 
-Os seguintes problemas foram relatados ao imprimir um painel em um PDF: O PDF não imprime todas as linhas no relatório. Quando as linhas não aparecerem, somente será exibido um espaço em branco.
+Os seguintes problemas foram relatados ao imprimir um painel em um PDF:
+O PDF não imprime todas as linhas no relatório. Quando as linhas não aparecerem, somente será exibido um espaço em branco.
 O PDF inclui espaços em branco entre os cabeçalhos da coluna e a primeira linha do relatório.
 
 O **[!DNL Portfolio Optimizer]mostra uma pontuação de 0 ao usar um idioma diferente do inglês**
@@ -1861,7 +1863,8 @@ Quando o perfil de um usuário é definido com um fuso horário específico no [
 
 *Projetos*
 
-Ao anexar um modelo com campos personalizados obrigatórios a um projeto em que o campo já existe e está preenchido, os usuários veem o seguinte erro: “[!UICONTROL Há campos incompletos. Insira valores para os campos obrigatórios antes de continuar.]” Clicar em “[!UICONTROL Leve-me lá]” permite que os usuários vejam que os campos estão preenchidos e podem anexar o modelo com êxito.
+Ao anexar um modelo com campos personalizados obrigatórios a um projeto em que o campo já existe e está preenchido, os usuários veem o seguinte erro: “[!UICONTROL Há campos incompletos. Insira valores para os campos obrigatórios antes de continuar.]&quot;
+Clicar em &quot;[!UICONTROL Leve-me lá]&quot; permite que os usuários vejam que os campos estão preenchidos e podem anexar o modelo com êxito.
 
 **O [!UICONTROL Balanceador de carga de trabalho] pisca ao alternar entre datas**
 
@@ -2031,7 +2034,8 @@ Alterar o status de um projeto, tarefa ou problema e começar imediatamente a di
 
 Quando um usuário adiciona outro usuário a uma prova, a função dele na prova é definida como “[!UICONTROL Somente leitura]” apesar da função de prova real do usuário.
 
-Solução alternativa: Defina a função de prova do usuário em seu perfil para algo diferente e redefina para a função correta.
+Solução alternativa:
+Defina a função de prova do usuário em seu perfil para algo diferente e redefina para a função correta.
 
 **O formulário personalizado não carrega ao converter o problema em um projeto usando o modelo**
 
@@ -2170,11 +2174,11 @@ Quando um usuário preenche um formulário personalizado como parte da conversã
 
 “[!UICONTROL Você precisa ser um administrador do sistema para mudar este valor do parâmetro de um dado personalizado]”
 
-O campo **“[!UICONTROL Este processo de aprovação pode ser usado por...]” não é exibido**
+**&quot;[!UICONTROL Este processo de aprovação pode ser usado por...]&quot; campo ausente**
 
 *Aprovações*
 
-Quando um usuário cria ou edita um processo de aprovação na área [!UICONTROL Configuração], o campo “[!UICONTROL Este processo de aprovação pode ser usado por..]” não é exibido. Isso pode ocorrer ao criar um processo de aprovação ou ao editar um existente.
+Quando um usuário cria ou edita um processo de aprovação na área [!UICONTROL Configuração], o processo &quot;[!UICONTROL Este processo de aprovação pode ser usado por...]&quot; campo ausente. Isso pode ocorrer ao criar um processo de aprovação ou ao editar um existente.
 
 **O administrador do sistema não pode reatribuir usuários ao excluir um grupo**
 
@@ -2260,9 +2264,9 @@ Quando um usuário visualiza um relatório em um painel, ele vê que o ícone de
 
 *Documentos*
 
-Ao selecionar um documento ou uma prova em uma lista de documentos do [!DNL Workfront Classic] e clicar em “[!UICONTROL Mais]”, o usuário pode observar um dos seguintes problemas:
-O botão não responde. 
-Todas as opções no botão são rotuladas como “[!UICONTROL objeto Objeto]” e não podem ser usadas.
+Quando um usuário seleciona um documento ou uma prova em uma lista de documentos do [!DNL Workfront Classic] e clica em &quot;[!UICONTROL Mais]&quot;, ele pode ter um dos seguintes problemas:
+O botão não responde
+Todas as opções no botão são rotuladas como &quot;[!UICONTROL objeto Objeto]&quot; e não podem ser usadas.
 
 Erro **“Você deve ser um administrador do sistema” para criar um projeto**
 
@@ -2488,11 +2492,11 @@ Quando um usuário tenta anexar um formulário personalizado ou um modelo a um p
 
 Quando um usuário visualiza uma prova na área [!UICONTROL Documentos], os comentários feitos na prova em si não serão exibidos na área [!UICONTROL Atualizações] do documento.
 
-**[!UICONTROL Balanceador de carga de trabalho]: “[!UICONTROL ?[objeto Objeto]?]” é exibido nas informações de superalocação**
+**[!UICONTROL Balanceador de Carga de Trabalho]: &quot;[!UICONTROL ?[objeto Objeto]?]&quot; exibições em informações de superalocação**
 
 *[!UICONTROL Balanceador de carga de trabalho]*
 
-Se um usuário estiver superalocado no [!UICONTROL Balanceador de carga de trabalho] devido a uma sobreposição de tarefa com o tempo limite do usuário e outro usuário visualizar a superalocação, a área “[!UICONTROL Capacidade]” das informações de superalocação exibe “[!UICONTROL ?[objeto Objeto]?]” em vez da capacidade real do usuário.
+Se um usuário estiver superalocado no [!UICONTROL Balanceador de Carga de Trabalho] devido a uma sobreposição de tarefa com o tempo limite do usuário e outro usuário visualizar a superalocação, a área de &quot;[!UICONTROL Capacidade]&quot; das informações de superalocação exibirá &quot;[!UICONTROL ?[objeto Objeto]?]&quot; em vez da capacidade real do usuário.
 
 +++
 
