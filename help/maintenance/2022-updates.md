@@ -1259,7 +1259,7 @@ Quando um usuário tenta abrir a área [!UICONTROL Solicitações de trabalho] e
 
 +++
 
-+++** Atualização de manutenção em 9 de junho de 2022**
++++**&#x200B; Atualização de manutenção em 9 de junho de 2022**
 
 **Não é possível selecionar objetos para filtrar nas preferências do [!UICONTROL Otimizador de portfólios]**
 
