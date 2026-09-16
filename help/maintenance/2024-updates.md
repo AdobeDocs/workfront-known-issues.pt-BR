@@ -1348,7 +1348,7 @@ Quando uma pessoa visualiza os status de problemas na Configuração, ela verá 
 
 #### Equipes
 
-**Problemas ao definir status de equipe para o botão [!UICONTROL Concluído] **
+**Problemas ao definir status de equipe para o botão [!UICONTROL Concluído] &#x200B;**
 
 Os seguintes problemas foram relatados em relação aos status do botão [!UICONTROL Concluído] ao editar ou criar uma equipe:
 
