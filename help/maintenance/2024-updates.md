@@ -3,13 +3,12 @@ title: Atualizações de manutenção do Workfront em 2024
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 feature: Get Started with Workfront
 exl-id: 8a8ade95-d940-4773-8032-724bc2d8301e
-source-git-commit: abb417f3b19f2c8a5ef27a2318f4fde55fadc99d
-workflow-type: ht
-source-wordcount: '7353'
-ht-degree: 100%
-
+recommendations: noDisplay, noCatalog
+source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
+workflow-type: tm+mt
+source-wordcount: '7587'
+ht-degree: 99%
 ---
-
 # Atualizações de manutenção do [!DNL Workfront]
 
 >[!NOTE]
@@ -18,7 +17,7 @@ ht-degree: 100%
 
 Esta página descreve os problemas corrigidos nas atualizações semanais do Workfront.
 
-Essas atualizações também incluem outras correções de erros menores ou menos importantes. O suporte do [!DNL Workfront] enviará uma notificação quando um problema enviado por você for corrigido.
+Essas atualizações também incluem outras correções de erros menores ou menos importantes. [!DNL Workfront] O suporte do enviará uma notificação quando um problema enviado for corrigido.
 
 Para obter atualizações de manutenção anteriores a 2024, consulte [Atualizações de manutenção anteriores](#previous-maintenance-updates)
 
@@ -770,7 +769,7 @@ Esse problema foi relatado com o navegador Chrome.
 
 **Pessoas marcadas não conseguem ver quem as marcou**
 
-Quando alguém recebe uma marcação em uma atualização, a pessoa não consegue ver quem a marcou. Isso ocorre quando a configuração “As pessoas em outras empresas devem ver somente os usuários de...” está definida como “A empresa deles”.
+Quando alguém recebe uma marcação em uma atualização, a pessoa não consegue ver quem a marcou. Isso ocorre quando a configuração &quot;As pessoas em outras empresas só devem visualizar os usuários de...&quot; está definido como &quot;Sua empresa&quot;.
 
 **A ação de marcar alguém com @ no painel Resumo não funciona**
 
@@ -800,7 +799,7 @@ Quando uma pessoa tenta excluir usuários, eles não são excluídos. Esse probl
 
 ### Atualização de manutenção em 9 de maio de 2024
 
-Esta atualização contém apenas correções de erros pequenos ou menos importantes. O suporte do [!DNL Workfront] enviará uma notificação quando um problema enviado por você for corrigido.
+Esta atualização inclui apenas correções de erros menores ou menos importantes. [!DNL Workfront] O suporte do enviará uma notificação quando um problema enviado for corrigido.
 
 +++
 

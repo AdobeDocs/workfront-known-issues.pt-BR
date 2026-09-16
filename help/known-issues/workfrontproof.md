@@ -1,16 +1,15 @@
 ---
-title: Problemas conhecidos no  [!DNL Adobe Workfront Proof]
-description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Proof]
+title: Problemas conhecidos no [!DNL Adobe Workfront Proof]
+description: Problemas conhecidos relatados para [!DNL Adobe Workfront Proof]
 keywords: novo arquivo, adicionar arquivo
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 1cb1156af6f75045d7a62ae671b2241839726eae
+recommendations: noDisplay, noCatalog
+source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
 workflow-type: tm+mt
-source-wordcount: '445'
-ht-degree: 90%
-
+source-wordcount: '518'
+ht-degree: 88%
 ---
-
 # Problemas conhecidos no [!DNL Adobe Workfront Proof]
 
 Esta página contém problemas identificados atualmente no [!DNL Adobe Workfront Proof].
@@ -25,8 +24,8 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Aprovações: o widget Minhas aprovações exibe provas que não estão no estágio ao qual o usuário está atribuído](known-issues-workfront/wf-approvals-widget-showing-stage-not-started.md) | quinta-feira, 18 de fevereiro de 2026 |
-| [Aprovações: as aprovações são bloqueadas automaticamente](known-issues-workfront/wf-approvals-are-locked.md) | quarta-feira, 17 de fevereiro de 2026 |
+| [Aprovações: o widget Minhas aprovações exibe provas que não estão no estágio ao qual o usuário está atribuído](known-issues-workfront/wf-approvals-widget-showing-stage-not-started.md) | 18 de fevereiro de 2026 |
+| [Aprovações: as aprovações são bloqueadas automaticamente](known-issues-workfront/wf-approvals-are-locked.md) | 17 de fevereiro de 2026 |
 | [Provas: não é possível marcar determinados usuários](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 de fevereiro de 2025 |
 | [Integrações: vincular a pasta do  [!DNL Google Drive]  não vincula seus ativos](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | quarta-feira, 25 de junho de 2024 |
 
@@ -38,8 +37,8 @@ As correções para esses problemas estão em andamento ou estão programadas pa
 
 | **Problema** | **Última modificação** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Página inicial: as menções de provas não aparecem no widget de Menções](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md) | quarta-feira, 17 de fevereiro de 2026 |
-| [Aprovações: não é possível aprovar o documento pelo widget Minhas aprovações na Página inicial](known-issues-workfront/wf-approval-not-work-from-widget.md) | quarta-feira, 17 de fevereiro de 2026 |
+| [Página inicial: as menções de provas não aparecem no widget de Menções](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md) | 17 de fevereiro de 2026 |
+| [Aprovações: não é possível aprovar o documento pelo widget Minhas aprovações na Página inicial](known-issues-workfront/wf-approval-not-work-from-widget.md) | 17 de fevereiro de 2026 |
 | [Aprovações: o widget “Minhas aprovações” mostra aprovações concluídas](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | sexta-feira, 15 de janeiro de 2026 |
 | [Documentos: as miniaturas de documentos não são exibidas](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 17 de abril de 2025 |
 | [Notificações: as miniaturas não ficam visíveis nas notificações por email](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | terça-feira, 8 de julho de 2024 |

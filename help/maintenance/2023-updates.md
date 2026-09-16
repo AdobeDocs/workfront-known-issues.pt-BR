@@ -3,13 +3,12 @@ title: Atualizações de manutenção do Workfront em 2023
 description: Atualizações de manutenção do [!DNL Adobe Workfront]
 feature: Get Started with Workfront
 exl-id: 87d54104-38b7-4950-ab21-6524a14f7f2a
-source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+recommendations: noDisplay, noCatalog
+source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
 workflow-type: tm+mt
 source-wordcount: '7893'
 ht-degree: 98%
-
 ---
-
 # [!DNL Workfront] Atualizações de manutenção em 2023
 
 As seguintes atualizações de manutenção foram efetuadas em 2023.
@@ -101,7 +100,7 @@ Foi relatado que isso ocorre quando uma pessoa seleciona uma área na navegaçã
 
 +++**Atualização de manutenção em sexta-feira, 30 de novembro de 2023**
 
-**As tarefas não aparecem no dispositivo [!UICONTROL Meu trabalho] &#x200B;**
+**As tarefas não aparecem no dispositivo [!UICONTROL Meu trabalho] **
 
 _[!UICONTROL Página inicial]_
 
@@ -169,7 +168,7 @@ Quando um usuário tenta gerar uma prova, ela não é criada e o usuário vê o 
 
 “[!UICONTROL Erro ao gerar a prova]”
 
-Isso ocorre quando é desabilitada a configuração de nível de acesso do usuário[!UICONTROL &#x200B; Exibir informações de contato].
+Isso ocorre quando é desabilitada a configuração de nível de acesso do usuário[!UICONTROL  Exibir informações de contato].
 
 **Campos são apagados quando um documento é adicionado a uma solicitação**
 
