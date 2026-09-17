@@ -1,16 +1,15 @@
 ---
-title: Problemas conhecidos no  [!DNL Adobe Workfront Planning]
-description: Problemas conhecidos relatados do  [!DNL Adobe Workfront Planning]
+title: Problemas conhecidos no [!DNL Adobe Workfront Planning]
+description: Problemas conhecidos relatados para [!DNL Adobe Workfront Planning]
 keywords: novo arquivo, adicionar arquivo
 feature: Workfront Planning
 exl-id: 8827b3cd-c19a-4322-ac0d-6c54c9e1fd29
-source-git-commit: 1cb1156af6f75045d7a62ae671b2241839726eae
+recommendations: noDisplay, noCatalog
+source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 87%
-
+source-wordcount: '159'
+ht-degree: 81%
 ---
-
 # Problemas conhecidos no [!DNL Adobe Workfront Planning]
 
 Esta página contém problemas identificados atualmente no [!DNL Adobe Workfront Planning].
@@ -25,8 +24,8 @@ Estes problemas recentemente relatados estão atualmente em análise.
 
 | **Problema** | **Última modificação** |
 | --- | --- |
-| [Workfront Planning: o status da solicitação é exibido como &quot;Em Andamento&quot; após a aprovação da solicitação](/help/known-issues/known-issues-workfront/wf-planning-requests-remain-in-progress.md) | quarta-feira, 24 de fevereiro de 2026 |
-| [Workfront Planning: erro &quot;Falha ao enviar solicitação&quot;](/help/known-issues/known-issues-workfront/wf-planning-error-fail-to-submit-request.md) | quarta-feira, 17 de fevereiro de 2026 |
+| [Workfront Planning: o status da solicitação é exibido como &quot;Em Andamento&quot; após a aprovação da solicitação](/help/known-issues/known-issues-workfront/wf-planning-requests-remain-in-progress.md) | 24 de fevereiro de 2026 |
+| [Workfront Planning: erro &quot;Falha ao enviar solicitação&quot;](/help/known-issues/known-issues-workfront/wf-planning-error-fail-to-submit-request.md) | 17 de fevereiro de 2026 |
 
 {style="table-layout:auto"}
 
