@@ -3,13 +3,20 @@ title: 'Prioridades: os agrupamentos impedem a ordenação e a edição em linha
 description: Se houver agrupamentos aplicados à lista de trabalho de “Prioridades”, ela não poderá ser classificada, e a edição em linha não funcionará para os campos da lista de trabalho.
 feature: Get Started with Workfront
 exl-id: 9b36df42-30ea-47d2-b791-114d59429480
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: c042179c-157b-516d-b27c-e3bf303e8567
+    internal-label: Get Started with Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 100%
-
 ---
-
 # Prioridades: os agrupamentos impedem a ordenação e a edição em linha
 
 >[!NOTE]
